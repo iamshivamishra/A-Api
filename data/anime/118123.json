@@ -1,0 +1,6442 @@
+{
+  "anilistId": 118123,
+  "malId": 44042,
+  "route": "holo-no-graffiti",
+  "titles": {
+    "romaji": "Holo no Graffiti",
+    "english": "Holo Graffiti",
+    "native": "ホロのぐらふぃてぃ"
+  },
+  "anilist": {
+    "id": 118123,
+    "idMal": 44042,
+    "title": {
+      "romaji": "Holo no Graffiti",
+      "english": null,
+      "native": "ホロのぐらふぃてぃ"
+    },
+    "synonyms": [
+      "Hologra 3D Short Animation",
+      "Hologra",
+      "ホロぐら",
+      "Hololive",
+      "הולולייב"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118123-xqn5fYsjKXJU.png",
+      "color": "#e4ae5d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
+    "description": "From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! <i>Holo no Graffiti</i> follows an eccentric cast of Virtual YouTubers, also known as \"VTubers,\" going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.\n<br><br>\n(Source: MAL Rewrite)",
+    "format": "ONA",
+    "status": "RELEASING",
+    "episodes": null,
+    "duration": 2,
+    "season": "SPRING",
+    "seasonYear": 2019,
+    "startDate": {
+      "year": 2019,
+      "month": 5,
+      "day": 5
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageScore": 78,
+    "meanScore": 79,
+    "popularity": 14725,
+    "favourites": 581,
+    "source": "OTHER",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 385,
+      "airingAt": 1790499600,
+      "timeUntilAiring": 346227
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Cover Corp"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq"
+      }
+    ],
+    "trailer": null
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Spring 2019",
+      "year": "2019",
+      "season": "Spring",
+      "route": "spring-2019"
+    },
+    "genres": [
+      "Comedy",
+      "Parody"
+    ],
+    "studios": [
+      "Cover Corp"
+    ],
+    "mediaTypes": [
+      "ONA"
+    ],
+    "lengthMin": 2,
+    "description": "From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! Holo no Graffiti follows an eccentric cast of Virtual YouTubers, also known as &#34;VTubers,&#34; going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.<br><br>(Source: MAL Rewrite)",
+    "streams": [
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLb7AOG3cj7UyJfqsfXpvL2LUVdg0dOK7q",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2021-10-02T09:01:00Z",
+    "dubTime": "2022-04-14T09:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 377,
+    "latestEpisode": {
+      "number": 384,
+      "airedAt": null
+    },
+    "nextRelease": {
+      "episode": 385,
+      "at": "2026-09-27T09:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 09:01 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 377,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Thursday 09:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Apex",
+      "titles": {
+        "ja": "APEX",
+        "en": "Apex",
+        "x-jat": "Apex"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-05-05",
+      "runtime": 1,
+      "rating": "4.12",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "When Virtual-Reality Craves for Fame",
+      "titles": {
+        "ja": "女子高生, 内閣官房長官になる.",
+        "en": "When Virtual-Reality Craves for Fame",
+        "x-jat": "Joshi Kousei, Naikakukanbou Choukan ni Naru."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-05-12",
+      "runtime": 2,
+      "rating": "4.97",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Last Time, on Love Live!",
+      "titles": {
+        "ja": "前回のラブライブ!",
+        "en": "Last Time, on Love Live!",
+        "x-jat": "Zenkai no Love Live!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-05-19",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Everybody Is a Material Girl...",
+      "titles": {
+        "ja": "アイドルが3億円を手にするとこうなる",
+        "en": "Everybody Is a Material Girl...",
+        "x-jat": "Idol ga 3 Oku En o Te ni Suru Tokou Naru"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-05-26",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "In VR, Arm Waves You",
+      "titles": {
+        "ja": "右腕が意思を持って走り出す",
+        "en": "In VR, Arm Waves You",
+        "x-jat": "Migiude ga Ishi o Motte Hashiridasu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-06-02",
+      "runtime": 4,
+      "rating": "6.64",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Teen Beating Bear Life Hack!!",
+      "titles": {
+        "ja": "JKでもクマに勝てるライフハック",
+        "en": "Teen Beating Bear Life Hack!!",
+        "x-jat": "JK de Kuma ni Kateru Life Hack"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-06-09",
+      "runtime": 1,
+      "rating": "5.87",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "The Impact Aftermath!!!",
+      "titles": {
+        "ja": "逆だったかもしれねェ......",
+        "en": "The Impact Aftermath!!!",
+        "x-jat": "Gyaku Datta Kamoshirenee......"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-06-23",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Production Office Packing Heat",
+      "titles": {
+        "ja": "某アイドル事務所さん, 炎上してしまう",
+        "en": "Production Office Packing Heat",
+        "x-jat": "Nanigashi Idol Jimusho-san, Enjou Shite Shimau"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-06-30",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Dying for Hiko-boshi",
+      "titles": {
+        "ja": "そのあと墜落した",
+        "en": "Dying for Hiko-boshi",
+        "x-jat": "Sono Ato Tsuiraku Shita"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-07-07",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Hanging On!",
+      "titles": {
+        "ja": "〇〇我慢選手権!",
+        "en": "Hanging On!",
+        "x-jat": "Marumaru Gaman Senshuken!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-07-14",
+      "runtime": 2,
+      "rating": "8.60",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Surrounded by Bewbs",
+      "titles": {
+        "ja": "ドヤ顔の理由が面白すぎたwwwww",
+        "en": "Surrounded by Bewbs",
+        "x-jat": "Doyagao no Riyuu ga Omoshirosugita wwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-07-21",
+      "runtime": 2,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Faster Than a Speeding Bullet",
+      "titles": {
+        "ja": "世界最速の女",
+        "en": "Faster Than a Speeding Bullet",
+        "x-jat": "Sekai Saisoku no Onna"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-07-28",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "What Does the Fox Say?",
+      "titles": {
+        "ja": "白上フブキ, 逮捕",
+        "en": "What Does the Fox Say?",
+        "x-jat": "Shirakami Fubuki, Taiho"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-08-04",
+      "runtime": 3,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": "Sharpedo VS Hololive",
+      "titles": {
+        "ja": "サメハダーVSアイドル",
+        "en": "Sharpedo VS Hololive",
+        "x-jat": "Samehadaa vs Idol"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-08-11",
+      "runtime": 2,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 15,
+      "title": "BEETing a Beetle",
+      "titles": {
+        "ja": "カブトムシぼこぼこにしたったわwwwwwwwwwwww",
+        "en": "BEETing a Beetle",
+        "x-jat": "Kabutomushi Bokoboko ni Shitatta wa wwwwwwwwwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-08-18",
+      "runtime": 2,
+      "rating": "8.60",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 16,
+      "title": "Group Hollucination",
+      "titles": {
+        "ja": "集団幻覚",
+        "en": "Group Hollucination",
+        "x-jat": "Shuudan Genkaku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-08-25",
+      "runtime": 3,
+      "rating": "8.60",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 17,
+      "title": "And Then There Were None",
+      "titles": {
+        "ja": "そして誰もいなくなった",
+        "en": "And Then There Were None",
+        "x-jat": "Soshite Daremo Inakunatta"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-09-01",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 18,
+      "title": "How Many Kilos Can You Hold a Dumbbell?",
+      "titles": {
+        "ja": "ダンベル何キロ持てる?『お願いマッスル』",
+        "en": "How Many Kilos Can You Hold a Dumbbell?",
+        "x-jat": "Dumbbell Nan Kilo Moteru? \"Onegai Muscle\""
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-09-08",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 19,
+      "title": "Handsomeness from the Gorgeous",
+      "titles": {
+        "ja": "美少女からイケボ出てきたwwwwwww",
+        "en": "Handsomeness from the Gorgeous",
+        "x-jat": "Bishoujo kara Ikebo Dete Kita wwwwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-09-15",
+      "runtime": 2,
+      "rating": "9.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 20,
+      "title": "The Twin-tail Heist",
+      "titles": {
+        "ja": "新衣装お披露目!?",
+        "en": "The Twin-tail Heist",
+        "x-jat": "Shin Ishou Ohirome!?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-09-22",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 21,
+      "title": "The Three Musketeers of Dogs Are Here",
+      "titles": {
+        "ja": "犬三銃士を連れてきたよ",
+        "en": "The Three Musketeers of Dogs Are Here",
+        "x-jat": "Inu San Juushi o Tsurete Kita yo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-09-29",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 22,
+      "title": "Damage Reports Billions",
+      "titles": {
+        "ja": "結果, 被害総額〇〇億円",
+        "en": "Damage Reports Billions",
+        "x-jat": "Kekka, Higai Sougaku Marumaru Oku En"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-10-06",
+      "runtime": 1,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": "Collaboration with Yomemi! Big Brawl with High Potion and Tentacles",
+      "titles": {
+        "ja": "ヨメミコラボ! ハイポと触手で大乱闘wwwwwwww",
+        "en": "Collaboration with Yomemi! Big Brawl with High Potion and Tentacles",
+        "x-jat": "Yomemi Collabo! Hypo to Shokushu de Tairantou wwwwwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-10-13",
+      "runtime": 3,
+      "rating": "7.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "The Weird Visitor",
+      "titles": {
+        "ja": "変なヤツがいるんだけどwwwww",
+        "en": "The Weird Visitor",
+        "x-jat": "Hen na Yatsu ga Irundakedo wwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-10-20",
+      "runtime": 2,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 25,
+      "title": "Chaos. Lots of Chaos.",
+      "titles": {
+        "ja": "ゲームになったったわwwwwww",
+        "en": "Chaos. Lots of Chaos.",
+        "x-jat": "Game ni Nattattawa wwwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-10-27",
+      "runtime": 2,
+      "rating": "7.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 26,
+      "title": "Down the Doughnut Hole",
+      "titles": {
+        "ja": "ドーナツに戦いを挑んだ結果wwwwwww",
+        "en": "Down the Doughnut Hole",
+        "x-jat": "Donuts ni Tatakai o Idonda Kekka wwwwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-11-03",
+      "runtime": 2,
+      "rating": "7.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 27,
+      "title": "Keeping a OO!!",
+      "titles": {
+        "ja": "〇〇飼った結果wwwwwwwww",
+        "en": "Keeping a OO!!",
+        "x-jat": "Marumaru Katta Kekka wwwwwwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-11-10",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 28,
+      "title": "Extraordinary Behavior of the Two",
+      "titles": {
+        "ja": "二人がとった衝撃の行動とは!?",
+        "en": "Extraordinary Behavior of the Two",
+        "x-jat": "Futari ga Totta Shougeki no Koudou to wa!?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-11-17",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 29,
+      "title": "When Things Get Out of Hand...",
+      "titles": {
+        "ja": "依存症で狂ったったわwwwwwww",
+        "en": "When Things Get Out of Hand...",
+        "x-jat": "Izonshou de Kuruttatta wa wwwwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-11-24",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 30,
+      "title": "The New Member of the Family",
+      "titles": {
+        "ja": "新しい家族が増えましたwwwwwwwww",
+        "en": "The New Member of the Family",
+        "x-jat": "Atarashii Kazoku ga Fuemashita wwwwwwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-12-01",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 31,
+      "title": "The Snap!",
+      "titles": {
+        "ja": "ぶん殴った結果wwwwwwww",
+        "en": "The Snap!",
+        "x-jat": "Bunnagutta Kekka wwwwwwww"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-12-08",
+      "runtime": 2,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 32,
+      "title": "When Cooking Gets Fishy",
+      "titles": {
+        "ja": "アイドルの手料理といえば......",
+        "en": "When Cooking Gets Fishy",
+        "x-jat": "Idol no Teryouri to Ieba......"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-12-15",
+      "runtime": 1,
+      "rating": "7.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 33,
+      "title": "Fasting for a Month",
+      "titles": {
+        "ja": "断食一ヶ月の女",
+        "en": "Fasting for a Month",
+        "x-jat": "Danjiki Ikkagetsu no Onna"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-12-22",
+      "runtime": 2,
+      "rating": "7.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 34,
+      "title": "Buried in Wall. Send Help",
+      "titles": {
+        "ja": "壁に埋まりました. 助けてください",
+        "en": "Buried in Wall. Send Help",
+        "x-jat": "Kabe ni Umarimashita. Tasukete Kudasai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-12-29",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 35,
+      "title": "Of Broken Dreams",
+      "titles": {
+        "ja": "私の作品が壊されました",
+        "en": "Of Broken Dreams",
+        "x-jat": "Watashi no Sakuhin ga Kowasaremashita"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-01-05",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 36,
+      "title": "The Tragedy of Modern Society",
+      "titles": {
+        "ja": "現代の闇に踏み込んだ動画",
+        "en": "The Tragedy of Modern Society",
+        "x-jat": "Gendai no Yami ni Fumikonda Douga"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-01-12",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 37,
+      "title": "Prank goes Nonstop",
+      "titles": {
+        "ja": "大事なライブに参加できないドッキリ",
+        "en": "Prank goes Nonstop",
+        "x-jat": "Daiji na Live ni Sanka Dekinai Dokkori"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-01-19",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 38,
+      "title": "Hololive... The Movie!",
+      "titles": {
+        "ja": "劇場版 ホロのぐらふぃてぃ 穢土転生[エドテンセイ] / 劇場版ホロライブ!",
+        "en": "Hololive... The Movie!",
+        "x-jat": "Gekijouban Holo no Graffiti: Edo Tensei / Gekijouban Holo Live!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-01-26",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 39,
+      "title": "Fools Everywhere",
+      "titles": {
+        "ja": "愚か者しかいない",
+        "en": "Fools Everywhere",
+        "x-jat": "Orokamono Shika Inai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-02-02",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 40,
+      "title": "What If You Were King?",
+      "titles": {
+        "ja": "国王になったらどうなるのか?",
+        "en": "What If You Were King?",
+        "x-jat": "Kukoou ni Nattara Dou Naru no ka?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-02-09",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 41,
+      "title": "*** Fishing Championship",
+      "titles": {
+        "ja": "〇〇捕獲選手権!",
+        "en": "*** Fishing Championship",
+        "x-jat": "Marumaru Houkaku Senshuken!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-02-16",
+      "runtime": 1,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 42,
+      "title": "Cosplay Girl vs Green Thingie",
+      "titles": {
+        "ja": "コスプレ女VS緑色のアレ",
+        "en": "Cosplay Girl vs Green Thingie",
+        "x-jat": "Cosplay Onna vs Midoriiro no Are"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-02-23",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 43,
+      "title": "The Secret Route to the Hololive Office",
+      "titles": {
+        "ja": "ホロライブ事務所に行く秘密の方法",
+        "en": "The Secret Route to the Hololive Office",
+        "x-jat": "Holo Live Jimusho ni Iku Himitsu no Houhou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-03-01",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 44,
+      "title": "Ever Heard of Human Tetris?",
+      "titles": {
+        "ja": "人間テトリスって知ってる?",
+        "en": "Ever Heard of Human Tetris?",
+        "x-jat": "Ningen Tetristte Shitteru?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-03-08",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 45,
+      "title": "Help, Help! I`m Being Repressed!",
+      "titles": {
+        "ja": "嫌がらせを受けています",
+        "en": "Help, Help! I`m Being Repressed!",
+        "x-other": "This Is Curry Land",
+        "x-jat": "Iyagarase o Ukete Imasu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-03-15",
+      "runtime": 2,
+      "rating": "8.60",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 46,
+      "title": "An Expose on Workplace Harassment",
+      "titles": {
+        "ja": "パワハラの現場をおさえました",
+        "en": "An Expose on Workplace Harassment",
+        "x-jat": "Power Hara no Genba o Osaemashita"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-03-22",
+      "runtime": 3,
+      "rating": "9.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 47,
+      "title": "Doctor vs. DJ",
+      "titles": {
+        "ja": "医者vsDJ",
+        "en": "Doctor vs. DJ",
+        "x-jat": "Isha vs DJ"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-03-29",
+      "runtime": 2,
+      "rating": "7.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 48,
+      "title": "I Went and Slipped Up",
+      "titles": {
+        "ja": "すべっちゃったなぁ",
+        "en": "I Went and Slipped Up",
+        "x-jat": "Subecchatta na"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-04-05",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 49,
+      "title": "****-Human Contest",
+      "titles": {
+        "ja": "◯人間コンテスト!",
+        "en": "****-Human Contest",
+        "x-jat": "Maru Ningen Contest!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-04-12",
+      "runtime": 2,
+      "rating": "9.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 50,
+      "title": "Idols Face a Shady Threat",
+      "titles": {
+        "ja": "アイドルに忍び寄る不審者の影......",
+        "en": "Idols Face a Shady Threat",
+        "x-jat": "Idol ni Shinobiyoru Fushinsha no Kage......"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-04-19",
+      "runtime": 1,
+      "rating": "8.60",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 51,
+      "title": "I So Wanna Touch!",
+      "titles": {
+        "ja": "絶対に触りたい!",
+        "en": "I So Wanna Touch!",
+        "x-jat": "Zettai ni Sawaritai!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-04-26",
+      "runtime": 2,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 52,
+      "title": "Fortnite (Identity V)",
+      "titles": {
+        "ja": "フォートナイト",
+        "en": "Fortnite (Identity V)",
+        "x-jat": "Fortnite"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-05-03",
+      "runtime": 2,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 53,
+      "title": "Hansel and Gretel in 60 Seconds",
+      "titles": {
+        "ja": "1分でわかるヘンゼルとグレーテル",
+        "en": "Hansel and Gretel in 60 Seconds",
+        "x-jat": "Ippun de Wakaru Hanzel to Gretel"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-05-10",
+      "runtime": 2,
+      "rating": "8.60",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 54,
+      "title": "This Is Modern Food Reviews!",
+      "titles": {
+        "ja": "これが新時代の食レポじゃ!",
+        "en": "This Is Modern Food Reviews!",
+        "x-jat": "Kore ga Shinjidai no Shoku Repo ja!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-05-17",
+      "runtime": 2,
+      "rating": "5.44",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 55,
+      "title": "The Greetings Championship!",
+      "titles": {
+        "ja": "最強の挨拶を決めろ☆挨拶王選手権!",
+        "en": "The Greetings Championship!",
+        "x-jat": "Saikyou no Aisatsu o Kimero: Aisatsu Ou Senshuken!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-05-24",
+      "runtime": 2,
+      "rating": "8.60",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 56,
+      "title": "Remote Workouts in 60 Seconds!",
+      "titles": {
+        "ja": "1分でできるリモート筋トレ!",
+        "en": "Remote Workouts in 60 Seconds!",
+        "x-jat": "Ippun de Dekiru Remote Kintore!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-05-31",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 57,
+      "title": "Get into Tokyu U!",
+      "titles": {
+        "ja": "東大を目指して",
+        "en": "Get into Tokyu U!",
+        "x-jat": "Toudai o Mezashite"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-06-07",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 58,
+      "title": "We Tried Kusaya",
+      "titles": {
+        "ja": "くさや食べてみた",
+        "en": "We Tried Kusaya",
+        "x-jat": "Kusaya Tabete Mita"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-06-14",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 59,
+      "title": "Chase Like You Mean It!",
+      "titles": {
+        "ja": "全力で追いかけろ!",
+        "en": "Chase Like You Mean It!",
+        "x-jat": "Zenryoku de Oikakero!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-06-21",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 60,
+      "title": "Who Landed the Fatal Blow? Passing the Buck!",
+      "titles": {
+        "ja": "とどめの一撃を刺したのは誰だ!? 罪のなすりつけ合い!",
+        "en": "Who Landed the Fatal Blow? Passing the Buck!",
+        "x-jat": "Todome no Ichigeki o Sashita no wa Dare Da!? Tsumi no Nasuritsuke!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-06-27",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 61,
+      "title": "Annihilate `em All!",
+      "titles": {
+        "ja": "全員ぶっ潰せ!",
+        "en": "Annihilate `em All!",
+        "x-jat": "Zen`in Buttsubuse!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-07-05",
+      "runtime": 2,
+      "rating": "9.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 62,
+      "title": "Frozen Out in the Bomb Disposal Squad",
+      "titles": {
+        "ja": "関係がギクシャクする爆弾解除",
+        "en": "Frozen Out in the Bomb Disposal Squad",
+        "x-jat": "Kankei ga Gikushaku Suru Bakudan Kaijo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-07-12",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 63,
+      "title": "My First Errand",
+      "titles": {
+        "ja": "はじめてのおつかい",
+        "en": "My First Errand",
+        "x-jat": "Hajimete no Otsukai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-07-19",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 64,
+      "title": "How to Make Takoyaki",
+      "titles": {
+        "ja": "たこ焼きの作り方",
+        "en": "How to Make Takoyaki",
+        "x-jat": "Takoyaki no Tsukurikata"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-07-26",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 65,
+      "title": "You`ve Been Prank`d",
+      "titles": {
+        "ja": "ドッキリ大成功!",
+        "en": "You`ve Been Prank`d",
+        "x-jat": "Dokkuri Daiseikou!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-08-02",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 66,
+      "title": "Grant My Wish",
+      "titles": {
+        "ja": "お願いがあるの...",
+        "en": "Grant My Wish",
+        "x-jat": "Onegai ga Aru no..."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-08-09",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 67,
+      "title": "Movie Appreciation Night",
+      "titles": {
+        "ja": "夜の映画鑑賞会!",
+        "en": "Movie Appreciation Night",
+        "x-jat": "Yoru no Eiga Kanshoukai!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-08-16",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 68,
+      "title": "The Idiots` Guide to Making People Mad",
+      "titles": {
+        "ja": "人の怒らせ方",
+        "en": "The Idiots` Guide to Making People Mad",
+        "x-jat": "Hito no Ikarasekata"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-08-23",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 69,
+      "title": "Wash Everything Anew! Nagashi Somen Battle!",
+      "titles": {
+        "ja": "全部水に流せ! 流しそうめんバトル!",
+        "en": "Wash Everything Anew! Nagashi Somen Battle!",
+        "x-jat": "Zenbu Mizu ni Nagase! Nagashisoumen Battle!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-08-30",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 70,
+      "title": "Sneak Peek",
+      "titles": {
+        "ja": "のぞいてみた",
+        "en": "Sneak Peek",
+        "x-jat": "Nozoite Mita"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-09-06",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 71,
+      "title": "Supersized Me",
+      "titles": {
+        "ja": "大きくなっちゃった",
+        "en": "Supersized Me",
+        "x-jat": "Ookiku Nacchatta"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-09-13",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 72,
+      "title": "Go Beyond the Suffering! Endurance Contest!",
+      "titles": {
+        "ja": "苦しみを超えろ! 我慢大会!",
+        "en": "Go Beyond the Suffering! Endurance Contest!",
+        "x-jat": "Kurushimi o Koero! Gaman Taikai!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-09-20",
+      "runtime": 2,
+      "rating": "9.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 73,
+      "title": "Take Over the Animal Kingdom",
+      "titles": {
+        "ja": "動物番長を目指して",
+        "en": "Take Over the Animal Kingdom",
+        "x-jat": "Doubutsu Banchou o Mezashite"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-09-27",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 74,
+      "title": "Let`s Form a Band!",
+      "titles": {
+        "ja": "バンドやろうぜ!",
+        "en": "Let`s Form a Band!",
+        "x-jat": "Band Yarou ze!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-10-04",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 75,
+      "title": "Curry Meshi VS Hololive",
+      "titles": {
+        "ja": "カレーメシVSホロライブ",
+        "en": "Curry Meshi VS Hololive",
+        "x-jat": "Curry Meshi vs Holo Live"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-10-11",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 76,
+      "title": "How to Raise a Chick (Microwaved)",
+      "titles": {
+        "ja": "ひよこの育て方",
+        "en": "How to Raise a Chick (Microwaved)",
+        "x-jat": "Hiyoko no Sodatekata"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-10-18",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 77,
+      "title": "A Smart Way to Use Pigtails",
+      "titles": {
+        "ja": "ツインテールの使い道",
+        "en": "A Smart Way to Use Pigtails",
+        "x-jat": "Twin Tail no Tsukaimichi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-10-25",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 78,
+      "title": "Gotta Break It Down!",
+      "titles": {
+        "ja": "こうなったら破壊するしかねーよ!",
+        "en": "Gotta Break It Down!",
+        "x-jat": "Kou Nattara Hakai Suru Shika Nee yo!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-11-01",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 79,
+      "title": "What Is Wrong with You?",
+      "titles": {
+        "ja": "何やってんの?",
+        "en": "What Is Wrong with You?",
+        "x-jat": "Nani Yattenno?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-11-08",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 80,
+      "title": "Ramen Stall in an Awful Location",
+      "titles": {
+        "ja": "最悪の立地のラーメン屋",
+        "en": "Ramen Stall in an Awful Location",
+        "x-jat": "Saiaku no Ricchi no Ramen`ya"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-11-15",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 81,
+      "title": "Help! I`ll Be Burned!",
+      "titles": {
+        "ja": "助けて! 焼かれる!",
+        "en": "Help! I`ll Be Burned!",
+        "x-jat": "Tasukete! Yakareru!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-11-22",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 82,
+      "title": "Survival of the Fittest",
+      "titles": {
+        "ja": "弱肉強食",
+        "en": "Survival of the Fittest",
+        "x-jat": "Jakunikukyoushoku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-11-29",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 83,
+      "title": "How to Invoke a Kaiju",
+      "titles": {
+        "ja": "怪獣の降ろし方",
+        "en": "How to Invoke a Kaiju",
+        "x-jat": "Kaijuu no Oroshikata"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-12-06",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 84,
+      "title": "Help! I`m Stuck!",
+      "titles": {
+        "ja": "体が動かない! 助けて!",
+        "en": "Help! I`m Stuck!",
+        "x-jat": "Karada ga Ugokanai! Tasukete!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-12-13",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 85,
+      "title": "Halloween Hangover",
+      "titles": {
+        "ja": "ま~だハロウィンだと思い込んでいた人たち",
+        "en": "Halloween Hangover",
+        "x-jat": "Maada Halloween Da to Omoikonde Ita Hito-tachi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-12-20",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 86,
+      "title": "This Is Hololive`s Year-End!",
+      "titles": {
+        "ja": "これがホロライブの年末!",
+        "en": "This Is Hololive`s Year-End!",
+        "x-jat": "Kore ga Holo Live no Nenmatsu!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-12-27",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 87,
+      "title": "I`ve Solved the Mystery of the Idol Agency!",
+      "titles": {
+        "ja": "アイドル事務所の秘密暴いたったわ!",
+        "en": "I`ve Solved the Mystery of the Idol Agency!",
+        "x-jat": "Idol Jimusho no Himitsu Abaitatta wa!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-01-03",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 88,
+      "title": "What Happens When You Cater to Whims",
+      "titles": {
+        "ja": "わがままを叶えた結果",
+        "en": "What Happens When You Cater to Whims",
+        "x-jat": "Wagamama o Kanaeta Kekka"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-01-10",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 89,
+      "title": "The Difference Between Coffee and Mud",
+      "titles": {
+        "ja": "コーヒーと泥の違い",
+        "en": "The Difference Between Coffee and Mud",
+        "x-jat": "Coffee to Doro no Chigai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-01-17",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 90,
+      "title": "How to Become a Cat",
+      "titles": {
+        "ja": "猫になる方法",
+        "en": "How to Become a Cat",
+        "x-jat": "Neko ni Naru Houhou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-01-24",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 91,
+      "title": "Polar Bear vs. Noble Girl",
+      "titles": {
+        "ja": "白熊VSお嬢様",
+        "en": "Polar Bear vs. Noble Girl",
+        "x-jat": "Shirokuma vs Ojou-sama"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-01-31",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 92,
+      "title": "Grown-Ups on Tricycles",
+      "titles": {
+        "ja": "三輪車に乗る大人たち",
+        "en": "Grown-Ups on Tricycles",
+        "x-jat": "Sanrinsha ni Noru Otona-tachi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-02-07",
+      "runtime": 2,
+      "rating": "9.55",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 93,
+      "title": "Help! We`ll Be Fired!",
+      "titles": {
+        "ja": "助けて! クビにされる!",
+        "en": "Help! We`ll Be Fired!",
+        "x-jat": "Tasukete! Kubi ni Sareru!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-02-14",
+      "runtime": 7,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 94,
+      "title": "Maidealism",
+      "titles": {
+        "ja": "メイドらしさを求めて",
+        "en": "Maidealism",
+        "x-jat": "Maid Rashisa o Motomete"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-02-21",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 95,
+      "title": "Going Wild in a Shopping Mall",
+      "titles": {
+        "ja": "ショッピングモールで暴走したい!",
+        "en": "Going Wild in a Shopping Mall",
+        "x-jat": "Shopping Mall de Bousou Shitai!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-02-28",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 96,
+      "title": "Sitting Duck",
+      "titles": {
+        "ja": "食われるかも...",
+        "en": "Sitting Duck",
+        "x-jat": "Kuwareru Kamo..."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-03-07",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 97,
+      "title": "The Perfect Cover-Up",
+      "titles": {
+        "ja": "先輩のOOを隠蔽したい!",
+        "en": "The Perfect Cover-Up",
+        "x-jat": "Senpai no Marumaru o Inpei Shitai!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-03-14",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 98,
+      "title": "Speak of the Devil",
+      "titles": {
+        "ja": "出ちゃった...",
+        "en": "Speak of the Devil",
+        "x-jat": "Dechatta..."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-03-21",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 99,
+      "title": "I Refuse to Lose to You",
+      "titles": {
+        "ja": "お前には負けられない",
+        "en": "I Refuse to Lose to You",
+        "x-jat": "Omae ni wa Makerarenai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-03-28",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 100,
+      "title": "Really Wanna Eat You-Know-What!",
+      "titles": {
+        "ja": "どうしても〇〇が食べたい!",
+        "en": "Really Wanna Eat You-Know-What!",
+        "x-jat": "Doushitemo Marumaru ga Tabetai!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-04-04",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 101,
+      "title": "Everybody`s Scary When Mad",
+      "titles": {
+        "ja": "怒ると誰だって怖い",
+        "en": "Everybody`s Scary When Mad",
+        "x-jat": "Okoru to Dare Datte Kowai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-04-11",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 102,
+      "title": "First Look",
+      "titles": {
+        "ja": "まだ誰にも見せていない",
+        "en": "First Look",
+        "x-jat": "Mada Darenimo Misete Inai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-04-18",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 103,
+      "title": "I Got Lucky",
+      "titles": {
+        "ja": "当たっちゃった......",
+        "en": "I Got Lucky",
+        "x-jat": "Atacchatta......"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-04-25",
+      "runtime": 2,
+      "rating": "8.55",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 104,
+      "title": "Beware, Beware the Blues of May",
+      "titles": {
+        "ja": "五月病のあなたへ",
+        "en": "Beware, Beware the Blues of May",
+        "x-jat": "Gogatsubyou no Anata e"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-05-02",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 105,
+      "title": "Murphy`s Law",
+      "titles": {
+        "ja": "トラブルだらけ!",
+        "en": "Murphy`s Law",
+        "x-jat": "Trouble Darake!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-05-09",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 106,
+      "title": "In Spring, w00t!",
+      "titles": {
+        "ja": "春はあげぼよ~^^v",
+        "en": "In Spring, w00t!",
+        "x-jat": "Haru wa Agebo yo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-05-16",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 107,
+      "title": "Critical Memory Lapse",
+      "titles": {
+        "ja": "大事なことを忘れていました...",
+        "en": "Critical Memory Lapse",
+        "x-jat": "Daiji na Koto o Wasurete Imashita..."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-05-23",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 108,
+      "title": "Looking the Part",
+      "titles": {
+        "ja": "形から入るタイプの名探偵",
+        "en": "Looking the Part",
+        "x-jat": "Katachi kara Hairu Type no Meitantei"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-05-30",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 109,
+      "title": "The Need for Speed",
+      "titles": {
+        "ja": "最速への憧れ",
+        "en": "The Need for Speed",
+        "x-jat": "Saisoku e no Akogare"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-06-06",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 110,
+      "title": "Police Presence",
+      "titles": {
+        "ja": "ついに警察の出番が...",
+        "en": "Police Presence",
+        "x-jat": "Tsui ni Keisatsu no Deban ga..."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-06-13",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 111,
+      "title": "Advice Unwise",
+      "titles": {
+        "ja": "お悩み解決, 失敗!",
+        "en": "Advice Unwise",
+        "x-jat": "Onayami Kaiketsu, Shippai!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-06-20",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 112,
+      "title": "Live Strong!",
+      "titles": {
+        "ja": "元気でな!",
+        "en": "Live Strong!",
+        "x-jat": "Genki de na!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-06-27",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 113,
+      "title": "The Importance of Catch",
+      "titles": {
+        "ja": "言葉のキャッチボールをしてくれ!",
+        "en": "The Importance of Catch",
+        "x-jat": "Kotoba no Catch Ball o Shite Kure!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-07-04",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 114,
+      "title": "Stay Out of My Lane",
+      "titles": {
+        "ja": "私に関わるな!",
+        "en": "Stay Out of My Lane",
+        "x-jat": "Watashi ni Kakawaruna!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-07-18",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 115,
+      "title": "Tanabata Lives On!",
+      "titles": {
+        "ja": "七夕を終わらせない!",
+        "en": "Tanabata Lives On!",
+        "x-jat": "Tanabata o Owarasenai!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-07-25",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 116,
+      "title": "Verbal Pek",
+      "titles": {
+        "ja": "変なこと言っちゃうんだけど!",
+        "en": "Verbal Pek",
+        "x-jat": "Hen na Koto Icchaunda kedo!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-08-01",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 117,
+      "title": "Wanna See a Witch Do Magic Tricks?",
+      "titles": {
+        "ja": "魔法使いの特技, 見たくない?",
+        "en": "Wanna See a Witch Do Magic Tricks?",
+        "x-jat": "Mahou Tsukai no Tokugi, Mitakunai?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-08-08",
+      "runtime": 2,
+      "rating": "9.92",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 118,
+      "title": "Blame the Heat Wave",
+      "titles": {
+        "ja": "全部猛暑のせいだ",
+        "en": "Blame the Heat Wave",
+        "x-jat": "Zenbu Mousho no Sei Da"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-08-15",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 119,
+      "title": "The Beginnings of the End",
+      "titles": {
+        "ja": "終焉のトリガーになった瞬間",
+        "en": "The Beginnings of the End",
+        "x-jat": "Shuuen no Trigger ni Natta Shunkan"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-08-22",
+      "runtime": 4,
+      "rating": "7.45",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 120,
+      "title": "The Ideal BBQ",
+      "titles": {
+        "ja": "BBQするならやっぱココでしょ!?",
+        "en": "The Ideal BBQ",
+        "x-jat": "BBQ Suru nara Yappa Koko Desho!?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-08-29",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 121,
+      "title": "Straight from the Horse`s Mouth",
+      "titles": {
+        "ja": "このあと口から...",
+        "en": "Straight from the Horse`s Mouth",
+        "x-jat": "Kono Atokuchi kara..."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-09-05",
+      "runtime": 2,
+      "rating": "9.95",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 122,
+      "title": "Danger: Sharp Objects",
+      "titles": {
+        "ja": "凶器持たせてみた",
+        "en": "Danger: Sharp Objects",
+        "x-jat": "Kyouki Motasete Mita"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-09-12",
+      "runtime": 2,
+      "rating": "9.74",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 123,
+      "title": "The Steam-and-Eat Syndicate",
+      "titles": {
+        "ja": "同僚の枕カバーを煮物にして食べた~い!",
+        "en": "The Steam-and-Eat Syndicate",
+        "x-jat": "Douryou no Makura Cover o Nimono ni Shite Tabetaai!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-09-19",
+      "runtime": 2,
+      "rating": "9.51",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 124,
+      "title": "TV Dinner",
+      "titles": {
+        "ja": "見るの禁止!",
+        "en": "TV Dinner",
+        "x-jat": "Miru no Kinshi!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-09-26",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 125,
+      "title": "Jailed for YouTube Crimes",
+      "titles": {
+        "ja": "捕まりました.",
+        "en": "Jailed for YouTube Crimes",
+        "x-jat": "Tsukamarimashita."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-10-03",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 126,
+      "title": "Danger: Do Not Wake",
+      "titles": {
+        "ja": "起こすな危険!",
+        "en": "Danger: Do Not Wake",
+        "x-jat": "Okosuna Kiken!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-10-10",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 127,
+      "title": "21st Century Sheep",
+      "titles": {
+        "ja": "もしもプロデューサーになったらどうなるのか?",
+        "en": "21st Century Sheep",
+        "x-jat": "Moshimo Producer ni Nattara Dou Naru no ka?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-10-17",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 128,
+      "title": "A Peach of a Tale",
+      "titles": {
+        "ja": "さっき廊下で見つけてきたの",
+        "en": "A Peach of a Tale",
+        "x-jat": "Sakki Rouka de Mitsukete Kita no"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-10-24",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 129,
+      "title": "Bar FUBAR",
+      "titles": {
+        "ja": "BARでイキんな",
+        "en": "Bar FUBAR",
+        "x-jat": "Bar de Iken na"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-10-31",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 130,
+      "title": "Barrel and Hardy",
+      "titles": {
+        "ja": "タルにハマって出られなくなったね",
+        "en": "Barrel and Hardy",
+        "x-jat": "Taru ni Hamatte Derarenaku Natta ne"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-11-07",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 131,
+      "title": "Don`t You Dare Be Sour!",
+      "titles": {
+        "ja": "暑苦しい",
+        "en": "Don`t You Dare Be Sour!",
+        "x-jat": "Atsukurushii"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-11-14",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 132,
+      "title": "Careful What You Read",
+      "titles": {
+        "ja": "そんなもの読んじゃいけません!",
+        "en": "Careful What You Read",
+        "x-jat": "Sonna Mono Yonja Ikemasen!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-11-21",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 133,
+      "title": "Hoodwinked, Bamboozled, Led Astray",
+      "titles": {
+        "ja": "友達のこと騙してきたわ",
+        "en": "Hoodwinked, Bamboozled, Led Astray",
+        "x-jat": "Tomodachi no Koto Damashite Kita wa"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-11-28",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 134,
+      "title": "The Hangover",
+      "titles": {
+        "ja": "二日酔い",
+        "en": "The Hangover",
+        "x-jat": "Futsukayoi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-12-05",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 135,
+      "title": "Health Is Wealth",
+      "titles": {
+        "ja": "健康診断があるので...",
+        "en": "Health Is Wealth",
+        "x-jat": "Kenkoushindan ga Aru node..."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-12-12",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 136,
+      "title": "Manners? Hardly Knew Her!",
+      "titles": {
+        "ja": "これがマナー講師だ!",
+        "en": "Manners? Hardly Knew Her!",
+        "x-jat": "Kore ga Manner Koushi Da!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-12-19",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 137,
+      "title": "The Last Supper",
+      "titles": {
+        "ja": "最後の晩餐",
+        "en": "The Last Supper",
+        "x-jat": "Saigo no Bansan"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-12-26",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 138,
+      "title": "Moar!",
+      "titles": {
+        "ja": "無茶振りの果てに......",
+        "en": "Moar!",
+        "x-jat": "Mucha Furi no Hate ni......"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-01-02",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 139,
+      "title": "Free Real Estate",
+      "titles": {
+        "ja": "釣り物件対策",
+        "en": "Free Real Estate"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-01-09",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 140,
+      "title": "Chocolicious",
+      "titles": {
+        "ja": "チョコまみれにしてやんよ!",
+        "en": "Chocolicious"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-01-16",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 141,
+      "title": "Lost in Translation",
+      "titles": {
+        "ja": "いったい何の話をしてるんだ...",
+        "en": "Lost in Translation"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-01-23",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 142,
+      "title": "Ruing the Ruining",
+      "titles": {
+        "ja": "皆で積み上げたものを台無しにするでしょう",
+        "en": "Ruing the Ruining"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-01-30",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 143,
+      "title": "To Be Young Again",
+      "titles": {
+        "ja": "若返りを求めて",
+        "en": "To Be Young Again"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-02-06",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 144,
+      "title": "Who You Gonna Call?",
+      "titles": {
+        "ja": "狂人に頼んだ結果",
+        "en": "Who You Gonna Call?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-02-13",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 145,
+      "title": "The Time Has Come",
+      "titles": {
+        "ja": "とうとう来たぜ!",
+        "en": "The Time Has Come"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-02-20",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 146,
+      "title": "Yukihana Needy",
+      "titles": {
+        "ja": "め, めんどくせ~!",
+        "en": "Yukihana Needy"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-02-27",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 147,
+      "title": "Tough Love",
+      "titles": {
+        "ja": "崖から突き落とすタイプの教育",
+        "en": "Tough Love"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-03-06",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 148,
+      "title": "Musclebrain Stretches!",
+      "titles": {
+        "ja": "脳筋体操はっじまっるよ~!",
+        "en": "Musclebrain Stretches!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-03-13",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 149,
+      "title": "The Office",
+      "titles": {
+        "ja": "あたしゃ止めたんだけどねぇ",
+        "en": "The Office"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-03-20",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 150,
+      "title": "Sin Chronicle Is Nutritional",
+      "titles": {
+        "ja": "クロニクルでしか得られない栄養があるんだよなぁ!?",
+        "en": "Sin Chronicle Is Nutritional"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-03-27",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 151,
+      "title": "Brew-tal Attack [Akiganger Ep 1]",
+      "titles": {
+        "ja": "うるせぇ! こっちは仕事で地球守ってんだ! [爆速退勤アキガンガー第1話]",
+        "en": "Brew-tal Attack [Akiganger Ep 1]"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-04-03",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 152,
+      "title": "Out of Season",
+      "titles": {
+        "ja": "時期が悪いとこうなります",
+        "en": "Out of Season"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-04-10",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 153,
+      "title": "Mooching Sushi",
+      "titles": {
+        "ja": "他人の稼いだ金で寿司を食わせろ!!!!!!!",
+        "en": "Mooching Sushi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-04-17",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 154,
+      "title": "Ever Heard of Human Sushi?",
+      "titles": {
+        "ja": "みんなを寿司にして遊びた〜い!",
+        "en": "Ever Heard of Human Sushi?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-04-24",
+      "runtime": 2,
+      "rating": "9.25",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 155,
+      "title": "Time Flies",
+      "titles": {
+        "ja": "バード人間コンテスト (ズルい)",
+        "en": "Time Flies"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-05-01",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 156,
+      "title": "Highlight Scenes (Recap)",
+      "titles": {
+        "ja": "みんなが注目したシーン(総集編)",
+        "en": "Highlight Scenes (Recap)"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-05-08",
+      "runtime": 3,
+      "rating": "8.60",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 157,
+      "title": "All Your Fault!",
+      "titles": {
+        "ja": "全部お前のせいだろ!",
+        "en": "All Your Fault!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-05-15",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 158,
+      "title": "A Sticky Situation",
+      "titles": {
+        "ja": "手に接着剤つけたら取れなくなっちゃった人",
+        "en": "A Sticky Situation"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-05-22",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 159,
+      "title": "A Fishy Catch",
+      "titles": {
+        "ja": "たまにこういうのが釣れるんです",
+        "en": "A Fishy Catch"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-05-29",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 160,
+      "title": "Air Force Oni",
+      "titles": {
+        "ja": "ひこうきごっこ",
+        "en": "Air Force Oni"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-06-05",
+      "runtime": 1,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 161,
+      "title": "Lost and Found",
+      "titles": {
+        "ja": "見ぃつけたっ!",
+        "en": "Lost and Found"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-06-12",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 162,
+      "title": "Tag-Team Finish",
+      "titles": {
+        "ja": "必殺技を覚えました",
+        "en": "Tag-Team Finish"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-06-19",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 163,
+      "title": "Choose Your Battles Wisely",
+      "titles": {
+        "ja": "先輩に喧嘩売ったらボコボコにされた話",
+        "en": "Choose Your Battles Wisely"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-06-26",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 164,
+      "title": "The Intern-alization",
+      "titles": {
+        "ja": "ブチギレ生意気インターン生",
+        "en": "The Intern-alization"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-07-03",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 165,
+      "title": "This Is Dope!",
+      "titles": {
+        "ja": "くらえ! この動画が気になっちゃう薬!",
+        "en": "This Is Dope!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-07-10",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 166,
+      "title": "Going For Broke",
+      "titles": {
+        "ja": "余裕ぶってるけど全然お金がない",
+        "en": "Going For Broke"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-07-17",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 167,
+      "title": "Leading by Example",
+      "titles": {
+        "ja": "責任取るのが総帥の仕事",
+        "en": "Leading by Example"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-07-24",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 168,
+      "title": "On The Tail",
+      "titles": {
+        "ja": "ついてくる",
+        "en": "On The Tail"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-07-31",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 169,
+      "title": "When The Cicadas Fly",
+      "titles": {
+        "ja": "セミうっせぇ! マジで!",
+        "en": "When The Cicadas Fly"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-08-07",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 170,
+      "title": "Typhoons Ruin Trip",
+      "titles": {
+        "ja": "台風襲来(2022個)で旅行が台無し",
+        "en": "Typhoons Ruin Trip"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-08-14",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 171,
+      "title": "Clash of the Palanquins",
+      "titles": {
+        "ja": "激突! お神輿バトル!",
+        "en": "Clash of the Palanquins"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-08-21",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 172,
+      "title": "Going Missing",
+      "titles": {
+        "ja": "この人たちこのあと行方不明になります",
+        "en": "Going Missing"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-08-28",
+      "runtime": 2,
+      "rating": "9.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 173,
+      "title": "If I Were an Evil Overlord",
+      "titles": {
+        "ja": "最強のワルは誰だ!? 悪役王選手権!",
+        "en": "If I Were an Evil Overlord"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-09-04",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 174,
+      "title": "The Veggie Life",
+      "titles": {
+        "ja": "今日から野菜生活",
+        "en": "The Veggie Life"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-09-18",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 175,
+      "title": "Amane Kanata, Roomer",
+      "titles": {
+        "ja": "天音かなたはきのこ派",
+        "en": "Amane Kanata, Roomer"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-09-25",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 176,
+      "title": "Everything Is Evil",
+      "titles": {
+        "ja": "赤井はあとをholoXに入れておくれ!",
+        "en": "Everything Is Evil"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-10-02",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 177,
+      "title": "Batting for The Angels",
+      "titles": {
+        "ja": "バットで殴って天使にしちゃうゾ!",
+        "en": "Batting for The Angels"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-10-09",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 178,
+      "title": "More Mochi More Problems",
+      "titles": {
+        "ja": "お月見に欠かせないモチ!",
+        "en": "More Mochi More Problems"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-10-16",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 179,
+      "title": "Keep Rollin`",
+      "titles": {
+        "ja": "助けて! 暴走腹筋ローラーの逆襲",
+        "en": "Keep Rollin`"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-10-23",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 180,
+      "title": "The Quintessential",
+      "titles": {
+        "ja": "五等分の鷹嶺ルイ",
+        "en": "The Quintessential"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-10-30",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 181,
+      "title": "Guarantee For Me",
+      "titles": {
+        "ja": "世の連帯保証人になってくれ!",
+        "en": "Guarantee For Me"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-11-06",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 182,
+      "title": "One of a Kindergarten",
+      "titles": {
+        "ja": "幼稚園はじめました",
+        "en": "One of a Kindergarten"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-11-13",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 183,
+      "title": "Dark Times",
+      "titles": {
+        "ja": "実体の無い雑魚に負けるわけない!……よね?",
+        "en": "Dark Times"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-11-20",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 184,
+      "title": "Takeover [holoX]",
+      "titles": {
+        "ja": "世界征服はじめました[holoX]",
+        "en": "Takeover [holoX]"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-11-27",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 185,
+      "title": "Voice of the Voiceless",
+      "titles": {
+        "ja": "声出すの禁止だからね",
+        "en": "Voice of the Voiceless"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-12-04",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 186,
+      "title": "The Broken, the Eaten, and the Damned",
+      "titles": {
+        "ja": "えー, 誰か食われてます. 既に.",
+        "en": "The Broken, the Eaten, and the Damned"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-12-11",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 187,
+      "title": "Fly Me to the Moon",
+      "titles": {
+        "ja": "とんでっけえええええええええええええ!!!",
+        "en": "Fly Me to the Moon"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-12-18",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 188,
+      "title": "The Arbitrator",
+      "titles": {
+        "ja": "今年良い子にしてたかどうか確認委員会会長",
+        "en": "The Arbitrator"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-12-25",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 189,
+      "title": "The Gang`s All Together",
+      "titles": {
+        "ja": "ホロライブ全員集合!",
+        "en": "The Gang`s All Together"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-01-01",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 190,
+      "title": "Happy New Year Recap!",
+      "titles": {
+        "ja": "あけおめことよろ総集編!",
+        "en": "Happy New Year Recap!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-01-08",
+      "runtime": 3,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 191,
+      "title": "Concert! And We`re Doing It Live!",
+      "titles": {
+        "ja": "ライブやっぞ! ライブ!",
+        "en": "Concert! And We`re Doing It Live!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-01-15",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 192,
+      "title": "Ahaha! Indonesia!",
+      "titles": {
+        "ja": "あっははインドネシア~!",
+        "en": "Ahaha! Indonesia!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-01-22",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 193,
+      "title": "Mind Your Indonesian",
+      "titles": {
+        "ja": "強制! インドネシア語講座",
+        "en": "Mind Your Indonesian"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-01-29",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 194,
+      "title": "A Lick of Paint",
+      "titles": {
+        "ja": "絵の具で酒を飲む",
+        "en": "A Lick of Paint"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-02-05",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 195,
+      "title": "holo Drift",
+      "titles": {
+        "ja": "行こうぜ! スピードの向こう側へ!",
+        "en": "holo Drift"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-02-12",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 196,
+      "title": "Eat or Be EaTentacle",
+      "titles": {
+        "ja": "Let`s 共食い!",
+        "en": "Eat or Be EaTentacle"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-02-19",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 197,
+      "title": "Forgetaburger",
+      "titles": {
+        "ja": "メニューを覚えきれないハンバーガー屋",
+        "en": "Forgetaburger"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-02-26",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 198,
+      "title": "Reaper What You Sow",
+      "titles": {
+        "ja": "死神に魂を刈られてみる",
+        "en": "Reaper What You Sow"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-03-05",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 199,
+      "title": "Last Time Was the Last Time",
+      "titles": {
+        "ja": "君たちは今回で打ち切りなんだよ...",
+        "en": "Last Time Was the Last Time"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-03-12",
+      "runtime": 2,
+      "rating": "7.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 200,
+      "title": "Gawr Gura Gnawing",
+      "titles": {
+        "ja": "がうる・ぐらの生きがい",
+        "en": "Gawr Gura Gnawing"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-03-19",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 201,
+      "title": "WTB Sidekick",
+      "titles": {
+        "ja": "私の助手になってくれたまえ!",
+        "en": "WTB Sidekick"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-03-26",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 202,
+      "title": "We Talking About Feelings",
+      "titles": {
+        "ja": "「エモい」について考えてみた",
+        "en": "We Talking About Feelings"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-04-02",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 203,
+      "title": "Sell Us This Pen",
+      "titles": {
+        "ja": "このペンを私に1万円で売ってください",
+        "en": "Sell Us This Pen"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-04-09",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 204,
+      "title": "Odd Jobs",
+      "titles": {
+        "ja": "そんな余裕あったらこうなってないよ",
+        "en": "Odd Jobs"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-04-16",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 205,
+      "title": "Lost and Phoned",
+      "titles": {
+        "ja": "スマホなくしちゃった!!!!!",
+        "en": "Lost and Phoned"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-04-23",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 206,
+      "title": "Traveling the World Collecting the 508 Cursed Swords",
+      "titles": {
+        "ja": "妖刀蒐集508振り封印行脚の旅",
+        "en": "Traveling the World Collecting the 508 Cursed Swords"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-04-30",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 207,
+      "title": "Hot Stuff",
+      "titles": {
+        "ja": "あたしが推し",
+        "en": "Hot Stuff"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-05-07",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 208,
+      "title": "We`ve Switched... ?!",
+      "titles": {
+        "ja": "入れ替わってる???",
+        "en": "We`ve Switched... ?!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-05-14",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 209,
+      "title": "It`s May, Yo",
+      "titles": {
+        "ja": "マヨネーズは飲み物",
+        "en": "It`s May, Yo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-05-21",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 210,
+      "title": "Angel or Demon?",
+      "titles": {
+        "ja": "悪魔なの？天使なの?",
+        "en": "Angel or Demon?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-05-28",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 211,
+      "title": "Face the Wrath of Mother Nature",
+      "titles": {
+        "ja": "大自然の脅威を知るがよい",
+        "en": "Face the Wrath of Mother Nature"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-06-04",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 212,
+      "title": "Must Protecc",
+      "titles": {
+        "ja": "守護ってあげるよ!",
+        "en": "Must Protecc"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-06-11",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 213,
+      "title": "Top Rat",
+      "titles": {
+        "ja": "ボクがテッペンだっ",
+        "en": "Top Rat"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-06-18",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 214,
+      "title": "Leap Through Time",
+      "titles": {
+        "ja": "時をかけよう!",
+        "en": "Leap Through Time"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-06-25",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 215,
+      "title": "Bah, Humbug",
+      "titles": {
+        "ja": "4人の絆で乗り越えろ!!",
+        "en": "Bah, Humbug"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-07-02",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 216,
+      "title": "Summer, Summer Go Away",
+      "titles": {
+        "ja": "夏なんて無くなれ~",
+        "en": "Summer, Summer Go Away"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-07-09",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 217,
+      "title": "When an Idol Runs a Company",
+      "titles": {
+        "ja": "アイドルが会社経営してみた",
+        "en": "When an Idol Runs a Company"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-07-16",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 218,
+      "title": "From Riches to Rags",
+      "titles": {
+        "ja": "埋蔵金を掘り当てろ!!",
+        "en": "From Riches to Rags"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-07-23",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 219,
+      "title": "Present President",
+      "titles": {
+        "ja": "社長! うれしそうですな!",
+        "en": "Present President"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-07-30",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 220,
+      "title": "The Battle of Sushi Plate",
+      "titles": {
+        "ja": "全員集合!! インドネシア寿司バトル",
+        "en": "The Battle of Sushi Plate"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-08-06",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 221,
+      "title": "Sea of Band-its",
+      "titles": {
+        "ja": "海でバンドしよう!!",
+        "en": "Sea of Band-its"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-08-13",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 222,
+      "title": "When Birds Can`t Fly",
+      "titles": {
+        "ja": "鳥って飛べないんですか?",
+        "en": "When Birds Can`t Fly"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-08-20",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 223,
+      "title": "Summer = Swimsuit Battle!",
+      "titles": {
+        "ja": "夏だ! 水着でバトル!?",
+        "en": "Summer = Swimsuit Battle!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-08-27",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 224,
+      "title": "Rawr! Zombie Panic!",
+      "titles": {
+        "ja": "がおー!! ゾンビパニック!!",
+        "en": "Rawr! Zombie Panic!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-09-03",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 225,
+      "title": "Lethal Weapon",
+      "titles": {
+        "ja": "武器でーす✌(^ ^)✌",
+        "en": "Lethal Weapon"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-09-10",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 226,
+      "title": "hololive Baseball Classic",
+      "titles": {
+        "ja": "ホロライブ草野球大会!",
+        "en": "hololive Baseball Classic"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-09-17",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 227,
+      "title": "Hungry Hungry Holos",
+      "titles": {
+        "ja": "おなかすいちゃったの?",
+        "en": "Hungry Hungry Holos"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-09-24",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 228,
+      "title": "The Battle of Water Doom",
+      "titles": {
+        "ja": "お水を奪い合ったばっかりに...",
+        "en": "The Battle of Water Doom"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-10-01",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 229,
+      "title": "When the Magic Is Gone",
+      "titles": {
+        "ja": "魔法を思い出したいお嬢様",
+        "en": "When the Magic Is Gone"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-10-08",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 230,
+      "title": "Self-Esteem Stonks",
+      "titles": {
+        "ja": "自己肯定感が乱高下するメイド",
+        "en": "Self-Esteem Stonks"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-10-15",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 231,
+      "title": "Tell Us How You Really Feel",
+      "titles": {
+        "ja": "マニュアルじゃないホントの気持ち!",
+        "en": "Tell Us How You Really Feel"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-10-22",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 232,
+      "title": "Forgery",
+      "titles": {
+        "ja": "君を鍛えちゃうぞ~?",
+        "en": "Forgery"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-10-29",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 233,
+      "title": "Fresh Stock",
+      "titles": {
+        "ja": "新ネタ入荷しました~♪",
+        "en": "Fresh Stock"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-11-05",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 234,
+      "title": "Rain, Rain, Fall Away",
+      "titles": {
+        "ja": "天気を操る女の子! あめあめふれふれ~!",
+        "en": "Rain, Rain, Fall Away"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-11-12",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 235,
+      "title": "You Belong",
+      "titles": {
+        "ja": "一緒にいてほしいの",
+        "en": "You Belong"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-11-19",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 236,
+      "title": "Secret Society`s Workday Routine",
+      "titles": {
+        "ja": "秘密結社の平日ルーティン✰･*:.｡ ｡.:*･ﾟ✽.｡.:*・ﾟ",
+        "en": "Secret Society`s Workday Routine"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-11-26",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 237,
+      "title": "The GOAT Fit",
+      "titles": {
+        "ja": "みんながメロメロになる衣装",
+        "en": "The GOAT Fit"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-12-03",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 238,
+      "title": "Red Light, Red Flags",
+      "titles": {
+        "ja": "だるまさんから異次元に突入する方法",
+        "en": "Red Light, Red Flags"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-12-10",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 239,
+      "title": "Sleeve Is for the Weak",
+      "titles": {
+        "ja": "祈れば服がはじけ飛ぶ",
+        "en": "Sleeve Is for the Weak"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-12-17",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 240,
+      "title": "Xmas Together",
+      "titles": {
+        "ja": "クリスマスは一緒に過ごしたい!",
+        "en": "Xmas Together"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-12-24",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 241,
+      "title": "Out with the Old",
+      "titles": {
+        "ja": "年末に遊ぶな!! 準備しろ!!!",
+        "en": "Out with the Old"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-12-31",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 242,
+      "title": "New Year Green Room Interviews!",
+      "titles": {
+        "ja": "年越し! 楽屋インタビュー!?",
+        "en": "New Year Green Room Interviews!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-01-07",
+      "runtime": 8,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 243,
+      "title": "The Top 10 WTF Punchlines! (2024 Edition)",
+      "titles": {
+        "ja": "どうなる! 驚愕のラストTop10",
+        "en": "The Top 10 WTF Punchlines! (2024 Edition)"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-01-14",
+      "runtime": null,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 244,
+      "title": "The Cold, Hard Truth",
+      "titles": {
+        "ja": "風邪ひくってば",
+        "en": "The Cold, Hard Truth"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-01-21",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 245,
+      "title": "WTB Band Members!",
+      "titles": {
+        "ja": "バンドメンバー募集!!",
+        "en": "WTB Band Members!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-01-28",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 246,
+      "title": "Hospitality from Hell",
+      "titles": {
+        "ja": "地獄のおもてなし",
+        "en": "Hospitality from Hell"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-02-04",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 247,
+      "title": "The Wanted",
+      "titles": {
+        "ja": "脱獄女、ついに捕まる",
+        "en": "The Wanted"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-02-11",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 248,
+      "title": "The Loco Motive",
+      "titles": {
+        "ja": "敷かれたレールは走らねぇ!",
+        "en": "The Loco Motive"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-02-18",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 249,
+      "title": "Lumber? Hardly Knew `Er!",
+      "titles": {
+        "ja": "森林伐採",
+        "en": "Lumber? Hardly Knew `Er!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-02-25",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 250,
+      "title": "holo*gra",
+      "titles": {
+        "ja": "ホロ☆ぐら",
+        "en": "holo*gra"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-03-03",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 251,
+      "title": "Parachute Lost",
+      "titles": {
+        "ja": "パラシュート忘れました",
+        "en": "Parachute Lost"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-03-10",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 252,
+      "title": "My Precious",
+      "titles": {
+        "ja": "誰にも渡さん!!!",
+        "en": "My Precious"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-03-17",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 253,
+      "title": "Scot Free",
+      "titles": {
+        "ja": "助けて出れない!!!",
+        "en": "Scot Free"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-03-24",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 254,
+      "title": "Coming Back to Bite You",
+      "titles": {
+        "ja": "はむはむ! かじっちゃうぞー!",
+        "en": "Coming Back to Bite You"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-03-31",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 255,
+      "title": "Babysittr",
+      "titles": {
+        "ja": "今日からベビーシッター",
+        "en": "Babysittr"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-04-07",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 256,
+      "title": "Bugs Many",
+      "titles": {
+        "ja": "スバルのギャルゲー作ったった",
+        "en": "Bugs Many"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-04-14",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 257,
+      "title": "Fubzilla vs. Pigeotaurus",
+      "titles": {
+        "ja": "大怪獣バトル! フブラvsハトタウロス",
+        "en": "Fubzilla vs. Pigeotaurus"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-04-21",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 258,
+      "title": "Hands on the Merchandise",
+      "titles": {
+        "ja": "ホロぐら、グッズ出すってよ",
+        "en": "Hands on the Merchandise"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-04-28",
+      "runtime": 2,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 259,
+      "title": "It`s Been Five Years...",
+      "titles": {
+        "ja": "5周年! 盛大にやるしかねえな!!",
+        "en": "It`s Been Five Years..."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-05-05",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 260,
+      "title": "Mother`s Day - Expectation vs Reality",
+      "titles": {
+        "ja": "母の日 理想と現実",
+        "en": "Mother`s Day - Expectation vs Reality"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-05-12",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 261,
+      "title": "Chain Reaction",
+      "titles": {
+        "ja": "止められなかった連鎖",
+        "en": "Chain Reaction"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-05-19",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 262,
+      "title": "To Zombie or Not to Zombie",
+      "titles": {
+        "ja": "ゾンビの秘訣教えます。",
+        "en": "To Zombie or Not to Zombie"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-05-26",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 263,
+      "title": "None Shall Pass",
+      "titles": {
+        "ja": "お客様お客様お客様!! 困ります!! あーっ!!!",
+        "en": "None Shall Pass"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-06-02",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 264,
+      "title": "Thrown for a Loop",
+      "titles": {
+        "ja": "みんなの欲望を叶えた結果",
+        "en": "Thrown for a Loop"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-06-09",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 265,
+      "title": "Treasure Chest",
+      "titles": {
+        "ja": "わくわく! 宝箱みつけちゃった!",
+        "en": "Treasure Chest"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-06-16",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 266,
+      "title": "The Invading Forca",
+      "titles": {
+        "ja": "オルカ が せめてきたぞっ",
+        "en": "The Invading Forca"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-06-23",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 267,
+      "title": "Thanks for Having Me!",
+      "titles": {
+        "ja": "お世話になりました！",
+        "en": "Thanks for Having Me!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-06-30",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 268,
+      "title": "Stay Calm and Million",
+      "titles": {
+        "ja": "キレなかったら100万円!",
+        "en": "Stay Calm and Million"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-07-07",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 269,
+      "title": "Not All Capes Wear Heroes",
+      "titles": {
+        "ja": "さかずきんちゃん",
+        "en": "Not All Capes Wear Heroes"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-07-14",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 270,
+      "title": "The Game",
+      "titles": {
+        "ja": "ゲームは人生",
+        "en": "The Game"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-07-21",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 271,
+      "title": "MODs!",
+      "titles": {
+        "ja": "今日は尾丸ポルカを改造するわよ!",
+        "en": "MODs!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-07-28",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 272,
+      "title": "That",
+      "titles": {
+        "ja": "そこにいる",
+        "en": "That"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-08-04",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 273,
+      "title": "Concert IDeas",
+      "titles": {
+        "ja": "今日はちっちゃいムーナいます",
+        "en": "Concert IDeas"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-08-11",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 274,
+      "title": "Deconstruction of the Magical Girl Genre",
+      "titles": {
+        "ja": "おジャ魔女マリン",
+        "en": "Deconstruction of the Magical Girl Genre",
+        "x-jat": "Ojamajo Marin"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-08-18",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 275,
+      "title": "See You!",
+      "titles": {
+        "ja": "あーばよっ",
+        "en": "See You!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-08-25",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 276,
+      "title": "Random Access Memories",
+      "titles": {
+        "ja": "記憶モグモグお姉さん",
+        "en": "Random Access Memories"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-09-01",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 277,
+      "title": "All That Glitters",
+      "titles": {
+        "ja": "感情結晶ベイビー",
+        "en": "All That Glitters"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-09-08",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 278,
+      "title": "Don`t Sing for the Moment",
+      "titles": {
+        "ja": "アイドルちゅきちゅきデーモン",
+        "en": "Don`t Sing for the Moment"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-09-15",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 279,
+      "title": "Who Let the Dogs In?",
+      "titles": {
+        "ja": "荒ぶる番犬シスターズ",
+        "en": "Who Let the Dogs In?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-09-22",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 280,
+      "title": "It`s Me, It`s Me!",
+      "titles": {
+        "ja": "待たせたね！僕だよ☆",
+        "en": "It`s Me, It`s Me!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-09-29",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 281,
+      "title": "It`s Kanade`s Kana-day!",
+      "titles": {
+        "ja": "おまえら! 奏のホロぐら見ろ!!",
+        "en": "It`s Kanade`s Kana-day!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-10-06",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 282,
+      "title": "Let Them Have Cake",
+      "titles": {
+        "ja": "りりか, 弁当で世界とります!!!",
+        "en": "Let Them Have Cake"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-10-13",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 283,
+      "title": "Here Comes Raden with a Steel Chair",
+      "titles": {
+        "ja": "らでん、改名します!!! しません!!!",
+        "en": "Here Comes Raden with a Steel Chair"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-10-20",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 284,
+      "title": "Fine Speech",
+      "titles": {
+        "ja": "押忍!! ば～んちょ だじぇ!",
+        "en": "Fine Speech"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-10-27",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 285,
+      "title": "Descending the Ladder",
+      "titles": {
+        "ja": "holoX加入しました",
+        "en": "Descending the Ladder"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-11-03",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 286,
+      "title": "Til Kingdom Come",
+      "titles": {
+        "ja": "建国! フブキングダム",
+        "en": "Til Kingdom Come"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-11-10",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 287,
+      "title": "Oni Are like Onions",
+      "titles": {
+        "ja": "鬼の笑わせ方知ってる?",
+        "en": "Oni Are like Onions"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-11-17",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 288,
+      "title": "Lost and Found and Lost",
+      "titles": {
+        "ja": "記憶 全ロス",
+        "en": "Lost and Found and Lost"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-11-24",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 289,
+      "title": "Memento",
+      "titles": {
+        "ja": "holoX結成秘話!?",
+        "en": "Memento"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-12-01",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 290,
+      "title": "U Maid?",
+      "titles": {
+        "ja": "フワモコたんのメイド姿ですぞｗｗおうふｗｗ",
+        "en": "U Maid?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-12-08",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 291,
+      "title": "Free Real Estate",
+      "titles": {
+        "ja": "イケメンぶっ◯しゾーンがある家",
+        "en": "Free Real Estate"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-12-15",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 292,
+      "title": "If I Speak, I Am In Big Trouble",
+      "titles": {
+        "ja": "致命的なネタバレをする記者会見",
+        "en": "If I Speak, I Am In Big Trouble"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-12-22",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 293,
+      "title": "Fury Roll",
+      "titles": {
+        "ja": "終末は陽気にドライブ",
+        "en": "Fury Roll"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-12-29",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 294,
+      "title": "VHS",
+      "titles": {
+        "ja": "撮れ高ハンター",
+        "en": "VHS"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-01-05",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 295,
+      "title": "Let`s Rassle! &lt;3",
+      "titles": {
+        "ja": "一緒にすもうか♡",
+        "en": "Let`s Rassle! &lt;3"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-01-12",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 296,
+      "title": "So Long, and Thanks for All the Fish",
+      "titles": {
+        "ja": "holoXのインターン、沙花叉クロヱ!",
+        "en": "So Long, and Thanks for All the Fish"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-01-19",
+      "runtime": 5,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 297,
+      "title": "Let Our Fists Do the Talking",
+      "titles": {
+        "ja": "拳で語れよ",
+        "en": "Let Our Fists Do the Talking"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-01-26",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 298,
+      "title": "Solitary Noel",
+      "titles": {
+        "ja": "孤独のノエル",
+        "en": "Solitary Noel"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-02-02",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 299,
+      "title": "FBKINGDOM: Electric Boogaloo",
+      "titles": {
+        "ja": "制裁きーつね!",
+        "en": "FBKINGDOM: Electric Boogaloo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-02-09",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 300,
+      "title": "Better Late Than Never",
+      "titles": {
+        "ja": "くらえ！遅くなるクスリ!!",
+        "en": "Better Late Than Never"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-02-16",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 301,
+      "title": "Challenge Accepted",
+      "titles": {
+        "ja": "シオンのためなら頑張れるよね⌒☆",
+        "en": "Challenge Accepted"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-02-23",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 302,
+      "title": "Don`t Worry, We`ve Got This",
+      "titles": {
+        "ja": "先輩の力みせてあげる!",
+        "en": "Don`t Worry, We`ve Got This"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-03-02",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 303,
+      "title": "A Real Game Changer",
+      "titles": {
+        "ja": "大変なものが映ってるぞ!!!",
+        "en": "A Real Game Changer"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-03-09",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 304,
+      "title": "Lady Luck Is Smiling",
+      "titles": {
+        "ja": "ハズレだけ引き続けた結果",
+        "en": "Lady Luck Is Smiling"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-03-16",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 305,
+      "title": "Give It to Me Straight, Doc",
+      "titles": {
+        "ja": "人間では出ない異常な数値",
+        "en": "Give It to Me Straight, Doc"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-03-23",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 306,
+      "title": "Two Heads Are Better than One",
+      "titles": {
+        "ja": "脳内会議を壊して暴走中ｗｗ",
+        "en": "Two Heads Are Better than One"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-03-30",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 307,
+      "title": "With Great Power...",
+      "titles": {
+        "ja": "マリン、愛でしびれたいんですぅ～!!",
+        "en": "With Great Power..."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-04-06",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 308,
+      "title": "Goodness Gracious",
+      "titles": {
+        "ja": "BAU BAU! ぶっ飛んだお散歩ですわよ〜!",
+        "en": "Goodness Gracious"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-04-13",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 309,
+      "title": "Our Magic Was Here",
+      "titles": {
+        "ja": "とっておきの魔法",
+        "en": "Our Magic Was Here"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-04-20",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 310,
+      "title": "Memories I Will Not Forget",
+      "titles": {
+        "ja": "私の素敵な思い出",
+        "en": "Memories I Will Not Forget"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-04-25",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 311,
+      "title": "The Shark`s Voyage",
+      "titles": {
+        "ja": "旅立ちのサメ! がうる・ぐら!",
+        "en": "The Shark`s Voyage"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-04-27",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 312,
+      "title": "Deja Vu",
+      "titles": {
+        "ja": "操縦されて暴走するミオしゃ",
+        "en": "Deja Vu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-05-04",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 313,
+      "title": "Who You Gonna Call Now?",
+      "titles": {
+        "ja": "まだオカルトとか信じちゃってる感じw?",
+        "en": "Who You Gonna Call Now?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-05-11",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 314,
+      "title": "Buzzkill",
+      "titles": {
+        "ja": "独特な鳴き声のセミ......? いやこれアイドルですね......",
+        "en": "Buzzkill"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-05-18",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 315,
+      "title": "Multiple Personyality Disorder",
+      "titles": {
+        "ja": "ぺ\"る\"そ\"に\"ゃ\"～! どの僕が好きかな...♡",
+        "en": "Multiple Personyality Disorder"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-05-25",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 316,
+      "title": "Daylight Savings",
+      "titles": {
+        "ja": "溶けちゃうくらい凄いか～も",
+        "en": "Daylight Savings"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-06-01",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 317,
+      "title": "Hello? It`s Me, Mary-san",
+      "titles": {
+        "ja": "もしもし? あたしマリーさん!",
+        "en": "Hello? It`s Me, Mary-san"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-06-08",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 318,
+      "title": "You Look Familiar",
+      "titles": {
+        "ja": "廃屋の人形",
+        "en": "You Look Familiar"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-06-15",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 319,
+      "title": "Not Old Enough",
+      "titles": {
+        "ja": "はじめてのおつかい",
+        "en": "Not Old Enough"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-06-22",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 320,
+      "title": "Peko Stranding",
+      "titles": {
+        "ja": "ぺこ・ストランディング",
+        "en": "Peko Stranding"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-06-29",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 321,
+      "title": "Pop Off",
+      "titles": {
+        "ja": "浴衣 de スナイプ!!!",
+        "en": "Pop Off"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-07-06",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 322,
+      "title": "The Beach Episode",
+      "titles": {
+        "ja": "浜辺でやることリスト 🍉",
+        "en": "The Beach Episode"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-07-13",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 323,
+      "title": "This Summer, Forever!",
+      "titles": {
+        "ja": "私たちの夏は終わらない!",
+        "en": "This Summer, Forever!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-07-20",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 324,
+      "title": "One of Us",
+      "titles": {
+        "ja": "ギャルの中に隠れオタクがおる",
+        "en": "One of Us"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-07-27",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 325,
+      "title": "On the Run",
+      "titles": {
+        "ja": "逃走中",
+        "en": "On the Run"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-08-03",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 326,
+      "title": "A Game of Chicken",
+      "titles": {
+        "ja": "怒らせ☆チキンレース(　 ﾟ∋ﾟ)",
+        "en": "A Game of Chicken"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-08-10",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 327,
+      "title": "One for All",
+      "titles": {
+        "ja": "おそろいアクセが欲しい~!",
+        "en": "One for All"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-08-17",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 328,
+      "title": "The Chosen Ones... ?",
+      "titles": {
+        "ja": "最終決戦の前に半壊してる！！弱すぎぃ～～～👈️＝👉️",
+        "en": "The Chosen Ones... ?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-08-24",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 329,
+      "title": "Kiss From a Rose",
+      "titles": {
+        "ja": "守護って! 正義の女王サマ!",
+        "en": "Kiss From a Rose"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-08-31",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 330,
+      "title": "It`s Gremlins All the Way Up",
+      "titles": {
+        "ja": "イタズラ増殖！グレムリンにご用心",
+        "en": "It`s Gremlins All the Way Up"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-09-07",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 331,
+      "title": "Automaton, Roll Out!",
+      "titles": {
+        "ja": "古代自動人形は人類に反抗する",
+        "en": "Automaton, Roll Out!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-09-14",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 332,
+      "title": "She Who Seeks",
+      "titles": {
+        "ja": "神眼におまかせ! 天然お姉さん!",
+        "en": "She Who Seeks"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-09-21",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 333,
+      "title": "Let`s Play a Game",
+      "titles": {
+        "ja": "やばやば💦デスゲーム被っちゃった!",
+        "en": "Let`s Play a Game"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-09-28",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 334,
+      "title": "Malding",
+      "titles": {
+        "ja": "ぷんぷん! こよ怒りましたー!!",
+        "en": "Malding"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-10-05",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 335,
+      "title": "When Life Gives You Mushrooms",
+      "titles": {
+        "ja": "余った時間でキノコ狩り",
+        "en": "When Life Gives You Mushrooms"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-10-12",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 336,
+      "title": "Better Left Unsaid",
+      "titles": {
+        "ja": "ぺこあずに脳を破壊されるマリン船長",
+        "en": "Better Left Unsaid"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-10-19",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 337,
+      "title": "Home Alone",
+      "titles": {
+        "ja": "わァ... 不審者...",
+        "en": "Home Alone"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-10-26",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 338,
+      "title": "Ace in the Hole",
+      "titles": {
+        "ja": "ホロライブ高校バレー部!",
+        "en": "Ace in the Hole"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-11-02",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 339,
+      "title": "Tell Me About Yourself",
+      "titles": {
+        "ja": "アホ毛返して!",
+        "en": "Tell Me About Yourself"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-11-09",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 340,
+      "title": "Previously On",
+      "titles": {
+        "ja": "ベスト10をご紹介!",
+        "en": "Previously On"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-11-16",
+      "runtime": 3,
+      "rating": "8.60",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 341,
+      "title": "Say It Again",
+      "titles": {
+        "ja": "「ざぁこ♡」「無能♡」「よわよわ♡」「バーカ♡」",
+        "en": "Say It Again"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-11-23",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 342,
+      "title": "Bars & Beatdowns",
+      "titles": {
+        "ja": "ラッパー三銃士を連れてきたよ！",
+        "en": "Bars & Beatdowns"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-11-30",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 343,
+      "title": "Lui-senpai and Niko-tan",
+      "titles": {
+        "ja": "ホロぐらにニコたんがキター!!",
+        "en": "Lui-senpai and Niko-tan"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-12-07",
+      "runtime": 4,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 344,
+      "title": "It`s Not the Size",
+      "titles": {
+        "ja": "ちっちゃくないよ!!",
+        "en": "It`s Not the Size"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-12-14",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 345,
+      "title": "Take My Breath Away",
+      "titles": {
+        "ja": "向こう側の景色、見たくない?",
+        "en": "Take My Breath Away"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-12-21",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 346,
+      "title": "Face Value",
+      "titles": {
+        "ja": "いたずら☆メイクモンスター",
+        "en": "Face Value"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-12-28",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 347,
+      "title": "Kill It with Fire",
+      "titles": {
+        "ja": "投げキッスをあげるよ♡",
+        "en": "Kill It with Fire"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-01-04",
+      "runtime": 2,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 348,
+      "title": "Not Quite My Tempo",
+      "titles": {
+        "ja": "恐ろしく速いタップ。私じゃなきゃ見逃しちゃうね",
+        "en": "Not Quite My Tempo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-01-11",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 349,
+      "title": "As Luck Would Have It",
+      "titles": {
+        "ja": "勝ったら天国!",
+        "en": "As Luck Would Have It"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-01-18",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 350,
+      "title": "Perfect Communication",
+      "titles": {
+        "ja": "話聞く余～？",
+        "en": "Perfect Communication"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-01-25",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 351,
+      "title": "The Japanese Tradition: Business Cards",
+      "titles": {
+        "ja": "イケてる名刺の渡し方",
+        "en": "The Japanese Tradition: Business Cards"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-02-01",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 352,
+      "title": "One More Toast",
+      "titles": {
+        "ja": "2025年終わったってマジ！？",
+        "en": "One More Toast"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-02-08",
+      "runtime": 2,
+      "rating": "3.86",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 353,
+      "title": "IT`S RAW",
+      "titles": {
+        "ja": "お料理サポートナビ「譁?ｭ怜喧縺托ｼ?」",
+        "en": "IT`S RAW"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-02-15",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 354,
+      "title": "Delish Earth",
+      "titles": {
+        "ja": "地球うめぇ！！",
+        "en": "Delish Earth"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-02-22",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 355,
+      "title": "Right on Time",
+      "titles": {
+        "ja": "未来に帰ったら、なぜか美少女殲滅マシーンに襲われた件",
+        "en": "Right on Time"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-03-01",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 356,
+      "title": "Dead Heat",
+      "titles": {
+        "ja": "ほとんど脱落者になる地獄みたいなレース",
+        "en": "Dead Heat"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-03-08",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 357,
+      "title": "My Litttle Sister Is This Cute",
+      "titles": {
+        "ja": "フブにゃは妹～♡フブにゃは妹～♡",
+        "en": "My Litttle Sister Is This Cute"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-03-15",
+      "runtime": 1,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 358,
+      "title": "We`re the Red Rangers!",
+      "titles": {
+        "ja": "我らは赤色戦隊！",
+        "en": "We`re the Red Rangers!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-03-22",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 359,
+      "title": "Liquid Gold",
+      "titles": {
+        "ja": "美少女のスープ",
+        "en": "Liquid Gold"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-03-29",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 360,
+      "title": "Internet Angel",
+      "titles": {
+        "ja": "指示厨だけは勘弁な！",
+        "en": "Internet Angel"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-04-05",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 361,
+      "title": "Royal Flush",
+      "titles": {
+        "ja": "崇拝している先輩に貢ぐ話",
+        "en": "Royal Flush"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-04-12",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 362,
+      "title": "All Bite and No Bark",
+      "titles": {
+        "ja": "ゆるキャラちぎってみた",
+        "en": "All Bite and No Bark"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-04-19",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 363,
+      "title": "Our First Mission! I Tried Sneaking Into the Mint!",
+      "titles": {
+        "ja": "我々の最初の任務！ 造幣局忍び込んでみた！",
+        "en": "Our First Mission! I Tried Sneaking Into the Mint!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-04-26",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 364,
+      "title": "Handle with Care",
+      "titles": {
+        "ja": "全・員・潤・滑",
+        "en": "Handle with Care"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-03",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 365,
+      "title": "Chain of Command",
+      "titles": {
+        "ja": "清楚系ドS上司のペットになったら毎日が天国過ぎた",
+        "en": "Chain of Command"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-10",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 366,
+      "title": "Turn That Off",
+      "titles": {
+        "ja": "ボクが勇者ね。",
+        "en": "Turn That Off"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-17",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 367,
+      "title": "Caught in the Middle",
+      "titles": {
+        "ja": "ギャルに先輩をとられて嫉妬するもワイも即落ち",
+        "en": "Caught in the Middle"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-24",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 368,
+      "title": "Time to Confess",
+      "titles": {
+        "ja": "煩悩まみれのBAN寸前！相談室！",
+        "en": "Time to Confess"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-31",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 369,
+      "title": "Call My Bluff",
+      "titles": {
+        "ja": "誰もルール分かってないんだが?",
+        "en": "Call My Bluff"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-07",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 370,
+      "title": "You`ll Live",
+      "titles": {
+        "ja": "君だけが入れる秘密の診察室",
+        "en": "You`ll Live"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-14",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 371,
+      "title": "Who Put This Here?",
+      "titles": {
+        "ja": "あるのがいけないぺこ",
+        "en": "Who Put This Here?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-21",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 372,
+      "title": "Just Between Us",
+      "titles": {
+        "ja": "お国柄バトル",
+        "en": "Just Between Us"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-28",
+      "runtime": 3,
+      "rating": "9.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 373,
+      "title": "Pour Decisions",
+      "titles": {
+        "ja": "ちょっと酔っちゃったかも。。。",
+        "en": "Pour Decisions"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-05",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 374,
+      "title": "Touching Sand",
+      "titles": {
+        "ja": "地図・連絡手段・食料なし。無人島で生き残るには……",
+        "en": "Touching Sand"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-12",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 375,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-19",
+      "runtime": null,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 376,
+      "title": "No Pain, No Gain",
+      "titles": {
+        "en": "No Pain, No Gain"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-26",
+      "runtime": 3,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 377,
+      "title": "Three Years on the Run... It`s Babyvent!",
+      "titles": {
+        "ja": "3年も逃げてたらそらベイビーになりますよ！",
+        "en": "Three Years on the Run... It`s Babyvent!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-02",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Nothing`s Healed",
+      "titles": {
+        "ja": "万策尽きたー!!",
+        "en": "Nothing`s Healed",
+        "x-jat": "Bansaku Tsukitaa!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-06-16",
+      "runtime": 5,
+      "rating": "4.24",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Episode S2",
+      "titles": {
+        "ja": "コミックマーケット出展記念ホロぐら特別編",
+        "en": "Episode S2",
+        "x-jat": "Comic Market Shutten Kinen Holo Gra Tokubetsu Hen"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-07-30",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S3",
+      "title": "Episode S3",
+      "titles": {
+        "ja": "ホロぐら特番",
+        "en": "Episode S3",
+        "x-jat": "Holo Gra Tokuban"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2019-12-28",
+      "runtime": 50,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S4",
+      "title": "Hologura 1st Anniversary",
+      "titles": {
+        "ja": "ホロぐら一周年! いろんなことがありました",
+        "en": "Hologura 1st Anniversary",
+        "x-jat": "Holo Gra Isshuunen! Ironna Koto ga Arimashita"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-04-29",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S5",
+      "title": "Hey, Let`s Take Some Photos!",
+      "titles": {
+        "ja": "【公式ch.50万人記念】そうだ, 写真撮ろう",
+        "en": "Hey, Let`s Take Some Photos!",
+        "x-jat": "Koushiki Ch. 50 Mannin Kinen: Sou Da, Shashin Torou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-08-11",
+      "runtime": 1,
+      "rating": "3.86",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S6",
+      "title": "Solo Concert Canceled?!",
+      "titles": {
+        "ja": "大事なソロライブが中止!?",
+        "en": "Solo Concert Canceled?!",
+        "x-jat": "Daiji na Solo Live ga Chuushi!?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2020-08-20",
+      "runtime": 2,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S7",
+      "title": "Curry Meshi Commercial",
+      "titles": {
+        "ja": "これが地上波で流れたってマジ?",
+        "en": "Curry Meshi Commercial",
+        "x-jat": "Kore ga Chijouha de Nagaretatte Maji?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2021-07-11",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S8",
+      "title": "Cutting Loose In PSO2",
+      "titles": {
+        "ja": "PSO2の世界で大暴れ! うおおおお!",
+        "en": "Cutting Loose In PSO2"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2022-09-11",
+      "runtime": 3,
+      "rating": "7.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 377,
+  "updatedAt": "2026-09-23T10:33:05.710Z"
+}

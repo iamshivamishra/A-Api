@@ -1,0 +1,413 @@
+{
+  "anilistId": 188139,
+  "malId": 61240,
+  "route": "futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den",
+  "titles": {
+    "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+    "english": "Though I Am an Inept Villainess",
+    "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
+  },
+  "anilist": {
+    "id": 188139,
+    "idMal": 61240,
+    "title": {
+      "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+      "english": "Though I Am an Inept Villainess",
+      "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
+    },
+    "synonyms": [
+      "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
+      "Futsutsuka",
+      "นางร้ายมือใหม่ เป็นกำลังใจให้ด้วยนะเจ้าคะ",
+      "Хоть я и бездарная злодейка"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188139-1qIJfWxym8FX.jpg",
+      "color": "#0d86fe"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
+    "description": "As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.\n<br><br>\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 11,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 12
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 20
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 80,
+    "meanScore": 80,
+    "popularity": 43673,
+    "favourites": 1194,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Doga Kobo"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://futsutsuka.net/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/futsutsuka_PR"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00371881/though-i-am-an-inept-villainess"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2414053"
+      },
+      {
+        "site": "Disney Plus",
+        "url": "https://www.disneyplus.com/browse/entity-79a3e335-2acc-408e-a942-1b0bac47d952"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/82931553"
+      },
+      {
+        "site": "Laftel",
+        "url": "https://laftel.net/item/46212"
+      }
+    ],
+    "trailer": {
+      "id": "nR_vqhD2rGM",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "studios": [
+      "Doga Kobo"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "As maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body&#39;s ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.<br><br>The unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace&#39;s genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court&#39;s inept villainess.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4vmnOQt",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00371881",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "hulu",
+        "url": "wwww.hulu.com/series/8a91ef01-78f6-4c33-9566-841da5a9b053",
+        "name": "Hulu"
+      },
+      {
+        "platform": "disney",
+        "url": "www.disneyplus.com/browse/entity-79a3e335-2acc-408e-a942-1b0bac47d952",
+        "name": "Disney+"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2414053",
+        "name": "BiliBili TV"
+      },
+      {
+        "platform": "netflix",
+        "url": "www.netflix.com/title/82931553",
+        "name": "Netflix"
+      }
+    ],
+    "subTime": "2026-07-12T15:45:00Z",
+    "dubTime": "2026-08-05T07:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 11,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-20T14:45:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 11,
+    "latestEpisode": {
+      "number": 9,
+      "airedAt": "2026-09-16T07:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Wednesday 07:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Though I Am an Inept Villainess",
+      "titles": {
+        "ja": "ふつつかな悪女ではございますが",
+        "en": "Though I Am an Inept Villainess",
+        "de": "Auch wenn ich als Schurkin unerfahren bin",
+        "x-jat": "Futsutsuka na Akujo de wa Gozaimasu ga"
+      },
+      "overview": "Several noble clans live within the Maiden Court, a subset of the Kingdom of Ei's inner court. Reirin the Kou clan Maiden is beautiful and brilliant, currying the favor of Crown Prince Gyoumei. On the other hand, Shu clan Maiden Keigetsu is infamous as a villainess, hated by everyone in the court. On the night of the Double Sevens Festival, Keigetsu uses forbidden magic to swap bodies with Reirin. By the time \"Reirin\" wakes, Keigetsu's execution has already been set. But even in this time of peril, the frail Reirin is actually delighted that she has gained a healthy body...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11031578/screencap/6a521e93dcb89.jpg",
+      "airDate": "2026-07-12T14:45:00Z",
+      "runtime": 24,
+      "rating": "7.04",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "Will I Be Living Here?",
+      "titles": {
+        "ja": "ここで, 暮らすのですか?",
+        "en": "Will I Be Living Here?",
+        "de": "Hier soll ich leben?",
+        "x-jat": "Koko de, Kurasu no Desuka?"
+      },
+      "overview": "As a result of the commotion in the inner court, Reirin is ordered by Noble Consort Shu to relocate her room, though this is simply banishment in disguise. Because the new abode is basically an abandoned shed, Leelee the personal court lady for Keigetsu unleashes the frustrations that has been building up within her heart. After lashing out in anger at Reirin, Leelee says she will not take care of her and leaves. Reirin is left alone, beaming from joy of finally having gained freedom...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881545/screencap/6a5a25981a6f3.jpg",
+      "airDate": "2026-07-19T14:45:00Z",
+      "runtime": 24,
+      "rating": "8.47",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Shoulders Back, Look Forward",
+      "titles": {
+        "ja": "胸を広げ, 視線は前に",
+        "en": "Shoulders Back, Look Forward",
+        "de": "Brust heraus, Blick nach vorn",
+        "x-jat": "Mune o Hiroge, Shisen wa Mae ni"
+      },
+      "overview": "It has been four days since the swap. Reirin, who has been banished to a hut in the Shu Palace, devotes herself to farming utilizing Keigetsu's healthy body. Enjoying a freedom where she doesn't trouble anyone, Reirin spends her days feeling fulfilled. Meanwhile, Leelee is provoked by Gayou, a high court lady from the Kin family who suddenly appeared before her, to harass Reirin...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881546/screencap/6a64dbe4ac7d3.jpg",
+      "airDate": "2026-07-26T14:45:00Z",
+      "runtime": 24,
+      "rating": "8.96",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "My Miracle Comet",
+      "titles": {
+        "ja": "わたくしの, ほうき星",
+        "en": "My Miracle Comet",
+        "de": "Mein Schweifstern",
+        "x-jat": "Watakushi no, Houkiboshi"
+      },
+      "overview": "Keigetsu, suffering from a severe fever, controls a flame to seek help from Reirin. Reirin feels heartbroken seeing Keigetsu managing to calm herself down. Reirin suggests the cancellation of the swap, but the request is rejected. For the upcoming Ghost Festival ritual, Reirin presents Leelee with a garment she had sewn just for Leelee. Meanwhile, Leelee feels that something is off from a certain phrase Reirin unintentionally uttered.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881658/screencap/6a6caa1520f9b.jpg",
+      "airDate": "2026-08-02T14:45:00Z",
+      "runtime": 24,
+      "rating": "7.64",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Who Is That Girl?",
+      "titles": {
+        "ja": "あの女は誰だ",
+        "en": "Who Is That Girl?",
+        "de": "Wer ist das Mädchen?",
+        "x-jat": "Ano Onna wa Dare Da"
+      },
+      "overview": "To settle the score with Gayou who enticed Leelee into harassment, Reirin takes Leelee in tow and heads to the Ghost Festival ritual. Not flinching that a seat was not prepared for her, Reirin wearing a handmade garment with beautiful embroidery stands dignified in the hall. In due time, the offerings of dances by the Maidens begin. Seika of the Kin clan who is hosting the ritual dances brilliantly...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881659/screencap/6a771b2be1fe6.jpg",
+      "airDate": "2026-08-09T14:45:00Z",
+      "runtime": 24,
+      "rating": "9.55",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "I Won`t Let You Die",
+      "titles": {
+        "ja": "死なせたりしない",
+        "en": "I Won`t Let You Die",
+        "de": "Ich lasse nicht zu, dass Ihr sterbt",
+        "x-jat": "Shinasetari Shinai"
+      },
+      "overview": "Reirin finds it suspicious that Seika said there is no one named Gayou in the Kin clan. Just when she was about to ask for details, the Kou clan court lady Tousetsu comes in with a notice that \"Reirin's\" life is in danger! Reirin wishes to save \"Reirin's\" life, but Gyoumei refuses the offer, saying he doesn't trust her. However, the empress Kou Kenshuu tells Reirin that nursing will be allowed if she can show her sincerity by drawing the Bow of Warding all night long.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881660/screencap/6a7fcc7eb97dc.jpg",
+      "airDate": "2026-08-16T14:45:00Z",
+      "runtime": 24,
+      "rating": "9.20",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Meaning of Entrusting a Weapon",
+      "titles": {
+        "ja": "武器を授けることの意味",
+        "en": "Meaning of Entrusting a Weapon",
+        "de": "Die Bedeutung der Entgegennahme einer Waffe",
+        "x-jat": "Buki o Sazukeru Koto no Imi"
+      },
+      "overview": "After drawing the Bow of Warding continuously, Reirin falls unconscious. Reirin awakens to see Tousetsu, who has caught onto the swapping of the Maidens. Around the same time, Keigetsu realizes that a curse was placed on a gift given to her. Meanwhile, at the Maiden Court, a tea party is being held in celebration of \"Reirin's\" recovery. There, Kenshuu reminisces about her days as a Maiden that she spent together with Shu Gabi, the Noble Consort.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881661/screencap/6a89d2d0806a3.jpg",
+      "airDate": "2026-08-23T14:45:00Z",
+      "runtime": 24,
+      "rating": "8.73",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Like a Villainess, Like a Villainess",
+      "titles": {
+        "ja": "悪女らしく悪女らしく",
+        "en": "Like a Villainess, Like a Villainess",
+        "de": "Wie eine Schurkin, wie eine Schurkin",
+        "x-jat": "Akujo Rashiku Akujo Rashiku"
+      },
+      "overview": "Keigetsu realizes that the cause of her illness is a curse created by venomcraft, and has an idea who placed such a curse... Visitation gifts from Seika makes Reirin hypothesize that someone is scheming to make it seem as though the harassment was done by the Kin clan. Worried about Keigetsu, Reirin speaks to a flame. Keigetsu appears in the flame as if to answer that call. But then, Keigetsu asks Reirin for help...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881662/screencap/6a91ca68aa467.jpg",
+      "airDate": "2026-08-30T14:45:00Z",
+      "runtime": 24,
+      "rating": "8.99",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "I Will Make Sure to Save You",
+      "titles": {
+        "ja": "必ずお助けいたします",
+        "en": "I Will Make Sure to Save You",
+        "x-jat": "Kanarazu Otasuke Itashimasu"
+      },
+      "overview": "Reirin realizes that Kenshuu's agony is that of a curse, which gives her an understanding of Gabi's true objective. Reirin asks Gyoumei if she can borrow the Bow of Warding once more, but he will not heed her request. Unable to give up, Reirin heads over alone to see Keigetsu and have the swap cancelled. Right as she passes by Gyoumei, a certain image catches his eye...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881663/screencap/6a9b358537825.jpg",
+      "airDate": "2026-09-06T14:45:00Z",
+      "runtime": 24,
+      "rating": "8.80",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Split Curses, Too",
+      "titles": {
+        "ja": "呪いも半分こ",
+        "en": "Split Curses, Too",
+        "x-jat": "Noroi no Hanbunko"
+      },
+      "overview": "Gyoumei realizes the swap between Reirin and Keigetsu and heads over to the Kou Palace in pursuit of Reirin. Tousetsu is inquired about the circumstances by Gyoumei but cannot divulge the truth because of her promise with Reirin. Gyoumei gets the hint from Tousetsu's behavior and shows his resolve by voluntarily removing his crown. Meanwhile, Reirin heads back to the Shu Palace with Keigetsu in tow to deal with the curse...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881664/screencap/6aa3ff85b96e1.jpg",
+      "airDate": "2026-09-13T14:45:00Z",
+      "runtime": 24,
+      "rating": "8.78",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Quite the Villainess",
+      "titles": {
+        "ja": "たいした悪女ですよ",
+        "en": "Quite the Villainess",
+        "x-jat": "Taishita Akujo Desu yo"
+      },
+      "overview": "With the plans to murder Kenshuu using a curse out in the open, Gabi is cornered. She tries to slash Reirin, but is pinned down on the spot. With everything settled, Reirin and Keigetsu decide to cancel the swap. As they are enveloped in flames, the two Maidens tell each other how they feel...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881665/screencap/6aad12669a611.jpg",
+      "airDate": "2026-09-20T14:45:00Z",
+      "runtime": 24,
+      "rating": "7.44",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Pre-Broadcast Special",
+      "titles": {
+        "ja": "放送直前特番 絶対に見たくなる! SP",
+        "en": "Pre-Broadcast Special",
+        "x-jat": "Housou Chokuzen Tokuban: Zettai ni Mitaku Naru! SP"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-11",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Episode 6 Pre-Broadcast Recap Special",
+      "titles": {
+        "ja": "6話直前! 振り返り特番",
+        "en": "Episode 6 Pre-Broadcast Recap Special",
+        "x-jat": "6 Wa Chokuzen! Furikaeri Tokuban"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-16",
+      "runtime": 55,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 11,
+  "updatedAt": "2026-09-23T06:30:14.591Z"
+}

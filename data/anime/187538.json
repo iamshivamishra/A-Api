@@ -1,0 +1,381 @@
+{
+  "anilistId": 187538,
+  "malId": 61169,
+  "route": "black-torch",
+  "titles": {
+    "romaji": "BLACK TORCH",
+    "english": "BLACK TORCH",
+    "native": "BLACK TORCH"
+  },
+  "anilist": {
+    "id": 187538,
+    "idMal": 61169,
+    "title": {
+      "romaji": "BLACK TORCH",
+      "english": "BLACK TORCH",
+      "native": "BLACK TORCH"
+    },
+    "synonyms": [
+      "ブラックトーチ",
+      "Tocha Negra"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187538-fXVXKYUA3VV6.jpg",
+      "color": "#435dff"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
+    "description": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.\n<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 19
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": 69,
+    "meanScore": 69,
+    "popularity": 70864,
+    "favourites": 1104,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "100studio"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/BlackTorch_EN"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://blacktorch-anime.com"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/BlackTorchAnime"
+      },
+      {
+        "site": "Instagram",
+        "url": "https://www.instagram.com/blacktorchanime/"
+      },
+      {
+        "site": "Instagram",
+        "url": "https://www.instagram.com/blacktorch_en/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00377907/black-torch"
+      },
+      {
+        "site": "Facebook",
+        "url": "https://www.facebook.com/BlackTorchEN"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://blacktorch-anime.com/en/"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/am6qsz178h"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3mx2NrmJSwHk-VtvhmGnZz"
+      }
+    ],
+    "trailer": {
+      "id": "2clp09dITKY",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi",
+      "Shounen",
+      "Supernatural"
+    ],
+    "studios": [
+      "100studio"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Jirou Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jirou is also able to talk with animals. After a mysterious encounter with an injured cat named Ragou, Jirou discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Ragou’s powers.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3QCViMd",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00377907/black-torch",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl3mx2NrmJSwHk-VtvhmGnZz",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-07-04T13:01:00Z",
+    "dubTime": "2026-07-04T13:01:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-19T13:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-19T13:01:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Saturday 13:01 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Future Is in Our Hands",
+      "titles": {
+        "ja": "未来は俺等の手の中",
+        "en": "The Future Is in Our Hands",
+        "de": "Die Zukunft liegt in unseren Händen"
+      },
+      "overview": "When high school animal whisperer and ninja Jiro finds an injured cat, the supernatural unleashes.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11013769/screencap/6a42591b9cb94.jpg",
+      "airDate": "2026-07-04T13:00:00Z",
+      "runtime": 24,
+      "rating": "5.85",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "The Choice Is Yours",
+      "titles": {
+        "ja": "The Choice Is Yours",
+        "en": "The Choice Is Yours",
+        "de": "The Choice Is Yours"
+      },
+      "overview": "Jiro awakens in hospital only to learn he is now under the surveillance of the Bureau of Espionage.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872123/screencap/6a51927a8f0ae.jpg",
+      "airDate": "2026-07-11T13:00:00Z",
+      "runtime": 24,
+      "rating": "3.56",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "What`s My Name?",
+      "titles": {
+        "ja": "WHAT`S MY NAME?",
+        "en": "What`s My Name?",
+        "de": "WHAT`S MY NAME?"
+      },
+      "overview": "Jiro is cuffed in a van, and the tension could be cut with a katana thanks to Jiro’s escort, Ichika.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872124/screencap/6a5b7a3d01abc.jpg",
+      "airDate": "2026-07-18T13:00:00Z",
+      "runtime": 24,
+      "rating": "5.29",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Two Is Not Enough",
+      "titles": {
+        "ja": "たりないふたり",
+        "en": "Two Is Not Enough",
+        "de": "Zwei sind nicht genug"
+      },
+      "overview": "Jiro is pitted against the newest recruit, Reiji, and each challenger’s fist has a tale to tell.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872125/screencap/6a64b66488501.jpg",
+      "airDate": "2026-07-25T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.80",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Young Gunz",
+      "titles": {
+        "ja": "Young Gunz",
+        "en": "Young Gunz"
+      },
+      "overview": "In a subterranean hold, an imposing monolith towers over Jiro and Reiji-- Rago’s former prison.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872126/screencap/6a6a16e3b7fe3.jpg",
+      "airDate": "2026-08-01T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.34",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Turn Up",
+      "titles": {
+        "ja": "Turn Up",
+        "en": "Turn Up"
+      },
+      "overview": "Jiro, Ichika, and Reiji have been handed a new trial, this time from the “friendly” mononoke Fuyo.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872127/screencap/6a73bba39dd02.jpg",
+      "airDate": "2026-08-08T13:00:00Z",
+      "runtime": 24,
+      "rating": "7.34",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "3 On Three",
+      "titles": {
+        "ja": "3 ON THREE",
+        "en": "3 On Three"
+      },
+      "overview": "Mononoke have just committed mass murder, but it's more than just all-you-can-eat human meat.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872128/screencap/6a7dd9f14bc94.jpg",
+      "airDate": "2026-08-15T13:00:00Z",
+      "runtime": 24,
+      "rating": "7.34",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Underdog",
+      "titles": {
+        "ja": "Underdog",
+        "en": "Underdog"
+      },
+      "overview": "The dueler who confronted Reiji is his own kin and Shinji’s inner turmoil is about to finally erupt.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872129/screencap/6a88813d410a1.jpg",
+      "airDate": "2026-08-22T13:00:00Z",
+      "runtime": 24,
+      "rating": "7.62",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "One",
+      "titles": {
+        "ja": "ONE",
+        "en": "One"
+      },
+      "overview": "Finally Jiro has gained consciousness, in a vast warehouse, behind the stone-cold stare of Kusumi.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872130/screencap/6a92172c2a7b8.jpg",
+      "airDate": "2026-08-29T13:00:00Z",
+      "runtime": 24,
+      "rating": "7.62",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Deadly Skillz",
+      "titles": {
+        "ja": "ヤバスギルスキル",
+        "en": "Deadly Skillz"
+      },
+      "overview": "Jiro enters a mononoke’s forest only to meet a new and odd mononoke in the form of a white snake.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872131/screencap/6a9b66733398e.jpg",
+      "airDate": "2026-09-05T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.80",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Black or White",
+      "titles": {
+        "ja": "Black or White",
+        "en": "Black or White"
+      },
+      "overview": "Amagi’s dark ambitions have come to light, but Jiro is determined to save Rago and settle the score!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872132/screencap/6aa4b3651df7d.jpg",
+      "airDate": "2026-09-12T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.80",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Once Again",
+      "titles": {
+        "ja": "ONCE AGAIN",
+        "en": "Once Again",
+        "x-jat": "Once Again"
+      },
+      "overview": "A superpowered Amagi stands before Jiro while, cloaked in a Rago forcefield, a defiant Jiro awaits.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872133/screencap/6aad9a466892e.jpg",
+      "airDate": "2026-09-19T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.34",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T06:30:13.263Z"
+}

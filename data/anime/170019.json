@@ -1,0 +1,397 @@
+{
+  "anilistId": 170019,
+  "malId": 56876,
+  "route": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2nd-season",
+  "titles": {
+    "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+    "english": "The Angel Next Door Spoils Me Rotten2",
+    "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期"
+  },
+  "anilist": {
+    "id": 170019,
+    "idMal": 56876,
+    "title": {
+      "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+      "english": "The Angel Next Door Spoils Me Rotten2",
+      "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期"
+    },
+    "synonyms": [
+      "The Angel Next Door Spoils Me Rotten Season 2",
+      "ขาดคุณนางฟ้าข้างห้องไป ผมคงมีชีวิตต่อไปไม่ได้อีกแล้ว2",
+      "Meu Anjo de Vizinha Me Mima Demais 2",
+      "Chouchouté par l’ange d’à côté saison 2",
+      "Ангел по соседству меня балует 2",
+      "關於我在無意間被隔壁的天使變成廢柴這件事",
+      "Aku Dimanjakan Tetanggaku yang Seperti Malaikat"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx170019-djbN0b934MhE.jpg",
+      "color": "#e4d628"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170019-A0w3tt6rat1N.jpg",
+    "description": "Now a couple, Amane and Mahiru navigate school life and overcome their pasts in this sweet love story.\n<br><br>\n(Source: Crunchyroll News)\n<br><br>\n<i>Note: Crunchyroll has labeled the English title under the name \"The Angel Next Door Spoils Me Rotten2\", so while it seems erroneous for the title not to have a space between the name and 2, it is what the series is officially labeled as.</i>",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 6,
+      "day": 19
+    },
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 72,
+    "meanScore": 72,
+    "popularity": 78918,
+    "favourites": 2147,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "project No.9"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://otonarino-tenshisama.jp/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/tenshisama_PR"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@tenshisama_pr"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/G9VHN91DJ/the-angel-next-door-spoils-me-rotten"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2343630"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjhVqkAt1bFMDpgrRsby7Z_"
+      }
+    ],
+    "trailer": {
+      "id": "8Gtb1uhjPKs",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Romance",
+      "School",
+      "Slice of Life"
+    ],
+    "studios": [
+      "project No.9"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The second season of <span class=\"italics\">Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken</span>.<br><br>Now a couple, Amane and Mahiru navigate school life and overcome their pasts in this sweet love story.<br><br>(Source: Crunchyroll News)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3Oh5iJG",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/G9VHN91DJ/the-angel-next-door-spoils-me-rotten",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4c2EOo7",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLxSscENEp7JjhVqkAt1bFMDpgrRsby7Z_",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2343630",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-04-03T14:30:00Z",
+    "dubTime": "2026-08-05T14:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": "2026-09-17T00:00:00Z"
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-06-19T13:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Friday 14:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 8,
+      "airedAt": "2026-05-22T13:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 9,
+      "at": "2026-09-24T14:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 14:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Going to School Together and Making a Debut",
+      "titles": {
+        "ja": "二人での登校とお披露目",
+        "en": "Going to School Together and Making a Debut",
+        "de": "Gemeinsam zur Schule gehen und Bekanntmachung",
+        "x-jat": "Futari de no Toukou to Ohirome"
+      },
+      "overview": "Now officially dating, Amane and Mahiru surprise their classmates when they go public with their relationship.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10078790/screencap/69cf0aabef731.jpg",
+      "airDate": "2026-04-03T13:30:00Z",
+      "runtime": 24,
+      "rating": "5.37",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "The Start of Summer Vacation",
+      "titles": {
+        "ja": "夏休みの始まり",
+        "en": "The Start of Summer Vacation",
+        "de": "Der Beginn der Sommerferien",
+        "x-jat": "Natsuyasumi no Hajimari"
+      },
+      "overview": "Amane and Mahiru discuss their feelings and then spend a day at the pool, where Mahiru debuts a new swimsuit.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703587/screencap/69d8552f710d0.jpg",
+      "airDate": "2026-04-10T13:30:00Z",
+      "runtime": 24,
+      "rating": "4.21",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Homecoming, and Revealing the Relationship",
+      "titles": {
+        "ja": "帰省と過去との決別",
+        "en": "Homecoming, and Revealing the Relationship",
+        "de": "Heimkehr und Abschluss mit der Vergangenheit",
+        "x-jat": "Kisei to Kako to no Ketsubetsu"
+      },
+      "overview": "While visiting Amane's parents, Mahiru learns about Amane's youth and Amane runs into a figure from his past.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703588/screencap/69e216d8f38e6.jpg",
+      "airDate": "2026-04-17T13:30:00Z",
+      "runtime": 24,
+      "rating": "5.37",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "A Stay-at-Home Date with the Angel",
+      "titles": {
+        "ja": "天使様とおうちデート",
+        "en": "A Stay-at-Home Date with the Angel",
+        "de": "Ein Date zu Hause mit dem Engel",
+        "x-jat": "Tenshi-sama to Ouchi Date"
+      },
+      "overview": "The family goes shopping and then Amane and Mahiru have a date at home when rain spoils their plans to go out.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703589/screencap/69ea86835d39a.jpg",
+      "airDate": "2026-04-24T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "A Summer Festival with the Angel",
+      "titles": {
+        "ja": "天使様と夏祭り",
+        "en": "A Summer Festival with the Angel",
+        "de": "Ein Sommerfest mit dem Engel",
+        "x-jat": "Tenshi-sama to Natsumatsuri"
+      },
+      "overview": "After returning from their visit to Amane's hometown, Amane takes Mahiru out to see her first summer festival.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703590/screencap/69f392cfb1003.jpg",
+      "airDate": "2026-05-01T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "A Once-Desired, Now Undesired Meeting, and a Resolution",
+      "titles": {
+        "ja": "かつて望んだ望まぬ出会いと, 決意",
+        "en": "A Once-Desired, Now Undesired Meeting, and a Resolution",
+        "de": "Eine einst ersehnte, nun unerwünschte Begegnung und ein Entschluss",
+        "x-jat": "Katsute Nozonda Boumanu Deai to, Ketsui"
+      },
+      "overview": "Amane and Mahiru discuss their options when a man from Mahiru's past unexpectedly shows up at their building.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703591/screencap/69fb78c3be83b.jpg",
+      "airDate": "2026-05-08T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "The Angel`s Pleas",
+      "titles": {
+        "ja": "天使様のおねだり",
+        "en": "The Angel`s Pleas",
+        "de": "Die Bitte eines Engels",
+        "x-jat": "Tenshi-sama no Onedari"
+      },
+      "overview": "Mahiru and Amane talk about next steps as they get ready for the culture festival and their class's maid café.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703592/screencap/6a04a9ee5ae14.jpg",
+      "airDate": "2026-05-15T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Culture Festival, Day One",
+      "titles": {
+        "ja": "文化祭, 開幕",
+        "en": "Culture Festival, Day One",
+        "de": "Kulturfest, erster Tag",
+        "x-jat": "Bunkasai, Kaimaku"
+      },
+      "overview": "Mahiru and Amane get a lot of attention dressed up for their maid and butler cafe during the school festival.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703593/screencap/6a0dd05b4cbc4.jpg",
+      "airDate": "2026-05-22T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "The Angel`s Request",
+      "titles": {
+        "ja": "天使様のお願い",
+        "en": "The Angel`s Request",
+        "de": "Der Wunsch des Engels",
+        "x-jat": "Tenshi-sama no Onegai"
+      },
+      "overview": "Amane's parents visit the school festival and Itsuki explains why his father is unwilling to accept Chitose.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703594/screencap/6a173baacacf3.jpg",
+      "airDate": "2026-05-29T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "An Important Promise with the Angel",
+      "titles": {
+        "ja": "天使様と大切な約束",
+        "en": "An Important Promise with the Angel",
+        "de": "Ein wichtiges Versprechen dem Engel gegenüber",
+        "x-jat": "Tenshi-sama to Taisetsu na Yakusoku"
+      },
+      "overview": "Amane worries about taking proper responsibility before he and Mahiru embark on a more intimate relationship.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703595/screencap/6a22de1a11d8f.jpg",
+      "airDate": "2026-06-05T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "First Part-Time Job",
+      "titles": {
+        "ja": "初めてのバイト",
+        "en": "First Part-Time Job",
+        "de": "Der erste Teilzeitjob",
+        "x-jat": "Hajimete no Baito"
+      },
+      "overview": "Amane goes behind Itsuki's back and starts a part-time job in order to save up for a special gift for Mahiru.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703596/screencap/6a2953b2c11a5.jpg",
+      "airDate": "2026-06-12T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "The Angel`s Big Day Arrives",
+      "titles": {
+        "ja": "そうして迎えた天使様のXデー",
+        "en": "The Angel`s Big Day Arrives",
+        "de": "Der große Tag des Engels steht an",
+        "x-jat": "Soshite Mukaeta Tenshi-sama no X Day"
+      },
+      "overview": "Mahiru prepares a special meal for Amane on a special day, and the two clarify their feelings for each other.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703597/screencap/6a32fe8bb0a09.jpg",
+      "airDate": "2026-06-19T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.762Z"
+}

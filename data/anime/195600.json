@@ -1,0 +1,622 @@
+{
+  "anilistId": 195600,
+  "malId": 62001,
+  "route": "yomi-no-tsugai",
+  "titles": {
+    "romaji": "Yomi no Tsugai",
+    "english": "Daemons of the Shadow Realm",
+    "native": "黄泉のツガイ"
+  },
+  "anilist": {
+    "id": 195600,
+    "idMal": 62001,
+    "title": {
+      "romaji": "Yomi no Tsugai",
+      "english": "Daemons of the Shadow Realm",
+      "native": "黄泉のツガイ"
+    },
+    "synonyms": [
+      "ヨミツガ",
+      "YomiTsuga",
+      "Pasangan dari Alam Baka",
+      "ยมลแห่งยมโลก",
+      "Daemons do Reino das Sombras",
+      "Espíritus del Inframundo",
+      "Цугаи загробного мира",
+      "Kontraduety z zaświatów",
+      "Цуґаї потойбіччя"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195600-moI0UFArtOme.jpg",
+      "color": "#e49335"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
+    "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 24,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 19
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "averageScore": 78,
+    "meanScore": 78,
+    "popularity": 137375,
+    "favourites": 3182,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "bones film"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/tsugai_official"
+      },
+      {
+        "site": "Official Site",
+        "url": "http://yominotsugai.com/"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@tsugai_official"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://crunchyroll.com/series/GT00371630/daemons-of-the-shadow-realm"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/1tmesonumnx"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2342276"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/82719204"
+      }
+    ],
+    "trailer": {
+      "id": "XCyj9KKKjUI",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Shounen",
+      "Supernatural"
+    ],
+    "studios": [
+      "BONES FILM"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Yuru, a young hunter who lives in a small village deep in the mountains, hunts wild game and leads a humble life with Asa, his younger twin sister. Their peaceful lives are torn apart when a dragon’s roar echoes across the sky. What secrets lurk within their village? What fate awaits them? Enter a breathtaking mystical fantasy as exciting Daemon battles intertwine the mysterious and supernatural.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4t3w3jK",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00371630/daemons-of-the-shadow-realm",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/45vu2mA",
+        "name": "Amazon"
+      },
+      {
+        "platform": "netflix",
+        "url": "www.netflix.com/title/82719204",
+        "name": "Netflix"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2342276",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-04-03T16:00:00Z",
+    "dubTime": "2026-04-03T16:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": "2026-07-18T00:00:00Z"
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 24,
+      "airedAt": "2026-09-19T14:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Friday 16:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 22,
+      "airedAt": "2026-09-05T14:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 23,
+      "at": "2026-09-26T16:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 16:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Asa and Yuru",
+      "titles": {
+        "ja": "アサとユル",
+        "en": "Asa and Yuru",
+        "de": "Asa und Yuru",
+        "x-jat": "Asa to Yuru"
+      },
+      "overview": "In a world where certain humans command mighty supernatural duos called Daemons, it is the birthright of \"the children who sunder day and night\"—twins Yuru and Asa—to rule over these powerful entities. Separated from a young age and unaware of the truth of their birth, brother and sister must fight to make their way back to each other, claim their birthright, and save the world...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11231088/screencap/69c92289cda6a.jpg",
+      "airDate": "2026-04-04T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.77",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Left and Right",
+      "titles": {
+        "ja": "右と左",
+        "en": "Left and Right",
+        "de": "Linke und Rechter",
+        "x-jat": "Migi to Hidari"
+      },
+      "overview": "Guided by Dera, Yuru flees from his pursuers and awakens the guardian deities of the village.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591469/screencap/69d4dbb223e62.jpg",
+      "airDate": "2026-04-11T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.74",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Dera and Hana",
+      "titles": {
+        "ja": "デラとハナ",
+        "en": "Dera and Hana",
+        "de": "Dera und Hana",
+        "x-jat": "Dera to Hana"
+      },
+      "overview": "Yuru learns the truth about his village and learns the rules of modern society as he rides down the mountain.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591470/screencap/69de2e89b871e.jpg",
+      "airDate": "2026-04-18T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.92",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Jin and Yuru",
+      "titles": {
+        "ja": "ジンとユル",
+        "en": "Jin and Yuru",
+        "de": "Jin und Yuru",
+        "x-jat": "Jin to Yuru"
+      },
+      "overview": "After a short rest, Yuru and his Daemons begin their search for Asa by sniffing out her blood.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591471/screencap/69e740f2b7d74.jpg",
+      "airDate": "2026-04-25T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.02",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Hare and Tortoise",
+      "titles": {
+        "ja": "兎と亀",
+        "en": "Hare and Tortoise",
+        "de": "Hase und Schildkröte",
+        "x-jat": "Usagi to Kame"
+      },
+      "overview": "Yuru and his Daemons track the scent of Asa's blood to a warehouse, where they encounter Jin and his men.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591472/screencap/69f084066a8af.jpg",
+      "airDate": "2026-05-02T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.96",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "The Kagemori Clan and the Unknown Assailants",
+      "titles": {
+        "ja": "影森家と謎の襲撃者",
+        "en": "The Kagemori Clan and the Unknown Assailants",
+        "de": "Der Kagemori-Clan und die rätselhaften Angreifer",
+        "x-jat": "Kagemori-ke to Nazo no Shuugekisha"
+      },
+      "overview": "Yuru is reunited with Asa at the Kagemori mansion and asks her about their parents.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591473/screencap/69f9ba1cc1c1c.jpg",
+      "airDate": "2026-05-09T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.58",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Asa and Break",
+      "titles": {
+        "ja": "アサと「解」",
+        "en": "Asa and Break",
+        "de": "Asa und Kai",
+        "x-jat": "Asa to \"Kai\""
+      },
+      "overview": "The morning after the battle, Yuru asks about the eyepatch covering her right eye.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591474/screencap/6a02f7de60004.jpg",
+      "airDate": "2026-05-16T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.59",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Suspicion and Conviction",
+      "titles": {
+        "ja": "疑念と確信",
+        "en": "Suspicion and Conviction",
+        "de": "Verdacht und Überzeugung",
+        "x-jat": "Ginen to Kakushin"
+      },
+      "overview": "Dera arrives at the Kagemori mansion to retrieve Yuru, and they're invited to breakfast by the clan head.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591475/screencap/6a0c2a2fa4c23.jpg",
+      "airDate": "2026-05-23T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.55",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Embrace and Whisper",
+      "titles": {
+        "ja": "抱擁と囁き[エンブレイスとウィスパー]",
+        "en": "Embrace and Whisper",
+        "de": "Umarmung und Geflüster",
+        "x-jat": "Embrace to Whisper"
+      },
+      "overview": "In order to cheer Yuru up, Dera drags him and his Daemons around the city to see the sights.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591476/screencap/6a1565f2d4fee.jpg",
+      "airDate": "2026-05-30T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.20",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Long-Arm and Long-Leg",
+      "titles": {
+        "ja": "手長と足長",
+        "en": "Long-Arm and Long-Leg",
+        "de": "Tenaga und Ashinaga",
+        "x-jat": "Tenaga to Ashinaga"
+      },
+      "overview": "While shopping in the city, Yuru and Dera sense that they’re being followed.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591477/screencap/6a1ea254bffa1.jpg",
+      "airDate": "2026-06-06T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.12",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Big Brother and Little Brother",
+      "titles": {
+        "ja": "兄と弟",
+        "en": "Big Brother and Little Brother",
+        "de": "Großer Bruder und kleiner Bruder",
+        "x-jat": "Ani to Otouto"
+      },
+      "overview": "After defeating Long-Arm and Long-Leg, the group realizes something else had been tailing them all along.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591478/screencap/6a27da364c2a7.jpg",
+      "airDate": "2026-06-13T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.00",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "Retainer and Shaman",
+      "titles": {
+        "ja": "番小者と祈祷師",
+        "en": "Retainer and Shaman",
+        "de": "Tsugai-Wächter und Schamane",
+        "x-jat": "Tsugai Komono to Kitoushi"
+      },
+      "overview": "Ken moves in with Yuru and the others and asks Yuru to help him become stronger.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591479/screencap/6a312b5addea9.jpg",
+      "airDate": "2026-06-20T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.77",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": "Daikyo and Shokyo",
+      "titles": {
+        "ja": "大凶と小凶",
+        "en": "Daikyo and Shokyo",
+        "x-jat": "Daikyou to Shoukyou"
+      },
+      "overview": "Higashi Village is attacked by a man wielding katana Daemons.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591480/screencap/6a438c9df1261.jpg",
+      "airDate": "2026-07-04T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.38",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 14,
+      "title": "Family and Friends",
+      "titles": {
+        "ja": "家族と友",
+        "en": "Family and Friends",
+        "de": "Familie und Freunde",
+        "x-jat": "Kazoku to Tomo"
+      },
+      "overview": "Yuru and Ken notice someone following them while looking for a place to practice shooting a bow.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591481/screencap/6a4cdde9142ef.jpg",
+      "airDate": "2026-07-11T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.38",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 15,
+      "title": "Yuru and Danji",
+      "titles": {
+        "ja": "ユルとダンジ",
+        "en": "Yuru and Danji",
+        "de": "Yuru und Danji",
+        "x-jat": "Yuru to Danji"
+      },
+      "overview": "Feeling betrayed by Danji, Yuru asks for space so he can think by himself.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591482/screencap/6a56158b66edd.jpg",
+      "airDate": "2026-07-18T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.98",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 16,
+      "title": "Kagemori and Shingo",
+      "titles": {
+        "ja": "影森と新郷",
+        "en": "Kagemori and Shingo",
+        "x-jat": "Kagemori to Shingou"
+      },
+      "overview": "Yuru and Dera head to the warehouses at night to meet Ivan.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591483/screencap/6a5f5b8839c2a.jpg",
+      "airDate": "2026-07-25T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.23",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 17,
+      "title": "Crybaby and Naughty Child",
+      "titles": {
+        "ja": "泣く子と悪い子",
+        "en": "Crybaby and Naughty Child",
+        "de": "Heulsuse und Lausbub",
+        "x-jat": "Naku Ko to Warui Ko"
+      },
+      "overview": "The traitor attacks Asa while she's alone, but the Kagemoris have set a trap for him.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591484/screencap/6a68affdcd020.jpg",
+      "airDate": "2026-08-01T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.20",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 18,
+      "title": "Fujin and Raijin",
+      "titles": {
+        "ja": "風神と雷神",
+        "en": "Fujin and Raijin",
+        "x-jat": "Fuujin to Raijin"
+      },
+      "overview": "At the Kagemori mansion, the traitor is captured. Meanwhile, Gonzo overpowers the Shingo clan.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591485/screencap/6a75a40627f9a.jpg",
+      "airDate": "2026-08-08T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.39",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 19,
+      "title": "Sword and Bow",
+      "titles": {
+        "ja": "刀と弓",
+        "en": "Sword and Bow",
+        "de": "Schwert und Bogen",
+        "x-jat": "Katana to Yumi"
+      },
+      "overview": "Asa rescues the hostages, and Yuru faces off against Ivan.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591486/screencap/6a7f051412d5e.jpg",
+      "airDate": "2026-08-15T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.84",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 20,
+      "title": "The Hunted and the Hunter",
+      "titles": {
+        "ja": "逃亡者と追跡者",
+        "en": "The Hunted and the Hunter",
+        "de": "Jäger und Gejagte",
+        "x-jat": "Toubousha to Tsuisekisha"
+      },
+      "overview": "After an intense battle, Ivan escapes. He teleports back to Shingo, who appears to be in trouble.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11591487/screencap/6a8814d8e4c82.jpg",
+      "airDate": "2026-08-22T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.43",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 21,
+      "title": "Zashiki-Warashi and Higashi Village",
+      "titles": {
+        "ja": "ザシキワラシと東村",
+        "en": "Zashiki-Warashi and Higashi Village",
+        "de": "Zashiki Warashi und Higashimura",
+        "x-jat": "Zashiki Warashi to Higashi Mura"
+      },
+      "overview": "The Zashiki-Warashi, Danji and Kiri, tell Asa and Yuru what they know about Higashi Village.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671321/screencap/6a91541256687.jpg",
+      "airDate": "2026-08-29T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.52",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 22,
+      "title": "The Kagemori Brothers and the Kuroya Siblings",
+      "titles": {
+        "ja": "影森兄弟と黒谷四姉弟",
+        "en": "The Kagemori Brothers and the Kuroya Siblings",
+        "de": "Die Kagemori-Brüder und die Kuroya-Geschwister",
+        "x-jat": "Kagemori Kyoudai to Kuroya Yon Kyoudai"
+      },
+      "overview": "Natsuki demands to know why Akio betrayed the Kagemori clan, but he offers no explanation.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671323/screencap/6a9aaaa23cf9a.jpg",
+      "airDate": "2026-09-05T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.15",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 23,
+      "title": "Emotion and Reason",
+      "titles": {
+        "ja": "情と理",
+        "en": "Emotion and Reason",
+        "de": "Gefühl und Vernunft",
+        "x-jat": "Jou to Kotowari"
+      },
+      "overview": "Akio escapes from the Kagemoris, and Yuru comes down with a fever.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671325/screencap/6aa3c83242649.jpg",
+      "airDate": "2026-09-12T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.75",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "Higashi Village and Nishino Village",
+      "titles": {
+        "ja": "東村と西ノ村",
+        "en": "Higashi Village and Nishino Village",
+        "de": "Higashimura und Nishinomura",
+        "x-jat": "Higashi Mura to Nishino Mura"
+      },
+      "overview": "Yuru dreams about the day bandits tried to kill him as a kid, and Asa blames herself for the gardener's death.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671327/screencap/6aad110d3e449.jpg",
+      "airDate": "2026-09-19T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.54",
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 24,
+  "updatedAt": "2026-09-23T10:33:05.771Z"
+}

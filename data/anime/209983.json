@@ -1,0 +1,382 @@
+{
+  "anilistId": 209983,
+  "malId": 63817,
+  "route": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
+  "titles": {
+    "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+    "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+    "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
+  },
+  "anilist": {
+    "id": 209983,
+    "idMal": 63817,
+    "title": {
+      "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+      "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
+    },
+    "synonyms": [
+      "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+      "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209983-sFOcKyqMufxb.jpg",
+      "color": "#0dbbf1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
+    "description": "The second season of <i>Hell Mode</i>.",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 13,
+    "duration": 25,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 71,
+    "meanScore": 72,
+    "popularity": 41004,
+    "favourites": 663,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 13,
+      "airingAt": 1790352000,
+      "timeUntilAiring": 234543
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Yokohama Animation Lab"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://hellmode-anime.com"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/hellmode_anime"
+      },
+      {
+        "site": "HIDIVE",
+        "url": "https://www.hidive.com/season/36239"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/1a7r5ibbkjl"
+      }
+    ],
+    "trailer": {
+      "id": "hr_7R76pUC8",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Isekai"
+    ],
+    "studios": [
+      "Yokohama Animation Lab"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": null,
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3SMAP8c",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "hidive",
+        "url": "www.hidive.com/season/36239",
+        "name": "HiDive"
+      }
+    ],
+    "subTime": "2026-06-27T16:30:00Z",
+    "dubTime": "2026-07-01T17:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-18T16:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 13,
+      "at": "2026-09-25T16:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 16:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 7,
+      "airedAt": "2026-08-14T16:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 8,
+      "at": "2026-09-23T17:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 17:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Off to Academy City!",
+      "titles": {
+        "ja": "学園都市へ!",
+        "en": "Off to Academy City!",
+        "x-jat": "Gakuentoshi e!"
+      },
+      "overview": "Allen's new life in Academy City begins, but an appraisal ceremony unexpectedly puts him on Helmios the Hero's radar.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11700874/screencap/6a4515af4ad91.jpg",
+      "airDate": "2026-07-03T16:00:00Z",
+      "runtime": 25,
+      "rating": "5.57",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "A New Friend",
+      "titles": {
+        "ja": "新たな出会い",
+        "en": "A New Friend",
+        "x-jat": "Aratana Deai"
+      },
+      "overview": "The No-Life Gamers are off to a good start, but they face a few setbacks: their healer can't join full-time and Krena doesn't know how to use skills.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871271/screencap/6a50315a2cd98.jpg",
+      "airDate": "2026-07-10T16:00:00Z",
+      "runtime": 24,
+      "rating": "5.37",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Conquer the Dungeon",
+      "titles": {
+        "ja": "ダンジョンを攻略せよ",
+        "en": "Conquer the Dungeon",
+        "x-jat": "Dungeon o Kouryaku Seyo"
+      },
+      "overview": "Keel officially joins the No-Life Gamers as they tackle a B-rank dungeon. But as they grow stronger, Allen uncovers a concerning issue regarding his new friend.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871272/screencap/6a598cfe74886.jpg",
+      "airDate": "2026-07-17T16:00:00Z",
+      "runtime": 24,
+      "rating": "4.15",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "An Order from the Prince",
+      "titles": {
+        "ja": "王太子からの誘い",
+        "en": "An Order from the Prince",
+        "x-jat": "Outaishi kara no Sasoi"
+      },
+      "overview": "A-rank dungeons are dangerous for a reason, as the No-Life Gamers quickly learn. But that's not the only challenge awaiting them.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886639/screencap/6a62c609c86e7.jpg",
+      "airDate": "2026-07-24T16:00:00Z",
+      "runtime": 24,
+      "rating": "5.24",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "The Sovereign of Spirits` Prophecy",
+      "titles": {
+        "ja": "精霊王の予言",
+        "en": "The Sovereign of Spirits` Prophecy",
+        "x-jat": "Seirei Ou no Yogen"
+      },
+      "overview": "A new school year brings big changes as three new members join the No-Life Gamers.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886640/screencap/6a6bb16b3a0a9.jpg",
+      "airDate": "2026-07-31T16:00:00Z",
+      "runtime": 24,
+      "rating": "4.26",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Showdown at the Academy Tournament!",
+      "titles": {
+        "ja": "決戦! 学園武術大会",
+        "en": "Showdown at the Academy Tournament!",
+        "x-jat": "Kessen! Gakuen Bujutsu Taikai"
+      },
+      "overview": "Allen faces off against the hero. If he wants to win, he’ll have to use his new summoning abilities.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886641/screencap/6a73baf13f6fa.jpg",
+      "airDate": "2026-08-07T16:00:00Z",
+      "runtime": 24,
+      "rating": "6.56",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Onward to Rohzenheim",
+      "titles": {
+        "ja": "ローゼンヘイムへ",
+        "en": "Onward to Rohzenheim",
+        "x-jat": "Rozenheim e"
+      },
+      "overview": "As the Demon Lord's army lays waste to the Elven Kingdom of Rozenheim, Allen and his friends must find a way to repel the invasion before it's too late.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11895815/screencap/6a7de6a14b828.jpg",
+      "airDate": "2026-08-14T16:00:00Z",
+      "runtime": 24,
+      "rating": "5.14",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "The Battle of Tiamo",
+      "titles": {
+        "ja": "ティアモ攻防戦",
+        "en": "The Battle of Tiamo",
+        "x-jat": "Tiamo Koubousen"
+      },
+      "overview": "Allen has an unusual request for the Sovereign of Spirits: he wants all of his friends switched over to Hell Mode.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11895816/screencap/6a87806a71f75.jpg",
+      "airDate": "2026-08-21T16:00:00Z",
+      "runtime": 24,
+      "rating": "6.19",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "The Demons of Lapolka",
+      "titles": {
+        "ja": "ラポルカの魔族たち",
+        "en": "The Demons of Lapolka",
+        "x-jat": "Lapolka no Mazoku-tachi"
+      },
+      "overview": "The No-Life Gamers must hold the line at Tiamo. But the longer the fighting drags on, the fewer magic stones remain at Allen's disposal.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11895817/screencap/6a917f8250245.jpg",
+      "airDate": "2026-08-28T16:00:00Z",
+      "runtime": 24,
+      "rating": "3.28",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Plentiful Prayers",
+      "titles": {
+        "ja": "祈りが満ちて",
+        "en": "Plentiful Prayers",
+        "x-jat": "Inori ga Michite"
+      },
+      "overview": "The odds are grim. If the No-Life Gamers want to liberate Lapolka, they'll need more than just strategy.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11895818/screencap/6a9a22ddc936f.jpg",
+      "airDate": "2026-09-04T16:00:00Z",
+      "runtime": 24,
+      "rating": "4.30",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "The Liberated",
+      "titles": {
+        "ja": "開放者",
+        "en": "The Liberated",
+        "x-jat": "Kaihousha"
+      },
+      "overview": "One against a million. If Allen wants to even the odds, he'll have to put his new Deputize skill to the test.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11895819/screencap/6aa3601b820c9.jpg",
+      "airDate": "2026-09-11T16:00:00Z",
+      "runtime": 24,
+      "rating": "4.30",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Extra Skill",
+      "titles": {
+        "ja": "エクストラスキル",
+        "en": null,
+        "x-jat": "Extra Skill"
+      },
+      "overview": "Allen's party is determined to retake the Elven capital, regardless of what Helmios says.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11895820/screencap/6aad470112870.jpg",
+      "airDate": "2026-09-18T16:00:00Z",
+      "runtime": 24,
+      "rating": "4.30",
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-25T16:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 25,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 13,
+  "updatedAt": "2026-09-23T10:33:05.659Z"
+}

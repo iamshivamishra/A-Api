@@ -1,0 +1,365 @@
+{
+  "anilistId": 188525,
+  "malId": 61280,
+  "route": "kore-kaite-shine",
+  "titles": {
+    "romaji": "Kore Kaite Shine",
+    "english": "Draw This, Then Die!",
+    "native": "これ描いて死ね"
+  },
+  "anilist": {
+    "id": 188525,
+    "idMal": 61280,
+    "title": {
+      "romaji": "Kore Kaite Shine",
+      "english": "Draw This, Then Die!",
+      "native": "これ描いて死ね"
+    },
+    "synonyms": [
+      "Gambar Ini, Lalu Mati Sana!",
+      "วาดเรื่องนี้ก่อนแล้วค่อยตาย",
+      "畫完這個再去死"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-uWhw4rQcqOyF.jpg",
+      "color": "#e48650"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188525-Vnei12N4wZsM.jpg",
+    "description": "First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?<br>\n<br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 12,
+    "duration": 23,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+    },
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "averageScore": 78,
+    "meanScore": 79,
+    "popularity": 11506,
+    "favourites": 163,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790346600,
+      "timeUntilAiring": 229143
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Shin-Ei Animation"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://www.vap.co.jp/korekaite-shine/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/korekaite_shine"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00371656/draw-this-then-die"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@korekaite_shine"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/81787975"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0BnHSDgsrzHcX29LmyNwQ1"
+      }
+    ],
+    "trailer": {
+      "id": "jI61NtGuxV4",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "studios": [
+      "Shin-Ei Animation"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3SyFlaq",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00371656",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl0BnHSDgsrzHcX29LmyNwQ1",
+        "name": "YouTube"
+      },
+      {
+        "platform": "netflix",
+        "url": "www.netflix.com/title/81787975",
+        "name": "Netflix"
+      }
+    ],
+    "subTime": "2026-07-03T15:30:00Z",
+    "dubTime": "2026-07-04T15:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-18T14:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-25T14:30:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 15:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-18T14:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-25T15:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 15:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Magic House: What Would a Manga Protagonist Do Here?",
+      "titles": {
+        "ja": "魔法屋敷~こんなとき, 漫画の主人公なら?",
+        "en": "Magic House: What Would a Manga Protagonist Do Here?",
+        "de": "Das magische Anwesen - Wenn du der Hauptcharakter eines Manga wärst?",
+        "x-jat": "Mahou Yashiki: Konna Toki, Manga no Shujinkou nara?"
+      },
+      "overview": "Ai Yasumi’s love for manga inspires her to start creating stories of her own.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11383395/screencap/6a42416c7570c.jpg",
+      "airDate": "2026-07-03T14:30:00Z",
+      "runtime": 23,
+      "rating": "8.01",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "You Are Brilliant: Drawing Manga Is Hard",
+      "titles": {
+        "ja": "あなたは輝いている~漫画を描くのは大変である",
+        "en": "You Are Brilliant: Drawing Manga Is Hard",
+        "x-jat": "Anata wa Kagayaite Iru: Manga o Kaku no wa Taihen de Aru"
+      },
+      "overview": "Ai draws manga for the first time in order to convince Teshima-sensei to become the manga club's advisor.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871249/screencap/6a4b8bea372d4.jpg",
+      "airDate": "2026-07-10T14:30:00Z",
+      "runtime": 23,
+      "rating": "5.82",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Kokoro`s Heart: Draw This, Then Die!!!!",
+      "titles": {
+        "ja": "心の心～これ描いて死ね!!!!",
+        "en": "Kokoro`s Heart: Draw This, Then Die!!!!"
+      },
+      "overview": "While on the search for a third manga club member, Ai comes across Kokoro, an introvert with a talent for art.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871250/screencap/6a54bdc3ed1af.jpg",
+      "airDate": "2026-07-17T14:30:00Z",
+      "runtime": 23,
+      "rating": "6.41",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Utopia: Making Manga`s Better with Others",
+      "titles": {
+        "en": "Utopia: Making Manga`s Better with Others"
+      },
+      "overview": "Ai and Kokoro begin a long process of trial and error as they try and create their first manga as a club.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871251/screencap/6a5e031d9d206.jpg",
+      "airDate": "2026-07-24T14:30:00Z",
+      "runtime": 23,
+      "rating": "8.24",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Let`s All Go Together! Put Your Feelings into Manga",
+      "titles": {
+        "en": "Let`s All Go Together! Put Your Feelings into Manga"
+      },
+      "overview": "The Manga Research Club decides to release a manga at Comitia, but first they must get through final exams.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871252/screencap/6a6757278369f.jpg",
+      "airDate": "2026-07-31T14:30:00Z",
+      "runtime": 23,
+      "rating": "4.99",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Comitia: Let`s Make Manga That`s Even More Interesting!",
+      "titles": {
+        "en": "Comitia: Let`s Make Manga That`s Even More Interesting!"
+      },
+      "overview": "Comitia is finally here, and the members of the Manga Research Club learn how hard it is to sell doujinshi.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871253/screencap/6a705e25c7a08.jpg",
+      "airDate": "2026-08-07T14:30:00Z",
+      "runtime": 23,
+      "rating": "4.99",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "The Lost World: Draw with the Intent to Kill",
+      "titles": {
+        "en": "The Lost World: Draw with the Intent to Kill"
+      },
+      "overview": "On the ferry back from Tokyo, Rei remembers her time as a manga artist assistant while pursuing serialization.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871254/screencap/6a82d1363d997.jpg",
+      "airDate": "2026-08-21T14:30:00Z",
+      "runtime": 23,
+      "rating": "6.94",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Touch: 100 Things I Want to Draw for Manga!!!",
+      "titles": {
+        "en": "Touch: 100 Things I Want to Draw for Manga!!!"
+      },
+      "overview": "The Manga Research Club explores the island of Oshima in hopes of finding inspiration for Ai's next manga.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871255/screencap/6a8c0a3fe4f29.jpg",
+      "airDate": "2026-08-28T14:30:00Z",
+      "runtime": 23,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Surfing the Cyber Seas: Draw for Yourself, Not for Others!",
+      "titles": {
+        "en": "Surfing the Cyber Seas: Draw for Yourself, Not for Others!"
+      },
+      "overview": "Ai and the others decide to create a social media account to promote their manga before the next Comitia.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871256/screencap/6a95472d53e9f.jpg",
+      "airDate": "2026-09-04T14:30:00Z",
+      "runtime": 23,
+      "rating": "8.75",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "90% of Everything is Crap ~ I Need Friends to Become Stronger than Mama",
+      "titles": {
+        "en": "90% of Everything is Crap ~ I Need Friends to Become Stronger than Mama"
+      },
+      "overview": "As the school festival draws near, Sachi comes up with a plan to befriend the ever-unapproachable Hikaru.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871257/screencap/6a9e818f28cb9.jpg",
+      "airDate": "2026-09-11T14:30:00Z",
+      "runtime": 23,
+      "rating": "4.95",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Ai and Kokoro each decide to try their hand at drawing a solo original manga for the upcoming winter Comitia.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871258/screencap/6aa7bde7f1ce8.jpg",
+      "airDate": "2026-09-18T14:30:00Z",
+      "runtime": 23,
+      "rating": "6.98",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871259/screencap/6ab0f9cf20c3a.jpg",
+      "airDate": "2026-09-25T14:30:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.655Z"
+}

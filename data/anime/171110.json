@@ -1,0 +1,574 @@
+{
+  "anilistId": 171110,
+  "malId": 57466,
+  "route": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo",
+  "titles": {
+    "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+    "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+    "native": "本好きの下剋上 領主の養女"
+  },
+  "anilist": {
+    "id": 171110,
+    "idMal": 57466,
+    "title": {
+      "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+      "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+      "native": "本好きの下剋上 領主の養女"
+    },
+    "synonyms": [
+      "Ascendance of a Bookworm Season 4",
+      "本好きの下剋上 司書になるためには手段を選んでいられません 第4期",
+      "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx171110-7zOdInS6DQNL.jpg",
+      "color": "#5daee4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
+    "description": "Following a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to “Rozemyne” and beginning her new life as the adopted daughter of Ehrenfest’s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple’s book room as a reward. If she could get her hands on those, she’d be able to read all sorts of precious books! Her name may have changed, but Rozemyne’s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!<br>\n<br>\n(Source: J-Novel Club)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 24,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 10,
+      "day": 3
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "averageScore": 76,
+    "meanScore": 77,
+    "popularity": 39087,
+    "favourites": 673,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 23,
+      "airingAt": 1790411400,
+      "timeUntilAiring": 293943
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "WIT STUDIO"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "http://booklove-anime.jp/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/anime_booklove"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/G6793XKZY/ascendance-of-a-bookworm"
+      }
+    ],
+    "trailer": {
+      "id": "rtPF6rjrdSU",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Isekai",
+      "Magic",
+      "Slice of Life"
+    ],
+    "studios": [
+      "Wit Studio"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The fourth season of <span class=\"italics\">Ascendance of a Bookworm (Honzuki no Gekokujou)</span>.<br><br>Following a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to &#34;Rozemyne&#34; and beginning her new life as the adopted daughter of Ehrenfest&#39;s archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman.<br><br>It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple&#39;s book room as a reward. If she could get her hands on those, she&#39;d be able to read all sorts of precious books! Her name may have changed, but Rozemyne&#39;s passion for books remains the same as she charges into a whole new world!<br><br>(Source: J-Novel Club)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4sMVZ3b",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/G6793XKZY/ascendance-of-a-bookworm",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4wlVr5o",
+        "name": "Amazon"
+      }
+    ],
+    "subTime": "2026-04-04T09:30:00Z",
+    "dubTime": "2026-04-17T09:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": "2026-09-19T00:00:00Z"
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 22,
+      "airedAt": "2026-06-26T17:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 23,
+      "at": "2026-09-26T08:30:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 09:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 20,
+      "airedAt": "2026-06-12T17:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 21,
+      "at": "2026-09-26T09:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 09:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "I`ve Become a Noble",
+      "titles": {
+        "ja": "貴族になったわたし",
+        "en": "I`ve Become a Noble",
+        "de": "Ich bin jetzt eine Adelige",
+        "x-jat": "Kizoku ni Natta Watashi"
+      },
+      "overview": "Myne begins her new life as Rosemyne. Her first challenge is to complete the baptism and adoption ceremonies!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11570111/screencap/69cd5b09a02ca.jpg",
+      "airDate": "2026-04-03T17:30:00Z",
+      "runtime": 24,
+      "rating": "7.84",
+      "absoluteEpisodeNumber": 37,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Lower City Family Reunion",
+      "titles": {
+        "ja": "下町家族との再会",
+        "en": "Lower City Family Reunion",
+        "de": "Wiedersehen mit der Unterstadt-Familie",
+        "x-jat": "Shitamachi Kazoku to no Saikai"
+      },
+      "overview": "After the baptism ceremony and adoption, Rosemyne returns to the cathedral to become the high bishop.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11718101/screencap/69d6d8c0e76bb.jpg",
+      "airDate": "2026-04-10T17:30:00Z",
+      "runtime": 24,
+      "rating": "6.20",
+      "absoluteEpisodeNumber": 38,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Archduke`s Castle and Italian Restaurant",
+      "titles": {
+        "ja": "領主の城とイタリアンレストラン",
+        "en": "Archduke`s Castle and Italian Restaurant",
+        "de": "Das Schloss des Fürsten und ein italienisches Restaurant",
+        "x-jat": "Ryoushu no Shiro to Italian Restaurant"
+      },
+      "overview": "Rosemyne officially moves into the castle and Sylvester finally eats at the Italian restaurant.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719066/screencap/6a11a1a101b10.jpg",
+      "airDate": "2026-04-17T17:30:00Z",
+      "runtime": 24,
+      "rating": "6.56",
+      "absoluteEpisodeNumber": 39,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "How to Collect Donations",
+      "titles": {
+        "ja": "寄付金の集め方",
+        "en": "How to Collect Donations",
+        "de": "Wie man Spenden sammelt",
+        "x-jat": "Kifukin no Atsumekata"
+      },
+      "overview": "Rosemyne tries to collect donations from the nobility, but finds it harder than she thought...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719067/screencap/6a11a18a3c221.jpg",
+      "airDate": "2026-04-24T17:30:00Z",
+      "runtime": 24,
+      "rating": "5.77",
+      "absoluteEpisodeNumber": 40,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Concert Preparations",
+      "titles": {
+        "ja": "演奏会の準備",
+        "en": "Concert Preparations",
+        "x-jat": "Ensoukai no Junbi"
+      },
+      "overview": "Rosemyne puts all her efforts into preparing for the harspiel concert.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719068/screencap/6a11a17277cac.jpg",
+      "airDate": "2026-05-08T17:30:00Z",
+      "runtime": 24,
+      "rating": "6.03",
+      "absoluteEpisodeNumber": 41,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Harspiel Concert",
+      "titles": {
+        "ja": "フェシュピールコンサート",
+        "en": "Harspiel Concert",
+        "x-jat": "Feshupiiru Concert"
+      },
+      "overview": "Everything is falling into place for the concert. All that's left is to guard against one person...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719069/screencap/6a11a1503c8ab.jpg",
+      "airDate": "2026-05-15T17:30:00Z",
+      "runtime": 24,
+      "rating": "8.24",
+      "absoluteEpisodeNumber": 42,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Hasse`s Monastery",
+      "titles": {
+        "ja": "ハッセの小神殿",
+        "en": "Hasse`s Monastery",
+        "x-jat": "Hasse no Shoushinden"
+      },
+      "overview": "The monastery in Hasse is now ready. Rosemyne goes for the final inspection and to accept new children.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719070/screencap/6a11a125cb296.jpg",
+      "airDate": "2026-05-22T17:30:00Z",
+      "runtime": 24,
+      "rating": "7.19",
+      "absoluteEpisodeNumber": 43,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Ferdinand`s Task",
+      "titles": {
+        "ja": "フェルディナンドの課題",
+        "en": "Ferdinand`s Task",
+        "x-jat": "Ferdinand no Kadai"
+      },
+      "overview": "Ferdinand gives Rosemyne the task to entrap and isolate the mayor of Hasse.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719071/screencap/6a11a1082aa72.jpg",
+      "airDate": "2026-05-29T17:30:00Z",
+      "runtime": 24,
+      "rating": "7.86",
+      "absoluteEpisodeNumber": 44,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Wilfried`s Day as High Bishop",
+      "titles": {
+        "ja": "ヴィルフリートの一日神殿長",
+        "en": "Wilfried`s Day as High Bishop",
+        "x-jat": "Wilfried no Ichinichi Shinden Chou"
+      },
+      "overview": "Rosemyne finally gets fed up with Wilfried's complaints and offers to switch spots with him for a day.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719072/screencap/6a1ac10bbee43.jpg",
+      "airDate": "2026-06-05T17:30:00Z",
+      "runtime": 24,
+      "rating": "6.96",
+      "absoluteEpisodeNumber": 45,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "First Material Gathering",
+      "titles": {
+        "ja": "はじめての素材採集",
+        "en": "First Material Gathering",
+        "x-jat": "Hajimete no Sozai Saishuu"
+      },
+      "overview": "The Harvest Festival is coming up and Rosemyne prepares to gather materials for her jureve for the first time.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719073/screencap/6a23fc4b708f3.jpg",
+      "airDate": "2026-06-12T17:30:00Z",
+      "runtime": 24,
+      "rating": "6.85",
+      "absoluteEpisodeNumber": 46,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "The Gathering of Gutenbergs",
+      "titles": {
+        "ja": "グーテンベルクの集い",
+        "en": "The Gathering of Gutenbergs",
+        "x-jat": "Gutenberg no Tsudoi"
+      },
+      "overview": "Myne begins her new life as Rosemyne. Her first challenge is to complete the baptism and adoption ceremonies!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11570111/screencap/69cd5b09a02ca.jpg",
+      "airDate": "2026-04-03T17:30:00Z",
+      "runtime": 24,
+      "rating": "7.61",
+      "absoluteEpisodeNumber": 37,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "The Winter Social Season and Debut",
+      "titles": {
+        "ja": "冬の社交界とお披露目",
+        "en": "The Winter Social Season and Debut",
+        "x-jat": "Fuyu no Shakoukai to Ohirome"
+      },
+      "overview": "After the baptism ceremony and adoption, Rosemyne returns to the cathedral to become the high bishop.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11718101/screencap/69d6d8c0e76bb.jpg",
+      "airDate": "2026-04-10T17:30:00Z",
+      "runtime": 24,
+      "rating": "6.55",
+      "absoluteEpisodeNumber": 38,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": "Winter Material Gathering",
+      "titles": {
+        "ja": "冬の素材採集",
+        "en": "Winter Material Gathering",
+        "x-jat": "Fuyu no Sozai Saishuu"
+      },
+      "overview": "Rosemyne officially moves into the castle and Sylvester finally eats at the Italian restaurant.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719066/screencap/6a11a1a101b10.jpg",
+      "airDate": "2026-04-17T17:30:00Z",
+      "runtime": 24,
+      "rating": "7.87",
+      "absoluteEpisodeNumber": 39,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 14,
+      "title": "Hasse`s Punishment",
+      "titles": {
+        "ja": "ハッセへの罰",
+        "en": "Hasse`s Punishment",
+        "x-jat": "Hasse e no Batsu"
+      },
+      "overview": "Rosemyne tries to collect donations from the nobility, but finds it harder than she thought...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719067/screencap/6a11a18a3c221.jpg",
+      "airDate": "2026-04-24T17:30:00Z",
+      "runtime": 24,
+      "rating": "9.11",
+      "absoluteEpisodeNumber": 40,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 15,
+      "title": "Night of Fruhtrane",
+      "titles": {
+        "ja": "フリュートレーネの夜",
+        "en": "Night of Fruhtrane",
+        "x-jat": "Fruhtrane no Yoru"
+      },
+      "overview": "Rosemyne puts all her efforts into preparing for the harspiel concert.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719068/screencap/6a11a17277cac.jpg",
+      "airDate": "2026-05-08T17:30:00Z",
+      "runtime": 24,
+      "rating": "7.51",
+      "absoluteEpisodeNumber": 41,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 16,
+      "title": "New Dress and Printing Press",
+      "titles": {
+        "ja": "新しい衣装と印刷機",
+        "en": "New Dress and Printing Press",
+        "x-jat": "Atarashii Ishou to Insatsuki"
+      },
+      "overview": "Everything is falling into place for the concert. All that's left is to guard against one person...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719069/screencap/6a11a1503c8ab.jpg",
+      "airDate": "2026-05-15T17:30:00Z",
+      "runtime": 24,
+      "rating": "7.80",
+      "absoluteEpisodeNumber": 42,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 17,
+      "title": "Holding the Fort During the Archduke Conference",
+      "titles": {
+        "ja": "領主会議のお留守番",
+        "en": "Holding the Fort During the Archduke Conference",
+        "x-jat": "Ryoushu Kaigi no Orusuban"
+      },
+      "overview": "The monastery in Hasse is now ready. Rosemyne goes for the final inspection and to accept new children.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719070/screencap/6a11a125cb296.jpg",
+      "airDate": "2026-05-22T17:30:00Z",
+      "runtime": 24,
+      "rating": "6.59",
+      "absoluteEpisodeNumber": 43,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 18,
+      "title": "Damuel`s Proposal",
+      "titles": {
+        "ja": "ダームエルの申し出",
+        "en": "Damuel`s Proposal",
+        "x-jat": "Damuel no Moushide"
+      },
+      "overview": "Ferdinand gives Rosemyne the task to entrap and isolate the mayor of Hasse.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719071/screencap/6a11a1082aa72.jpg",
+      "airDate": "2026-05-29T17:30:00Z",
+      "runtime": 24,
+      "rating": "6.85",
+      "absoluteEpisodeNumber": 44,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 19,
+      "title": "Inspection of Illgner and Gathering of Summer",
+      "titles": {
+        "ja": "イルクナー視察と夏の採集",
+        "en": "Inspection of Illgner and Gathering of Summer",
+        "x-jat": "Illgner Shisatsu to Natsu no Saishuu"
+      },
+      "overview": "Rosemyne finally gets fed up with Wilfried's complaints and offers to switch spots with him for a day.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719072/screencap/6a1ac10bbee43.jpg",
+      "airDate": "2026-06-05T17:30:00Z",
+      "runtime": 24,
+      "rating": "6.73",
+      "absoluteEpisodeNumber": 45,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 20,
+      "title": "Georgine`s Visit",
+      "titles": {
+        "ja": "ゲオルギーネの来訪",
+        "en": "Georgine`s Visit",
+        "x-jat": "Georgine no Raihou"
+      },
+      "overview": "The Harvest Festival is coming up and Rosemyne prepares to gather materials for her jureve for the first time.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719073/screencap/6a23fc4b708f3.jpg",
+      "airDate": "2026-06-12T17:30:00Z",
+      "runtime": 24,
+      "rating": "7.31",
+      "absoluteEpisodeNumber": 46,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 21,
+      "title": "Ruelle Rechallenge",
+      "titles": {
+        "ja": "リュエルに再挑戦",
+        "en": "Ruelle Rechallenge",
+        "x-jat": "Ruelle ni Saichousen"
+      },
+      "overview": "To improve the printing press, Ingo is even willing to exchange ideas between different trades.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719074/screencap/6a2d47c046fec.jpg",
+      "airDate": "2026-06-19T17:30:00Z",
+      "runtime": 24,
+      "rating": "5.60",
+      "absoluteEpisodeNumber": 47,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 22,
+      "title": "Wilfried`s Actions",
+      "titles": {
+        "ja": "ヴィルフリートの行い",
+        "en": "Wilfried`s Actions",
+        "x-jat": "Wilfried no Okonai"
+      },
+      "overview": "The winter social season is here and Rosemyne must successfully finish her debut.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11719075/screencap/6a368e42da974.jpg",
+      "airDate": "2026-06-26T17:30:00Z",
+      "runtime": 24,
+      "rating": "8.18",
+      "absoluteEpisodeNumber": 48,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Rosemyne attempts to gather materials for her jureve once again!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11863203/screencap/6a3fc2fb084aa.jpg",
+      "airDate": "2026-07-10T17:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 49,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Hasse's punishment has finally been decided and Rosemyne must go to witness the results.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880386/screencap/6a5230ea8ee57.jpg",
+      "airDate": "2026-07-17T17:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 50,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 24,
+  "updatedAt": "2026-09-23T10:33:05.668Z"
+}

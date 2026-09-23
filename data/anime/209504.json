@@ -1,0 +1,375 @@
+{
+  "anilistId": 209504,
+  "malId": 63752,
+  "route": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita",
+  "titles": {
+    "romaji": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
+    "english": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+    "native": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました"
+  },
+  "anilist": {
+    "id": 209504,
+    "idMal": 63752,
+    "title": {
+      "romaji": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
+      "english": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+      "native": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました"
+    },
+    "synonyms": [
+      "สตรีศักดิ์สิทธิ์ผู้ถูกทอดทิ้ง ออกเดินทางชิมอาหารในต่างโลกด้วยสกิลลับอัญเชิญรถบ้านแคมป์ปิ้ง",
+      "Isekai CamPer - I viaggi culinari in un altro mondo della santa rinnegata: Ho evocato un camper grazie a una skill nascosta"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209504-yRxHWxKuNGtg.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209504-yRxHWxKuNGtg.jpg",
+      "color": "#bbe40d"
+    },
+    "bannerImage": null,
+    "description": "Rin Takanashi, a caregiver in her thirties, was unceremoniously discarded as \"trash\" despite being summoned as a saint.\n<br><br>\nHowever, as a lover of the great outdoors and all things camping, she was blessed with a special skill, \"Survival,\" as well as another unique skill! Thus, a riveting tale begins: one of sweat, tears, and insatiable hunger as Rin, together with companions she picked up along the way, leisurely explores this parallel world and savours gourmet cuisine to her heart's content...\n<br><br>\nOr so the story should have gone, but it looks like their road is going in an unexpected direction...?",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 21
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 62,
+    "meanScore": 63,
+    "popularity": 15073,
+    "favourites": 167,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "EMT Squared"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://isekai-gohantabi.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/Isekaigohantabi"
+      },
+      {
+        "site": "HIDIVE",
+        "url": "https://www.hidive.com/season/36241"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2413390"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLKPqX4UJsUOI"
+      }
+    ],
+    "trailer": {
+      "id": "VS0bW7JnEm0",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "studios": [
+      "EMT Squared"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Rin Takanashi, a caregiver in her thirties, was unceremoniously discarded as &#34;trash&#34; despite being summoned as a saint.\r<br>\r<br>However, as a lover of the great outdoors and all things camping, she was blessed with a special skill, [Survival], as well as another unique skill! Thus, a riveting tale begins: one of sweat, tears, and insatiable hunger as Rin, together with companions she picked up along the way, leisurely explores this parallel world and savors gourmet cuisine to her heart&#39;s content...\r<br>\r<br>Or so the story should have gone, but it looks like their road is going in an unexpected direction...?\r<br>\r<br>(Source: MangaUp!)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4wtN2xb",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "hidive",
+        "url": "www.hidive.com/season/36241",
+        "name": "HiDive"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLKPqX4UJsUOI",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2413390",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-06-30T14:30:00Z",
+    "dubTime": "2026-07-01T17:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-21T14:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Tuesday 14:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 5,
+      "airedAt": "2026-08-03T14:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 6,
+      "at": "2026-09-23T17:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 17:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Trout Fishing in Another World! With a Side of Hot Oni",
+      "titles": {
+        "ja": "異世界トラウト一本釣り! ～鬼さん添えて～",
+        "en": "Trout Fishing in Another World! With a Side of Hot Oni",
+        "x-jat": "Isekai Trout Ipponzuri! ~Oni-san Soete~"
+      },
+      "overview": "Rin receives an unexpected opportunity after fishing an adventurer out of a lake.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11684544/screencap/6a4484ff234b2.jpg",
+      "airDate": "2026-07-06T14:00:00Z",
+      "runtime": 24,
+      "rating": "6.86",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Combine Your Friends and Ingredients for a Tasty Rice Dish!",
+      "titles": {
+        "ja": "仲間も具材も, ひとつにしちゃえ炊き込みご飯!",
+        "en": "Combine Your Friends and Ingredients for a Tasty Rice Dish!",
+        "x-jat": "Nakama mo Guzai mo, Hitotsu ni Shichae Takikomi Gohan!"
+      },
+      "overview": "Mouths watering for a taste of real food, Vil's party gleefully welcomes Rin as their newest member. Meanwhile, concerns about the Saintess Summoning grow.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874705/screencap/6a544b845e010.jpg",
+      "airDate": "2026-07-13T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.72",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "War on the Water! Seafood Barbeque!",
+      "titles": {
+        "ja": "海で開戦! 海鮮バーベキュー!",
+        "en": "War on the Water! Seafood Barbeque!",
+        "x-jat": "Umi de Kaisen! Kaisen Barbecue!"
+      },
+      "overview": "What begins as a survey mission turns into a rescue operation for a beached orca. That just so happens to be telepathic.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874706/screencap/6a5918709af8b.jpg",
+      "airDate": "2026-07-20T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.72",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "The Food Demon Descends! Thou Art Tartar Sauce!",
+      "titles": {
+        "ja": "食の悪魔降臨! 汝はタルタルソース!",
+        "en": "The Food Demon Descends! Thou Art Tartar Sauce!",
+        "x-jat": "Shoku no Akuma Kourin! Sonata wa Tartar Sauce!"
+      },
+      "overview": "Dungeons aren't supposed to appear without warning, but this one did. Fearing a potential threat to the city, the Guild asks Smorgasbord to investigate.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874707/screencap/6a674a9dc2254.jpg",
+      "airDate": "2026-07-27T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.72",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Listen Up, Boys! It`s a Dungeon Meat Fest!",
+      "titles": {
+        "ja": "野郎ども! ダンジョン肉祭りだあっ!",
+        "en": "Listen Up, Boys! It`s a Dungeon Meat Fest!",
+        "x-jat": "Yarou-domo! Dungeon Niku Matsuri Daa!"
+      },
+      "overview": "A Wild Ox can only mean one thing: meat's back on the menu for Rin and her party. It's a good thing, too, since they'll need their strength to uncover the dungeon's secrets.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874708/screencap/6a6ff15830657.jpg",
+      "airDate": "2026-08-03T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.29",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "We Like Conger Eel, But We Love Freshwater Eeel, Too!",
+      "titles": {
+        "ja": "朕, アナゴもいいけどウナギも好き!",
+        "en": "We Like Conger Eel, But We Love Freshwater Eeel, Too!",
+        "x-jat": "Chin, Anago mo Ii kedo Unagi mo Suki!"
+      },
+      "overview": "Rin discovers Gomamiso's true identity and uncovers a troubling clue about the Saintess Summoning.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874709/screencap/6a792ba5b5c98.jpg",
+      "airDate": "2026-08-10T14:00:00Z",
+      "runtime": 24,
+      "rating": "8.87",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "The Muchi Dango on Your Waist! Please Give Me Every Last One!",
+      "titles": {
+        "ja": "お腰につけたムーチ団子~, 一つ残らずくださいな~♪",
+        "en": "The Muchi Dango on Your Waist! Please Give Me Every Last One!",
+        "x-jat": "Okoshi ni Tsuketa Muuchi Dango~, Hitotsu Nokorazu Kudasai na~"
+      },
+      "overview": "Rin helps the local church improve their food.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874710/screencap/6a8339cb9af3a.jpg",
+      "airDate": "2026-08-17T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.72",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Stew & Ikura: \"Who Do You Choose, Me or Her?!\" Rice: \"I Love You Both!\"",
+      "titles": {
+        "ja": "煮込み&イクラ『私とあの子, どっちを選ぶの!?』米『両方とも大好きだ!』",
+        "en": "Stew & Ikura: \"Who Do You Choose, Me or Her?!\" Rice: \"I Love You Both!\"",
+        "x-jat": "Nikomi & Ikura \"Watashi to Ano Ko, Docchi o Erabu no!?\" Kome \"Ryouhou tomo Daisuki da!\""
+      },
+      "overview": "Smorgasbord looks forward to Merlowa's famous spring salt. Unfortunately, they're about to be drawn into the local crisis.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874711/screencap/6a8b83fd25ec3.jpg",
+      "airDate": "2026-08-24T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.72",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Crispy Solution, Crunchy Reconciliation! `Cause It`s Tempura!",
+      "titles": {
+        "ja": "サクッと解決, カラッと和解! 天ぷらだけにね!",
+        "en": "Crispy Solution, Crunchy Reconciliation! `Cause It`s Tempura!",
+        "x-jat": "Sakutto Kaiketsu, Karatto Wakai! Tenpura Dake ni ne!"
+      },
+      "overview": "They say a way to a dragon's heart is through its stomach.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874712/screencap/6a94e239478ce.jpg",
+      "airDate": "2026-08-31T14:00:00Z",
+      "runtime": 24,
+      "rating": "8.87",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Hyahha! It`s Tartar Sauce Time! (For the 2nd Time in 5 Episodes)",
+      "titles": {
+        "ja": "ひゃっはあっ, タルタルソースの時間だぁっ! (5話ぶり2回目)",
+        "en": "Hyahha! It`s Tartar Sauce Time! (For the 2nd Time in 5 Episodes)",
+        "x-jat": "Hyahhaa, Tartar Sauce no Jikan daa! (5 Waburi 2 Kaime)"
+      },
+      "overview": "Vi hesitates to return to the capital and face his family.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874713/screencap/6a94e2e57abd4.jpg",
+      "airDate": "2026-09-07T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.29",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "A Midnight Cuban Sandwich Tastes Like Sin!",
+      "titles": {
+        "ja": "夜のキューバサンドは罪の味!",
+        "en": "A Midnight Cuban Sandwich Tastes Like Sin!",
+        "x-jat": "Yoru no Cuban Sando wa Tsumi no Aji!"
+      },
+      "overview": "Everything Rin thought she knew is about to change.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874714/screencap/6aa740cf7f816.jpg",
+      "airDate": "2026-09-14T14:00:00Z",
+      "runtime": 24,
+      "rating": "6.85",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Otsu-curry-sama! But the Adventure Continues, on and on!",
+      "titles": {
+        "ja": "おつカレー様! でも冒険は続くよ, どこまでも!",
+        "en": "Otsu-curry-sama! But the Adventure Continues, on and on!",
+        "x-jat": "Otsukaree-sama! Demo Bouken wa Tsuzuku yo, Dokomademo!"
+      },
+      "overview": "Rin vows to save her friends from their fated deaths in the depths of a secret dungeon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874715/screencap/6ab12075760c3.jpg",
+      "airDate": "2026-09-21T14:00:00Z",
+      "runtime": 24,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.597Z"
+}

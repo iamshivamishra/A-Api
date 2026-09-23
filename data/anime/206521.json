@@ -1,0 +1,360 @@
+{
+  "anilistId": 206521,
+  "malId": 63347,
+  "route": "world-is-dancing",
+  "titles": {
+    "romaji": "World Is Dancing",
+    "english": "The World Is Dancing",
+    "native": "ワールド イズ ダンシング"
+  },
+  "anilist": {
+    "id": 206521,
+    "idMal": 63347,
+    "title": {
+      "romaji": "World Is Dancing",
+      "english": "The World Is Dancing",
+      "native": "ワールド イズ ダンシング"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206521-ecJuDgjth84C.png",
+      "color": "#e45d78"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
+    "description": "Born into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. \"Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?\" It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.<br><br>\n\n(Source: Kodansha Comics)<br><br>\n\n<i>Note: World Is Dancing is streaming 3 days in advance of the TV broadcast on Prime Video and HIDIVE beginning June 29th, 2026. Regular broadcasting began on July 2nd, 2026.</i>",
+    "format": "ONA",
+    "status": "FINISHED",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 6,
+      "day": 29
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 21
+    },
+    "genres": [
+      "Drama"
+    ],
+    "averageScore": 71,
+    "meanScore": 72,
+    "popularity": 22243,
+    "favourites": 217,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Cypic"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://sh-anime.shochiku.co.jp/worldisdancing-anime/en/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/wid_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://sh-anime.shochiku.co.jp/worldisdancing-anime/"
+      },
+      {
+        "site": "HIDIVE",
+        "url": "https://www.hidive.com/season/36240"
+      },
+      {
+        "site": "Amazon Prime Video",
+        "url": "https://www.amazon.co.jp/-/en/dp/B0H46Z36CY"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0a5R_sTDWnpN19_TCZuW-E"
+      }
+    ],
+    "trailer": {
+      "id": "h2zytdkjAU8",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Drama",
+      "Historical"
+    ],
+    "studios": [
+      "Cypic"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "In 1374, amid the turmoil of the Northern and Southern Courts’ long running conflict, a boy named Oniyasha is born into a family of sarugaku theater performers. He spends his days in a kind of quiet gloom, haunted by a simple but persistent question: Why do people dance? Then, one day, he witnesses a dance that he feels to be “good”—and everything begins to change. This is the story of the beautiful young boy who would one day shape the art of Noh and be remembered as Zeami.<br><br>(Source: HIDIVE)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/449S9qa",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "hidive",
+        "url": "www.hidive.com/season/36240",
+        "name": "HiDive"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl0a5R_sTDWnpN19_TCZuW-E",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-06-29T13:30:00Z",
+    "dubTime": "2026-07-01T17:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 13,
+      "airedAt": "2026-09-21T13:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Monday 13:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 4,
+      "airedAt": "2026-07-23T13:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 5,
+      "at": "2026-09-23T17:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 17:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Why Do People Dance?",
+      "titles": {
+        "ja": "人はなぜ舞うのか",
+        "en": "Why Do People Dance?",
+        "x-jat": "Hito wa Naze Mau no ka"
+      },
+      "overview": "In the midst of an era of conflict, Oniyasha wrestles with a question he cannot answer.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11570366/screencap/6a3904e375345.jpg",
+      "airDate": "2026-07-02T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.13",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "You Have a Body",
+      "titles": {
+        "en": "You Have a Body"
+      },
+      "overview": "Fascinated by the woman's haunting performance, Oniyasha seeks her out and requests to watch her dance again.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867297/screencap/6a4b7bdc5f48c.jpg",
+      "airDate": "2026-07-09T13:00:00Z",
+      "runtime": 24,
+      "rating": "9.21",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "You Have Your Own Sense of \"Good\"",
+      "titles": {
+        "en": "You Have Your Own Sense of \"Good\""
+      },
+      "overview": "The Kanze Troupe has a once-in-a-lifetime chance to perform for the shogun, but it's an opportunity that weighs heavily on Oniyasha's shoulders.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867298/screencap/6a54bf6c78df0.jpg",
+      "airDate": "2026-07-16T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.00",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Differing Scales of Progress",
+      "titles": {
+        "en": "Differing Scales of Progress"
+      },
+      "overview": "As the Kanze Troupe takes the stage at Imakumano, Oniyasha gains a new perspective on both his father and the shogun.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867299/screencap/6a5e000bb775d.jpg",
+      "airDate": "2026-07-23T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.03",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "A Budding Throb",
+      "titles": {
+        "en": "A Budding Throb"
+      },
+      "overview": "Two rival troupes hold a competition, and the stakes couldn't be higher. The losing troupe must forfeit the shogun's patronage and disband.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867300/screencap/6a6754f5c7a26.jpg",
+      "airDate": "2026-07-30T13:00:00Z",
+      "runtime": 24,
+      "rating": "3.80",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Connection",
+      "titles": {
+        "en": "Connection"
+      },
+      "overview": "Oniyasha gets a second chance, but he'll have to regain his confidence before facing Zojiro again.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867301/screencap/6a705ac1149cc.jpg",
+      "airDate": "2026-08-06T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.33",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "In Between",
+      "titles": {
+        "en": "In Between"
+      },
+      "overview": "Oniyasha and Kogane struggle to accept Toku's fate.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867302/screencap/6a7995c41f3be.jpg",
+      "airDate": "2026-08-13T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.33",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "To the Other Side of the Bridge",
+      "titles": {
+        "en": "To the Other Side of the Bridge"
+      },
+      "overview": "Oniyasha's stunning performance compels Zojiro to concede defeat. Yet the competition continues, and both performers are forced to face their own limitations.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867303/screencap/6a82d08fab248.jpg",
+      "airDate": "2026-08-20T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.69",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Concealed Feelings",
+      "titles": {
+        "en": "Concealed Feelings"
+      },
+      "overview": "Oniyasha and Zojiro have decided to collaborate, but that doesn't mean everyone is happy about it. Meanwhile, Chiharu struggles with feelings of inadequacy.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867304/screencap/6a8c0b855254c.jpg",
+      "airDate": "2026-08-27T13:00:00Z",
+      "runtime": 24,
+      "rating": "3.31",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "A World Overflowing",
+      "titles": {
+        "en": "A World Overflowing"
+      },
+      "overview": "Oniyasha and Zojiro take the stage for the final round, but the competition will end in a way no one predicted.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867306/screencap/6a954610b4195.jpg",
+      "airDate": "2026-09-03T13:00:00Z",
+      "runtime": 24,
+      "rating": "5.09",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "The Moon Before It`s Full",
+      "titles": {
+        "en": "The Moon Before It`s Full"
+      },
+      "overview": "Years later, the leader of the Hiyoshi Troupe, Inuo, receives a message telling him to come to Sanjobomon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867307/screencap/6a9e8081b16ef.jpg",
+      "airDate": "2026-09-10T13:00:00Z",
+      "runtime": 24,
+      "rating": "3.31",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Reclaiming Intentions",
+      "titles": {
+        "en": "Reclaiming Intentions"
+      },
+      "overview": "Burdened by a changing body, Oniyasha returns to old friends and the village he once called home. Perhaps he can find the resolve to move forward there.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867308/screencap/6aa7bd1a18c12.jpg",
+      "airDate": "2026-09-17T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.33",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "Noh",
+      "titles": {
+        "ja": "能",
+        "en": "Noh",
+        "x-jat": "Nou"
+      },
+      "overview": "Oniyasha performs with Inuo on stage.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11867312/screencap/6ab0f66be21a3.jpg",
+      "airDate": "2026-09-24T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.60",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 13,
+  "updatedAt": "2026-09-23T10:33:05.595Z"
+}

@@ -1,0 +1,391 @@
+{
+  "anilistId": 200637,
+  "malId": 62811,
+  "route": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season",
+  "titles": {
+    "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+    "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+    "native": "君のことが大大大大大好きな100人の彼女 第3期"
+  },
+  "anilist": {
+    "id": 200637,
+    "idMal": 62811,
+    "title": {
+      "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+      "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+      "native": "君のことが大大大大大好きな100人の彼女 第3期"
+    },
+    "synonyms": [
+      "Hyakkano 3",
+      "รักรักรักรักรักเธอหมดหัวใจจากแฟนสาว 100 คน ซีซั่น 3"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200637-QLR5uv9SbQ69.jpg",
+      "color": "#f193bb"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
+    "description": "The third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i>",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 20
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "averageScore": 80,
+    "meanScore": 80,
+    "popularity": 40724,
+    "favourites": 967,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Bibury Animation Studios"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://hyakkano.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/hyakkano_anime"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@hyakkano_anime"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2091388"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI"
+      }
+    ],
+    "trailer": {
+      "id": "kvbOPdDfPio",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Harem",
+      "Harem",
+      "Romance",
+      "School"
+    ],
+    "studios": [
+      "Bibury Animation Studio"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": null,
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4wq4hzi",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4q8QVp9",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2091388",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-05T14:00:00Z",
+    "dubTime": "2026-07-18T14:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-20T13:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Sunday 14:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 10,
+      "airedAt": "2026-09-06T13:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 11,
+      "at": "2026-09-27T14:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 14:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Cousin and Girlfriend",
+      "titles": {
+        "ja": "いとこの彼女",
+        "en": "Cousin and Girlfriend",
+        "de": "Die Cousine, die Freundin",
+        "x-jat": "Itoko no Kanojo"
+      },
+      "overview": "A reporter asks about love at the shopping mall where Rentaro and some of the girls are.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11467019/screencap/6a462a2f7a8e9.jpg",
+      "airDate": "2026-07-05T13:30:00Z",
+      "runtime": 24,
+      "rating": "9.24",
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Chiyo`s Family Coaching",
+      "titles": {
+        "ja": "知与ちゃんのファミリー指導",
+        "en": "Chiyo`s Family Coaching",
+        "de": "Chiyo-chans Family-Einweisung",
+        "x-jat": "Chiyo-chan no Family Shido"
+      },
+      "overview": "Rentaro introduces his new girlfriend to the family as always, but she's shocked by the state of affairs.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872541/screencap/6a4f6648c490e.jpg",
+      "airDate": "2026-07-12T13:30:00Z",
+      "runtime": 24,
+      "rating": "9.98",
+      "absoluteEpisodeNumber": 26,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "The Japanese Teacher Has Blonde Hair",
+      "titles": {
+        "ja": "国語教師はブロンドヘア",
+        "en": "The Japanese Teacher Has Blonde Hair",
+        "de": "Japanischlehrerin mit blonde hair",
+        "x-jat": "Kokugo Kyoushi wa Blond Hair"
+      },
+      "overview": "The new Japanese teacher seems obsessed... with the United States?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872542/screencap/6a58ae75645c7.jpg",
+      "airDate": "2026-07-19T13:30:00Z",
+      "runtime": 24,
+      "rating": "9.98",
+      "absoluteEpisodeNumber": 27,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "The Rentaro Family Idol Legend",
+      "titles": {
+        "ja": "アイドル伝説恋太郎ファミリー",
+        "en": "The Rentaro Family Idol Legend",
+        "de": "Legendäre Idol-Gruppe Rentarō-Family",
+        "x-jat": "Idol Densetsu Rentarou Family"
+      },
+      "overview": "The Rentaro Family has to take the stage at the school fest as pinch-hitters. Can they really pull this off?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872543/screencap/6a61fe91f1121.jpg",
+      "airDate": "2026-07-26T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 28,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Yasashiki-san`s Gardening Club Tour",
+      "titles": {
+        "ja": "優敷さんの園芸部ツアー",
+        "en": "Yasashiki-san`s Gardening Club Tour",
+        "de": "Yasashiki-sans Gartenbau-Club-Tour",
+        "x-jat": "Yasashiki-san no Engei Bu Tour"
+      },
+      "overview": "Rentaro gets the idea to gift flower crowns to his girlfriends, and who better to ask than the gardening club?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872544/screencap/6a6b50214a8d9.jpg",
+      "airDate": "2026-08-02T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 29,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Momiji-chan`s Squishy Festival",
+      "titles": {
+        "ja": "紅葉ちゃんのもみもみフェスティバル",
+        "en": "Momiji-chan`s Squishy Festival",
+        "de": "Momiji-chans Massage-Festival",
+        "x-jat": "Momiji-chan no Momimomi Festival"
+      },
+      "overview": "Rentaro seeks out a rumored masseuse to help his surely exhausted girlfriends.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872545/screencap/6a744f8e6c1ce.jpg",
+      "airDate": "2026-08-09T13:30:00Z",
+      "runtime": 24,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 30,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Thumbelinano and the Kusurivanian Family",
+      "titles": {
+        "ja": "一寸凪乃師と楠莉バニアファミリー",
+        "en": "Thumbelinano and the Kusurivanian Family",
+        "de": "Däumling-Nano und eine kusurivanische Familie",
+        "x-jat": "Issun Nanoshi to Kusurivania Family"
+      },
+      "overview": "Nano is nano-fied for a day, and Rentaro is summoned by Kusuri's dad to explain himself.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11916721/screencap/6a7d8dbb5fcf2.jpg",
+      "airDate": "2026-08-16T13:30:00Z",
+      "runtime": 24,
+      "rating": "9.98",
+      "absoluteEpisodeNumber": 31,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Kusuri-senpai`s Grandmother",
+      "titles": {
+        "ja": "楠莉先輩のおばあさん",
+        "en": "Kusuri-senpai`s Grandmother",
+        "de": "Kusuri-senpais Omi",
+        "x-jat": "Kusuri-senpai no Obaasan"
+      },
+      "overview": "While visiting Kusuri's home, Rentaro feels the sparks fly with her grandmother! Is this really going to fly?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11916722/screencap/6a86c4d47d3ac.jpg",
+      "airDate": "2026-08-23T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 32,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Hardcore Hot Springs Hopping with a Chance of Heaven",
+      "titles": {
+        "ja": "水着本気温泉地獄めぐりのち天国",
+        "en": "Hardcore Hot Springs Hopping with a Chance of Heaven",
+        "x-jat": "Mizugi Honki Onsen Jigoku Meguri Nochi Tengoku"
+      },
+      "overview": "The Rentaro Family gets a special invite to a new relaxation facility, but the trip is anything but relaxing!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11916723/screencap/6a905c2a39dba.jpg",
+      "airDate": "2026-08-30T13:30:00Z",
+      "runtime": 24,
+      "rating": "9.98",
+      "absoluteEpisodeNumber": 33,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "The Rise and Fall of the Proud Girlfriend",
+      "titles": {
+        "ja": "くっころ彼女",
+        "en": "The Rise and Fall of the Proud Girlfriend",
+        "x-jat": "Kukkoro Kanojo"
+      },
+      "overview": "Rentaro introduces the gallant Kishika to the family, and she breaks the ice in the way only she knows.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11937009/screencap/6a994a124eb98.jpg",
+      "airDate": "2026-09-06T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 34,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Of Children, Adults, Ladies, and Mothers",
+      "titles": {
+        "ja": "こどもも, おとなも, おねーさんも, おかーさんも.",
+        "en": "Of Children, Adults, Ladies, and Mothers",
+        "x-jat": "Kodomo mo, Otona mo, Onee-san mo, Okaasan mo."
+      },
+      "overview": "Rentaro invites Hahari out on a very special date to grant one of her wishes.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11937010/screencap/6aa274ad2a34a.jpg",
+      "airDate": "2026-09-13T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 35,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "The 17 Girlfriends Who I Really, Really, Really, Really, Really Love",
+      "titles": {
+        "ja": "俺の大大大大大好きな17人の彼女 (あと83人)",
+        "en": "The 17 Girlfriends Who I Really, Really, Really, Really, Really Love",
+        "x-jat": "Ore no Dai Dai Dai Dai Daisuki na Juushichinin no Kanojo (Ato Hachijuusannin)"
+      },
+      "overview": "Rentaro has decided to confront Shizuka's mother. Will he be able to change her ways?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11937011/screencap/6aabb065909d6.jpg",
+      "airDate": "2026-09-20T13:30:00Z",
+      "runtime": 24,
+      "rating": "9.85",
+      "absoluteEpisodeNumber": 36,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.777Z"
+}

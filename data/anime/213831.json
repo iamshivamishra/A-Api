@@ -1,0 +1,135 @@
+{
+  "anilistId": 213831,
+  "malId": 64543,
+  "route": "snack-hazama",
+  "titles": {
+    "romaji": "Snack HAZAMA",
+    "english": "Snack Hazama",
+    "native": "スナックはざま-HAZAMA-"
+  },
+  "anilist": {
+    "id": 213831,
+    "idMal": 64543,
+    "title": {
+      "romaji": "Snack HAZAMA",
+      "english": "Snack Hazama",
+      "native": "スナックはざま-HAZAMA-"
+    },
+    "synonyms": [
+      "うしろの正面カムイさんミニアニメ",
+      "Ushiro no Shoumen Kamui-san Mini Anime"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213831-jrH7JR6feW1q.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213831-jrH7JR6feW1q.png",
+      "color": "#e48628"
+    },
+    "bannerImage": null,
+    "description": "A weekly mini anime shown with each episode of <i>Ushiro no Shoumen Kamui-san</i> exclusively on the AT-X broadcast of the TV anime and online on OceanVeil.",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 12,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 19
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Supernatural"
+    ],
+    "averageScore": 52,
+    "meanScore": 54,
+    "popularity": 1211,
+    "favourites": 13,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Front Wing"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "OceanVeil",
+        "url": "https://oceanveil.net/anime_titles/463"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/anime_kamuisan"
+      },
+      {
+        "site": "OceanVeil",
+        "url": "https://oceanveil.net/anime_titles/464"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://kamuisan.deregula.com/"
+      }
+    ],
+    "trailer": null
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Supernatural"
+    ],
+    "studios": [
+      "Front Wing"
+    ],
+    "mediaTypes": [
+      "TV Short"
+    ],
+    "lengthMin": 12,
+    "description": "A weekly mini anime shown with each episode of <span class=\"italics\">Ushiro no Shoumen Kamui-san</span>.",
+    "streams": [
+      {
+        "platform": "oceanveil",
+        "url": "oceanveil.net/anime_titles/463",
+        "name": "OceanVeil"
+      }
+    ],
+    "subTime": "2026-08-10T16:30:00Z",
+    "dubTime": "2026-08-10T16:42:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T06:30:58.096Z"
+}

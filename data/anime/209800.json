@@ -1,0 +1,139 @@
+{
+  "anilistId": 209800,
+  "malId": 63047,
+  "route": "yoroi-shin-den-samurai-troopers-part-2",
+  "titles": {
+    "romaji": "Yoroi Shinden Samurai Troopers Part 2",
+    "english": "Yoroi-Shinden Samurai Troopers Cour 2",
+    "native": "鎧真伝サムライトルーパー 第2クール"
+  },
+  "anilist": {
+    "id": 209800,
+    "idMal": 63047,
+    "title": {
+      "romaji": "Yoroi Shinden Samurai Troopers Part 2",
+      "english": "Yoroi-Shinden Samurai Troopers Cour 2",
+      "native": "鎧真伝サムライトルーパー 第2クール"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209800-v3TIdNz1AV0X.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209800-v3TIdNz1AV0X.jpg",
+      "color": "#e4a143"
+    },
+    "bannerImage": null,
+    "description": "When the seal of the Demon Realm shatters, demon soldiers surge into the Human World, tearing through everything in their path. Five young warriors rise to meet the invasion, summoning their legendary armor and charging headfirst into battle. With every clash, they cut through the invading demon hordes, unleashing their power to drive the invasion back. They are…the Samurai Troopers!\n<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 22
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "averageScore": 51,
+    "meanScore": 57,
+    "popularity": 1718,
+    "favourites": 22,
+    "source": "ORIGINAL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Sunrise"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/samuraitroo_pr"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://www.samurai-trooper.net/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00367517/yoroi-shinden-samurai-troopers"
+      }
+    ],
+    "trailer": {
+      "id": "OKEoQo3cGVg",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "studios": [
+      "Sunrise"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "The second part of <span class=\"italics\">Yoroi Shin Den Samurai Troopers</span>.<br><br>When the seal of the Demon Realm shatters, demon soldiers surge into the Human World, tearing through everything in their path. Five young warriors rise to meet the invasion, summoning their legendary armor and charging headfirst into battle. With every clash, they cut through the invading demon hordes, unleashing their power to drive the invasion back. They are…the Samurai Troopers!<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3LeviUD",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00367517/yoroi-shinden-samurai-troopers",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-07-07T15:00:00Z",
+    "dubTime": "2026-06-01T14:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-22T15:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Tuesday 15:00 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Monday 14:30 UTC"
+  },
+  "episodes": [],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.612Z"
+}

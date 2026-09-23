@@ -1,0 +1,825 @@
+{
+  "anilistId": 202957,
+  "malId": 63042,
+  "route": "meitantei-precure",
+  "titles": {
+    "romaji": "Meitantei Precure!",
+    "english": "Star Detective Precure!",
+    "native": "名探偵プリキュア！"
+  },
+  "anilist": {
+    "id": 202957,
+    "idMal": 63042,
+    "title": {
+      "romaji": "Meitantei Precure!",
+      "english": "Star Detective Precure!",
+      "native": "名探偵プリキュア！"
+    },
+    "synonyms": [
+      "TanPre",
+      "たんプリ"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202957-fxZGgJTvwXzP.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202957-fxZGgJTvwXzP.jpg",
+      "color": "#d6ae1a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg",
+    "description": "The 23rd installment of the long-running <i>Precure</i> series.<br>\n<br>\nAnna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br>\n<br>\nMeanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Precures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br>\n<br>\n(Source: Official Website, translated)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 51,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 2,
+      "day": 1
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Mahou Shoujo",
+      "Mystery"
+    ],
+    "averageScore": 75,
+    "meanScore": 78,
+    "popularity": 6499,
+    "favourites": 177,
+    "source": "ORIGINAL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 35,
+      "airingAt": 1790465400,
+      "timeUntilAiring": 347943
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Toei Animation"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://www.toei-anim.co.jp/tv/star-detective_precure/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00369409"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/@precure/videos"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/TVanime_precure"
+      }
+    ],
+    "trailer": {
+      "id": "qjozo1fh7OI",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Winter 2026",
+      "year": "2026",
+      "season": "Winter",
+      "route": "winter-2026"
+    },
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Magical Girl",
+      "Mystery"
+    ],
+    "studios": [
+      "Toei Animation"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "The 23rd installment of the long-running <span class=\"italics\">Precure</span> series.<br><br>Anna Akechi is a second-year junior high student living in Makoto Mirai Town. On her 14th birthday, she has a chance encounter with a fairy named Pochitan, and a magical pendant caused her to travel back in time from 2027 to 1999! In the Makoto Mirai Town 28 years in the past, Anna meets Mikuru Kobayashi, a girl her age who wants to become a great detective.<br><br>Meanwhile, people in town are in trouble as their prized possessions are being stolen from under their noses - the cause being a group of Phantom Thieves. To stop them, Anna and Mikuru turn into Pretty Cures! Maybe if they solve these mysteries, Anna can find her way back to her own time?<br><br>(Source: Official Website, translated)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/49XmHz9",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00369409",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-07-08T00:30:00Z",
+    "dubTime": "2026-01-11T23:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 40,
+    "latestEpisode": {
+      "number": 34,
+      "airedAt": "2026-09-19T23:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 35,
+      "at": "2026-09-26T23:30:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 00:30 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 40,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Sunday 23:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Debut! Star Detective Precure!",
+      "titles": {
+        "ja": "誕生! 名探偵プリキュア!",
+        "en": "Debut! Star Detective Precure!",
+        "x-jat": "Tanjou! Meitantei Precure!"
+      },
+      "overview": "On her 14th birthday, Akechi Anna encounters the fairy Pochitan wearing a pendant in her room. Anna is then engulfed in the pendant's light and wakes up to find herself...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11552221/screencap/6980b79ecd064.jpg",
+      "airDate": "2026-01-31T23:30:00Z",
+      "runtime": 25,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "Introducing the Genius, Jett-senpai!",
+      "titles": {
+        "ja": "天才登場! その名はジェット先輩!",
+        "en": "Introducing the Genius, Jett-senpai!",
+        "x-jat": "Tensai Toujou! Sono Na wa Jett-senpai!"
+      },
+      "overview": "Mikuru takes Anna to the CUREtto Detective Agency.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11564830/screencap/698a4881e5e25.jpg",
+      "airDate": "2026-02-07T23:30:00Z",
+      "runtime": 25,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Everyone Come to the Curetto Detective Agency!",
+      "titles": {
+        "ja": "みんなおいでよ! キュアット探偵事務所!",
+        "en": "Everyone Come to the Curetto Detective Agency!",
+        "x-jat": "Minna Oide yo! Curetto Tantei Jimusho!"
+      },
+      "overview": "As black petals flutter and anxiety spreads throughout town, Uta proposes holding a concert and inviting a “special guest.”",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11564831/screencap/69961b1ad6bd7.jpg",
+      "airDate": "2026-02-14T23:30:00Z",
+      "runtime": 25,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Exciting! Our First Client!",
+      "titles": {
+        "ja": "ドキドキ! 初めての依頼!",
+        "en": "Exciting! Our First Client!",
+        "x-jat": "Dokidoki! Hajimete no Irai!"
+      },
+      "overview": "The CUREtto Detective Agency gets its first client.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11564832/screencap/699c9b75c09ea.jpg",
+      "airDate": "2026-02-21T23:30:00Z",
+      "runtime": 25,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Star Detectives in Trouble?",
+      "titles": {
+        "ja": "名探偵の大ピンチ!",
+        "en": "Star Detectives in Trouble?",
+        "x-jat": "Meitantei no Dai Pinch!"
+      },
+      "overview": "Anna goes to Makoto Mirai Academy, Mikuru’s school, to give Mikuru an umbrella, but then she meets a troubled woman named Mariko who is looking for her little sister Keiko. Meanwhile, Mikuru is asked by the school’s Chairwoman to solve a case involving a ghost in the high school.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11645935/screencap/69a6e961d3f28.jpg",
+      "airDate": "2026-02-28T23:30:00Z",
+      "runtime": 25,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Miraculous Pre-Kit Mirror Loupe!",
+      "titles": {
+        "ja": "奇跡のプリキットミラールーペ!",
+        "en": "Miraculous Pre-Kit Mirror Loupe!",
+        "x-jat": "Kiseki no Pre-Kit Mirror Loupe!"
+      },
+      "overview": "Mikuru leaves the care of exhausted Pochitan to Anna and Jett-senpai.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11656537/screencap/69b13f843042a.jpg",
+      "airDate": "2026-03-07T23:30:00Z",
+      "runtime": 25,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Yikes! The School Is a Maze?",
+      "titles": {
+        "ja": "大変! 学校が迷路!?",
+        "en": "Yikes! The School Is a Maze?",
+        "x-jat": "Taihen! Gakkou ga Meiro!?"
+      },
+      "overview": "Anna transfers to Mikuru's class at Makoto Mirai Academy. While surprised at the size of the campus, she and Mikuru find themselves lost in a puzzle maze created by Goemon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11666017/screencap/69ba968d5a20b.jpg",
+      "airDate": "2026-03-14T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Pretty Smiles at Pretty Holic!",
+      "titles": {
+        "ja": "プリティホリックでプリティスマイル!",
+        "en": "Pretty Smiles at Pretty Holic!",
+        "x-jat": "Pretty Holic de Pretty Smile!"
+      },
+      "overview": "Anna and Mikuru convince Jett-senpai to make merchandise from his Pre-Kit inventions and open a store.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11666018/screencap/69c4d8f70154c.jpg",
+      "airDate": "2026-03-21T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Don`t Make Assumptions!",
+      "titles": {
+        "ja": "決めつけちゃダメ!",
+        "en": "Don`t Make Assumptions!",
+        "x-jat": "Kimetsukecha Dame!"
+      },
+      "overview": "A very popular actress, Shiruku Ieiri, comes to Makoto Mirai Academy to film a TV program which has her joining in on a play as a member of the drama club. But right before the performance a very special costume goes missing from the club office.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11666019/screencap/69cd69fb21b46.jpg",
+      "airDate": "2026-03-28T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Solve the Mystery of the Painting!",
+      "titles": {
+        "ja": "絵の謎を解き明かせ!",
+        "en": "Solve the Mystery of the Painting!",
+        "x-jat": "E no Nazo o Tokiakase!"
+      },
+      "overview": "A client comes to the CUREtto Detective Agency, asking them to help solve a mystery.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11666020/screencap/69d3cfe5b2343.jpg",
+      "airDate": "2026-04-04T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Cure Arcana Shadow Appears!",
+      "titles": {
+        "ja": "キュアアルカナ・シャドウ, 現る",
+        "en": "Cure Arcana Shadow Appears!",
+        "x-jat": "Cure Arcana Shadow, Arawaru"
+      },
+      "overview": "A calling card from the Phantom Thieves’ Guild is sent to the Hosho Art Museum. Anna and Mikuru arrive on the scene, there Luluka strikes a conversation with Anna while in the Starlight Princess display room.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11724393/screencap/69dff4949ce39.jpg",
+      "airDate": "2026-04-11T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "The Secret of Cure Arcana Shadow!",
+      "titles": {
+        "ja": "キュアアルカナ・シャドウの秘密",
+        "en": "The Secret of Cure Arcana Shadow!",
+        "x-jat": "Cure Arcana Shadow no Himitsu"
+      },
+      "overview": "Anna and Mikuru set out on a fact-finding mission to learn more about Cure Arcana Shadow.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11731701/screencap/69e92212e6143.jpg",
+      "airDate": "2026-04-18T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "Star Detectives vs Thieves",
+      "titles": {
+        "ja": "名探偵 VS[ばーさす] 怪盗",
+        "en": "Star Detectives vs Thieves",
+        "x-jat": "Meitantei Versus Kaitou"
+      },
+      "overview": "Anna and the gang chase after Nijee, who has stolen a toy robot. As they face off against the Hanninda, Luluka comes with a message: Maestro Usonoir is on the move.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11731702/screencap/69f381bfb9108.jpg",
+      "airDate": "2026-04-25T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": "Pochitan`s First Outing!",
+      "titles": {
+        "ja": "ポチタン, はじめてのおでかけ!",
+        "en": "Pochitan`s First Outing!",
+        "x-jat": "Pochitan, Hajimete no Odekake!"
+      },
+      "overview": "Anna and Mikuru are on their way to school when Rei, the Student Council President...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11772983/screencap/69f7c0c4b8931.jpg",
+      "airDate": "2026-05-02T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 15,
+      "title": "The Secret of Luluka Moria",
+      "titles": {
+        "ja": "森亜るるかの秘密",
+        "en": "The Secret of Luluka Moria",
+        "x-jat": "Moria Ruruka no Himitsu"
+      },
+      "overview": "In the letter that arrived from London, Anna and the others learn that Cure Arcana Shadow is a genius detective named Luluka Moria. They go to a lake in search of more clues, where they encounter Luluka herself.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778305/screencap/6a088c5bd282a.jpg",
+      "airDate": "2026-05-09T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 16,
+      "title": "Detective Ellie`s Case Book?",
+      "titles": {
+        "ja": "探偵エリーの事件簿!?",
+        "en": "Detective Ellie`s Case Book?",
+        "x-jat": "Tantei Ellie no Jikenbo!?"
+      },
+      "overview": "Novelist Eliza comes to the CUREtto Detective Agency to ask to work as a detective to get ideas for her next novel. Not long after that, the girls get a request to search for a missing cat.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778306/screencap/6a0e0fb26776b.jpg",
+      "airDate": "2026-05-16T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 17,
+      "title": "Memories with Mom",
+      "titles": {
+        "ja": "お母さんとの思い出",
+        "en": "Memories with Mom",
+        "x-jat": "Okaasan to no Omoide"
+      },
+      "overview": "Anna sees the mother of a client and thinks about her own mother.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778307/screencap/6a1292f4f25bc.jpg",
+      "airDate": "2026-05-23T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 18,
+      "title": "Star Detectives Assemble",
+      "titles": {
+        "ja": "名探偵の共演[アッセンブル]",
+        "en": "Star Detectives Assemble",
+        "x-jat": "Meitantei no Assemble"
+      },
+      "overview": "While they help set up an exhibition at Hosho Art Museum, a glass slipper on display goes missing. Anna and Mikuru look for clues, certain that it was the work of the Phantom Thieves’ Guild.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778308/screencap/6a12906354220.jpg",
+      "airDate": "2026-05-30T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 19,
+      "title": "Invitation to the Labyrinth Train?!",
+      "titles": {
+        "ja": "迷宮トレインにご招待!?",
+        "en": "Invitation to the Labyrinth Train?!",
+        "x-jat": "Meikyuu Train ni Goshoutai!?"
+      },
+      "overview": "Anna and Mikuru are on a school trip, but Goemon appears.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11778310/screencap/6a24eb85a1b79.jpg",
+      "airDate": "2026-06-06T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 20,
+      "title": "Legend from a Certain Island!",
+      "titles": {
+        "ja": "とある島の伝説",
+        "en": "Legend from a Certain Island!",
+        "x-jat": "Toaru Shima no Densetsu"
+      },
+      "overview": "A desperate letter arrives at the CUREtto Detective Agency: “The island could disappear!” Leading Anna and Mikuru to take a boat to the isolated island. To solve the case, they must unravel the secret behind an old island song.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844168/screencap/6a2f02145284c.jpg",
+      "airDate": "2026-06-13T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 21,
+      "title": "Detective Ellie`s Case Book, Part 2?",
+      "titles": {
+        "ja": "続・探偵エリーの事件簿!?",
+        "en": "Detective Ellie`s Case Book, Part 2?",
+        "x-jat": "Zoku: Tantei Ellie no Jikenbo!?"
+      },
+      "overview": "Eriza Kurusu appears before Anna and Mikuru and tell thems, “I want to join the CUREtto Detective Agency!”",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844758/screencap/6a37ffa2eee7f.jpg",
+      "airDate": "2026-06-20T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 22,
+      "title": "Shiruku`s Resolve",
+      "titles": {
+        "ja": "しるくの覚悟",
+        "en": "Shiruku`s Resolve",
+        "x-jat": "Shiruku no Kakugo"
+      },
+      "overview": "Shiruku Ieiri invites Anna and Mikuru to her show, and when they come to her dressing room, she shows them a calling card that was left by the Phantom Thieves’ Guild. As they search the theater before the performance, Anna spots Luluka.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844759/screencap/6a41e8b046d0d.jpg",
+      "airDate": "2026-06-27T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": "Kurea, Sleuthing, and Ice Cream!",
+      "titles": {
+        "ja": "くれあと推理とアイスクリーム",
+        "en": "Kurea, Sleuthing, and Ice Cream!",
+        "x-jat": "Kurea to Suiri to Ice Cream"
+      },
+      "overview": "Prompted by a prediction in the Tome of Mirages, Luluka goes to Patisserie ChuChu to steal a Makoto Jewel embedded in a photograph. When Kurea brings her some ice cream, Luluka hands her a calling card…",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844760/screencap/6a4afec8bca7b.jpg",
+      "airDate": "2026-07-04T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "Case Closed with Rei!",
+      "titles": {
+        "ja": "れいと解決! 怪事件!",
+        "en": "Case Closed with Rei!",
+        "x-jat": "Rei to Kaiketsu! Kaijiken!"
+      },
+      "overview": "Together with Rei, Anna and Mikuru investigate some mysterious incidents happening at Makoto Mirai Academy. As they check the science room, music room, and art room, Rei notices a pattern.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844761/screencap/6a53af24ba947.jpg",
+      "airDate": "2026-07-11T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 25,
+      "title": "Cure Eclair`s Identity",
+      "titles": {
+        "ja": "キュアエクレールの正体",
+        "en": "Cure Eclair`s Identity",
+        "x-jat": "Cure Eclair no Shoutai"
+      },
+      "overview": "The perfume Jett-senpai has been making is finally ready. Then, a new calling card arrives from the Phantom Thieves’ Guild. Cure Eclair’s identity will finally be revealed!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844762/screencap/6a670d828461e.jpg",
+      "airDate": "2026-07-18T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 26,
+      "title": "Cure Eclair Returns!",
+      "titles": {
+        "ja": "キュアエクレールの復活!",
+        "en": "Cure Eclair Returns!",
+        "x-jat": "Cure Eclair no Fukkatsu!"
+      },
+      "overview": "Kurea’s memory has been restored by the Top of Lily fragrance. Shushutan also reveals herself in front of everyone. Meanwhile, Usonoir, who has misused the power of the Makoto Jewel, loses control and goes on a rampage.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11844763/screencap/6a670dd2e028e.jpg",
+      "airDate": "2026-07-25T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 26,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 27,
+      "title": "I`m a Star Detective Now!",
+      "titles": {
+        "ja": "私, 名探偵になりました.",
+        "en": "I`m a Star Detective Now!",
+        "x-jat": "Watashi, Meitantei ni Narimashita."
+      },
+      "overview": "With her memory restored, Kurea confesses to Anna and Mikuru that she was never a detective. As they reel from this news, the owner of a restaurant enters with a request for them to search for her missing cook.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872300/screencap/6a6f1eab91441.jpg",
+      "airDate": "2026-08-01T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 27,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 28,
+      "title": "The Mysterious Thief Decchi Agein!",
+      "titles": {
+        "ja": "謎の怪盗デッチ・アゲイン",
+        "en": "The Mysterious Thief Decchi Agein!",
+        "x-jat": "Nazo no Kaitou Decchi Agein"
+      },
+      "overview": "Paul, an exchange student from London, receives a calling card from the Phantom Thieves’ Guild and runs to the CUREtto Detective Agency for help. The calling card looks very flashy, and the listed time is down to the second, making it different from previous cards.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884136/screencap/6a78109ef029c.jpg",
+      "airDate": "2026-08-08T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 28,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 29,
+      "title": "The Duo`s Past",
+      "titles": {
+        "ja": "二人の過去",
+        "en": "The Duo`s Past",
+        "x-jat": "Futari no Kako"
+      },
+      "overview": "Decchi Agein and Goemon replay Kurea’s world of memories. There, Anna and the gang witness Kurea and Luluka’s first meeting at the London CUREtto Detective Agency three years earlier.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884155/screencap/6a8266010896c.jpg",
+      "airDate": "2026-08-15T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 29,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 30,
+      "title": "Eclipse Shadow",
+      "titles": {
+        "ja": "エクリプス・シャドウ",
+        "en": "Eclipse Shadow",
+        "x-jat": "Eclipse Shadow"
+      },
+      "overview": "During the summer holidays, Anna and the others go to Makoto Mirai Academy to help student council president Rei care for the flower beds. While working, they realize that the zinnias that were blooming just minutes earlier have all been cut.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884138/screencap/6a8b9f4a34d32.jpg",
+      "airDate": "2026-08-22T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 30,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 31,
+      "title": "Star Detective Cure Arcana",
+      "titles": {
+        "ja": "名探偵キュアアルカナ",
+        "en": "Star Detective Cure Arcana",
+        "x-jat": "Meitantei Cure Arcana"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884156/screencap/6a94d9cc2e3bf.jpg",
+      "airDate": "2026-08-29T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 31,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 32,
+      "title": "I`m Back, Curetto Detective Agency",
+      "titles": {
+        "ja": "ただいま, キュアット探偵事務所",
+        "en": "I`m Back, Curetto Detective Agency",
+        "x-jat": "Tadaima, Curetto Tantei Jimusho"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884139/screencap/6a9e14220d426.jpg",
+      "airDate": "2026-09-05T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 32,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 33,
+      "title": "The Path to Star Detective Starts with a Single Step",
+      "titles": {
+        "ja": "名探偵の道も一歩から",
+        "en": "The Path to Star Detective Starts with a Single Step",
+        "x-jat": "Meitantei no Michi mo Ippo kara"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884157/screencap/6aa74fdb1f1f0.jpg",
+      "airDate": "2026-09-12T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 33,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 34,
+      "title": "Luluka and the Gold-Star Full Moon",
+      "titles": {
+        "ja": "るるかと, はなまるな満月",
+        "en": "Luluka and the Gold-Star Full Moon",
+        "x-jat": "Ruruka to, Hanamaru na Mangetsu"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11884158/screencap/6ab16d3826be1.jpg",
+      "airDate": "2026-09-19T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 34,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 35,
+      "title": "Love Detectives",
+      "titles": {
+        "ja": "恋の名探偵",
+        "en": "Love Detectives",
+        "x-jat": "Koi no Meitantei"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-26T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 35,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 36,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-03T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 36,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 37,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-10T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 37,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 38,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-17T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 38,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 39,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-24T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 39,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 40,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-31T23:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 40,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 40,
+  "updatedAt": "2026-09-23T10:33:05.701Z"
+}

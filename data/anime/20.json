@@ -1,0 +1,5200 @@
+{
+  "anilistId": 20,
+  "malId": 20,
+  "route": null,
+  "titles": {
+    "romaji": "NARUTO",
+    "english": "Naruto",
+    "native": "NARUTO -ナルト-"
+  },
+  "anilist": {
+    "id": 20,
+    "idMal": 20,
+    "title": {
+      "romaji": "NARUTO",
+      "english": "Naruto",
+      "native": "NARUTO -ナルト-"
+    },
+    "synonyms": [
+      "נארוטו",
+      "ناروتو",
+      "火影忍者",
+      "นารูโตะ นินจาจอมคาถา",
+      "Наруто"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20-dE6UHbFFg1A5.jpg",
+      "color": "#e47850"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20-HHxhPj5JD13a.jpg",
+    "description": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. <br><br>\nShunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way. <br><br>\n(Source: MAL Rewrite)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 220,
+    "duration": 23,
+    "season": "FALL",
+    "seasonYear": 2002,
+    "startDate": {
+      "year": 2002,
+      "month": 10,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2007,
+      "month": 2,
+      "day": 8
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "meanScore": 80,
+    "popularity": 727444,
+    "favourites": 38951,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio Pierrot"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Crunchyroll",
+        "url": "http://www.crunchyroll.com/naruto"
+      },
+      {
+        "site": "Hulu",
+        "url": "http://www.hulu.com/naruto"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/70205012"
+      },
+      {
+        "site": "Tubi TV",
+        "url": "https://tubitv.com/series/1622/naruto"
+      },
+      {
+        "site": "Bilibili",
+        "url": "https://www.bilibili.tv/en/play/1005144"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/naruto-1evx2uy83ah"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/naruto2002/"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://youtube.com/playlist?list=PLDDFkfLheQ9hNru7WoTa26dpn6o9-AEJK"
+      },
+      {
+        "site": "Hoopla",
+        "url": "https://www.hoopladigital.com/series/naruto-dubbed/11802118009"
+      },
+      {
+        "site": "Hoopla",
+        "url": "https://www.hoopladigital.com/television/naruto-subbed-season-1/14608874"
+      }
+    ],
+    "trailer": {
+      "id": "-G9BqkgZXRA",
+      "site": "youtube"
+    }
+  },
+  "schedule": null,
+  "sub": {
+    "available": false,
+    "totalEpisodes": 220,
+    "latestEpisode": {
+      "number": 220,
+      "airedAt": "2007-02-08"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 220,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Enter: Naruto Uzumaki!",
+      "titles": {
+        "ja": "参上! うずまきナルト",
+        "en": "Enter: Naruto Uzumaki!",
+        "de": "Wer ist Naruto?",
+        "fr": "Et voici Naruto Uzumaki",
+        "it": "Arriva Naruto!",
+        "pl": "Wkracza Naruto Uzumaki",
+        "cs": "Enter: Naruto Uzumaki!",
+        "lt": "Narutas Uzumakis",
+        "th": "อิซึมาคิ นารูโตะมาแล้ว",
+        "x-jat": "Sanjou! Uzumaki Naruto"
+      },
+      "overview": "Welcome to the Village Hidden in the Leaves, where deadly serious Ninja roam the landscape and the seriously mischievous Naruto Uzumaki causes trouble everywhere he goes. But when he steals the ancient scroll of sealing, he unleashes a rare power rarely seen in a 12-year-old boy!",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296975.jpg",
+      "airDate": "2002-10-03",
+      "runtime": 25,
+      "rating": "6.00",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "My Name Is Konohamaru!",
+      "titles": {
+        "ja": "木ノ葉丸だ コレ!",
+        "en": "My Name Is Konohamaru!",
+        "de": "Der ehrenwerte Enkel",
+        "fr": "Je m`appelle Konohamaru",
+        "it": "Konohamaru",
+        "pl": "Nazywam się Konohamaru",
+        "cs": "Jmenuji se Konohamaru",
+        "th": "โคโนะฮามารุ",
+        "x-jat": "Konohamaru Da Kore!"
+      },
+      "overview": "Naruto finally graduates from the Ninja Academy and claims to know it all. Well, at least that what he tells Konohamaru, the Village elder's pint-size grandson. Much to the dismay of Ebisu, Konohamaru's teacher and mentor, Naruto teaches him the hormonally lethal \"Sexy Jutsu!\"\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296976.jpg",
+      "airDate": "2002-10-10",
+      "runtime": 25,
+      "rating": "4.67",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Sasuke and Sakura: Friends or Foes?",
+      "titles": {
+        "ja": "宿敵!? サスケとサクラ",
+        "en": "Sasuke and Sakura: Friends or Foes?",
+        "de": "Neue Teams, alte Feinde",
+        "fr": "Sasuke et Sakura, amis ou ennemis ?",
+        "it": "Nemici?",
+        "pl": "Sasuke i Sakura: Przyjaciele czy wrogowie?",
+        "cs": "Sasuke a Sakura: Přátelé nebo nepřátelé?",
+        "th": "ซาสึเกะกับซากุระปิ๊งกันหรือ?",
+        "x-jat": "Shukuteki!? Sasuke to Sakura"
+      },
+      "overview": "Naruto is preparing himself for the Genin orientation. It's all a happy story until Sensei picks a team for all the ninjas. Naruto was teamed up with his crush, Sakura, and his worst enemy, Sasuke. Can Naruto learn to work together with two people whom despise him?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296977.jpg",
+      "airDate": "2002-10-17",
+      "runtime": 25,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Pass or Fail: Survival Test",
+      "titles": {
+        "ja": "試練! サバイバル演習",
+        "en": "Pass or Fail: Survival Test",
+        "de": "Kakashis großer Bluff",
+        "fr": "L`épreuve de survie",
+        "it": "Esercitazione di sopravvivenza",
+        "pl": "Zdajesz albo nie: Próba przetrwania",
+        "th": "ฝึกโหดเพื่อการอยู่รอด",
+        "x-jat": "Shiren! Survival Enshuu"
+      },
+      "overview": "Naruto finally meets his new sensei. His name is Kakashi Hatake. He tells the group that before they could become Genin, they will have to pass his survival test. The problem is, the test has a 66% chance of failure, and if they fail they'll be sent back to the academy. To make matters even worse, one of them will fail no matter what. Can the three pass Kakashi's test?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296978.jpg",
+      "airDate": "2002-10-24",
+      "runtime": 25,
+      "rating": "6.86",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "You Failed! Kakashi`s Final Decision",
+      "titles": {
+        "ja": "失格? カカシの結論",
+        "en": "You Failed! Kakashi`s Final Decision",
+        "de": "Wo ist euer Teamgeist?",
+        "fr": "Recalés ?",
+        "it": "Squalificati?",
+        "pl": "Oblałeś! Ostateczna decyzja Kakashiego",
+        "th": "เลิกเป็นนินจาซะบทสรุปของคาคาชิ",
+        "x-jat": "Shikkaku? Kakashi no Ketsuron"
+      },
+      "overview": "Time is running out for Naruto and his group. With Sasuke the only one left, he tries to succeed where the others failed. Will they be able to get the bells before time runs out?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296979.jpg",
+      "airDate": "2002-10-31",
+      "runtime": 25,
+      "rating": "6.60",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "A Dangerous Mission! Journey to the Land of Waves!",
+      "titles": {
+        "ja": "重要任務! 波の国へ超出発!",
+        "en": "A Dangerous Mission! Journey to the Land of Waves!",
+        "de": "Gefährliche Mission! Die Reise ins Reich der Wellen",
+        "fr": "Au pays des vagues",
+        "it": "In missione ufficiale",
+        "pl": "Niebezpieczna misja! Podróż do Krainy Fal!",
+        "th": "ภารกิจสำคัญมุ่งสู่นามิโนะคุนิ",
+        "x-jat": "Juuyou Ninmu! Nami no Kuni e Chou Shuppatsu!"
+      },
+      "overview": "Tired of doing lame missions, Naruto asks the Hokage to give them something challenging. The Hokage caves and gives them a C-rank mission. They will be bodyguards for a bridge builder. It appears to be a simple mission, until the group is attacked by something more than common thugs...other ninja!\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296980.jpg",
+      "airDate": "2002-11-07",
+      "runtime": 25,
+      "rating": "5.53",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "The Assassin of the Mist!",
+      "titles": {
+        "ja": "霧の暗殺者!",
+        "en": "The Assassin of the Mist!",
+        "de": "Geheimnisse hinter dem Nebel",
+        "fr": "L`assassin dans la brume",
+        "it": "L`assassino nella nebbia",
+        "pl": "Zabójca we mgle",
+        "th": "นักฆ่าในสายหมอก",
+        "x-jat": "Kiri no Ansatsusha!"
+      },
+      "overview": "Team Kakashi and Tazuna are on their way to his home. On the way there they run across a ninja named, Zabuza Momochi. Is the Sharingan enough to defeat this new enemy, or is team Kakashi's first mission over before its even begun?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296981.jpg",
+      "airDate": "2002-11-14",
+      "runtime": 25,
+      "rating": "6.19",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "The Oath of Pain",
+      "titles": {
+        "ja": "痛みに誓う決意",
+        "en": "The Oath of Pain",
+        "de": "Gefangen im Wasser!",
+        "fr": "La promesse du sang",
+        "it": "Promesse dolorose",
+        "pl": "Przysięga bólu",
+        "th": "ฉันนี่แหละนินจา",
+        "x-jat": "Itami ni Chikau Ketsui"
+      },
+      "overview": "With Kakashi captured, Naruto, Sasuke and Sakura must defend against Zabuza's attacks. Naruto realizes that working together with Sasuke may be the only way to save Kakashi. Will the combined effort of the two be enough to free Kakashi and defeat Zabuza?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296982.jpg",
+      "airDate": "2002-11-21",
+      "runtime": 25,
+      "rating": "6.23",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Kakashi: Sharingan Warrior!",
+      "titles": {
+        "ja": "写輪眼のカカシ",
+        "en": "Kakashi: Sharingan Warrior!",
+        "de": "Kakashi, der Krieger des Sharingan",
+        "fr": "Kakashi, le ninja copieur (le sharingan)",
+        "it": "Kakashi e lo Sharingan",
+        "pl": "Kakashi: Wojownik Sharingan!",
+        "cs": "Kakashi: Sharinganský válečník",
+        "th": "เนตรวงแหวนของคาคาชิ",
+        "x-jat": "Sharingan no Kakashi"
+      },
+      "overview": "With Kakashi free, the fight between him and Zabuza resumes. Kakashi decides to show Zabuza what the Sharingan is really capable of. Can Kakashi's Sharingan defeat Zabuza? And who is the mysterious person watching the fight?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296983.jpg",
+      "airDate": "2002-11-28",
+      "runtime": 25,
+      "rating": "5.87",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "The Forest of Chakra",
+      "titles": {
+        "ja": "チャクラの森",
+        "en": "The Forest of Chakra",
+        "de": "Die Ruhe vor dem Sturm",
+        "fr": "Le chakra",
+        "it": "L`essenza del chakra",
+        "pl": "Las Chakry",
+        "th": "ฝึกหนักพลังแห่งจักระ",
+        "x-jat": "Chakura no Mori"
+      },
+      "overview": "With Zabuza gone things are now settling and Tazuna can go and build the bridge without fear. Or so everyone thinks. Kakashi believes something is wrong with Zabuza's death and teaches Naruto, Sakura, and Sasuke a way to train so they could better use their chakra. Is Zabuza really dead?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296984.jpg",
+      "airDate": "2002-12-05",
+      "runtime": 25,
+      "rating": "4.65",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "The Land Where a Hero Once Lived",
+      "titles": {
+        "ja": "英雄のいた国",
+        "en": "The Land Where a Hero Once Lived",
+        "de": "Das Land, in dem einst ein Held lebte",
+        "fr": "Il était une fois un héros",
+        "it": "C`era una volta un eroe",
+        "pl": "Kraina w której żył bohater",
+        "th": "ปมในใจของอินาริ",
+        "x-jat": "Eiyuu no Ita Kuni"
+      },
+      "overview": "While Naruto and Sasuke train, Sakura watches over Tazuna. During a nice dinner, Sakura notices a man's face torn from a picture. The man's name was Kaiza, and he was what the country called...a \"hero\". What happened to cause Inari so much pain?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296985.jpg",
+      "airDate": "2002-12-12",
+      "runtime": 25,
+      "rating": "3.76",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Battle on the Bridge! Zabuza Returns!",
+      "titles": {
+        "ja": "橋上決戦! ザブザ再び!!",
+        "en": "Battle on the Bridge! Zabuza Returns!",
+        "de": "Das Mädchen, das ein Junge ist",
+        "fr": "Bataille sur le pont ! Le retour de Zabuza",
+        "it": "Il ritorno di Zabusa",
+        "pl": "Bitwa na moście! Powrót Zabuzy!",
+        "th": "ซาบุสะล้างแค้น",
+        "x-jat": "Kyoujou Kessen! Zabuza Futatabi!!"
+      },
+      "overview": "Naruto has a dangerous encounter with Haku in the forest, but is Haku there to cause trouble? Naruto and Sasuke better complete their training, as Zabuza is alive and has returned for round 2. Will Kakashi, Sasuke, and Sakura be able to defeat the Demon of the Mist? And, can Naruto arrive in time to help out?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296986.jpg",
+      "airDate": "2002-12-19",
+      "runtime": 25,
+      "rating": "4.84",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "Haku`s Secret Jutsu: Crystal Ice Mirrors",
+      "titles": {
+        "ja": "白の秘術・魔鏡氷晶",
+        "en": "Haku`s Secret Jutsu: Crystal Ice Mirrors",
+        "de": "Alles eine Frage der Schnelligkeit!",
+        "fr": "Les miroirs de glace de Haku",
+        "it": "Gli specchi diabolici di Haku",
+        "pl": "Sekretne jutsu Haku: Lustra kryształowego lodu",
+        "th": "คาถาลับของฮาคุ",
+        "x-jat": "Haku no Hijutsu: Makyou Hyoushou"
+      },
+      "overview": "Round two with Zabuza has started, but this time… Zabuza has Haku fighting along side him. Haku and Sasuke go at it with Sasuke falling behind until he manages to get a kick in. Meanwhile Naruto deals with some of Gato's henchmen. Back at the bridge Haku uses his secret jutsu, Demonic Ice Mirrors. What does this jutsu hold in store for Sasuke? Will Naruto make it to the bridge in time and save Tsunami and Inari as well?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296987.jpg",
+      "airDate": "2002-12-26",
+      "runtime": 25,
+      "rating": "5.88",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": "The Number One Hyperactive, Knucklehead Ninja Joins the Fight!",
+      "titles": {
+        "ja": "意外性No.1, ナルト参戦!",
+        "en": "The Number One Hyperactive, Knucklehead Ninja Joins the Fight!",
+        "de": "Wieder übers Ziel hinausgeschossen!",
+        "fr": "Imprévisible Naruto !",
+        "it": "Pronto all`azione",
+        "pl": "Nadpobudliwy, twardogłowy ninja wkracza do akcji!",
+        "th": "นารูโตะลุยศึก",
+        "x-jat": "Igai Sei No.1: Naruto Sansen!"
+      },
+      "overview": "Naruto finally joins the battle on the bridge. But when Naruto stupidly gets caught in the middle of Haku's jutsu as well, he and Sasuke must work together to escape. Kakashi is unable to help them, as he must deal with Zabuza to protect Sakura and Tazuna. How will the two escape from the ice mirrors without any help?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296988.jpg",
+      "airDate": "2003-01-09",
+      "runtime": 25,
+      "rating": "3.37",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 15,
+      "title": "Zero Visibility: The Sharingan Shatters",
+      "titles": {
+        "ja": "視界ゼロの戦い・写輪眼崩し",
+        "en": "Zero Visibility: The Sharingan Shatters",
+        "de": "Ein verzweifelter Versuch!",
+        "fr": "Bataille dans la brume",
+        "it": "Visibilità zero: lo Sharingan sconfitto",
+        "pl": "Zerowa widoczność: Koniec z Sharingan",
+        "cs": "Nulová viditelnost: Sharingan vyřazen",
+        "th": "เนตรวงแหวนสิ้นท่า",
+        "x-jat": "Shikai Zero no Tatakai: Sharingan Kuzushi"
+      },
+      "overview": "Naruto and Sasuke continue to fight Haku and are getting beaten bad. After having Naruto try and escape a few times, Sasuke begins to see a pattern. Meanwhile, outside Kakashi and Zabuza begin their fight. Can Naruto and Sasuke escape from Haku's jutsu? What plan does Zabuza have to defeat the Sharingan?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296989.jpg",
+      "airDate": "2003-01-16",
+      "runtime": 25,
+      "rating": "4.06",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 16,
+      "title": "The Broken Seal",
+      "titles": {
+        "ja": "解放された封印",
+        "en": "The Broken Seal",
+        "de": "Ungeahnte Kräfte",
+        "fr": "Le sceau brisé",
+        "it": "Il mostro liberato",
+        "pl": "Złamana pieczęć",
+        "cs": "Zlomená pečeť",
+        "th": "ปลดปล่อยผนึกคำสาป",
+        "x-jat": "Kaihousareta Fuuin"
+      },
+      "overview": "Naruto and Sasuke continue their rigorous battle against Haku. When Haku targets a vulnerable Naruto, Sasuke risks everything to save him. Seeing his friend lie before him, a powerful force awakens inside Naruto. Has Kyubi been set free. If so, can anyone stop him?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296990.jpg",
+      "airDate": "2003-01-23",
+      "runtime": 25,
+      "rating": "5.63",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 17,
+      "title": "White Past: Hidden Ambition",
+      "titles": {
+        "ja": "白い過去・秘めた想い",
+        "en": "White Past: Hidden Ambition",
+        "de": "Versteckter Ehrgeiz",
+        "fr": "Le passé oublié",
+        "it": "L`infanzia di Haku",
+        "pl": "Biała przeszłość: Ukryte ambicje",
+        "cs": "Bílá minulost: Skryté ambice",
+        "th": "เผยเงื่อนงำอดีตวัยเยาว์",
+        "x-jat": "Shiroi Kako: Himeta Omoi"
+      },
+      "overview": "Naruto takes out his rage on Haku, who doesn't stand a chance. However, Naruto realises that Haku is the boy he met back at the forest. Haku tells Naruto the story of his past and asks for Naruto to do him one favour..... Will Naruto do the one thing he could never do just as Haku wishes?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296991.jpg",
+      "airDate": "2003-01-30",
+      "runtime": 25,
+      "rating": "7.52",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 18,
+      "title": "The Weapons Known as Shinobi",
+      "titles": {
+        "ja": "忍という名の道具",
+        "en": "The Weapons Known as Shinobi",
+        "de": "Der Kampf um die Brücke: Die Entscheidung!",
+        "fr": "Un ninja, une arme",
+        "it": "Un`arma ninja",
+        "pl": "Broń znana jako Shinobi",
+        "cs": "Zbraně zvané shinobi",
+        "th": "เครื่องมือที่มีชื่อว่านินจา",
+        "x-jat": "Shinobi to iu Na no Dougu"
+      },
+      "overview": "Kakashi prepares to stop Zabuza once and for all, but Haku has other plans. Zabuza's employer shows up and he's decided to take matters into his own hands...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296992.jpg",
+      "airDate": "2003-02-06",
+      "runtime": 25,
+      "rating": "7.33",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 19,
+      "title": "The Demon in the Snow",
+      "titles": {
+        "ja": "ザブザ雪に散る...",
+        "en": "The Demon in the Snow",
+        "de": "Abschied nehmen",
+        "fr": "La neige recouvre Zabuza",
+        "it": "Cade la neve",
+        "pl": "Demon w śniegu",
+        "th": "ซาบุสะในสายหิมะ",
+        "x-jat": "Zabuza Yuki ni Chiru..."
+      },
+      "overview": "Zabuza is no longer Kakashi's enemy, and thanks to a little speech by Naruto about how ninja are, Zabuza takes on Gato's men single handedly. The Demon of the Hidden Mist takes his vengeance on Gato and all of those dumb enough to follow him, and apologizes to Haku for what he did to the kind little boy. After the group takes care of the rest of Gato's men, Zabuza asks Kakashi one final request, to see Haku one final time. This is Zabuza's requiem.\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296993.jpg",
+      "airDate": "2003-02-13",
+      "runtime": 25,
+      "rating": "8.00",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 20,
+      "title": "A New Chapter Begins: The Chunin Exam!",
+      "titles": {
+        "ja": "新章突入! 中忍試験だってばよ",
+        "en": "A New Chapter Begins: The Chunin Exam!",
+        "de": "Eine neue Herausforderung",
+        "fr": "L`examen des Chûnin",
+        "it": "Selezione Chunin",
+        "pl": "Nowy rozdział: Egzamin na Chunina!",
+        "th": "ข้อสอบจูนินเรอะเนี่ย",
+        "x-jat": "Shinshou Totsunyuu! Chuunin Shiken Dattebayo"
+      },
+      "overview": "With their latest mission complete, it's time once again for the group to go back to mediocre missions. After all are done, Konohamaru and his friends pay a visit to Naruto. All which result in being chased by Sakura. Everyone is soon over though, as two mysterious ninja block their way, and one of them isn't too happy with Konohamaru. Sasuke arrives to save the day, but the leader of the group shows up, with stealth skills that surprise even Sasuke. Meanwhile, the Third Hokage announces that it's time once again for the Chuunin selection exams.\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296994.jpg",
+      "airDate": "2003-02-20",
+      "runtime": 25,
+      "rating": "5.23",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 21,
+      "title": "Identify Yourself: Powerful New Rivals",
+      "titles": {
+        "ja": "名乗れ! 現れた強敵たち!!",
+        "en": "Identify Yourself: Powerful New Rivals",
+        "de": "Wer seid Ihr? Alte und neue Rivalen",
+        "fr": "De mystérieux et puissants adversaires !",
+        "it": "Nemici formidabili",
+        "pl": "Przedstawcie się: Nowi potężni rywale",
+        "th": "เผยโฉมคู่แข่งตัวฉกาจ",
+        "x-jat": "Naore! Arawareta Kyouteki-tachi!!"
+      },
+      "overview": "After the three ninjas take their leave, Sasuke realizes he has a powerful rival out there. The next day, Kakashi announces that he has recommended all of them for the Chuunin Exams. While Naruto and Sasuke are pleased, Sakura is afraid of letting everyone down. Also, someone decides they aren't ready and decides to test their abilities.\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296995.jpg",
+      "airDate": "2003-02-27",
+      "runtime": 25,
+      "rating": "5.56",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 22,
+      "title": "Chunin Challenge: Rock Lee vs. Sasuke!",
+      "titles": {
+        "ja": "気合い120% ナウでロックな挑戦状!",
+        "en": "Chunin Challenge: Rock Lee vs. Sasuke!",
+        "de": "Rock Lee gegen Sasuke Uchiha",
+        "fr": "Sasuke contre Lee",
+        "it": "Spirito di competizione",
+        "pl": "Wyzwanie Chunina: Rock Lee kontra Sasuke!",
+        "cs": "Výzva chuninů: Rock Lee vs. Sasuke",
+        "th": "ศึกท้าดวลสไตล์ร็อค",
+        "x-jat": "Kiai 120% Nau de Rock na Chousenjou!"
+      },
+      "overview": "Rock Lee challenges Sasuke to a one-on-one fight. Naruto grows angry and attacks him, only to be beaten in one attack. Sasuke realizes the challenge and eagerly accepts. But will Sasuke be defeated just as easily by this mysterious ninja? Sasuke's only advantage seems to be his Sharingan, but what happens when not even that will work?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296996.jpg",
+      "airDate": "2003-03-06",
+      "runtime": 25,
+      "rating": "5.89",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": "Genin Takedown! All Nine Rookies Face Off!",
+      "titles": {
+        "ja": "蹴散らせライバル! 新人9人[ルーキーナイン]全員集合",
+        "en": "Genin Takedown! All Nine Rookies Face Off!",
+        "de": "Team 7, viel Glück!",
+        "fr": "Les rivaux !",
+        "it": "Nemici spietati",
+        "pl": "Starcie Geninów! Dziewiątka nowicjuszy gotowa do konfrontacji!",
+        "th": "เด็กใหม่นัดรวมตัว",
+        "x-jat": "Kechirase Rival! Rookie Nine Zen`in Shuugou"
+      },
+      "overview": "A reunion of all the rookies isn't a very happy one, as all of them prepare to take the Chuunin Exam. With so many rivals around, Naruto's team will need help from a fellow ninja named Kabuto to know what they're up against. Will the group be able to last through the exam?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296997.jpg",
+      "airDate": "2003-03-13",
+      "runtime": 25,
+      "rating": "5.53",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "Start Your Engines: The Chunin Exam Begins",
+      "titles": {
+        "ja": "いきなり失格? 超難関の第一試験",
+        "en": "Start Your Engines: The Chunin Exam Begins",
+        "de": "Kräfte sammeln! Die Chunin-Auswahlprüfung beginnt",
+        "fr": "La première épreuve",
+        "it": "La prima prova",
+        "pl": "Ruszamy: Egzamin na Chunina rozpoczęty!",
+        "cs": "Nažhavte motory: Zkouška chuninů začíná",
+        "th": "ด่านสุดหินของข้อสอบรอบแรก",
+        "x-jat": "Ikinari Shikkaku? Chou Nankan no Dai Ichi Shiken"
+      },
+      "overview": "The first test of the Chuunin Exam is just that, a written test. When Ibiki issues a strict set of rules, Naruto fails to realize that the objective of the test is to cheat without getting caught. Can Naruto realize the truth before time runs out? And what about the tenth question?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296998.jpg",
+      "airDate": "2003-03-20",
+      "runtime": 25,
+      "rating": "6.93",
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 25,
+      "title": "The Tenth Question: All or Nothing!",
+      "titles": {
+        "ja": "出たとこ勝負! 踏ん張りどころの10問目",
+        "en": "The Tenth Question: All or Nothing!",
+        "de": "Die zehnte Frage: Alles oder Nichts?",
+        "fr": "La dixième question",
+        "it": "Il decimo problema",
+        "pl": "Dziesiąte pytanie: Wszystko albo nic!",
+        "th": "จะสู้หรือจะถอย",
+        "x-jat": "Deta Toko Shoubu! Funbari Dokoro no 10 Momme"
+      },
+      "overview": "As time ticks away, Naruto's only hope of passing the test lies in the final question. However, there is a requirement to answering the final question. If you choose not to answer it, you fail the test and can try again next time. But, if you choose to answer it and get it wrong, you can never take the test again and must stay a Genin forever! What will Naruto's choice be?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/296999.jpg",
+      "airDate": "2003-03-27",
+      "runtime": 25,
+      "rating": "6.59",
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 26,
+      "title": "Special Report: Live from the Forest of Death!",
+      "titles": {
+        "ja": "絶対必見! 死の森直前ルポ! 木ノ葉の学級新聞だコレ!",
+        "en": "Special Report: Live from the Forest of Death!",
+        "de": "Sonderbericht: Live aus dem Wald des Schreckens",
+        "fr": "Le journal de l`école de Konoha",
+        "it": "Un articolo prima del secondo test",
+        "th": "รายงานตรงจากป่ามรณะ",
+        "x-jat": "Zettai Hikken! Shi no Mori Chokuzen Rupo! Konoha no Gakkyuu Shinbun Da Kore!"
+      },
+      "overview": "Before the second exam can begin, Konohamaru and his friends pull the members of Team 7 aside for interviews, where they retell the storyline to this point.",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297001.jpg",
+      "airDate": "2003-04-02",
+      "runtime": 25,
+      "rating": "1.55",
+      "absoluteEpisodeNumber": 26,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 27,
+      "title": "The Chunin Exam Stage 2: The Forest of Death",
+      "titles": {
+        "ja": "第二試験スタート! 周りはみんな敵だらけ!",
+        "en": "The Chunin Exam Stage 2: The Forest of Death",
+        "de": "Die Prüfung geht weiter!",
+        "fr": "La seconde épreuve ! Tout le monde est un ennemi",
+        "it": "L`inizio del secondo test",
+        "cs": "Zkouška chuninů - 2. část: Les smrti",
+        "th": "ทุกคนล้วนเป็นศัตรูกันหมด",
+        "x-jat": "Dai Ni Shiken Start! Mawari wa Minna Teki Darake!"
+      },
+      "overview": "The second exam is about to begin, and every ninja must sign a form so that their team can get either the Heaven or Earth Scroll. The goal is to get one of each scroll and make it to the tower in five days. The groups get their scrolls and the exam begins. Naruto is ambushed by a ninja who poses as him. This ninja doesn't fool Sasuke, who immediately figures it out. Meanwhile, a new foe seeks them out, but who is this foe?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297002.jpg",
+      "airDate": "2003-04-02",
+      "runtime": 25,
+      "rating": "6.07",
+      "absoluteEpisodeNumber": 27,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 28,
+      "title": "Eat or Be Eaten: Panic in the Forest",
+      "titles": {
+        "ja": "喰うか喰われるか! エサになったナルト",
+        "en": "Eat or Be Eaten: Panic in the Forest",
+        "de": "Naruto, der Schlangenbeschwörer",
+        "fr": "Manger ou être mangé... Naruto joue les appâts",
+        "it": "Naruto fa da esca",
+        "th": "นารูโตะเป็นเหยื่ออันโอชะ",
+        "x-jat": "Kuu ka Kuwareruka! Esa ni Natte Naruto"
+      },
+      "overview": "To prevent further problems, Sasuke thinks up a password to determine friend from foe, but will it be that simple? Meanwhile Naruto has his hands full with a giant snake. Can he handle this on his own and what about Sasuke and Sakura, can they survive the ordeal?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297000.jpg",
+      "airDate": "2003-04-09",
+      "runtime": 25,
+      "rating": "7.58",
+      "absoluteEpisodeNumber": 28,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 29,
+      "title": "Naruto`s Counterattack: Never Give In!",
+      "titles": {
+        "ja": "ナルト反撃! 逃げねーんだってばよ!",
+        "en": "Naruto`s Counterattack: Never Give In!",
+        "de": "Narutos Gegenangriff: Gib niemals auf!",
+        "fr": "Naruto contre-attaque !",
+        "it": "Naruto contrattacca",
+        "th": "นารูโตะตอบโต้",
+        "x-jat": "Naruto Hangeki! Nigenen Dattebayo!",
+        "es-419": "El contraataque de Naruto: ¡Nunca rendirse!"
+      },
+      "overview": "Sasuke is about to give up and give their scroll to the enemy, when Naruto stops him and accuses him of being a fake. Naruto then turns his attention to the Grass Ninja.... The battle is intense and when the Grass Ninja appears to get the upper hand, can Sasuke muster up the courage to fight?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297003.jpg",
+      "airDate": "2003-04-16",
+      "runtime": 25,
+      "rating": "7.30",
+      "absoluteEpisodeNumber": 29,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 30,
+      "title": "The Sharingan Revived: Dragon Flame Jutsu!",
+      "titles": {
+        "ja": "蘇れ写輪眼! 必殺・火遁龍火[かとんりゅうか]の術!",
+        "en": "The Sharingan Revived: Dragon Flame Jutsu!",
+        "de": "Das Mal des Fluches",
+        "fr": "Le feu du dragon",
+        "it": "La tecnica del drago di fuoco",
+        "cs": "Oživlý sharingan: Dračí plamenné jutsu",
+        "th": "คาถาเพลิงมังกรมฤตยู",
+        "x-jat": "Yomigaere Sharingan! Hissatsu: Katon Ryuuka no Jutsu!"
+      },
+      "overview": "Sasuke is still stuck in his trance and even Sakura's pleas can't get him back to normal. Meanwhile, Anko searches for the grass ninja fake. When the team appear to get the upper hand the question begs to be asked. Are the ninja truly defeated, or is there more to them than meets the eye?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297004.jpg",
+      "airDate": "2003-04-23",
+      "runtime": 25,
+      "rating": "8.09",
+      "absoluteEpisodeNumber": 30,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 31,
+      "title": "Bushy Brow`s Pledge: Undying Love and Protection",
+      "titles": {
+        "ja": "激まゆプラトニック! 僕は死ぬまでアナタを守る!!",
+        "en": "Bushy Brow`s Pledge: Undying Love and Protection",
+        "de": "Der Schwur der buschigen Augenbraue: Ewige Liebe und Schutz!",
+        "fr": "Le combat pour l`amour",
+        "it": "L`amore di Rock Lee",
+        "th": "ผมจะปกป้องคุณไปจนตาย",
+        "x-jat": "Gekimayu Platonic! Boku wa Shinu made Anata o Mamoru!!"
+      },
+      "overview": "Since Sakura was the only one who did not get injured in the previous battle she must watch over and protect her teammates. Unknown to her though, there are enemies watching from the trees.... They attack, but a friend arrives to help. Will it be enough?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297005.jpg",
+      "airDate": "2003-04-30",
+      "runtime": 25,
+      "rating": "6.76",
+      "absoluteEpisodeNumber": 31,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 32,
+      "title": "Sakura Blossoms!",
+      "titles": {
+        "ja": "サクラ咲く! 決意の後ろ姿",
+        "en": "Sakura Blossoms!",
+        "de": "Allein gegen alle",
+        "fr": "Le réveil de Sakura ! Plus de figuration",
+        "it": "La rivincita di Sakura",
+        "th": "สู้ตายค่ะ",
+        "x-jat": "Sakura Saku! Ketsui no Ushirosugata"
+      },
+      "overview": "Lee in his weakened state is having trouble defeating Dosu. Sakura realises everyone has been protecting her until now and that its her time to protect them! Can Sakura succeed where even Lee failed?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297006.jpg",
+      "airDate": "2003-05-07",
+      "runtime": 25,
+      "rating": "7.90",
+      "absoluteEpisodeNumber": 32,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 33,
+      "title": "Battle Formation: Ino-Shika-Cho!",
+      "titles": {
+        "ja": "無敵のフォーメーション! いのシカチョウ!!",
+        "en": "Battle Formation: Ino-Shika-Cho!",
+        "de": "Formation: Ino-Shika-Cho!",
+        "fr": "Une formation imbattable ! Sanglier-cerf-papillon",
+        "it": "Una formazione imbattibile",
+        "th": "ฟอร์เมชั่นชั้นยอด",
+        "x-jat": "Muteki no Formation! Ino Shika Chou!!"
+      },
+      "overview": "With Sakura defeated and facing certain death, more reinforcements step into the fray. However, they sense an even bigger level of power, and its not coming from the sound trio! Meanwhile Sasuke wakes up with an ominous dark aura surrounding him and the mysterious seal spreading over his body. He has but one goal....make his enemies pay!",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297007.jpg",
+      "airDate": "2003-05-14",
+      "runtime": 25,
+      "rating": "7.93",
+      "absoluteEpisodeNumber": 33,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 34,
+      "title": "Akamaru Trembles: Gaara`s Cruel Strength!",
+      "titles": {
+        "ja": "赤丸ビックリ! 我愛羅[ガアラ], 驚異の実力",
+        "en": "Akamaru Trembles: Gaara`s Cruel Strength!",
+        "de": "Gaaras unglaubliche Kraft",
+        "fr": "Le talent exceptionnel de Gaara",
+        "it": "Il terrore di Akamaru",
+        "th": "พลังมหัศจรรย์ของกาอาระ",
+        "x-jat": "Akamaru Bikkuri! Gaara, Kyoui no Jitsuryoku"
+      },
+      "overview": "Kiba, Shino, and Hinata decide to try and eliminate their opponents by taking more scrolls. They arrive upon a battlefield where three Rain ninjas are battling Gaara, Kankuro, and Temari. They remain hidden and observe the battle, thinking one of the Rain ninjas is a dangerous foe. After realizing Gaara's amazing abilities, they discover who is the really the dangerous one, and will be lucky if they can sneak away with their lives!\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297008.jpg",
+      "airDate": "2003-05-21",
+      "runtime": 25,
+      "rating": "7.30",
+      "absoluteEpisodeNumber": 34,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 35,
+      "title": "The Scroll`s Secret: No Peeking Allowed",
+      "titles": {
+        "ja": "のぞき見厳禁! 巻き物の秘密",
+        "en": "The Scroll`s Secret: No Peeking Allowed",
+        "de": "Das Geheimnis der Schriftrolle: Reinsehen verboten!",
+        "fr": "Interdit de regarder !",
+        "it": "Non si sbircia!",
+        "cs": "Tajemství svitku: Zákaz nahlédnutí",
+        "th": "ความลับของคัมภีร์",
+        "x-jat": "Nozokimi Genkin! Makimono no Himitsu"
+      },
+      "overview": "Team Kakashi still has only one scroll and there is only a day left before the test ends. Naruto decides they need to make a fake scroll and goes to open their Earth scroll, when Kabuto shows up and stops him, explaining that the scroll will knock them out until after the exam ends. He then tells them he will help them find the scroll they need. They seem to be the ones on the hunt, but what happens when they fall into a trap set by the enemy?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297009.jpg",
+      "airDate": "2003-05-28",
+      "runtime": 25,
+      "rating": "5.53",
+      "absoluteEpisodeNumber": 35,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 36,
+      "title": "Clone vs. Clone: Mine Are Better Than Yours!",
+      "titles": {
+        "ja": "分身対決! オレが主役だってばよ!",
+        "en": "Clone vs. Clone: Mine Are Better Than Yours!",
+        "de": "Wer sind die besseren Doppelgänger?",
+        "fr": "Combat de clones",
+        "it": "Protagonista assoluto",
+        "th": "ผจญศึกร่างแปลง",
+        "x-jat": "Bunshin Taiketsu! Ore ga Shuyaku Dattebayo!"
+      },
+      "overview": "The battle of kings has begun as Orochimaru has summoned some unexpected help. How can the Third Hokage handle this uncomfortable situation? Meanwhile, Sasuke finally catches up with Kakurou, Gaara and Temari…",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297047.jpg",
+      "airDate": "2003-06-04",
+      "runtime": 25,
+      "rating": "7.14",
+      "absoluteEpisodeNumber": 71,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 37,
+      "title": "Surviving the Cut! The Rookie Nine Together Again!",
+      "titles": {
+        "ja": "第二試験突破! 勢ぞろいルーキーナイン!",
+        "en": "Surviving the Cut! The Rookie Nine Together Again!",
+        "de": "Freundschaft, ein großes Wort!",
+        "fr": "Le succès des neuf Genin",
+        "it": "La seconda prova è terminata",
+        "th": "ทะลุผ่านรอบ 2",
+        "x-jat": "Dai Ni Shiken Toppa! Seizoroi Rookie Nine!"
+      },
+      "overview": "While Naruto and Sakura continue to catch up to Sasuke, Temari trys to stall Sasuke long enough for Kankuro to get Gaara to safety, but Sasuke doesn't have time to waste on her! Meanwhile, The Third Hokage continues his battle with Orochimaru and is ready to use a move that not even he knows...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297048.jpg",
+      "airDate": "2003-06-11",
+      "runtime": 25,
+      "rating": "3.70",
+      "absoluteEpisodeNumber": 72,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 38,
+      "title": "Narrowing the Field: Sudden Death Elimination!",
+      "titles": {
+        "ja": "合格者二分の一!? イキナリ試合だってばよ!!",
+        "en": "Narrowing the Field: Sudden Death Elimination!",
+        "de": "Viel zu viele Prüfungsteilnehmer!",
+        "fr": "Les éliminatoires commencent",
+        "it": "Passa solo la metà",
+        "th": "ไม่ทันไรสู้กันอีกแล้ว",
+        "x-jat": "Goukakusha Nibun no Ichi!? Ikinari Shiai Dattebayo!!"
+      },
+      "overview": "An unlikely ally appears to help Sasuke and allows him to continue to pursue Gaara. Meanwhile, the Hokage prepares to make the ultimate sacrifice to rid his village of Orochimaru!",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297049.jpg",
+      "airDate": "2003-06-18",
+      "runtime": 25,
+      "rating": "3.80",
+      "absoluteEpisodeNumber": 73,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 39,
+      "title": "Bushy Brow`s Jealousy: Lions Barrage Unleashed!",
+      "titles": {
+        "ja": "ゲジまゆジェラシー!『獅子連弾』誕生!",
+        "en": "Bushy Brow`s Jealousy: Lions Barrage Unleashed!",
+        "de": "Sasuke Uchiha gegen Yoroi Akado – Das Duell",
+        "fr": "Le Shishirendan ! La fureur du lion",
+        "it": "L`invidia di Rock Lee",
+        "th": "กำเนิดสิงห์ระเบิดเตะ",
+        "x-jat": "Geji Mayu Jealousy! \"Shishi Rendan\" Tanjou!"
+      },
+      "overview": "While Shino and Kankuro fight the match they should've fought back during the Chuunin Exam, Naruto, Sakura, and Pakkun slowly catch up to Sasuke. Meanwhile, Sasuke has finally caught up with Gaara and Temari, but is he ready to face true horror when Gaara reveals his demon form?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297050.jpg",
+      "airDate": "2003-07-02",
+      "runtime": 25,
+      "rating": "6.55",
+      "absoluteEpisodeNumber": 74,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 40,
+      "title": "Kakashi and Orochimaru: Face-to-Face!",
+      "titles": {
+        "ja": "一触即発!!カカシVS大蛇丸",
+        "en": "Kakashi and Orochimaru: Face-to-Face!",
+        "de": "Kakashi und Orochimaru: Von Angesicht zu Angesicht",
+        "fr": "Une confrontation explosive",
+        "it": "Confronto Esplosivo",
+        "th": "คาคาชิ VS โอโรชิมารู",
+        "x-jat": "Isshoku Sokubatsu!! Kakashi vs Orochimaru"
+      },
+      "overview": "Sasuke struggles to keep up with Gaara's monstrous capacity. Only able to use Chidori twice in normal circumstances, Sasuke remembers that tragic day when his family died and realises he must risk the use of Chidori beyond his limit if he is to defeat Gaara. That is, if he can…",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297051.jpg",
+      "airDate": "2003-07-09",
+      "runtime": 25,
+      "rating": "6.23",
+      "absoluteEpisodeNumber": 75,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 41,
+      "title": "Kunoichi Rumble: The Rivals Get Serious!",
+      "titles": {
+        "ja": "ライバル激突! オトメ心は本気モード",
+        "en": "Kunoichi Rumble: The Rivals Get Serious!",
+        "de": "Erinnerungen",
+        "fr": "Le combat des rivales",
+        "it": "Una sfida al femminile",
+        "th": "ผู้หญิงก็เอาจริงเป็นนะ",
+        "x-jat": "Rival Gekitotsu! Otome Kokoro wa Honki Mode"
+      },
+      "overview": "As Sasuke is about to be defeated, Naruto and Sakura show up to save him. With this Gaara begins to have flashbacks of his childhood. What happened in Gaara's past to make him experience so much suffering?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297052.jpg",
+      "airDate": "2003-07-16",
+      "runtime": 25,
+      "rating": "5.39",
+      "absoluteEpisodeNumber": 76,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 42,
+      "title": "The Ultimate Battle: Cha!",
+      "titles": {
+        "ja": "ベストバトルはしゃーんなろー!!",
+        "en": "The Ultimate Battle: Cha!",
+        "de": "Ganz entschieden ein Unentschieden",
+        "fr": "Que le meilleur combat soit",
+        "it": "L`incontro più avvincente",
+        "th": "สู้ไว้ลาย ตายไม่ว่า",
+        "x-jat": "Best Battle wa Shaannaroo!!"
+      },
+      "overview": "Gaara continues to talk about his past. When Gaara states that Naruto can't become stronger when he fights for everyone else, Naruto recalls that if he didn't meet his friends, he would be the same as Gaara. Realizing that he has to protect his friends, Naruto overcomes his fear and decides to take on Gaara.\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297053.jpg",
+      "airDate": "2003-07-23",
+      "runtime": 25,
+      "rating": "6.89",
+      "absoluteEpisodeNumber": 77,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 43,
+      "title": "Killer Kunoichi and a Shaky Shikamaru",
+      "titles": {
+        "ja": "シカマルタジタジ!? くの一達の熱き戦い",
+        "en": "Killer Kunoichi and a Shaky Shikamaru",
+        "de": "Shikamarus Schatten",
+        "fr": "Shikamaru le stratège",
+        "it": "Shikamaru sotto i riflettori",
+        "el": "Killer Kunoichi and a Shaky Shikamaru",
+        "th": "นินจาหญิง สู้ดุเดือด",
+        "x-jat": "Shikamaru Tajitaji!? Kunoichi-tachi no Atsuki Tatakai"
+      },
+      "overview": "Naruto and Gaara continue their fight.  Naruto begins to get an advantage, and Gaara transforms into the final form of Shukaku of the Sand. As he begins to put the squeeze on Naruto, Naruto summons Gamabunta Oyabun, and his comeback begins. Once again, Naruto begins to get an advantage, but Gaara casts the technique of fake sleep, releasing the full power of Shukaku. Now that the demon is free, what will Naruto do?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/421973.jpg",
+      "airDate": "2003-07-30",
+      "runtime": 25,
+      "rating": "6.76",
+      "absoluteEpisodeNumber": 78,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 44,
+      "title": "Akamaru Unleashed! Who`s Top Dog Now?",
+      "titles": {
+        "ja": "赤丸参戦!! 負け犬はどっちだ?",
+        "en": "Akamaru Unleashed! Who`s Top Dog Now?",
+        "de": "Akamaru ohne Leine - Wer ist jetzt der Superhund?",
+        "fr": "Akamaru participe au combat",
+        "it": "Due contro uno",
+        "th": "หมาขี้แพ้มันตัวไหน",
+        "x-jat": "Akamaru Sansen!! Makeinu wa Docchi Da?"
+      },
+      "overview": "Transformed into Kyubi, Naruto and Gamabunta prepare to stop Shukaku by waking Gaara up. Though they succeed, the battle is far from over as Gaara won't stop until Naruto is dead. Naruto and Gaara prepare for their final attacks. Meanwhile, Sarutobi continues trying to defeat Orochimaru. And even though Sarutobi isn't strong enough to kill Orochimaru, he does have enough strength to take away Orochimaru's most prized possession...the use of his arms!\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297056.jpg",
+      "airDate": "2003-08-06",
+      "runtime": 25,
+      "rating": "7.24",
+      "absoluteEpisodeNumber": 79,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 45,
+      "title": "Surprise Attack! Naruto`s Secret Weapon!",
+      "titles": {
+        "ja": "ヒナタ赤面! 観客あんぐり, ナルトの奥の手",
+        "en": "Surprise Attack! Naruto`s Secret Weapon!",
+        "de": "Die Überraschung kommt zum Schluss...",
+        "fr": "L`incroyable atout de Naruto !",
+        "it": "L`asso nella manica di Naruto",
+        "th": "ทุกคนอ้าปากค้าง ท่าไม้ตายของนารูโตะ",
+        "x-jat": "Hinata Sekimen! Kankyaku Anguri, Naruto no Okunote"
+      },
+      "overview": "As the war draws to a close, Gaara admits his defeat to Naruto, and Orochimaru is forced to retreat as Sarutobi took away his arms. Now, all of the Konoha shinobi gather together to pay their respects to the person whom they respected the most… Sarutobi, the Third Hokage.\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297057.jpg",
+      "airDate": "2003-08-13",
+      "runtime": 25,
+      "rating": "7.05",
+      "absoluteEpisodeNumber": 80,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 46,
+      "title": "Byakugan Battle: Hinata Grows Bold!",
+      "titles": {
+        "ja": "白眼開眼!! 内気なヒナタの大胆決意!",
+        "en": "Byakugan Battle: Hinata Grows Bold!",
+        "de": "Ein Stammbaum, eine Fehde",
+        "fr": "Le pouvoir du Byakugan",
+        "it": "Il Byakugan",
+        "th": "ศึกสายเลือดฮิวงะ",
+        "x-jat": "Byakugan Kaigan!! Uchiki na Hinata no Daitan Ketsui!"
+      },
+      "overview": "Two mysterious ninja infiltrate Konoha, and one of them bares the Sharingan. Just what are these two after? Why has Itachi Uchiha returned to Konoha?\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297058.jpg",
+      "airDate": "2003-08-20",
+      "runtime": 25,
+      "rating": "7.06",
+      "absoluteEpisodeNumber": 81,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 47,
+      "title": "A Failure Stands Tall!",
+      "titles": {
+        "ja": "憧れの人の目の前で!!",
+        "en": "A Failure Stands Tall!",
+        "de": "Kleines Mädchen ganz groß",
+        "fr": "Sous les yeux de celui que j`admire",
+        "it": "Combattere di fronte al proprio eroe",
+        "th": "ต่อหน้าคนที่ใฝ่ฝันมานาน",
+        "x-jat": "Akogare no Hito no Me no Mae de!!"
+      },
+      "overview": "Kakashi takes on Itachi, with both of them using the Sharingan. However, Kakashi soon realizes that he stands no chance against the legendary ninja. Itachi reveals that he has not come for his little brother, but instead he's come to do something else… abduct Naruto, and Kyubi as well!\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297059.jpg",
+      "airDate": "2003-08-27",
+      "runtime": 25,
+      "rating": "7.44",
+      "absoluteEpisodeNumber": 82,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 48,
+      "title": "Gaara vs. Rock Lee: The Power of Youth Explodes!",
+      "titles": {
+        "ja": "我愛羅粉砕!! 若さだ! パワーだ! 爆発だ!",
+        "en": "Gaara vs. Rock Lee: The Power of Youth Explodes!",
+        "de": "Gaara gegen Rock Lee: Die Kraft der Jugend explodiert",
+        "fr": "Le pouvoir de Lee",
+        "it": "Gaara al tappeto",
+        "th": "พลังวัยรุ่นระเบิดแล้ว",
+        "x-jat": "Gaara Funsai!! Wakasa Da! Power Da! Bakuhatsu Da!"
+      },
+      "overview": "Jiraiya and Naruto begin their search for Tsunade, but are constantly sidetracked by Jiraiya's peeping and hitting on pretty girls. Jiraiya tells Naruto some stories about the 3rd and 4th Hokages. Meanwhile, Sasuke learns that his brother, Itachi, is after Naruto and goes to warn him.\r\n",
+      "image": "https://artworks.thetvdb.com/banners/episodes/78857/297060.jpg",
+      "airDate": "2003-09-03",
+      "runtime": 25,
+      "rating": "9.38",
+      "absoluteEpisodeNumber": 83,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 49,
+      "title": "Lee`s Hidden Strength: Forbidden Secret Jutsu!",
+      "titles": {
+        "ja": "熱血落ちこぼれ! 遂に炸裂, 禁断の奥義!",
+        "en": "Lee`s Hidden Strength: Forbidden Secret Jutsu!",
+        "de": "Die acht inneren Tore",
+        "fr": "La technique interdite",
+        "it": "La tecnica segreta proibita!",
+        "cs": "Leeova skrytá síla: Zakázané tajné jutsu!",
+        "th": "ระเบิดท่าไม้ตาย วิชาลับต้องห้าม",
+        "x-jat": "Nekketsu Ochikobore! Tsui ni Sakuretsu, Kindan no Ougi!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-09-10",
+      "runtime": 25,
+      "rating": "8.95",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 50,
+      "title": "The Fifth Gate: A Splendid Ninja Is Born",
+      "titles": {
+        "ja": "嗚呼ロック・リー! これが男の生き様よ!!",
+        "en": "The Fifth Gate: A Splendid Ninja Is Born",
+        "de": "Das fünfte Tor: Ein großartiger Ninja ist geboren!",
+        "fr": "Le jeu de la mort",
+        "it": "Povero Rock Lee!",
+        "th": "นี่แหละวิถีของลูกผู้ชาย",
+        "x-jat": "Aa Rock Lee! Kore ga Otoko no Ikizama yo!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-09-17",
+      "runtime": 25,
+      "rating": "8.41",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 51,
+      "title": "A Shadow in Darkness: Danger Approaches Sasuke",
+      "titles": {
+        "ja": "闇にうごめく影 サスケに迫る危機!",
+        "en": "A Shadow in Darkness: Danger Approaches Sasuke",
+        "de": "Dunkle Schatten",
+        "fr": "Sasuke en danger",
+        "it": "Sasuke in grave pericolo",
+        "th": "เงาร้ายในความมืด",
+        "x-jat": "Yami ni Ugomeku Kage Sasuke ni Semaru Kiki!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-09-24",
+      "runtime": 25,
+      "rating": "5.44",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 52,
+      "title": "Ebisu Returns: Naruto`s Toughest Training Yet!",
+      "titles": {
+        "ja": "エビス再び! ハレンチは私が許しませんぞ!",
+        "en": "Ebisu Returns: Naruto`s Toughest Training Yet!",
+        "de": "Starker Schüler, schwacher Trainer",
+        "fr": "Le retour d`Ebisu",
+        "it": "Il ritorno di Ebisu",
+        "th": "เรื่องไร้ยางอาย ผมอภัยให้ไม่ได้",
+        "x-jat": "Ebisu Futatabi! Harenchi wa Watashi ga Yurushimasenzo!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-10-01",
+      "runtime": 25,
+      "rating": "6.75",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 53,
+      "title": "Long Time No See: Jiraiya Returns!",
+      "titles": {
+        "ja": "あいやしばらく! エロ仙人登場!",
+        "en": "Long Time No See: Jiraiya Returns!",
+        "de": "Der kauzige Berg-Eremit",
+        "fr": "L`ermite est de retour",
+        "it": "L`eremita dei rospi",
+        "th": "เซียนกบซ๊กมกออกโรง",
+        "x-jat": "Aiya Shibaraku! Ero-Sennin Toujou!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-10-08",
+      "runtime": 25,
+      "rating": "7.24",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 54,
+      "title": "The Summoning Jutsu: Wisdom of the Toad Sage!",
+      "titles": {
+        "ja": "エロ仙人直伝 口寄せの術だってばよ!!",
+        "en": "The Summoning Jutsu: Wisdom of the Toad Sage!",
+        "de": "Das Jutsu des vertrauten Geistes",
+        "fr": "La technique d`invocation",
+        "it": "La tecnica del richiamo",
+        "th": "เคล็ดลับเซียนลามก คาถาอัญเชิญ",
+        "x-jat": "Ero-Sennin Jikiden, Kuchiyose no Jutsu Dattebayo!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-10-15",
+      "runtime": 25,
+      "rating": "6.43",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 55,
+      "title": "A Feeling of Yearning, A Flower Full of Hope",
+      "titles": {
+        "ja": "切ない想い 願いを込めた一輪",
+        "en": "A Feeling of Yearning, A Flower Full of Hope",
+        "de": "Jede Menge Kaulquappen, nur kein Frosch",
+        "fr": "Un vœu fait à une fleur",
+        "it": "Un fiore pieno di speranza",
+        "th": "ดอกไม้แห่งความหวัง",
+        "x-jat": "Setsunai Omoi, Negai o Kometa Ichirin"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-10-22",
+      "runtime": 25,
+      "rating": "4.71",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 56,
+      "title": "Live or Die: Risk It All to Win It All!",
+      "titles": {
+        "ja": "生か死か!? 免許皆伝は命懸け!",
+        "en": "Live or Die: Risk It All to Win It All!",
+        "de": "Die Probe: Du bist völlig auf dich allein gestellt!",
+        "fr": "Une question de vie ou de mort",
+        "it": "Questione di vita o di morte",
+        "th": "ถ่ายทอดวิชาเสี่ยงด้วยชีวิต",
+        "x-jat": "Sei ka Shi ka!? Menkyo Kaiden wa Inochigake!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-10-29",
+      "runtime": 25,
+      "rating": "7.09",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 57,
+      "title": "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
+      "titles": {
+        "ja": "飛んだ! 跳ねた! 潜った! ガマ親分登場!!",
+        "en": "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
+        "de": "Sensei Naruto",
+        "fr": "Maître Crapaud entre en scène",
+        "it": "Gamabunta, il sovrano dei rospi",
+        "th": "อาเฮียกามะออกโรง",
+        "x-jat": "Tonda! Haneta! Mogutta! Gamu Oyabun Toujou!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-11-05",
+      "runtime": 25,
+      "rating": "7.66",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 58,
+      "title": "Hospital Besieged: The Evil Hand Revealed!",
+      "titles": {
+        "ja": "しのび寄る魔の手! 狙われた病室",
+        "en": "Hospital Besieged: The Evil Hand Revealed!",
+        "de": "Unheimliche Schritte!",
+        "fr": "L`histoire de Gaara",
+        "it": "Naruto e Shikamaru contro Gaara!",
+        "th": "มือปีศาจที่ลอบเข้ามา",
+        "x-jat": "Shinobi Yoru Ma no Te! Nerawareta Byoushitsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-11-12",
+      "runtime": 25,
+      "rating": "6.43",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 59,
+      "title": "The Final Rounds: Rush to the Battle Arena!",
+      "titles": {
+        "ja": "モー烈 モー追 モーダッシュ 本選開始だってばよ",
+        "en": "The Final Rounds: Rush to the Battle Arena!",
+        "de": "Die Zeichen stehen auf Kuh!",
+        "fr": "L`épreuve finale commence",
+        "it": "Verso la finale",
+        "th": "ดุเดือด เลือดพล่าน รอบจริงจะเริ่มขึ้นแล้ว",
+        "x-jat": "Mou Retsu, Mou Tsui, Mou Dash Honsen Kaishi Dattebayo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-11-19",
+      "runtime": 25,
+      "rating": "4.64",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 60,
+      "title": "Byakugan vs. Shadow Clone Jutsu!",
+      "titles": {
+        "ja": "白眼VS影分身! オレはゼってー勝つ!!",
+        "en": "Byakugan vs. Shadow Clone Jutsu!",
+        "de": "Byakugan gegen Schattendoppelgänger",
+        "fr": "Byakugan contre Multiclonage",
+        "it": "Vincerò io, costi quel che costi",
+        "cs": "Byakugan vs. Stínové klonové jutsu",
+        "th": "เนตรสีขาวปะทะแยกเงา",
+        "x-jat": "Byakugan VS Kage Bunshin! Ore wa Zettee Katsu!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-11-26",
+      "runtime": 25,
+      "rating": "6.88",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 61,
+      "title": "Ultimate Defense: Zero Blind Spot!",
+      "titles": {
+        "ja": "死角ゼロ! もうひとつの絶対防御",
+        "en": "Ultimate Defense: Zero Blind Spot!",
+        "de": "Nejis Geheimnis",
+        "fr": "La défense absolue",
+        "it": "Difesa assoluta",
+        "th": "จุดบอด ยังมีด่านป้องกันอีกชั้น",
+        "x-jat": "Shikaku Zero! Mou Hitotsu no Zettai Bougyou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-12-03",
+      "runtime": 25,
+      "rating": "6.28",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 62,
+      "title": "A Failure`s True Power",
+      "titles": {
+        "ja": "落ちこぼれの底力!",
+        "en": "A Failure`s True Power",
+        "de": "Die geheime Kraft des Versagers",
+        "fr": "Le pouvoir caché du raté",
+        "it": "La forza nascosta dei falliti!",
+        "th": "พลังก้นลึกของคนไร้ค่า",
+        "x-jat": "Ochikobore no Soko Jikara!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-12-10",
+      "runtime": 25,
+      "rating": "8.80",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 63,
+      "title": "Hit It or Quit It: The Final Rounds Get Complicated!",
+      "titles": {
+        "ja": "失格!? キケン! 前倒し! 波乱含みの大本選!",
+        "en": "Hit It or Quit It: The Final Rounds Get Complicated!",
+        "de": "Merkwürdige Vorkommnisse",
+        "fr": "Disqualifié ? Attention le grand tournoi est perturbé",
+        "it": "A rischio di squalifica",
+        "th": "ซาสึเกะ ไม่ปรากฏตัวในการสอบจริง",
+        "x-jat": "Shikkaku!? Kiken! Maedaoshi! Haran Fukumi no Daihonsen!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-12-17",
+      "runtime": 25,
+      "rating": "5.58",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 64,
+      "title": "Zero Motivation: The Guy with Cloud Envy!",
+      "titles": {
+        "ja": "雲はいいなあ... やる気ゼロの男",
+        "en": "Zero Motivation: The Guy with Cloud Envy!",
+        "de": "Wie verliert ein Sieger?",
+        "fr": "Un peu de nerf, Shikamaru !",
+        "it": "Spirito di combattimento zero!",
+        "th": "เป็นเมฆนี่ดีจัง ชายที่เซ็งไปทุกเรื่อง",
+        "x-jat": "Kumo wa Ii naa... Yaruki Zero no Otoko"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-12-24",
+      "runtime": 25,
+      "rating": "7.97",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 65,
+      "title": "Dancing Leaf, Squirming Sand",
+      "titles": {
+        "ja": "激突! 木の葉舞い 砂うごめく瞬間[とき]",
+        "en": "Dancing Leaf, Squirming Sand",
+        "de": "Wo bleibt Sasuke?",
+        "fr": "Mais où est-il ? Sasuke se fait attendre",
+        "it": "Il ritorno di Sasuke",
+        "th": "ถึงเวลาโคโนะฮะ ปะทะ ซึนะงาคุเระ",
+        "x-jat": "Gekitotsu! Konoha Mai Sunau Ugomeku Toki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-01-07",
+      "runtime": 25,
+      "rating": "5.01",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 66,
+      "title": "Bushy Brow`s Jutsu: Sasuke Style!",
+      "titles": {
+        "ja": "嵐を呼ぶ男!! サスケのゲジマユ流体術!",
+        "en": "Bushy Brow`s Jutsu: Sasuke Style!",
+        "de": "Narutos Entdeckung",
+        "fr": "Celui qui déclenche une tempête",
+        "it": "Sasuke al via",
+        "th": "ชายผู้เรียกพายุ",
+        "x-jat": "Arashi o Yobu Otoko!! Sasuke no Gejimayu Ryuu Taijutsu!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-01-14",
+      "runtime": 25,
+      "rating": "5.49",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 67,
+      "title": "Late for the Show, but Ready to Go! The Ultimate Secret Technique Is Born!",
+      "titles": {
+        "ja": "だてに遅れたわけじゃない! 究極奥義・千鳥誕生!!",
+        "en": "Late for the Show, but Ready to Go! The Ultimate Secret Technique Is Born!",
+        "de": "Wie Phönix aus der Asche",
+        "fr": "Les leçons du maître",
+        "it": "La tecnica dei mille falchi",
+        "th": "วิชาพันปักษา",
+        "x-jat": "Date ni Okureta Wake ja Nai! Kyuukyoku Ougi: Chidori Tanjou!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-01-14",
+      "runtime": 25,
+      "rating": "7.49",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 68,
+      "title": "Zero Hour! The Destruction of the Hidden Leaf Village Begins!",
+      "titles": {
+        "ja": "『木ノ葉崩し』始動!",
+        "en": "Zero Hour! The Destruction of the Hidden Leaf Village Begins!",
+        "de": "Orochimaru kehrt zurück",
+        "fr": "Offensive sur Konoha !",
+        "it": "Attacco alla Foglia",
+        "th": "เริ่มการถล่มโคโนะฮะ",
+        "x-jat": "\"Konoha Kuzushi\" Shidou!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-01-28",
+      "runtime": 25,
+      "rating": "7.98",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 69,
+      "title": "Village in Distress: A New A-Ranked Mission!",
+      "titles": {
+        "ja": "待ってました! Aランク任務だってばよ!!",
+        "en": "Village in Distress: A New A-Ranked Mission!",
+        "de": "Vertraute Geister",
+        "fr": "Enfin ! Une mission de rang A",
+        "it": "Missione di livello A",
+        "th": "ปฏิบัติภารกิจระดับ เอ",
+        "x-jat": "Mattemashita! A-Rank Minmu Dattebayo!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-02-04",
+      "runtime": 25,
+      "rating": "5.69",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 70,
+      "title": "A Shirker`s Call to Action: Layabout No More!",
+      "titles": {
+        "ja": "逃げ腰NO.1 めんどくせーがやるっきゃねえ!!",
+        "en": "A Shirker`s Call to Action: Layabout No More!",
+        "de": "Die Nummer 1 im Abhauen",
+        "fr": "L`embuscade de Shikamaru",
+        "it": "L`imboscata di Shikamaru",
+        "th": "ขี้รำคาญจะเอาจริงล่ะนะ",
+        "x-jat": "Nigegoshi No.1. Mendokusee ga Yarukkyanee!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-02-11",
+      "runtime": 25,
+      "rating": "7.85",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 71,
+      "title": "An Unrivaled Match: Hokage Battle Royale!",
+      "titles": {
+        "ja": "古今無双! 『火影』というレベルの戦い",
+        "en": "An Unrivaled Match: Hokage Battle Royale!",
+        "de": "Enma, König der Affen",
+        "fr": "Le combat des Hokage",
+        "it": "Hokage contro Hokage",
+        "th": "การต่อสู้ระดับโฮคาเงะ",
+        "x-jat": "Kokonmusou! \"Hokage\" to Iu Level no Tatakai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-02-18",
+      "runtime": 25,
+      "rating": "7.67",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 72,
+      "title": "A Mistake from the Past: A Face Revealed!",
+      "titles": {
+        "ja": "火影の過ち 仮面の下の素顔",
+        "en": "A Mistake from the Past: A Face Revealed!",
+        "de": "Das Jutsu der Unsterblichkeit",
+        "fr": "L`erreur du Hokage",
+        "it": "L`errore dell`Hokage",
+        "th": "ใบหน้าภายใต้หน้ากาก",
+        "x-jat": "Hokage no Ayamachi Kamen no Shita no Sugao"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-02-25",
+      "runtime": 25,
+      "rating": "7.72",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 73,
+      "title": "Forbidden Secret Technique! Reaper Death Seal!",
+      "titles": {
+        "ja": "禁術奥義! 『屍鬼封尽』",
+        "en": "Forbidden Secret Technique! Reaper Death Seal!",
+        "de": "Das Geheimnis des verbotenen Jutsus",
+        "fr": "Le sceau du démon",
+        "it": "Il sigillo del Diavolo",
+        "th": "คาถาปิดผนึกซากอสูร",
+        "x-jat": "Kinjutsu Ougi! \"Shiki Fuujin\""
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-03-03",
+      "runtime": 25,
+      "rating": "7.50",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 74,
+      "title": "Astonishing Truth: Gaara`s Identity Emerges!",
+      "titles": {
+        "ja": "驚愕! 我愛羅の正体",
+        "en": "Astonishing Truth: Gaara`s Identity Emerges!",
+        "de": "Ein hervorragender Marionettenspieler",
+        "fr": "La vraie nature de Gaara",
+        "it": "La vera identità di Gaara",
+        "th": "ช็อคแน่ ร่างจริงของกาอาระ",
+        "x-jat": "Kyougaku! Gaara no Shoutai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-03-10",
+      "runtime": 25,
+      "rating": "6.77",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 75,
+      "title": "Sasuke`s Decision: Pushed to the Edge",
+      "titles": {
+        "ja": "限界を越えて... サスケの決断!!",
+        "en": "Sasuke`s Decision: Pushed to the Edge",
+        "de": "Sasukes Entscheidung",
+        "fr": "La détermination de Sasuke",
+        "it": "La determinazione di Sasuke",
+        "th": "การตัดสินใจของซาสึเกะ",
+        "x-jat": "Genkai o Koete... Sasuke no Ketsudan!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-03-17",
+      "runtime": 25,
+      "rating": "6.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 76,
+      "title": "An Assassin of the Moonlit Night",
+      "titles": {
+        "ja": "月夜の暗殺者",
+        "en": "An Assassin of the Moonlit Night",
+        "de": "In einer mondhellen Nacht",
+        "fr": "L`assassin du clair de lune",
+        "it": "Omicidio al chiaro di luna",
+        "th": "มือลอบสังหารคืนข้างขึ้น",
+        "x-jat": "Tsukiyo no Ansatsusha"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-03-24",
+      "runtime": 25,
+      "rating": "5.14",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 77,
+      "title": "Light vs. Dark: The Two Faces of Gaara",
+      "titles": {
+        "ja": "光と闇 我愛羅という名",
+        "en": "Light vs. Dark: The Two Faces of Gaara",
+        "de": "Licht und Dunkelheit – Der Name Gaara",
+        "fr": "Son nom est Gaara",
+        "it": "Il nome di Gaara",
+        "th": "แสงสว่างและความมืด",
+        "x-jat": "Hikari to Yami, Gaara to Iu Na"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-03-31",
+      "runtime": 25,
+      "rating": "3.65",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 78,
+      "title": "Naruto`s Ninja Handbook",
+      "titles": {
+        "ja": "爆発! これぞナルト忍法帖~~っ!!",
+        "en": "Naruto`s Ninja Handbook",
+        "de": "Der Schutzkranich des Sandes",
+        "fr": "Naruto sort le grand jeu",
+        "it": "Naruto alla riscossa",
+        "th": "นี่แหล่ะวิชานินจาของนารูโตะ",
+        "x-jat": "Bakuhatsu! Korezo Naruto Ninpou Chou!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-04-07",
+      "runtime": 25,
+      "rating": "8.61",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 79,
+      "title": "Beyond the Limit of Darkness and Light",
+      "titles": {
+        "ja": "リミットぶっちぎり! ~光と闇~",
+        "en": "Beyond the Limit of Darkness and Light",
+        "de": "Kampf der Giganten",
+        "fr": "Le coup final",
+        "it": "Il colpo finale",
+        "th": "สู้แบบไม่คิดชีวิต",
+        "x-jat": "Limit Bucchigiri! Hikari to Yami"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-04-14",
+      "runtime": 25,
+      "rating": "8.53",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 80,
+      "title": "The Third Hokage, Forever...",
+      "titles": {
+        "ja": "三代目よ, 永久に......!!",
+        "en": "The Third Hokage, Forever...",
+        "de": "Gewonnen und doch verloren",
+        "fr": "Konoha pleure le 3e Hokage",
+        "it": "La fine del Terzo Hokage",
+        "th": "ท่านรุ่น 3 ผู้เป็นนิรันดร์",
+        "x-jat": "Sandaime yo, Towa ni......!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-04-21",
+      "runtime": 25,
+      "rating": "7.65",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 81,
+      "title": "Return of the Morning Mist",
+      "titles": {
+        "ja": "朝霧の帰郷",
+        "en": "Return of the Morning Mist",
+        "de": "Sonderbare Gestalten",
+        "fr": "Retour au pays",
+        "it": "Il ritorno nella nebbia",
+        "th": "การกลับมาของหมอกยามเช้า",
+        "x-jat": "Asagiri no Kikyou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-04-28",
+      "runtime": 25,
+      "rating": "5.19",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 82,
+      "title": "Eye to Eye: Sharingan vs. Sharingan!",
+      "titles": {
+        "ja": "写輪眼VS写輪眼!!",
+        "en": "Eye to Eye: Sharingan vs. Sharingan!",
+        "de": "Sharingan gegen Sharingan",
+        "fr": "Sharingan contre Sharingan",
+        "it": "Sharingan contro Sharingan",
+        "th": "การปะทะของเนตรวงแหวน",
+        "x-jat": "Sharingan VS Sharingan!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-05-05",
+      "runtime": 25,
+      "rating": "6.86",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 83,
+      "title": "Jiraiya: Naruto`s Potential Disaster!",
+      "titles": {
+        "ja": "おお, のォ~っ! 自来也の女難, ナルトの災難",
+        "en": "Jiraiya: Naruto`s Potential Disaster!",
+        "de": "Ohhhhh Nein! Jiraias Frauenprobleme und Narutos Unglück",
+        "fr": "Naruto et Jiraya... Sources de problèmes",
+        "it": "Jiraiya e Naruto",
+        "th": "ภัยร้ายของนารูโตะ",
+        "x-jat": "Oh, Noo! Jiraiya no Jounan, Naruto no Sainan"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-05-12",
+      "runtime": 25,
+      "rating": "4.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 84,
+      "title": "Roar, Chidori! Brother vs. Brother!",
+      "titles": {
+        "ja": "唸れ千鳥 吠えろサスケ!",
+        "en": "Roar, Chidori! Brother vs. Brother!",
+        "de": "Der Fremde vor der Tür",
+        "fr": "Le cri des mille oiseaux",
+        "it": "La furia di Sasuke",
+        "th": "เสียงคำรามของพันปักษา",
+        "x-jat": "Unare Chidori Hoero Sasuke!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-05-19",
+      "runtime": 25,
+      "rating": "5.46",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 85,
+      "title": "Hate Among the Uchihas: The Last of the Clan!",
+      "titles": {
+        "ja": "愚かなる弟よ 恨め, 憎め!",
+        "en": "Hate Among the Uchihas: The Last of the Clan!",
+        "de": "Das Blatt wendet sich",
+        "fr": "La malédiction du clan Uchiwa",
+        "it": "Questione tra fratelli",
+        "th": "บุรุษผู้คั่งแค้น",
+        "x-jat": "Orokanaru Otouto yo Urame, Nikume!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-05-26",
+      "runtime": 25,
+      "rating": "4.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 86,
+      "title": "A New Training Begins: I Will Be Strong!",
+      "titles": {
+        "ja": "修行開始 オレはぜってー強くなる!",
+        "en": "A New Training Begins: I Will Be Strong!",
+        "de": "Die drei Tabus des Shinobi",
+        "fr": "L`entraînement commence",
+        "it": "Più forte",
+        "th": "ฝึกหนักเพื่อแข็งแกร่งขึ้น",
+        "x-jat": "Shugyou Kaishi Ore wa Zettee Tsuyoku Naru!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-06-02",
+      "runtime": 25,
+      "rating": "3.64",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 87,
+      "title": "Keep on Training: Pop Goes the Water Balloon!",
+      "titles": {
+        "ja": "根性!!! 割れろ水風船!",
+        "en": "Keep on Training: Pop Goes the Water Balloon!",
+        "de": "Lass den Wasserballon platzen!",
+        "fr": "Naruto et le ballon d`eau",
+        "it": "Sempre più difficile",
+        "th": "สู้เว๊ย! แตกเดี๋ยวนี้เจ้าลูกโป่ง",
+        "x-jat": "Konjou!!! Warero Mizu Fuusen!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-06-09",
+      "runtime": 25,
+      "rating": "4.06",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 88,
+      "title": "Focal Point: The Mark of the Leaf",
+      "titles": {
+        "ja": "木ノ葉マークと額当て",
+        "en": "Focal Point: The Mark of the Leaf",
+        "de": "Konzentrier dich, Naruto!",
+        "fr": "Vers la concentration ultime",
+        "it": "Il coprifronte della Foglia",
+        "th": "เครื่องหมายโคโนฮะ",
+        "x-jat": "Konoha Mark to Hitaiate"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-06-16",
+      "runtime": 25,
+      "rating": "4.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 89,
+      "title": "An Impossible Choice: The Pain Within Tsunade`s Heart",
+      "titles": {
+        "ja": "波紋",
+        "en": "An Impossible Choice: The Pain Within Tsunade`s Heart",
+        "de": "Kräuselnde Wellen",
+        "fr": "Ondulation",
+        "it": "La terza fase",
+        "th": "กลับมาพบกันอีกครั้ง",
+        "x-jat": "Hamon"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-06-23",
+      "runtime": 25,
+      "rating": "4.04",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 90,
+      "title": "Unforgivable! A Total Lack of Respect!",
+      "titles": {
+        "ja": "怒りバクハツ! 許さねーってばよ",
+        "en": "Unforgivable! A Total Lack of Respect!",
+        "de": "Tsunade in Bedrängnis",
+        "fr": "Explosion de colère !",
+        "it": "Rabbia esplosiva",
+        "th": "ระเบิดความโกรธ",
+        "x-jat": "Ikari Bakuhatsu! Rusuraneettebayo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-07-07",
+      "runtime": 25,
+      "rating": "6.49",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 91,
+      "title": "Inheritance! The Necklace of Death",
+      "titles": {
+        "ja": "初代火影の遺産 死を呼ぶ首飾り",
+        "en": "Inheritance! The Necklace of Death",
+        "de": "Die Halskette der Finsternis",
+        "fr": "Le pendentif maudit",
+        "it": "Il ciondolo di Tsunade",
+        "th": "สร้อยคอเรียกความตาย",
+        "x-jat": "Shodai Hokage no Isan: Shi o Yobu Kubikazari"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-07-14",
+      "runtime": 25,
+      "rating": "5.63",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 92,
+      "title": "A Dubious Offer! Tsunade`s Choice",
+      "titles": {
+        "ja": "YESかNOか! ツナデの回答",
+        "en": "A Dubious Offer! Tsunade`s Choice",
+        "de": "Ja oder nein – Tsunades Entscheidung",
+        "fr": "La réponse de Tsunade",
+        "it": "Il grande giorno",
+        "th": "คำตอบของซึนาเดะ",
+        "x-jat": "Yes ka No ka! Tsunade no Kaitou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-07-21",
+      "runtime": 25,
+      "rating": "5.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 93,
+      "title": "Breakdown! The Deal Is Off!",
+      "titles": {
+        "ja": "交渉決裂!!",
+        "en": "Breakdown! The Deal Is Off!",
+        "de": "Kabutos erstaunliches Talent",
+        "fr": "Les négociations sont interrompues",
+        "it": "La rottura delle trattative",
+        "th": "เปิดตำนานต่อสู้ 3 นินจา",
+        "x-jat": "Koushou Ketsuretsu!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-07-28",
+      "runtime": 25,
+      "rating": "5.61",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 94,
+      "title": "Attack! Fury of the Rasengan!",
+      "titles": {
+        "ja": "くらえ! 怒りの螺旋丸",
+        "en": "Attack! Fury of the Rasengan!",
+        "de": "Die Sache mit dem Schwein",
+        "fr": "Rasengan !",
+        "it": "Rasengan",
+        "th": "กระสุนวงจักรแห่งความโกรธ",
+        "x-jat": "Kurae! Ikari no Rasengan"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-08-04",
+      "runtime": 25,
+      "rating": "7.54",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 95,
+      "title": "The Fifth Hokage! A Life on the Line!",
+      "titles": {
+        "ja": "五代目火影 命を賭けた闘い!",
+        "en": "The Fifth Hokage! A Life on the Line!",
+        "de": "Tsunades höchster Einsatz",
+        "fr": "Le 5e Hokage",
+        "it": "Quinto Hokage a qualsiasi costo",
+        "th": "โฮคาเงะรุ่น 5 การต่อสู้เดิมพันด้วยชีวิต",
+        "x-jat": "Godaime Hokage Inochi o Kaketa Tatakai!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-08-11",
+      "runtime": 25,
+      "rating": "6.16",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 96,
+      "title": "Deadlock! Sannin Showdown!",
+      "titles": {
+        "ja": "三すくみの戦い",
+        "en": "Deadlock! Sannin Showdown!",
+        "de": "Der neue Hokage",
+        "fr": "Bataille sur 3 fronts",
+        "it": "Scontro leggendario",
+        "th": "ปิดฉากการต่อสู้",
+        "x-jat": "Sansukumi no Tatakai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-08-11",
+      "runtime": 25,
+      "rating": "7.26",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 97,
+      "title": "Kidnapped! Naruto`s Hot Springs Adventure!",
+      "titles": {
+        "ja": "ナルトの湯けむり珍道中",
+        "en": "Kidnapped! Naruto`s Hot Springs Adventure!",
+        "de": "Abenteuer bei den heißen Quellen",
+        "fr": "Naruto aux sources thermales",
+        "it": "La strategia di Naruto",
+        "th": "แผนซ้อนแผนของนารูโตะ",
+        "x-jat": "Naruto no Yukemuri Chindouchuu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-08-18",
+      "runtime": 25,
+      "rating": "3.06",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 98,
+      "title": "Tsunade`s Warning: Ninja No More!",
+      "titles": {
+        "ja": "忍者を辞めろ! ツナデの通告",
+        "en": "Tsunade`s Warning: Ninja No More!",
+        "de": "Lass das Ninja-Leben hinter dir – Tsunades Ankündigung",
+        "fr": "Le diagnostic de Tsunade",
+        "it": "Il futuro di Rock Lee",
+        "th": "ซึนาเดะประกาศลั่น เลิกเป็นนินจาซะ",
+        "x-jat": "Ninja o Yamero! Tsunade no Tsuukoku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-08-25",
+      "runtime": 25,
+      "rating": "4.10",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 99,
+      "title": "The Will of Fire Still Burns!",
+      "titles": {
+        "ja": "火の意志を継ぐもの",
+        "en": "The Will of Fire Still Burns!",
+        "de": "Der Erbe des Willens des Feuers",
+        "fr": "L`héritier",
+        "it": "Il futuro della Foglia",
+        "th": "ผู้สืบทอดเจตนารมย์แห่งไฟ",
+        "x-jat": "Hi no Ishi o Tsugu Mono"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-09-01",
+      "runtime": 25,
+      "rating": "3.44",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 100,
+      "title": "The Sensei and the Student: Bond of the Shinobi",
+      "titles": {
+        "ja": "熱血師弟の絆 ~男が忍道を貫くとき~",
+        "en": "The Sensei and the Student: Bond of the Shinobi",
+        "de": "Einmal Sensei, immer Sensei",
+        "fr": "La détermination de Lee",
+        "it": "Un maestro per la vita",
+        "th": "สายสัมพันธ์ของครูและ ศิษย์",
+        "x-jat": "Nekketsu Shitei no Kizuna: Otoko ga Nindou o Tsuranuku Toki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-09-08",
+      "runtime": 25,
+      "rating": "3.82",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 101,
+      "title": "Gotta See! Gotta Know! Kakashi Sensei`s True Face!",
+      "titles": {
+        "ja": "見たい, 知りたい, 確かめたい カカシ先生の素顔",
+        "en": "Gotta See! Gotta Know! Kakashi Sensei`s True Face!",
+        "de": "Das Geheimnis, das geheim bleiben wird?",
+        "fr": "Bas le masque, Kakashi sensei !",
+        "it": "Dietro la maschera",
+        "th": "พิสูจน์โฉมหน้าครูคาคาชิ",
+        "x-jat": "Mitai, Shiritai, Tashikametai Kakashi-sensei no Sugao"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-09-15",
+      "runtime": 25,
+      "rating": "5.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 102,
+      "title": "Mission: Help an Old Friend in the Land of Tea",
+      "titles": {
+        "ja": "いざ新任務 義理と人情と茶国を救え!",
+        "en": "Mission: Help an Old Friend in the Land of Tea",
+        "de": "Eine Mission der Klasse 1A Zoff!",
+        "fr": "Mission au pays du thé",
+        "it": "In missione nel paese del tè",
+        "th": "ปฏิบัติภารกิจใหม่",
+        "x-jat": "Iza Shinninmu Giri to Ninjou to Chakoku o Sukue!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-09-22",
+      "runtime": 25,
+      "rating": "1.73",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 103,
+      "title": "The Race Is On! Trouble on the High Seas!",
+      "titles": {
+        "ja": "ナルト撃沈!? 陰謀うずまく大海原",
+        "en": "The Race Is On! Trouble on the High Seas!",
+        "de": "Verschwörung im tiefen Ozean",
+        "fr": "La grande course de Todoroki",
+        "it": "Attacco in mare aperto",
+        "th": "สู้ศึกกลางทะเล",
+        "x-jat": "Naruto Gekichin!? Inbou Uzumaku Oounabara"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-09-29",
+      "runtime": 25,
+      "rating": "2.17",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 104,
+      "title": "Run Idate Run! Nagi Island Awaits!",
+      "titles": {
+        "ja": "走れイダテ! 嵐を呼ぶ波乱のナギ島!!",
+        "en": "Run Idate Run! Nagi Island Awaits!",
+        "de": "Alte Feindschaft rostet nicht",
+        "fr": "Orages sur Nagi",
+        "it": "Il passato di Idate",
+        "th": "เขานากิแห่งตำนานเรียกขานพายุ",
+        "x-jat": "Hashire Idate! Arashi o Yobu Haran no Nagi Shima!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-10-13",
+      "runtime": 25,
+      "rating": "1.95",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 105,
+      "title": "A Fierce Battle of Rolling Thunder!",
+      "titles": {
+        "ja": "ゴール直前! 雷鳴とどろく大激闘",
+        "en": "A Fierce Battle of Rolling Thunder!",
+        "de": "Aoi und das Schwert des Donnergottes",
+        "fr": "Juste avant l`arrivée, la bataille fait rage...",
+        "it": "Scontro frontale",
+        "th": "การต่อสู้อันดุเดือดก่อนเส้นชัย",
+        "x-jat": "Gooru Chokuzen! Raimei Todoroku Daigekitou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-10-20",
+      "runtime": 25,
+      "rating": "2.57",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 106,
+      "title": "The Last Leg: A Final Act of Desperation",
+      "titles": {
+        "ja": "届くかイダテ! 執念のラストスパート",
+        "en": "The Last Leg: A Final Act of Desperation",
+        "de": "Endspurt der Verzweiflung",
+        "fr": "La dernière ligne droite pour Idate",
+        "it": "La forza della disperazione",
+        "th": "ทิ้งเส้นชัยใบสุดท้าย",
+        "x-jat": "Todokuka! Shuunen no Last Spurt"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-10-27",
+      "runtime": 25,
+      "rating": "2.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 107,
+      "title": "The Battle Begins: Naruto vs. Sasuke",
+      "titles": {
+        "ja": "オマエと戦いたい! ついに激突, サスケVSナルト",
+        "en": "The Battle Begins: Naruto vs. Sasuke",
+        "de": "Zwei Ninjas drehen auf",
+        "fr": "Sasuke contre Naruto",
+        "it": "Sasuke contro Naruto",
+        "th": "ปะทะดุเดือด ซาสึเกะกับนารูโตะ",
+        "x-jat": "Omae to Tatakaitai! Tsui ni Gekitotsu, Sasuke VS Naruto"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-11-03",
+      "runtime": 25,
+      "rating": "5.87",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 108,
+      "title": "Bitter Rivals and Broken Bonds",
+      "titles": {
+        "ja": "見えない亀裂",
+        "en": "Bitter Rivals and Broken Bonds",
+        "de": "Der unsichtbare Bruch",
+        "fr": "Une cassure invisible",
+        "it": "Il sapore della vendetta",
+        "th": "รอยร้าวที่มองไม่เห็น",
+        "x-jat": "Mienai Kiretsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-11-10",
+      "runtime": 25,
+      "rating": "5.11",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 109,
+      "title": "An Invitation from the Sound",
+      "titles": {
+        "ja": "音の誘い",
+        "en": "An Invitation from the Sound",
+        "de": "Die Verlockung der Otos",
+        "fr": "L`invasion du son",
+        "it": "La mossa del Suono",
+        "th": "คำชวนของโอโตะงาคุเระ",
+        "x-jat": "Oto no Izanai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-11-17",
+      "runtime": 25,
+      "rating": "5.50",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 110,
+      "title": "Formation! The Sasuke Retrieval Squad!",
+      "titles": {
+        "ja": "結成! 鉄壁のフォーメーション",
+        "en": "Formation! The Sasuke Retrieval Squad!",
+        "de": "Die Formation „Eiserne Wand“!",
+        "fr": "Les cinq de Konoha + un",
+        "it": "Formazione a fila indiana",
+        "th": "5 นินจาโคโนะฮะกับ 1 โฮ่ง",
+        "x-jat": "Kessei! Teppeki no Formation"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-11-24",
+      "runtime": 25,
+      "rating": "6.24",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 111,
+      "title": "Sound vs. Leaf",
+      "titles": {
+        "ja": "接触~音四人衆の実力~",
+        "en": "Sound vs. Leaf",
+        "de": "Eine heiße Spur",
+        "fr": "Le pouvoir des quatre ninjas d`Oto",
+        "it": "Il potere del quartetto del Suono",
+        "th": "กระบวนทัพถูกพันธนาการซะแล้ว",
+        "x-jat": "Sesshoku: Otoyoninshuu no Jitsuryoku?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-11-24",
+      "runtime": 25,
+      "rating": "5.98",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 112,
+      "title": "Squad Mutiny: Everything Falls Apart!",
+      "titles": {
+        "ja": "イキナリ仲間割れ!? シカマル小隊大ピンチ",
+        "en": "Squad Mutiny: Everything Falls Apart!",
+        "de": "Der Super-Stratege!",
+        "fr": "La tension monte dans l`équipe de Shikamaru",
+        "it": "Trappola di terra",
+        "th": "ทีมเวิร์คปั่นป่วนชิกามารุเจอศึกหนัก",
+        "x-jat": "Ikinari Nakamaware!? Shikamaru Shoutai Dai Pinch"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-12-01",
+      "runtime": 25,
+      "rating": "5.37",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 113,
+      "title": "Full Throttle Power! Choji, Ablaze!",
+      "titles": {
+        "ja": "パワー全開! 燃えろチョウジ",
+        "en": "Full Throttle Power! Choji, Ablaze!",
+        "de": "Volle Kraft voraus, Choji!",
+        "fr": "Chôji se déchaine",
+        "it": "La potenza di Choji",
+        "th": "พลังเต็มถัง โจจิผู้ร้อนแรง",
+        "x-jat": "Power Zenkai! Moero Chouji"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-12-08",
+      "runtime": 25,
+      "rating": "4.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 114,
+      "title": "Good-Bye Old Friend! I`ll Always Believe in You!",
+      "titles": {
+        "ja": "さらば友よ...! それでもオレは信じてる",
+        "en": "Good-Bye Old Friend! I`ll Always Believe in You!",
+        "de": "Freunde fürs Leben",
+        "fr": "Adieu l`ami, je ne t`oublierai jamais",
+        "it": "Per amicizia...",
+        "th": "ลาก่อนเพื่อนรักแต่ฉันก็ยังเชื่อมั่น",
+        "x-jat": "Saraba Tomo yo...! Soredemo Ore wa Shinjiteru"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-12-15",
+      "runtime": 25,
+      "rating": "6.71",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 115,
+      "title": "Your Opponent Is Me!",
+      "titles": {
+        "ja": "お前の相手はこのオレだ!",
+        "en": "Your Opponent Is Me!",
+        "de": "Der Spinnen-Spieler",
+        "fr": "C`est moi ton adversaire",
+        "it": "Di lui mi occupo io",
+        "th": "คู่มือของนายคือฉันคนนี้",
+        "x-jat": "Omae no Aite wa Kono Ore Da!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-12-22",
+      "runtime": 25,
+      "rating": "5.31",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 116,
+      "title": "360 Degrees of Vision: The Byakugan`s Blind Spot!",
+      "titles": {
+        "ja": "視界360度 白眼の死角",
+        "en": "360 Degrees of Vision: The Byakugan`s Blind Spot!",
+        "de": "Sichtfeld 360 Grad! Der blinde Fleck …",
+        "fr": "L`angle mort du byakugan",
+        "it": "Il punto cieco",
+        "th": "การต่อสู้อันดุเดือดของนินจาอัจฉริยะ",
+        "x-jat": "Shikai 360-do do Byakugan no Shikaku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-01-05",
+      "runtime": 25,
+      "rating": "6.15",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 117,
+      "title": "Losing Is Not an Option",
+      "titles": {
+        "ja": "負けられない理由",
+        "en": "Losing Is Not an Option",
+        "de": "Nejis Schwachpunkt",
+        "fr": "Neji, sa raison de ne pas perdre",
+        "it": "Non posso perdere",
+        "th": "นินจาอัจฉริยะสำแดงเดช",
+        "x-jat": "Makerarenai Riyuu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-01-05",
+      "runtime": 25,
+      "rating": "6.93",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 118,
+      "title": "The Vessel Arrives Too Late",
+      "titles": {
+        "ja": "奪還 ~間に合わなかった器~",
+        "en": "The Vessel Arrives Too Late",
+        "de": "Plan B",
+        "fr": "Récupérer le tonneau !",
+        "it": "Troppo tardi",
+        "th": "ศึกชิงตัว ตามซาสึเกะไม่ทันซะแล้ว",
+        "x-jat": "Dakkan! Maniawanakatta Utsuwa"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-01-12",
+      "runtime": 25,
+      "rating": "4.92",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 119,
+      "title": "Miscalculation: A New Enemy Appears!",
+      "titles": {
+        "ja": "失策! 新たなる敵",
+        "en": "Miscalculation: A New Enemy Appears!",
+        "de": "Ein Rätsel wird gelöst",
+        "fr": "Un nouvel ennemi !",
+        "it": "Un nuovo nemico",
+        "th": "ผิดคาด! ศัตรูคนใหม่ปรากฏ",
+        "x-jat": "Shissaku! Aratanaru Teki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-01-19",
+      "runtime": 25,
+      "rating": "3.53",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 120,
+      "title": "Roar! Howl! The Ultimate Tag",
+      "titles": {
+        "ja": "唸れ! 吼えろ! 究極のタッグ",
+        "en": "Roar! Howl! The Ultimate Tag",
+        "de": "Der doppelte Sakon",
+        "fr": "Hurlez ! Aboyez ! L`équipe ultime",
+        "it": "L`amico più fedele",
+        "th": "คำรามเห่าหอนไม้ตายสุดท้าย",
+        "x-jat": "Unare! Hoero! Kyuukyoku no Tag"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-02-02",
+      "runtime": 25,
+      "rating": "3.84",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 121,
+      "title": "Our Separate Battles",
+      "titles": {
+        "ja": "それぞれの闘い",
+        "en": "Our Separate Battles",
+        "de": "Drei Einzelkämpfer für Sasuke",
+        "fr": "Chacun son combat",
+        "it": "Un avversario a testa",
+        "th": "แยกย้ายกันต่อสู้",
+        "x-jat": "Sorezore no Tatakai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-02-09",
+      "runtime": 25,
+      "rating": "4.09",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 122,
+      "title": "Fake! Shikamaru the Man, Who Bets on the Revival of the Dead.",
+      "titles": {
+        "ja": "フェイク! 男シカマル 起死回生の賭け",
+        "en": "Fake! Shikamaru the Man, Who Bets on the Revival of the Dead.",
+        "de": "Ein seltsames Schachspiel",
+        "fr": "Shikamaru joue le tout pour le tout",
+        "it": "La seconda mossa",
+        "th": "กลลวงของชิกามารุพนันด้วยการเกิดใหม่",
+        "x-jat": "Fake! Otoko Shikamaru Kishikaisei no Kake"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-02-16",
+      "runtime": 25,
+      "rating": "4.62",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 123,
+      "title": "Konoha`s Green Beast Appears",
+      "titles": {
+        "ja": "木ノ葉の碧き野獣 見参!",
+        "en": "Konoha`s Green Beast Appears",
+        "de": "Das Gefäß wird geöffnet",
+        "fr": "Arrivée du fauve de jade de Konoha",
+        "it": "Il ninja verde della Foglia",
+        "th": "สัตว์ร้ายแห่งโคโนฮะปรากฎ",
+        "x-jat": "Konoha no Aoki Yajuu Kenzan!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-02-23",
+      "runtime": 25,
+      "rating": "5.88",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 124,
+      "title": "The Beast Explodes! Burst, Blow, and Break Through",
+      "titles": {
+        "ja": "野獣炸裂! 弾けろ吹っ飛べ突き抜けろ!",
+        "en": "The Beast Explodes! Burst, Blow, and Break Through",
+        "de": "Neue Verbündete",
+        "fr": "L’explosion du fauve de jade",
+        "it": "La nuova alleanza",
+        "th": "สัตว์ร้ายกระหน่ำ ซัดมันให้กระเด็นไปเลย",
+        "x-jat": "Yajuu Sakuretsu! Hajikero Futtobe Tsukinukero!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-03-02",
+      "runtime": 25,
+      "rating": "8.73",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 125,
+      "title": "Allies of Konoha! The Shinobi of the Sand!",
+      "titles": {
+        "ja": "木ノ葉同盟国 砂の忍",
+        "en": "Allies of Konoha! The Shinobi of the Sand!",
+        "de": "Die schwarze Ameise",
+        "fr": "Les ninjas de Suna",
+        "it": "L`intesa tra Sabbia e Foglia",
+        "th": "พันธมิตรโคโนฮะ นินจาซึนะ",
+        "x-jat": "Konoha Doumeikoku Suna no Shinobi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-03-09",
+      "runtime": 25,
+      "rating": "7.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 126,
+      "title": "Showdown of the Strongest! Gaara vs. Kimimaro!!",
+      "titles": {
+        "ja": "最強対決! 我愛羅VS君麻呂!",
+        "en": "Showdown of the Strongest! Gaara vs. Kimimaro!!",
+        "de": "Sand oder Knochen?",
+        "fr": "Gaara contre Kimimaro",
+        "it": "Gaara contro Kimimaro",
+        "th": "การต่อสู้สุดเดือดกาอาระปะทะคิมิมาโร่",
+        "x-jat": "Saikyou Taiketsu! Gaara VS Kimimaro!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-03-16",
+      "runtime": 25,
+      "rating": "5.88",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 127,
+      "title": "Determination for One Blow! Dance of The Seeding Ferns",
+      "titles": {
+        "ja": "執念の一撃! 早蕨の舞",
+        "en": "Determination for One Blow! Dance of The Seeding Ferns",
+        "de": "Tanz der Farnknospen",
+        "fr": "Une attaque implaccable",
+        "it": "Il trionfo di Gaara",
+        "th": "หยุดนะซาสึเกะ ตามซาสึเกะให้ทันและลุยโลด",
+        "x-jat": "Shuunen no Ichigeki! Sawarabi no Mai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-03-30",
+      "runtime": 25,
+      "rating": "5.71",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 128,
+      "title": "Unreachable Outcry",
+      "titles": {
+        "ja": "届かない叫び",
+        "en": "Unreachable Outcry",
+        "de": "Die Wahrheit kommt ans Licht",
+        "fr": "Un cri égaré",
+        "it": "Il richiamo del passato",
+        "th": "เสียงเรียกที่ส่งไม่ถึง",
+        "x-jat": "Todokanai Sakebi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-03-30",
+      "runtime": 25,
+      "rating": "4.88",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 129,
+      "title": "Itachi and Sasuke. An Existence Too Far Apart.",
+      "titles": {
+        "ja": "兄[イタチ]と弟[サスケ] 遠すぎる存在",
+        "en": "Itachi and Sasuke. An Existence Too Far Apart.",
+        "de": "Die zwei Brüder",
+        "fr": "Itachi et Sasuke, les destins de deux frères",
+        "it": "Un fratello scomodo",
+        "th": "อิทาจิและซาสึเกะ การมีตัวตนที่ห่างไกลเกินไป",
+        "x-jat": "Itachi to Sasuke Toosugiru Sonzai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-04-06",
+      "runtime": 25,
+      "rating": "4.12",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 130,
+      "title": "Father and Son. The Cracked Family Crest",
+      "titles": {
+        "ja": "父と子 ひび割れた家紋",
+        "en": "Father and Son. The Cracked Family Crest",
+        "de": "Vater und Sohn: Das verlorene Vermächtnis",
+        "fr": "Père et fils, le blason brisé",
+        "it": "Una macchia sul ventaglio Uchiha",
+        "th": "พ่อกับลูก รอยร้าวของครอบครัว",
+        "x-jat": "Chichi to Ko Hibi Wareta Kamon"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-04-13",
+      "runtime": 25,
+      "rating": "4.15",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 131,
+      "title": "Enlightenment. The Secret of Mangekyou Sharingan.",
+      "titles": {
+        "ja": "開眼 万華鏡写輪眼の秘密",
+        "en": "Enlightenment. The Secret of Mangekyou Sharingan.",
+        "de": "Das Auge öffnet sich: Das Geheimnis des Kaleidoskop-Sharingans",
+        "fr": "Le secret du kaléidoscope hypnotique du sharingan",
+        "it": "Il segreto dello Sharingan Ipnotico",
+        "th": "เบิกเนตร ความลับเนตรวงแหวนกระจกเงาหมื่นบุปผา",
+        "x-jat": "Kaigan Mangekyou Sharingan no Himitsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-04-20",
+      "runtime": 25,
+      "rating": "4.45",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 132,
+      "title": "Close Friend!",
+      "titles": {
+        "ja": "親友[とも]よ!",
+        "en": "Close Friend!",
+        "de": "Der Fuchs kehrt zurück",
+        "fr": "Mon ami",
+        "it": "Il mio migliore amico",
+        "th": "เพื่อนกันไง",
+        "x-jat": "Tomo yo!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-04-27",
+      "runtime": 25,
+      "rating": "7.87",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 133,
+      "title": "Tearful Yell! You Are My Friend.",
+      "titles": {
+        "ja": "涙の咆哮! オマエはオレの友達だ",
+        "en": "Tearful Yell! You Are My Friend.",
+        "de": "Was tut man nicht alles für einen Freund …",
+        "fr": "Le cri des larmes, tu es mon ami",
+        "it": "Troppo tardi",
+        "th": "เสียงคำรามแห่งน้ำตา",
+        "x-jat": "Namida no Houkou! Omae wa Ore no Tomodachi Da"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-05-04",
+      "runtime": 25,
+      "rating": "8.49",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 134,
+      "title": "Concluded in a Rain of Tears",
+      "titles": {
+        "ja": "涙雨[なみだあめ]の結末",
+        "en": "Concluded in a Rain of Tears",
+        "de": "Das Tal des Endes",
+        "fr": "Conclusion sous une pluie de larmes",
+        "it": "All`ultimo respiro",
+        "th": "จุดจบของฝนแห่งน้ำตา",
+        "x-jat": "Namidaame no Ketsumatsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-05-11",
+      "runtime": 25,
+      "rating": "5.02",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 135,
+      "title": "The Promise That Couldn`t Be Kept",
+      "titles": {
+        "ja": "守れなかった約束",
+        "en": "The Promise That Couldn`t Be Kept",
+        "de": "Das gebrochene Versprechen",
+        "fr": "Une promesse non tenue",
+        "it": "L`ultimatum di Jiraiya",
+        "th": "สัญญาที่รักษาไว้ไม่ได้",
+        "x-jat": "Mamorenakatta Yakusoku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-05-18",
+      "runtime": 25,
+      "rating": "7.04",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 136,
+      "title": "Infiltration investigation?! A Super S-Class Mission Has Finally Arrived!",
+      "titles": {
+        "ja": "潜入捜査!? 遂にきたきた超S級任務",
+        "en": "Infiltration investigation?! A Super S-Class Mission Has Finally Arrived!",
+        "de": "Sakura greift ein",
+        "fr": "Enfin une mission de rang S !",
+        "it": "In missione segreta",
+        "th": "บุกไปสืบเลย ภารกิจระดับเอส",
+        "x-jat": "Sennyuu Sousa!? Tsui ni Kitakita Chyou S-Kyuu Ninmu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-05-25",
+      "runtime": 25,
+      "rating": "2.65",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 137,
+      "title": "The Town of Outlaws. The Shadow of the Fuuma Clan.",
+      "titles": {
+        "ja": "無法者の街 ふうま一族の影",
+        "en": "The Town of Outlaws. The Shadow of the Fuuma Clan.",
+        "de": "Nützliche Informationen",
+        "fr": "L`ombre du clan Fûma",
+        "it": "Nel paese delle risaie",
+        "th": "เมืองนอกรีด เงาของตระกูล",
+        "x-jat": "Muhousha no Gai Fuuma Ichizoku no Kage"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-06-01",
+      "runtime": 25,
+      "rating": "3.22",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 138,
+      "title": "A Pure Betrayal. A Fleeting Wish.",
+      "titles": {
+        "ja": "清き裏切り はかなき願い",
+        "en": "A Pure Betrayal. A Fleeting Wish.",
+        "de": "Kageros Verwandlung",
+        "fr": "Pureté et trahison, un rêve éphémère",
+        "it": "La piaga del tradimento",
+        "th": "ความหวังที่ไม่อาจหวัง",
+        "x-jat": "Kiyoki Uragiri Hakanaki Negai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-06-08",
+      "runtime": 25,
+      "rating": "2.81",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 139,
+      "title": "Terror! Orochimaru`s Mansion",
+      "titles": {
+        "ja": "恐怖! 大蛇丸の館",
+        "en": "Terror! Orochimaru`s Mansion",
+        "de": "Getrennte Wege",
+        "fr": "Horreur ! Le palais d`Orochimaru",
+        "it": "La base segreta di Orochimaru",
+        "th": "ตำหนักของโอโรจิมารุ",
+        "x-jat": "Kyoufu! Orochimaru no Yakata"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-06-15",
+      "runtime": 25,
+      "rating": "3.09",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 140,
+      "title": "Two Heartbeats, Kabuto`s Trap",
+      "titles": {
+        "ja": "二つの鼓動 カブトの罠",
+        "en": "Two Heartbeats, Kabuto`s Trap",
+        "de": "Kabutos Falle",
+        "fr": "Le piège de Kabuto",
+        "it": "La trappola di Kabuto",
+        "th": "แยกเป็น 2 ทีมกับดักของคาบูโตะ",
+        "x-jat": "Futatsu no Kodou, Kabuto no Wana"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-06-22",
+      "runtime": 25,
+      "rating": "3.37",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 141,
+      "title": "Sakura`s Decision",
+      "titles": {
+        "ja": "サクラの決意",
+        "en": "Sakura`s Decision",
+        "de": "Sakuras Entschlossenheit",
+        "fr": "La décision de Sakura",
+        "it": "La determinazione di Sakura",
+        "th": "การตัดสินใจของซากุระ",
+        "x-jat": "Sakura no Ketsui"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-06-29",
+      "runtime": 25,
+      "rating": "4.16",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 142,
+      "title": "Three Villians of the Strictly Guarded Facility",
+      "titles": {
+        "ja": "厳戒施設の三悪人",
+        "en": "Three Villians of the Strictly Guarded Facility",
+        "de": "Eine leise Gefahr",
+        "fr": "Un trio diabolique",
+        "it": "Carcere di massima sicurezza",
+        "th": "สามวายร้ายแห่งคุกหฤโหด",
+        "x-jat": "Genkai Shisetsu no San Akunin"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-07-06",
+      "runtime": 25,
+      "rating": "3.69",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 143,
+      "title": "Run Tonton! We`re Counting On Your Nose",
+      "titles": {
+        "ja": "走れトントン! お前の鼻が頼りだってばよ",
+        "en": "Run Tonton! We`re Counting On Your Nose",
+        "de": "Die Fährte führt zum Ziel",
+        "fr": "Je compte sur ton groin",
+        "it": "La missione la scelgo io!",
+        "th": "วิ่งเข้าทงทง ต้องพึ่งจมุกนายแล้วนะ",
+        "x-jat": "Hashire Tonton! Omae no Hana ga Tayori Dattebayo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-07-13",
+      "runtime": 25,
+      "rating": "2.06",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 144,
+      "title": "Rebirth of the Three Man Team: Two People and One Animal",
+      "titles": {
+        "ja": "新生三人一組[スリーマンセル] 二人と一匹!",
+        "en": "Rebirth of the Three Man Team: Two People and One Animal",
+        "de": "Das stärkste Dreierteam von Konohagakure",
+        "fr": "Un nouveau trio",
+        "it": "Missione di soccorso!",
+        "th": "กลุ่มทรีแมนใหม่ 2 คน กับ 1 ตัว",
+        "x-jat": "Shinsei Three Man Cell Futari to Ippiki!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-07-20",
+      "runtime": 25,
+      "rating": "1.97",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 145,
+      "title": "Explosion! New Formation InoShikaChou",
+      "titles": {
+        "ja": "炸裂! ニューフォーメーションいのシカチョウ",
+        "en": "Explosion! New Formation InoShikaChou",
+        "de": "Explosion! Eine neue Formation: Ino-Shika-Cho",
+        "fr": "Ino, Shika, Chô... La nouvelle formation",
+        "it": "Ino-Shika-Cho",
+        "th": "ระเบิดรูปแบบใหม่ อิโนะชิคาโจ",
+        "x-jat": "Sakuretsu! New Formation InoShikaChou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-07-27",
+      "runtime": 25,
+      "rating": "2.10",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 146,
+      "title": "Leftover Ambitions Orochimaru`s Shadow",
+      "titles": {
+        "ja": "残された野望 大蛇丸の影",
+        "en": "Leftover Ambitions Orochimaru`s Shadow",
+        "de": "Hokage, womit? Mit Recht!",
+        "it": "All`ombra di Orochimaru",
+        "th": "เงาของโอโรจิมารุ",
+        "x-jat": "Nokosareta Yabou Orochimaru no Kage"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-08-10",
+      "runtime": 25,
+      "rating": "2.45",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 147,
+      "title": "Confrontation of Fate! You Will Not Defeat Me",
+      "titles": {
+        "ja": "因縁の対決! オマエにオレは倒せねえ",
+        "en": "Confrontation of Fate! You Will Not Defeat Me",
+        "de": "Cleverer Schachzug, Iruka!",
+        "fr": "Duel fatidique !",
+        "it": "Forza artificiale",
+        "th": "หน้าอย่างนายโค่นฉันไม่ได้หรอก",
+        "x-jat": "Innen no Taiketsu! Omae ni Ore wa Taosenee"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-08-17",
+      "runtime": 25,
+      "rating": "2.67",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 148,
+      "title": "Even Akamaru Is Jealous of His Searching Ability! Search for the Phantom Bikouchuu!",
+      "titles": {
+        "ja": "超追尾力に赤丸も嫉妬! 幻の微香虫を探せ",
+        "en": "Even Akamaru Is Jealous of His Searching Ability! Search for the Phantom Bikouchuu!",
+        "de": "Träume sind Schäume – oder?",
+        "fr": "À la recherche des insecteurs flaireurs",
+        "it": "In cerca di insetti",
+        "th": "แกะรอยเก่งจนอากามารุยังอิจฉา",
+        "x-jat": "Chou Tsuibi Chikara ni Akamaru mo Shitto! Maboroshi no Bikou Mushi o Sagase"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-08-17",
+      "runtime": 25,
+      "rating": "5.60",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 149,
+      "title": "How Is It Different? Don`t All Bugs Look the Same!?",
+      "titles": {
+        "ja": "どこが違うのさ!? 虫って同じに見えないか",
+        "en": "How Is It Different? Don`t All Bugs Look the Same!?",
+        "de": "Der Käfer mit dem besonderen Geruchssinn",
+        "fr": "Tous les insectes se ressemblent",
+        "it": "Pioggia",
+        "th": "ก็เป็นแมลงเหมือนกันนี่นา",
+        "x-jat": "Doko ga Chigau no sa!? Mushitte Onaji ni Mienaika"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-08-24",
+      "runtime": 25,
+      "rating": "4.40",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 150,
+      "title": "Deceive, Confuse and Be Deceived! The Grand Bug Battle",
+      "titles": {
+        "ja": "だまして化かしてだまされて! 壮絶ムシムシ大バトル",
+        "en": "Deceive, Confuse and Be Deceived! The Grand Bug Battle",
+        "de": "Trügerisch verwirrend!",
+        "fr": "La grande bataille des insectes",
+        "it": "Sfida per un insetto",
+        "th": "หลอกหรือถูกหลอกด้วยความห้าวหาญ",
+        "x-jat": "Damashite Bakashite Damasarete! Souzetsu Mushimushi Dai Battle"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-08-31",
+      "runtime": 25,
+      "rating": "3.80",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 151,
+      "title": "Blazing Byakugan! This Is My Way of the Ninja",
+      "titles": {
+        "ja": "燃えよ白眼! これが私の忍道よ",
+        "en": "Blazing Byakugan! This Is My Way of the Ninja",
+        "de": "Eine völlig vertane Chance?!",
+        "fr": "Enflamme-toi byakugan !",
+        "it": "Hinata alla riscossa",
+        "th": "เนตรสีขาวอันร้อนแรง วิถีนินจาของฉัน",
+        "x-jat": "Moeyo Byakugan! Kore ga Watashi no Nindou yo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-09-14",
+      "runtime": 25,
+      "rating": "7.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 152,
+      "title": "The Funeral March Towards Those with life",
+      "titles": {
+        "ja": "生あるものへの葬送曲[そうそうきょく]",
+        "en": "The Funeral March Towards Those with life",
+        "de": "Das beste Curry der Welt",
+        "fr": "Requiem pour les vivants",
+        "it": "All`ombra dei Sette Spadaccini",
+        "th": "เพลงงานศพแด่ผู้มีชีวิต",
+        "x-jat": "Sei Aru Mono e no Sousoukyoku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-09-21",
+      "runtime": 25,
+      "rating": "1.92",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 153,
+      "title": "Reach Your Heart! Fist of Love",
+      "titles": {
+        "ja": "心に届け! 愛の鉄拳",
+        "en": "Reach Your Heart! Fist of Love",
+        "de": "Ein erster Schritt",
+        "fr": "Que les poings de l`amour atteignent ton cœur",
+        "it": "Il potere del fulmine",
+        "th": "หมัดแห่งความรักส่งให้ถึงใจ",
+        "x-jat": "Kokoro ni Todoke! Ai no Tekken"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-09-28",
+      "runtime": 25,
+      "rating": "2.32",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 154,
+      "title": "Byakugan`s Natural Enemy",
+      "titles": {
+        "ja": "白眼の天敵",
+        "en": "Byakugan`s Natural Enemy",
+        "de": "Informationsbeschaffung à la Naruto",
+        "fr": "L`ennemi naturel du byakugan",
+        "it": "Velo di nebbia",
+        "th": "ศัตรูของเนตรสีขาว",
+        "x-jat": "Byakugan no Tenteki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-10-05",
+      "runtime": 25,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 155,
+      "title": "The Creeping Dark Clouds",
+      "titles": {
+        "ja": "忍び寄る暗雲",
+        "en": "The Creeping Dark Clouds",
+        "de": "Das Geheimnis um Ranmaru",
+        "fr": "Des nuages noirs en approche",
+        "it": "Nubi all`orizzonte",
+        "th": "เมฆดำที่แฝงเข้ามา",
+        "x-jat": "Shinobiyoru Anun"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-10-12",
+      "runtime": 25,
+      "rating": "2.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 156,
+      "title": "Raiga`s Counterattack!",
+      "titles": {
+        "ja": "逆襲の雷牙",
+        "en": "Raiga`s Counterattack!",
+        "de": "Raigas wahres Gesicht",
+        "fr": "La vengeance de Raïga",
+        "it": "Il ritorno di Raiga",
+        "th": "เขี้ยวสายฟ้าโต้กลับ",
+        "x-jat": "Gyakushuu no Raiga"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-10-19",
+      "runtime": 25,
+      "rating": "2.62",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 157,
+      "title": "Run!!! The Curry of Life",
+      "titles": {
+        "ja": "走れ!!! 生命のカレー",
+        "en": "Run!!! The Curry of Life",
+        "de": "Entscheidung für die Freundschaft",
+        "fr": "Cours !! C`est le curry de la vie",
+        "it": "Il curry della vita",
+        "th": "วิ่งเลย แกงกระหรี่แห่งชีวิต",
+        "x-jat": "Hashire!!! Inochi no Curry"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-10-26",
+      "runtime": 25,
+      "rating": "2.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 158,
+      "title": "Everyone Come with Me! The Survival Scheme of Sweat and Tears",
+      "titles": {
+        "ja": "みんなオレについて来い! 汗と涙のタクラミ大サバイバル",
+        "en": "Everyone Come with Me! The Survival Scheme of Sweat and Tears",
+        "de": "Gemeinsam schaffen wir es!",
+        "fr": "L`esprit d`équipe",
+        "it": "Lacrime e sudore",
+        "th": "ทุกคนตามฉันมา! เกมส์รอดตายบนเขาทาคุรามิ",
+        "x-jat": "Minna Ore ni Tsuite Koi! Ase to Namida no Takurami Dai Survival"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-11-02",
+      "runtime": 25,
+      "rating": "2.90",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 159,
+      "title": "Enemy or Ally!? The Bratty Bounty Hunter",
+      "titles": {
+        "ja": "敵か味方か!? 荒野の賞金稼ぎ",
+        "en": "Enemy or Ally!? The Bratty Bounty Hunter",
+        "de": "Ein Dieb und ein Rätsel",
+        "fr": "Ami ou ennemi ? Le chasseur de primes du désert",
+        "it": "Amico o nemico?",
+        "th": "เป็นศัตรูหรือมิตร นักล่าเงินรางวัลแห่งทุ่งร้าง",
+        "x-jat": "Teki ka Mikata ka!? Kouya no Shoukinkasegi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-11-09",
+      "runtime": 25,
+      "rating": "2.53",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 160,
+      "title": "Will We Take It or Will It Be Taken from Us!? The Okay Temple`s Battle",
+      "titles": {
+        "ja": "獲るか獲られるか!? オッケー寺の決斗",
+        "en": "Will We Take It or Will It Be Taken from Us!? The Okay Temple`s Battle",
+        "de": "Mission vergeigt, alle glücklich?!",
+        "fr": "La bataille du temple d`Hokay",
+        "it": "Scontro al tempio",
+        "th": "จะจัดได้หรือถูกจับ ดวลที่วัดโอเคะ",
+        "x-jat": "Toru ka Torareuka!? Okay Tera no Kettou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-11-16",
+      "runtime": 25,
+      "rating": "1.79",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 161,
+      "title": "A Welcome Visitor Arrives: The Green Beast? The Carnivore? ...The Welcomed Beast?",
+      "titles": {
+        "ja": "珍客見参 碧の野獣? 猛獣? ...珍獣?",
+        "en": "A Welcome Visitor Arrives: The Green Beast? The Carnivore? ...The Welcomed Beast?",
+        "de": "Das doppelte Guychen",
+        "fr": "D`étranges visiteurs",
+        "it": "Strane visite",
+        "th": "แขกผู้มาเยือน สัตว์ป่า? สัตว์ร้าย? สัตว์หายาก?",
+        "x-jat": "Chinkyaku Kenzan Ao no Yajuu? Moujuu?... Chinjuu?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-11-23",
+      "runtime": 25,
+      "rating": "2.45",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 162,
+      "title": "A Cursed White Warrior",
+      "titles": {
+        "ja": "白き呪いの武者",
+        "en": "A Cursed White Warrior",
+        "de": "Geisterstunde im Reich der Vögel",
+        "fr": "Le guerrier maudit blanc",
+        "it": "Il guerriero fantasma",
+        "th": "นักรบคำสาปสีขาว ภารกิจใหม่ของนารูโตะก็คือ ปราบผี?",
+        "x-jat": "Shiroki Noroi no Musha"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-11-30",
+      "runtime": 25,
+      "rating": "2.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 163,
+      "title": "Tactician: Koumei`s Speculation",
+      "titles": {
+        "ja": "策士・紅明の思惑",
+        "en": "Tactician: Koumei`s Speculation",
+        "de": "Erste Erkenntnis, totale Verwirrung",
+        "fr": "Les arrangements de Komei, le stratège",
+        "it": "La strategia di Kumei",
+        "th": "เล่ห์กลของโคเม",
+        "x-jat": "Sakushi: Koumei no Omowaku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-12-07",
+      "runtime": 25,
+      "rating": "2.85",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 164,
+      "title": "The Helper Who Came Too Late",
+      "titles": {
+        "ja": "遅すぎた助っ人",
+        "en": "The Helper Who Came Too Late",
+        "de": "Auf eigene Faust",
+        "fr": "Les renforts arrivent trop tard",
+        "it": "Troppo tardi",
+        "th": "ผู้ช่วยที่มาสายเกินไป",
+        "x-jat": "Ososugita Suketto"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-12-14",
+      "runtime": 25,
+      "rating": "3.52",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 165,
+      "title": "Naruto Dies",
+      "titles": {
+        "ja": "ナルト死す",
+        "en": "Naruto Dies",
+        "de": "Der Jutsu-Dieb",
+        "fr": "La mort de Naruto",
+        "it": "La fine di Naruto",
+        "th": "นารูโตะต้องตาย",
+        "x-jat": "Naruto Shisu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-12-21",
+      "runtime": 25,
+      "rating": "3.30",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 166,
+      "title": "Time Is Stopped",
+      "titles": {
+        "ja": "止まったままの時間",
+        "en": "Time Is Stopped",
+        "de": "Wer ist wer?",
+        "fr": "La montre arrêtée",
+        "it": "Quando il tempo si ferma",
+        "th": "เวลาที่หยุดไปทั้งแบบนั้น",
+        "x-jat": "Todomatta mama no Jikan"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-01-04",
+      "runtime": 25,
+      "rating": "4.09",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 167,
+      "title": "White Heron`s Flapping Wings of Time",
+      "titles": {
+        "ja": "白鷺の羽ばたく時間",
+        "en": "White Heron`s Flapping Wings of Time",
+        "de": "Der Flug der Graureiher",
+        "fr": "Le temps du vol des oiseaux blancs",
+        "it": "Verso il futuro",
+        "th": "เวลาที่โบยบินของซากิ",
+        "x-jat": "Jirachigi no Habataku Jikan"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-01-04",
+      "runtime": 25,
+      "rating": "4.19",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 168,
+      "title": "Burn Zundou! Mix, Stretch and Boil It Up!",
+      "titles": {
+        "ja": "燃えろ寸胴! 混ぜて伸ばして茹で上げろ!!",
+        "en": "Burn Zundou! Mix, Stretch and Boil It Up!",
+        "de": "Das Geheimrezept",
+        "fr": "Brûlons les graisses ! Mélangeons, étirons, et à la cuisson !",
+        "it": "La ricetta segreta",
+        "th": "ส่วยไปให้มันส์ ผสม ยืด เอาให้เดือดพล่าน",
+        "x-jat": "Moero Zundou! Mazete Nobajite Yude Agero!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-01-18",
+      "runtime": 25,
+      "rating": "2.35",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 169,
+      "title": "Remembrance: The Lost Page",
+      "titles": {
+        "ja": "記憶 失われた頁[ページ]",
+        "en": "Remembrance: The Lost Page",
+        "de": "Eine Mission zum Land der Ozeane",
+        "fr": "La page perdue",
+        "it": "La pagina mancante",
+        "th": "ความทรงจำหน้าที่หายไป",
+        "x-jat": "Kioku: Ushinawareta Page"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-01-25",
+      "runtime": 25,
+      "rating": "5.38",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 170,
+      "title": "Impact: The Closed Door",
+      "titles": {
+        "ja": "衝撃 閉ざされた扉[ドア]",
+        "en": "Impact: The Closed Door",
+        "de": "Die verschlossene Tür",
+        "fr": "Le mystère du Kaima",
+        "it": "La porta chiusa",
+        "th": "ปะทะ ประตูที่ถูกเปิด",
+        "x-jat": "Shougeki Tozasareta Door"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-02-01",
+      "runtime": 25,
+      "rating": "5.21",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 171,
+      "title": "Sneaking: The Planned Trap",
+      "titles": {
+        "ja": "潜入 仕組まれた罠[トラップ]",
+        "en": "Sneaking: The Planned Trap",
+        "de": "Wo ist hier der Notausgang?",
+        "fr": "Intrusion ! Le piège se referme !",
+        "it": "In trappola",
+        "th": "บุกรุก กับดักที่ถูกเตรียมไว้",
+        "x-jat": "Sennyuu Shikumareta Trap"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-02-08",
+      "runtime": 25,
+      "rating": "3.23",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 172,
+      "title": "Despair: The Broken Heart",
+      "titles": {
+        "ja": "絶望 引き裂かれた心[ハート]",
+        "en": "Despair: The Broken Heart",
+        "de": "Das gebrochene Herz",
+        "fr": "Désespoir, le cœur entrelacé",
+        "it": "Cuore infranto",
+        "th": "หมดหวัง ใจที่ถูกฉีกขาด",
+        "x-jat": "Zetsubou Hikisakareta Heart"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-02-15",
+      "runtime": 25,
+      "rating": "3.22",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 173,
+      "title": "Sea Battle: The Released Power",
+      "titles": {
+        "ja": "海戦 解き放たれた力[パワー]",
+        "en": "Sea Battle: The Released Power",
+        "de": "Ein Ausschlag der anderen Art",
+        "fr": "La bataille sur la mer ! Le pouvoir libéré",
+        "it": "Scontro in mare",
+        "th": "ศึกทะเล พลังที่ถูกปลดปล่อย",
+        "x-jat": "Kaisen Tokihanatareta Power"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-02-22",
+      "runtime": 25,
+      "rating": "2.59",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 174,
+      "title": "No Way! Celebrity Ninpou: Jutsu of Gold Element",
+      "titles": {
+        "ja": "ありえねーってばよ! セレブ忍法・金遁[きんとん]の術",
+        "en": "No Way! Celebrity Ninpou: Jutsu of Gold Element",
+        "de": "Geld regiert die Welt – aber nicht ein Wildschwein",
+        "fr": "Moi aussi Naruto, je suis un ninja !",
+        "it": "La tecnica dei contanti",
+        "th": "ไม่อยากจะเชื่อเลย วิชานินจาดัง คาถาเงิน",
+        "x-jat": "Arieneettebayo! Celebrity Ninpou: Kinton no Jutsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-03-01",
+      "runtime": 25,
+      "rating": "2.16",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 175,
+      "title": "Dig Here! Woof! Woof! The Search for Buried Treasure",
+      "titles": {
+        "ja": "ここ掘れワンワン! 埋蔵金[まいぞうきん]を探せ",
+        "en": "Dig Here! Woof! Woof! The Search for Buried Treasure",
+        "de": "Ein seltsamer Auftraggeber",
+        "fr": "Creuse, baisse-toi et trouve le trésor !",
+        "it": "Caccia al tesoro",
+        "th": "ขุดเลยโฮ่งๆ ไปตามหาทองกัน",
+        "x-jat": "Koko Hore Wanwan! Maizoukin o Sagase"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-03-08",
+      "runtime": 25,
+      "rating": "2.14",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 176,
+      "title": "Zigzag Running! Chasing, Being Chased, Making a Mistake",
+      "titles": {
+        "ja": "疾走, 迷走, ジグザグ走! 追って追われて間違えて",
+        "en": "Zigzag Running! Chasing, Being Chased, Making a Mistake",
+        "de": "Ausgetrickst und abgezockt",
+        "fr": "La grande chasse à l`homme",
+        "it": "Missione compiuta",
+        "th": "วิ่งโลด วิ่งแล่น วิ่งซิกแซก ทั้งไล่ทั้งถูกไล่สลับกัน",
+        "x-jat": "Shissou, Meisou, Zigzag-sou! Otte Owarete Machigaete"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-03-15",
+      "runtime": 25,
+      "rating": "2.85",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 177,
+      "title": "Oh?! Please, Mister Postman.",
+      "titles": {
+        "ja": "OH!? ぷりーず みすたーぽすとまん",
+        "en": "Oh?! Please, Mister Postman.",
+        "de": "Kurier Nummer 59603",
+        "fr": "Oh ! S`il vous plaît, monsieur le facteur !",
+        "it": "Postini ninja",
+        "th": "โอ้ว พลีส มิสเตอร์โพสแมน",
+        "x-jat": "Oh?! Please, Mister Postman"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-03-22",
+      "runtime": 25,
+      "rating": "4.05",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 178,
+      "title": "Encounter: The Boy Named `Hoshi`.",
+      "titles": {
+        "ja": "出会い 「星」の名を持つ少年",
+        "en": "Encounter: The Boy Named `Hoshi`.",
+        "de": "Mission Stern",
+        "fr": "Le garçon d`étoile",
+        "it": "Il Villaggio della Stella",
+        "th": "ได้พบ เด็กชายที่มีชื่อแห่งดวงดาว",
+        "x-jat": "Deai \"Hoshi\" no Na o Motsu Shounen"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-03-29",
+      "runtime": 25,
+      "rating": "2.47",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 179,
+      "title": "Natsuhiboshi: Remembered Lullaby",
+      "titles": {
+        "ja": "ナツヒボシ 思い出の子守唄",
+        "en": "Natsuhiboshi: Remembered Lullaby",
+        "de": "Ein Dorf in heller Aufregung",
+        "fr": "Étoiles d`été, souvenir d`une berceuse",
+        "it": "Una vecchia ninna nanna",
+        "th": "นัทสึฮิโบชิ เพลงกล่อมเด็กแห่งความหลัง",
+        "x-jat": "Natsuboshi Omoide no Komoriuta"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-04-05",
+      "runtime": 25,
+      "rating": "1.89",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 180,
+      "title": "Secret Technique: Compensation of Peacock Mysteries.",
+      "titles": {
+        "ja": "秘術 孔雀妙法の代償",
+        "en": "Secret Technique: Compensation of Peacock Mysteries.",
+        "de": "Wer ist der wahre Dieb?",
+        "fr": "L`adresse du paon dommagé",
+        "it": "Inutili sofferenze",
+        "th": "วิชาลับ ค่าชดเชยวิชาลับนกยูง",
+        "x-jat": "Hijutsu Kujaku Myouhou no Daishou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-04-12",
+      "runtime": 25,
+      "rating": "2.10",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 181,
+      "title": "Hoshikage: The Buried Truth.",
+      "titles": {
+        "ja": "星影 葬り去られた真実",
+        "en": "Hoshikage: The Buried Truth.",
+        "de": "Die versteckte Wahrheit",
+        "fr": "Hoshikage, la vérité cachée",
+        "it": "La verità nascosta",
+        "th": "โอชิคาเงะกับความจริงที่ถูกปิดเอาไว้",
+        "x-jat": "Hoshikage Houmurisarareta Shinjitsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-04-19",
+      "runtime": 25,
+      "rating": "2.24",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 182,
+      "title": "Meeting Again: The Time Left Behind",
+      "titles": {
+        "ja": "再会 残された時間",
+        "en": "Meeting Again: The Time Left Behind",
+        "de": "Der traurige Stern",
+        "fr": "Retrouvailles",
+        "it": "Il Quarto Hoshikage",
+        "th": "พบอีกครั้งเวลาที่ยังเหลืออยู่",
+        "x-jat": "Saikai Nokosareta Jikan"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-04-26",
+      "runtime": 25,
+      "rating": "2.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 183,
+      "title": "Enhance the Star`s Brilliance",
+      "titles": {
+        "ja": "星は輝きを増して",
+        "en": "Enhance the Star`s Brilliance",
+        "de": "Funkelndes Licht",
+        "fr": "L`éclat de l`étoile",
+        "it": "La stella risorge",
+        "th": "ดาวส่องแสงเจิดจรัส",
+        "x-jat": "Hoshi wa Kagayaki o Mashite"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-05-03",
+      "runtime": 25,
+      "rating": "1.57",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 184,
+      "title": "Inuzuka Kiba`s Long Day",
+      "titles": {
+        "ja": "犬塚キバのなが~い一日",
+        "en": "Inuzuka Kiba`s Long Day",
+        "de": "Kibas langer Tag",
+        "fr": "Une longue journée pour Kiba Inuzuka",
+        "it": "Il giorno più lungo di Kiba",
+        "th": "วันที่แสนยาวนานของอินุสึกะ คิบะ",
+        "x-jat": "Inuzuka Kiba no Nagai Ichinichi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-05-10",
+      "runtime": 25,
+      "rating": "2.37",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 185,
+      "title": "A Legend Has Existed in Konoha",
+      "titles": {
+        "ja": "木ノ葉隠れの伝説 オンバアは実在した!!",
+        "en": "A Legend Has Existed in Konoha",
+        "de": "Die Legende von Konoha – Der Onbaa existiert!",
+        "fr": "Onboon, le nouveau compagnon de Naruto",
+        "it": "La leggenda degli Ombu",
+        "th": "ตำนานแห่งหมู่บ้านโคโนฮะ",
+        "x-jat": "Konohagakure no Densetsu Onbaa wa Jitsuzaishita!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-05-17",
+      "runtime": 25,
+      "rating": "1.62",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 186,
+      "title": "Laugh Shino",
+      "titles": {
+        "ja": "笑うシノ",
+        "en": "Laugh Shino",
+        "de": "Das Lach-Gift",
+        "fr": "Shino délire",
+        "it": "Ridere fa bene",
+        "th": "ชิโนะหัวเราะ",
+        "x-jat": "Warau Shino"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-05-24",
+      "runtime": 25,
+      "rating": "1.90",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 187,
+      "title": "Open for Business!! Konoha House Moving Center",
+      "titles": {
+        "ja": "開業!! 木ノ葉引越センター",
+        "en": "Open for Business!! Konoha House Moving Center",
+        "de": "Aufstand im Grünen Land",
+        "fr": "Les déménageurs de Konoha",
+        "it": "Mercanti da proteggere",
+        "th": "เปิดกิจการ โคโนะฮะรับจ้างย้ายบ้าน",
+        "x-jat": "Kaigyou!! Konoha Hikkoshi Center"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-05-31",
+      "runtime": 25,
+      "rating": "1.37",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 188,
+      "title": "Mystery: The Targeted Peddler",
+      "titles": {
+        "ja": "不可解 狙われた行商人",
+        "en": "Mystery: The Targeted Peddler",
+        "de": "Die schutzbedürftigen Kaufleute",
+        "fr": "Les marchands ambulants poursuivis !",
+        "it": "Emergenza",
+        "th": "ยากจะเข้าใจ พ่อค้าที่ถูกเล่นงาน",
+        "x-jat": "Fukakai Nerawareta Gyoushounin"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-06-07",
+      "runtime": 25,
+      "rating": "1.50",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 189,
+      "title": "Underwater! An Inexhaustible Amount of Ninja Weapons",
+      "titles": {
+        "ja": "地下水 無尽蔵の忍具",
+        "en": "Underwater! An Inexhaustible Amount of Ninja Weapons",
+        "de": "Keine Mission ist auch eine Mission",
+        "fr": "Combats impitoyables",
+        "it": "La forza dei Janin",
+        "th": "น้ำบาดาล อาวุธที่ไม่รู้จักหมดสิ้น",
+        "x-jat": "Chikasui Mujinzou no Ningu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-06-14",
+      "runtime": 25,
+      "rating": "1.38",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 190,
+      "title": "Byakugan Saw It! The Magnet User`s Blind Spot",
+      "titles": {
+        "ja": "白眼は見た! 磁気使いの死角",
+        "en": "Byakugan Saw It! The Magnet User`s Blind Spot",
+        "de": "Der magische Magnetismus",
+        "fr": "Le point faible de l`homme magnétique",
+        "it": "Il punto cieco del magnete",
+        "th": "มองเห็นด้วยเนตรสีขาว จุดบอดของคาถาแม่เหล็ก",
+        "x-jat": "Byakugan wa Mita! Jiki Tsukai no Shikaku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-06-21",
+      "runtime": 25,
+      "rating": "1.84",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 191,
+      "title": "Death Sentence, \"Cloudy, with Some Clear Sky\"",
+      "titles": {
+        "ja": "死の宣告 『くもり時々晴れ』",
+        "en": "Death Sentence, \"Cloudy, with Some Clear Sky\"",
+        "de": "Prinzessin Haruna",
+        "fr": "La grande fuite de Naruto !",
+        "it": "Per il bene del paese",
+        "th": "ตัดสินความตาย เมฆครึ้มเปลี่ยนเป็นแสงอาทิตย์",
+        "x-jat": "Shi no Senkoku \"Kumori Tokidoki Hare\""
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-06-28",
+      "runtime": 25,
+      "rating": "1.46",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 192,
+      "title": "Ino Screams! Chubby Paradise",
+      "titles": {
+        "ja": "いの絶叫! ポッチャリ・パラダイス",
+        "en": "Ino Screams! Chubby Paradise",
+        "de": "Verlobung mit Hindernissen",
+        "fr": "Le paradis des Joufflus",
+        "it": "Controfigura per amore",
+        "th": "อิโนะร้องกระเจิง สวรรค์ตุ้ยนุ้ย",
+        "x-jat": "Ino Zekkyou! Pocchari Paradise"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-07-05",
+      "runtime": 25,
+      "rating": "1.67",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 193,
+      "title": "Viva Training Group Challenge",
+      "titles": {
+        "ja": "ビバ道場破り! 青春はバクハツだ",
+        "en": "Viva Training Group Challenge",
+        "de": "Suche Training, biete Dojo!",
+        "fr": "On recherche des écumeurs de dojos",
+        "it": "Una sfida per Rock Lee",
+        "th": "ท้าประลองเส้นทางวีว่า ระเบิดวัยหนุ่ม",
+        "x-jat": "Viva Doujouyaburi! Seishun wa Bakuhatsu Da"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-07-12",
+      "runtime": 25,
+      "rating": "3.32",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 194,
+      "title": "Grotesque: The Cursed Ghost Castle",
+      "titles": {
+        "ja": "怪奇 呪われた幽霊城",
+        "en": "Grotesque: The Cursed Ghost Castle",
+        "de": "Der Feigling-Virus",
+        "fr": "Le château fantôme",
+        "it": "Il castello dei fantasmi",
+        "th": "ลึกลับ ปราสาทผีสิงต้องคำสาป",
+        "x-jat": "Kaiki Norowareta Yuureijou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-07-19",
+      "runtime": 25,
+      "rating": "1.59",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 195,
+      "title": "The Third Great Beast: The Greatest Rival",
+      "titles": {
+        "ja": "第三の超獣 最大のライバル",
+        "en": "The Third Great Beast: The Greatest Rival",
+        "de": "Guy in Gefahr",
+        "fr": "La troisième bête, l`ultime adversaire",
+        "it": "Un nuovo rivale",
+        "th": "อสูรหมายเลข 3 คู่ต่อสู้ตัวฉกาจ",
+        "x-jat": "Dai San no Choujuu: Saidai no Rival"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-07-26",
+      "runtime": 25,
+      "rating": "2.28",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 196,
+      "title": "Clash of Tears! Hot Blooded Teacher and Student Showdown",
+      "titles": {
+        "ja": "涙の激突! 熱血師弟対決",
+        "en": "Clash of Tears! Hot Blooded Teacher and Student Showdown",
+        "de": "Etikettenschwindel",
+        "fr": "Les larmes du combat !",
+        "it": "Allievo contro maestro",
+        "th": "การปะทะของน้ำตา ศึกสายเลือดครูศิษย์",
+        "x-jat": "Namida no Gekitotsu! Nekketsu Shitei Taiketsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-08-09",
+      "runtime": 25,
+      "rating": "3.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 197,
+      "title": "The Konoha 11 Gather!",
+      "titles": {
+        "ja": "大ピンチ! 木ノ葉の11人全員集合",
+        "en": "The Konoha 11 Gather!",
+        "de": "Notfallalarm der Stufe Super-S",
+        "fr": "Le rassemblement des onze de Konoha",
+        "it": "Piano di sicurezza di livello \"S\"",
+        "th": "เกิดเรื่องใหญ่ 11 นินจาโคโนฮะรวมตัวด่วน",
+        "x-jat": "Dai Pinch! Konoha no 11 Nin Zen`in Shuugou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-08-16",
+      "runtime": 25,
+      "rating": "4.57",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 198,
+      "title": "The Anbu Also Gave Up: Naruto`s Recollection",
+      "titles": {
+        "ja": "暗部もお手上げ ナルトの記憶",
+        "en": "The Anbu Also Gave Up: Naruto`s Recollection",
+        "de": "Spurensuche",
+        "fr": "La mémoire de Naruto",
+        "it": "Ipnosi regressiva",
+        "th": "หน่วยลับยังยอมแพ้ ความทรงจำของนารูโตะ",
+        "x-jat": "Anbu mo Oteage Naruto no Kioku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-08-23",
+      "runtime": 25,
+      "rating": "4.47",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 199,
+      "title": "Missing the Mark: The Visible Target",
+      "titles": {
+        "ja": "的外れ 見えてきた標的",
+        "en": "Missing the Mark: The Visible Target",
+        "de": "Die Rückkehr des besten Feindes?",
+        "fr": "Loupé ! La cible apparaît dans la ligne de mire",
+        "it": "Bersaglio in avvicinamento",
+        "th": "เกินคาดหมาย เป้าหมายที่เริ่มมองเห็น",
+        "x-jat": "Matohazure Mietekita Hyouteki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-08-30",
+      "runtime": 25,
+      "rating": "3.24",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 200,
+      "title": "Working Hard on Active Duty: The Strongest Helper",
+      "titles": {
+        "ja": "現役バリバリ 最強の助っ人",
+        "en": "Working Hard on Active Duty: The Strongest Helper",
+        "de": "Alte Geschichten, neues Wissen",
+        "fr": "En service actif !",
+        "it": "A caccia di bombe",
+        "th": "ประจำการแข่งขัน ช่วยกันอย่างสุดแรง",
+        "x-jat": "Gen`eki Baribari Saikyou no Suketto"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-09-13",
+      "runtime": 25,
+      "rating": "4.08",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 201,
+      "title": "Multiple Traps: Countdown to Collapse",
+      "titles": {
+        "ja": "多重トラップ 崩壊のカウントダウン",
+        "en": "Multiple Traps: Countdown to Collapse",
+        "de": "Eine seltsame Schatzsuche",
+        "fr": "Abondance de pièges, le compte à rebours de la destruction",
+        "it": "Conto alla rovescia",
+        "th": "กับดักซับซ้อน นับถอยหลังความพังทลาย",
+        "x-jat": "Tajuu Trap Houkai no Countdown"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-09-20",
+      "runtime": 25,
+      "rating": "7.90",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 202,
+      "title": "Today`s Announcement! Top 5 Battles with Sweat and Tear",
+      "titles": {
+        "ja": "忍者たちの汗と涙の名勝負ベスト5! お楽しみの番外編もあるってばよ",
+        "en": "Today`s Announcement! Top 5 Battles with Sweat and Tear",
+        "de": "Naruto Spezial",
+        "fr": "Annonce du jour ! Les 5 meilleurs combats faits de sueur et de larmes !",
+        "it": "Top five",
+        "th": "ประกาศ 5 อันดับฉากสุดประทับใจ ทั้งทรหดและเคล้าน้ำตา",
+        "x-jat": "Ninja-tachi no Ase to Namida no Meishoufu Best 5! Otanoshimi no Bangai-hen mo Aruttebayo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-09-27",
+      "runtime": 25,
+      "rating": "1.32",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 203,
+      "title": "Kurenai`s Decision: Team 8 Left Behind",
+      "titles": {
+        "ja": "紅の決断 とり残された第8班",
+        "en": "Kurenai`s Decision: Team 8 Left Behind",
+        "de": "Ein Gemälde zeigt die Zukunft",
+        "fr": "La décision de Kurenai",
+        "it": "Kurenai lascia la squadra",
+        "th": "การตัดสินใจของคุเรไนหน่วย 8 ที่ถูกทิ้งไว้",
+        "x-jat": "Kurenai no Ketsudan Torinokosareta Dai 8-pan"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-10-05",
+      "runtime": 25,
+      "rating": "4.12",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 204,
+      "title": "Yakumo Targeted: Sealed Abilities",
+      "titles": {
+        "ja": "狙われた八雲 封印された能力",
+        "en": "Yakumo Targeted: Sealed Abilities",
+        "de": "Die versiegelte Kraft",
+        "fr": "Yakumo poursuivie",
+        "it": "Pericolo imminente",
+        "th": "ยาคูโม่ถูกเล่นงาน ความสามารถที่ถูกปลดปล่อย",
+        "x-jat": "Narawareta Yakumo Fuuinsareta Nouryoku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-10-05",
+      "runtime": 25,
+      "rating": "4.42",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 205,
+      "title": "Kurenai`s Top-Secret Mission: A Promise with the Third",
+      "titles": {
+        "ja": "紅の極秘任務~三代目との約束",
+        "en": "Kurenai`s Top-Secret Mission: A Promise with the Third",
+        "de": "Das Versprechen",
+        "fr": "La mission secrète de Kurenai",
+        "it": "Il segreto di Kurenai",
+        "th": "ภารกิจลับสุดยอดของคุเรไน คำสัญญากับท่านรุ่น 3",
+        "x-jat": "Kurenai no Gokuhi Ninmu: Sandaime to no Yakusoku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-10-05",
+      "runtime": 25,
+      "rating": "4.30",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 206,
+      "title": "Genjutsu or Reality? Those Who Control the Five Senses",
+      "titles": {
+        "ja": "幻術か現実か 五感を制するもの",
+        "en": "Genjutsu or Reality? Those Who Control the Five Senses",
+        "de": "Gen-Jutsu oder Realität?",
+        "fr": "Une illusion ou la réalité ?",
+        "it": "Incubi reali",
+        "th": "ความจริงหรือภาพลวงตา สิ่งที่ควบคุมสัมผัสทั้ง 5",
+        "x-jat": "Genjutsu ka Genjitsu ka, Gokan o Seisuru Mono"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-10-19",
+      "runtime": 25,
+      "rating": "3.82",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 207,
+      "title": "Power That Should Have Been Sealed",
+      "titles": {
+        "ja": "封じられたはずの能力[ちから]",
+        "en": "Power That Should Have Been Sealed",
+        "de": "Ein Monster wird versiegelt",
+        "fr": "Le pouvoir supposé enfermé",
+        "it": "Le tenebre della mente",
+        "th": "พลังที่ควรจะถูกผนึกไว้",
+        "x-jat": "Fuujirareta Hazu no Chikara"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-10-26",
+      "runtime": 25,
+      "rating": "4.40",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 208,
+      "title": "Rare Artifact: The Importance of the Beauties of Nature",
+      "titles": {
+        "ja": "名器 花鳥風月の重さ",
+        "en": "Rare Artifact: The Importance of the Beauties of Nature",
+        "de": "Eine Teetasse von unschätzbarem Wert",
+        "fr": "L`objet d`art rare",
+        "it": "Patrimonio nazionale",
+        "th": "ชามล้ำค่า ความสำคัญของคาโจฟุเกสึ",
+        "x-jat": "Meiki Kachoufuugetsu no Omosa"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-11-02",
+      "runtime": 25,
+      "rating": "1.43",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 209,
+      "title": "The Enemy Is \"Shinobazu\"",
+      "titles": {
+        "ja": "敵は『不忍』",
+        "en": "The Enemy Is \"Shinobazu\"",
+        "de": "Die Bande der Ninja-Aussteiger",
+        "fr": "Les ennemis sont les Shinobazus !",
+        "it": "Gli emarginati",
+        "th": "ศรัตรูคือชิโนบาสึ",
+        "x-jat": "Teki wa \"Shinobazu\""
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-11-09",
+      "runtime": 25,
+      "rating": "1.88",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 210,
+      "title": "Labyrinth Forest",
+      "titles": {
+        "ja": "迷いの森",
+        "en": "Labyrinth Forest",
+        "de": "Überall Täuschungen",
+        "fr": "La forêt de l`illusion",
+        "it": "La foresta dell`inganno",
+        "th": "ป่าแห่งความฉงน",
+        "x-jat": "Mayoi no Mori"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-11-16",
+      "runtime": 25,
+      "rating": "2.29",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 211,
+      "title": "Memories of Fire",
+      "titles": {
+        "ja": "炎の記憶",
+        "en": "Memories of Fire",
+        "de": "Ausgestiegen bei den Aussteigern",
+        "fr": "Souvenirs dans le feu",
+        "it": "Ricordi confusi",
+        "th": "ความทรงจำแห่งเปลวไฟ",
+        "x-jat": "Honoo no Kioku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-11-30",
+      "runtime": 25,
+      "rating": "1.83",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 212,
+      "title": "The Respective Road",
+      "titles": {
+        "ja": "それぞれの道",
+        "en": "The Respective Road",
+        "de": "König der Banditen",
+        "fr": "Chacun son chemin !",
+        "it": "Ognuno al suo destino",
+        "th": "เส้นทางของแต่ละคน",
+        "x-jat": "Sorezore no Michi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-12-07",
+      "runtime": 25,
+      "rating": "1.46",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 213,
+      "title": "Lost Memories",
+      "titles": {
+        "ja": "失われた記憶",
+        "en": "Lost Memories",
+        "de": "Der Junge ohne Namen",
+        "fr": "La mémoire perdue",
+        "it": "Amnesia",
+        "th": "ความทรงจำที่หายไป",
+        "x-jat": "Ushinawareta Kioku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-12-14",
+      "runtime": 25,
+      "rating": "1.62",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 214,
+      "title": "Recovered Reality",
+      "titles": {
+        "ja": "取り戻した現実",
+        "en": "Recovered Reality",
+        "de": "Im Niemandsland",
+        "fr": "La vérité retrouvée",
+        "it": "Ricordi temporanei",
+        "th": "ความจริงที่ได้กลับมา",
+        "x-jat": "Torimodoshita Genjitsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-12-21",
+      "runtime": 25,
+      "rating": "4.29",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 215,
+      "title": "A Past I Want to Erase",
+      "titles": {
+        "ja": "消し去りたい過去",
+        "en": "A Past I Want to Erase",
+        "de": "Gegen die Zeit",
+        "fr": "Une mémoire rejetée",
+        "it": "Un passato da espiare",
+        "th": "อดีตที่อยากลบทิ้ง",
+        "x-jat": "Keshisaritai Kako"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-12-21",
+      "runtime": 25,
+      "rating": "5.85",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 216,
+      "title": "The Craftsman Goes Out: The Targeted Shukaku",
+      "titles": {
+        "ja": "消えた匠 狙われた守鶴",
+        "en": "The Craftsman Goes Out: The Targeted Shukaku",
+        "de": "Die himmlischen Vier",
+        "fr": "Le maître disparu",
+        "it": "Il demone Tasso nell`occhio del mirino",
+        "th": "ช่างฝีมือที่หายไป ภูตทรยศที่ถูกจ้องเล่นงาน",
+        "x-jat": "Kieta Takumi Nerawareta Shukaku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2007-01-11",
+      "runtime": 25,
+      "rating": "4.29",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 217,
+      "title": "The Sand`s Allies: The Leaf`s Shinobi",
+      "titles": {
+        "ja": "砂の同盟国 木ノ葉の忍",
+        "en": "The Sand`s Allies: The Leaf`s Shinobi",
+        "de": "Operation Revanche",
+        "fr": "L`alliance avec Suna",
+        "it": "Alleati della Sabbia",
+        "th": "แคว้นพันธมิตรของสึนะ นินจาแห่งโคโนฮะ",
+        "x-jat": "Suna no Doumeikoku Konoha no Shinobi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2007-01-18",
+      "runtime": 25,
+      "rating": "4.05",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 218,
+      "title": "The Sealed Sand Water Tiger`s Counterattack",
+      "titles": {
+        "ja": "封じられた砂 水虎の反撃",
+        "en": "The Sealed Sand Water Tiger`s Counterattack",
+        "de": "Schlechtes Timing",
+        "fr": "La contre-attaque de Suiko",
+        "it": "Sabbia come cemento",
+        "th": "ทรายที่ถูกผนึก การตอบโต้ของซุยโกะ",
+        "x-jat": "Fuujirareta Suna Suiko no Hangeki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2007-01-25",
+      "runtime": 25,
+      "rating": "4.34",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 219,
+      "title": "The Revived Ultimate Weapon",
+      "titles": {
+        "ja": "よみがえった究極兵器",
+        "en": "The Revived Ultimate Weapon",
+        "de": "Die Rückkehr des Seimei",
+        "fr": "L`arme ultime ressuscitée",
+        "it": "Il ritorno dell`arma leggendaria",
+        "th": "อาวุธสุดท้ายคืนชีพแล้ว",
+        "x-jat": "Yomigaetta Kyuukyoku Heiki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2007-02-01",
+      "runtime": 25,
+      "rating": "3.40",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 220,
+      "title": "Going on a Journey",
+      "titles": {
+        "ja": "旅立ち",
+        "en": "Going on a Journey",
+        "de": "Die Mission Zukunft beginnt!",
+        "fr": "Départ en voyage",
+        "it": "Partenza",
+        "th": "ออกเดินทาง",
+        "x-jat": "Tabidachi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2007-02-08",
+      "runtime": 25,
+      "rating": "4.59",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Jump Festa 2003 - Find the Crimson Four-leaf Clover!",
+      "titles": {
+        "ja": "Jump Festa 2003 - 紅き四つ葉のクローバーを探せ",
+        "en": "Jump Festa 2003 - Find the Crimson Four-leaf Clover!",
+        "x-jat": "Jump Festa 2003: Akaki Yotsuba no Clover o Sagase"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2002-12-21",
+      "runtime": 20,
+      "rating": "3.55",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P1",
+      "title": "(Parody of ep 1!) Enter! Uzumaki Naruto",
+      "titles": {
+        "en": "(Parody of ep 1!) Enter! Uzumaki Naruto"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": 25,
+      "rating": "1.29",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P77",
+      "title": "(Parody of ep 77!) Light and Darkness. The Name Gaara (april fool`s edition)",
+      "titles": {
+        "en": "(Parody of ep 77!) Light and Darkness. The Name Gaara (april fool`s edition)"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": 25,
+      "rating": "6.18",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Jump Festa 2004 - Mission: Protect the Waterfall Village!",
+      "titles": {
+        "ja": "Jump Festa 2004 - 滝隠れの死闘 オレが英雄たってばよ!",
+        "en": "Jump Festa 2004 - Mission: Protect the Waterfall Village!",
+        "it": "Battaglia al villaggio della cascata",
+        "x-other": "Naruto Jump Anime Tour 2004 - Mission to Protect the Waterfall Village!",
+        "x-jat": "Jump Festa 2004: Takigakure no Shitou Ore ga Eiyuu Dattebayo!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2003-12-20",
+      "runtime": 40,
+      "rating": "3.93",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P88",
+      "title": "(Parody of ep 88!) Legendary ninja battle! But not in this episode!",
+      "titles": {
+        "en": "(Parody of ep 88!) Legendary ninja battle! But not in this episode!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P84",
+      "title": "(Parody of ep 84!) Chidori... something... uhm...",
+      "titles": {
+        "en": "(Parody of ep 84!) Chidori... something... uhm..."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": "8.18",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P85",
+      "title": "(Parody of ep 85!) Hungry frog! Itachi the ice cream dude!",
+      "titles": {
+        "en": "(Parody of ep 85!) Hungry frog! Itachi the ice cream dude!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P86",
+      "title": "(Parody of ep 86!) Naruto`s w33d sk33ls / Tsunade the slut",
+      "titles": {
+        "en": "(Parody of ep 86!) Naruto`s w33d sk33ls / Tsunade the slut"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P87",
+      "title": "(Parody of ep 87!) Naruto, the l337 breast fondler",
+      "titles": {
+        "en": "(Parody of ep 87!) Naruto, the l337 breast fondler"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P89",
+      "title": "(Parody of ep 89!) Nothing!",
+      "titles": {
+        "en": "(Parody of ep 89!) Nothing!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P90",
+      "title": "(Parody of ep 90!) Another boring episode!",
+      "titles": {
+        "en": "(Parody of ep 90!) Another boring episode!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P91",
+      "title": "(Parody of ep 91!) The One Necklace: Attack of the Flashback!",
+      "titles": {
+        "en": "(Parody of ep 91!) The One Necklace: Attack of the Flashback!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P92",
+      "title": "(Parody of ep 92!) Yes or no. Tsunade`s spanking-dilemma!",
+      "titles": {
+        "en": "(Parody of ep 92!) Yes or no. Tsunade`s spanking-dilemma!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P93",
+      "title": "(Parody of ep 93!) Finally a battle!",
+      "titles": {
+        "en": "(Parody of ep 93!) Finally a battle!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": "3.39",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P94",
+      "title": "(Parody of ep 94!) (Ask someone that knows japanese.)",
+      "titles": {
+        "en": "(Parody of ep 94!) (Ask someone that knows japanese.)"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P95",
+      "title": "(Parody of ep 95!)",
+      "titles": {
+        "en": "(Parody of ep 95!)"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": 45,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P97",
+      "title": "(Parody of ep 97!) Naruto, no! Jiraiya`s terrible death.",
+      "titles": {
+        "en": "(Parody of ep 97!) Naruto, no! Jiraiya`s terrible death."
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P125",
+      "title": "(Parody of ep 125!) All Your Bananas Are Belong To Us!",
+      "titles": {
+        "en": "(Parody of ep 125!) All Your Bananas Are Belong To Us!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-03-15",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P126",
+      "title": "(Parody of ep 126!) The Coolest Fight Ever: Sand-man vs. Boner-chan!",
+      "titles": {
+        "en": "(Parody of ep 126!) The Coolest Fight Ever: Sand-man vs. Boner-chan!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P127",
+      "title": "(Parody of ep 127-128!)",
+      "titles": {
+        "en": "(Parody of ep 127-128!)"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-01-04",
+      "runtime": 45,
+      "rating": "4.53",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P120",
+      "title": "(Parody of ep 120!) The Best Little Whorehouse in Konoha",
+      "titles": {
+        "en": "(Parody of ep 120!) The Best Little Whorehouse in Konoha"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2005-02-08",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P68",
+      "title": "(Parody of ep 68!)",
+      "titles": {
+        "en": "(Parody of ep 68!)"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P200",
+      "title": "Naruto x-mas special",
+      "titles": {
+        "en": "Naruto x-mas special",
+        "x-jat": "Naruto Meri Kuritsumasu datteba-yo! Special"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": null,
+      "runtime": 25,
+      "rating": "8.75",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P161",
+      "title": "(Fandub of ep 161)",
+      "titles": {
+        "en": "(Fandub of ep 161)"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-01-12",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P3",
+      "title": "(Parody of ep 3!) Kis ninja nagy kalandjai",
+      "titles": {
+        "en": "(Parody of ep 3!) Kis ninja nagy kalandjai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2006-07-31",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "P73",
+      "title": "Naruto Fandub Special",
+      "titles": {
+        "en": "Naruto Fandub Special",
+        "fr": "L`héritage du Vieux Schnock !!!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2004-04-18",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 220,
+  "updatedAt": "2026-09-23T08:50:19.285Z"
+}

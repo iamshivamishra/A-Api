@@ -1,0 +1,360 @@
+{
+  "anilistId": 207254,
+  "malId": 63418,
+  "route": "thunder-3",
+  "titles": {
+    "romaji": "Thunder 3",
+    "english": "Thunder 3",
+    "native": "サンダー３"
+  },
+  "anilist": {
+    "id": 207254,
+    "idMal": 63418,
+    "title": {
+      "romaji": "Thunder 3",
+      "english": "Thunder 3",
+      "native": "サンダー３"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207254-StcuNpmZTDCL.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207254-StcuNpmZTDCL.jpg",
+      "color": "#1a93e4"
+    },
+    "bannerImage": null,
+    "description": "Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontaro's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.\n<br><br>\n(Source: Kodansha USA)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": null,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 9
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "averageScore": 52,
+    "meanScore": 55,
+    "popularity": 2054,
+    "favourites": 17,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790178240,
+      "timeUntilAiring": 60783
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "UNEND"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/thunder3_pyon"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://thunder3-anime.com"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@thunder3_pyon"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/82736186"
+      }
+    ],
+    "trailer": {
+      "id": "wsb07srXk_M",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Delayed",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Shounen",
+      "Supernatural"
+    ],
+    "studios": [
+      "UNEND"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontarou&#39;s little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.\r<br>\r<br>(Source: Kodansha USA)",
+    "streams": [
+      {
+        "platform": "netflix",
+        "url": "www.netflix.com/title/82736186",
+        "name": "Netflix"
+      }
+    ],
+    "subTime": "2026-07-08T16:30:00Z",
+    "dubTime": "2026-07-08T16:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-15T15:45:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-23T15:44:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 16:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-15T15:45:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-23T16:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 16:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Small Three",
+      "titles": {
+        "ja": "SMALL THREE",
+        "en": "Small Three",
+        "x-jat": "Small Three"
+      },
+      "overview": "Pyontaro, Hiroshi and Tsubame — the Small 3 — load up an odd disc from their teacher. When they're not looking, Pyontaro's little sister Futaba vanishes.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11595350/screencap/6a4f041808502.jpg",
+      "airDate": "2026-07-07T15:45:00Z",
+      "runtime": 24,
+      "rating": "3.93",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Multiverse",
+      "titles": {
+        "ja": "MULTIVERSE",
+        "en": "Multiverse",
+        "x-jat": "Multiverse"
+      },
+      "overview": "Stranded in a new world, the Small 3 realize they have incredible powers. They meet other versions of themselves and learn how this reality differs.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877209/screencap/6a57b92743d07.jpg",
+      "airDate": "2026-07-14T15:45:00Z",
+      "runtime": 24,
+      "rating": "3.95",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Aliens",
+      "titles": {
+        "ja": "ALIENS",
+        "en": "Aliens",
+        "x-jat": "Aliens"
+      },
+      "overview": "Futaba's abductors subject her to tests, but she just wants her big bwudder. The Small 3 continue the search for Futaba and encounter a tense standoff.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877219/screencap/6a6107a92e94f.jpg",
+      "airDate": "2026-07-21T15:45:00Z",
+      "runtime": 24,
+      "rating": "3.58",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Mr. Segami",
+      "titles": {
+        "ja": "MR. SEGAMI",
+        "en": "Mr. Segami",
+        "x-jat": "Mr. Segami"
+      },
+      "overview": "As college student Segami struggles with his dystopian world, a hot schoolmate hands him an enticing flyer. Hoping to meet girls, he finds something else.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877220/screencap/6a6a2b030f490.jpg",
+      "airDate": "2026-07-28T15:45:00Z",
+      "runtime": 24,
+      "rating": "5.70",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Rebellion",
+      "titles": {
+        "ja": "REBELLION",
+        "en": "Rebellion",
+        "x-jat": "Rebellion"
+      },
+      "overview": "With his mind in a whirl, Segami runs into the Small 3. They witness a bold fighter pilot pit his life against an alien ship. Will it light a fire?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877212/screencap/6a744b50cb625.jpg",
+      "airDate": "2026-08-04T15:45:00Z",
+      "runtime": 24,
+      "rating": "3.95",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Game On!",
+      "titles": {
+        "ja": "GAME ON!",
+        "en": "Game On!",
+        "x-jat": "Game On!"
+      },
+      "overview": "The Rebellion announces a guerrilla attack in Shibuya and Segami resolves to join. Meanwhile, a distraught Futaba stumbles upon a furry winged creature.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877213/screencap/6a7cb6a727626.jpg",
+      "airDate": "2026-08-11T15:45:00Z",
+      "runtime": 24,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Counterattack",
+      "titles": {
+        "ja": "COUNTERATTACK",
+        "en": "Counterattack",
+        "x-jat": "Counterattack"
+      },
+      "overview": "Aliens surround a sleeping Futaba! In Shibuya, Segami and his comrades fight fiercely but lose ground. As he retreats, he spots Tashiro under attack.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877223/screencap/6a85e54ee9cfa.jpg",
+      "airDate": "2026-08-18T15:45:00Z",
+      "runtime": 24,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "The Strangers",
+      "titles": {
+        "ja": "THE STRANGERS",
+        "en": "The Strangers",
+        "x-jat": "The Strangers"
+      },
+      "overview": "Futaba faces off against a squad of alien soldiers to protect her new friend. Facing heavy losses, Segami and the Rebellion turn to their secret weapon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877215/screencap/6a8f213f286f1.jpg",
+      "airDate": "2026-08-25T15:45:00Z",
+      "runtime": 24,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "The Strong Men",
+      "titles": {
+        "ja": "THE STRONG MEN",
+        "en": "The Strong Men",
+        "x-jat": "The Strong Men"
+      },
+      "overview": "Genius commandeers an alien walker and leads a counterattack. But two fearsome alien soldiers are en route. Meanwhile, Doc and the others seek answers.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877225/screencap/6a98536700c30.jpg",
+      "airDate": "2026-09-01T15:45:00Z",
+      "runtime": 24,
+      "rating": "3.95",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Time Is Up",
+      "titles": {
+        "ja": "TIME IS UP",
+        "en": "Time Is Up",
+        "x-jat": "Time Is Up"
+      },
+      "overview": "As the Small 3 soar toward Shibuya, Genius runs out of options against a relentless alien warrior. Reinforcements arrive — but will it be enough?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877226/screencap/6aa1969b28112.jpg",
+      "airDate": "2026-09-08T15:45:00Z",
+      "runtime": 24,
+      "rating": "4.79",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "We Are \"Thunder 3\"!!",
+      "titles": {
+        "ja": "WE ARE \"THUNDER 3\"!!",
+        "en": "We Are \"Thunder 3\"!!",
+        "x-jat": "We Are \"Thunder 3\"!!"
+      },
+      "overview": "The \"Small Three\" arrive as live-streamed reinforcements to battle alien invaders, save Futaba, and officially debut as \"THUNDER 3\".",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877233/screencap/6aaacd4874b3d.jpg",
+      "airDate": "2026-09-15T15:45:00Z",
+      "runtime": 24,
+      "rating": "3.95",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "Final Attack",
+      "titles": {
+        "ja": "FINAL ATTACK",
+        "en": "Final Attack",
+        "x-jat": "Final Attack"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-01",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.627Z"
+}

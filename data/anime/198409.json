@@ -1,0 +1,375 @@
+{
+  "anilistId": 198409,
+  "malId": 62435,
+  "route": "sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha",
+  "titles": {
+    "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+    "english": "The World's Strongest Rearguard",
+    "native": "世界最強の後衛 ～迷宮国の新人探索者～"
+  },
+  "anilist": {
+    "id": 198409,
+    "idMal": 62435,
+    "title": {
+      "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+      "english": "The World's Strongest Rearguard",
+      "native": "世界最強の後衛 ～迷宮国の新人探索者～"
+    },
+    "synonyms": [
+      "กองหลังที่แกร่งที่สุดในโลก -นักสำรวจหน้าใหม่ ณ แดนเขาวงกต-"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198409-EiWJXfYnvfu4.png",
+      "color": "#0dbbfe"
+    },
+    "bannerImage": null,
+    "description": "After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!\n<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 20
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 56,
+    "meanScore": 57,
+    "popularity": 28658,
+    "favourites": 340,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Maho Film"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/Rearguard_PR"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://strongestrearguard-anime.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378122/the-worlds-strongest-rearguard"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2411817"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/25liakoq52p"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3IS1Ybw9xSItdpPhLKNhAM"
+      }
+    ],
+    "trailer": {
+      "id": "vdJo_3uZ92s",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Isekai"
+    ],
+    "studios": [
+      "Maho Film"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4eM6RK3",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378122/the-worlds-strongest-rearguard",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4zmNHTd",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl3IS1Ybw9xSItdpPhLKNhAM",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2411817",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-05T13:01:00Z",
+    "dubTime": "2026-05-08T13:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-20T13:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "A Novice Seeker in Labyrinth Country",
+      "titles": {
+        "ja": "迷宮国の新人探索者",
+        "en": "A Novice Seeker in Labyrinth Country",
+        "de": "Der neue Sucher im Labyrinth-Land",
+        "x-jat": "Meikyuukoku no Shinjin Tansakusha"
+      },
+      "overview": "Arihito is reincarnated in a placed called Labyrinth Country and must choose his class.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11327556/screencap/6a49a9b887b86.jpg",
+      "airDate": "2026-07-05T13:00:00Z",
+      "runtime": 24,
+      "rating": "2.03",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "The First Hurdle",
+      "titles": {
+        "ja": "最初の難関",
+        "en": "The First Hurdle",
+        "x-jat": "Saisho no Nankan"
+      },
+      "overview": "Arihito finds Kyouka under attack by a powerful Named monster and must find a way to save her.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872536/screencap/6a52e331e3b53.jpg",
+      "airDate": "2026-07-12T13:00:00Z",
+      "runtime": 24,
+      "rating": "3.16",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "The Little Tyrant Girl",
+      "titles": {
+        "ja": "暴君の少女",
+        "en": "The Little Tyrant Girl",
+        "x-jat": "Boukun no Shoujo"
+      },
+      "overview": "While helping Suzuna rescue her friend, Arihito learns the surprising truth about Elitia.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872537/screencap/6a599d67201fb.jpg",
+      "airDate": "2026-07-19T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.30",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "A Life-or-Death Mixed Bath",
+      "titles": {
+        "ja": "危急存亡の混浴",
+        "en": "A Life-or-Death Mixed Bath",
+        "x-jat": "Kikyuusonbou no Konyoku"
+      },
+      "overview": "Arihito's party begins living together under one roof.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872538/screencap/6a6561bf7c1f1.jpg",
+      "airDate": "2026-07-26T13:00:00Z",
+      "runtime": 24,
+      "rating": "5.96",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "The Black Treasure Chest and the Young Wife`s Secret",
+      "titles": {
+        "ja": "黒箱と若奥様の秘密",
+        "en": "The Black Treasure Chest and the Young Wife`s Secret",
+        "x-jat": "Kurobako to Wakaokusama no Himitsu"
+      },
+      "overview": "After receiving some rare treasures and gear from a treasure chest, Arihito's party returns to Field of Dawn.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872539/screencap/6a6d22de314b9.jpg",
+      "airDate": "2026-08-02T13:00:00Z",
+      "runtime": 24,
+      "rating": "5.22",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The Mechanical Ariadne",
+      "titles": {
+        "ja": "機械仕掛けのアリアドネ",
+        "en": "The Mechanical Ariadne",
+        "x-jat": "Kikaijikake no Ariadne"
+      },
+      "overview": "After arriving on an unexplored floor of Field of Dawn, Arihito's party face a very high-level golem.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872540/screencap/6a77f9041cbc7.jpg",
+      "airDate": "2026-08-09T13:00:00Z",
+      "runtime": 24,
+      "rating": "3.84",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "The Hope of Demi-humans",
+      "titles": {
+        "ja": "亜人の希望",
+        "en": "The Hope of Demi-humans",
+        "x-jat": "Ajin no Kibou"
+      },
+      "overview": "After learning that Rikerton's wife is a demi-human, Arihito renews his vow to find a way to cure demi-humans.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873055/screencap/6a81a3a266659.jpg",
+      "airDate": "2026-08-16T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.03",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "A City in Turmoil",
+      "titles": {
+        "ja": "狂奔騒然の街",
+        "en": "A City in Turmoil",
+        "x-jat": "Kyouhon Souzen no Machi"
+      },
+      "overview": "A Stampede breaks loose, and all the Seekers in town must come together to stop the horde of monsters.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873056/screencap/6a8a1c5b4d95f.jpg",
+      "airDate": "2026-08-23T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.75",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Hidden Wounds and a Warrior`s Confession",
+      "titles": {
+        "ja": "秘められた傷と戦士の告白",
+        "en": "Hidden Wounds and a Warrior`s Confession",
+        "x-jat": "Himerareta Kizu to Senshi no Kokuhaku"
+      },
+      "overview": "A game suggested by Misaki leads Elitia to reveal the part of her past that drives her forward.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873057/screencap/6a93852f48689.jpg",
+      "airDate": "2026-08-30T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.54",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "The Beautiful Girl in the Maddening Forest",
+      "titles": {
+        "ja": "狂える森の美女",
+        "en": "The Beautiful Girl in the Maddening Forest",
+        "x-jat": "Kurueru Mori no Bijo"
+      },
+      "overview": "Madoka goes out with Melissa for the first time as the group enters the labyrinth.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873058/screencap/6a9c9cf7d9944.jpg",
+      "airDate": "2026-09-06T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.12",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "The Allure of Returning to the Start Point",
+      "titles": {
+        "ja": "原点回帰の誘惑",
+        "en": "The Allure of Returning to the Start Point",
+        "x-jat": "Gentenkaiki no Yuuwaku"
+      },
+      "overview": "Arihito's party saves Polaris from the Vine Puppeteer, but Sophie is still under its control.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873059/screencap/6aa603cad3df4.jpg",
+      "airDate": "2026-09-13T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.54",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "To the Future of Labyrinth Country",
+      "titles": {
+        "ja": "その先の迷宮国へ",
+        "en": "To the Future of Labyrinth Country",
+        "x-jat": "Sono Saki no Meikyuukoku e"
+      },
+      "overview": "Arihito's party visits a resort island for a much-needed break.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873060/screencap/6aaf3490a8bd8.jpg",
+      "airDate": "2026-09-20T13:00:00Z",
+      "runtime": 24,
+      "rating": "2.93",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T06:30:27.756Z"
+}

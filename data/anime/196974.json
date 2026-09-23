@@ -1,0 +1,560 @@
+{
+  "anilistId": 196974,
+  "malId": 62171,
+  "route": "kuroneko-to-majo-no-kyoushitsu",
+  "titles": {
+    "romaji": "Kuroneko to Majo no Kyoushitsu",
+    "english": "The Classroom of the Black Cat and a Witch",
+    "native": "黒猫と魔女の教室"
+  },
+  "anilist": {
+    "id": 196974,
+    "idMal": 62171,
+    "title": {
+      "romaji": "Kuroneko to Majo no Kyoushitsu",
+      "english": "The Classroom of the Black Cat and a Witch",
+      "native": "黒猫と魔女の教室"
+    },
+    "synonyms": [
+      "The Classroom of a Black Cat and a Witch",
+      "Чёрная кошка и класс ведьм"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
+      "color": "#50aef1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
+    "description": "Spica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use magic appears before her!! Spica wants to learn magic, and the black cat wants his curse broken—goals on the same path. Therefore, a secret master-apprentice relationship was born! But the key to breaking the curse is kissing his…?! A clumsy witch and the teachings of a black cat—the magic academy fantasy starts here!!\n<br><br>\n(Source: K Manga)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 24,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 12
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 20
+    },
+    "genres": [
+      "Fantasy"
+    ],
+    "averageScore": 65,
+    "meanScore": 65,
+    "popularity": 24346,
+    "favourites": 303,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "LIDENFILMS"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/witch_classroom"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://witch-classroom.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00374357/the-classroom-of-a-black-cat-and-a-witch"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jh2Aq9dnBrcdmlUPfq5VQtL"
+      }
+    ],
+    "trailer": {
+      "id": "uJhshLlQs60",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "School"
+    ],
+    "studios": [
+      "LIDENFILMS"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Spica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use magic appears before her!! Spica wants to learn magic, and the black cat wants his curse broken—goals on the same path. Therefore, a secret master-apprentice relationship was born! But the key to breaking the curse is kissing his…?! A clumsy witch and the teachings of a black cat—the magic academy fantasy starts here!!<br><br>(Source: K Manga)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4mmsVwS",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00374357",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4xMPRdt",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLxSscENEp7Jh2Aq9dnBrcdmlUPfq5VQtL",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-04-12T15:00:00Z",
+    "dubTime": "2026-02-14T14:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 24,
+      "airedAt": "2026-09-20T14:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 24,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Black Cat & Spica",
+      "titles": {
+        "ja": "黒猫とスピカ",
+        "en": "Black Cat & Spica",
+        "de": "Spica und der schwarze Kater"
+      },
+      "overview": "Spica is trying to learn to become a master sorcerer. She has a long ways to go.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11273226/screencap/69cf8447bde0e.jpg",
+      "airDate": "2026-04-12T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.92",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "Magic of the Zodiac",
+      "titles": {
+        "ja": "十二星座の魔法",
+        "en": "Magic of the Zodiac",
+        "de": "Die Magie der zwölf Sternbilder"
+      },
+      "overview": "Claude comes up with a training plan for Spica, but it puts her in a bit of a bind.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671229/screencap/69dcd9738d5fa.jpg",
+      "airDate": "2026-04-19T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.10",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "The Magicians of the Zodiac",
+      "titles": {
+        "ja": "十二星座の魔術師たち",
+        "en": "The Magicians of the Zodiac",
+        "de": "Die Magier der zwölf Sternzeichen"
+      },
+      "overview": "Spica makes new friends at Diana Academy. She starts by getting Io Taurus out of a bit of a hole.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671230/screencap/69e629e0abc8f.jpg",
+      "airDate": "2026-04-26T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.19",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Castor Gemini`s Fate",
+      "titles": {
+        "ja": "カストル・ジェミニの因縁",
+        "en": "Castor Gemini`s Fate",
+        "de": "Das Schicksal von Castor Gemini"
+      },
+      "overview": "The class is tasked with collecting mandrakes, when Io and Spica end up in a bit of a bugbear.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671231/screencap/69ef2df4b1720.jpg",
+      "airDate": "2026-05-03T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.21",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Spica and Aria",
+      "titles": {
+        "ja": "スピカとアリア",
+        "en": "Spica and Aria",
+        "de": "Spica und Aria"
+      },
+      "overview": "Spica is preparing for her midterm exam. Meanwhile, Claude is looking for a student leader for the coven.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671232/screencap/69f8667a63b85.jpg",
+      "airDate": "2026-05-10T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.32",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Midterms",
+      "titles": {
+        "ja": "ミドル・トライアル",
+        "en": "Midterms",
+        "de": "Die Zwischenprüfung"
+      },
+      "overview": "The students are tasked with raiding a gryphon's nest.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671233/screencap/6a01a2485a8fa.jpg",
+      "airDate": "2026-05-17T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.42",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Cross Magic",
+      "titles": {
+        "ja": "クロス・マジック",
+        "en": "Cross Magic",
+        "de": "Gekreuzte Magie"
+      },
+      "overview": "Spica and Hana join forces against the gryphon, but their combined magic might not be enough to pass.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671234/screencap/6a0adde36e197.jpg",
+      "airDate": "2026-05-24T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.78",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Winter Camp Begins!!",
+      "titles": {
+        "ja": "冬期合宿スタート!!",
+        "en": "Winter Camp Begins!!",
+        "de": "Das Winter-Trainingslager beginnt!!"
+      },
+      "overview": "Spica and her coven-mates begin training with Claude at the camp.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671235/screencap/6a14133025193.jpg",
+      "airDate": "2026-05-31T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.73",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Bond of Flames",
+      "titles": {
+        "ja": "炎の絆",
+        "en": "Bond of Flames",
+        "de": "Band des Feuers"
+      },
+      "overview": "The Claude Coven begins Professor Hercules's training, which consists of a duel between covens.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671236/screencap/6a1d54566bf5d.jpg",
+      "airDate": "2026-06-07T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.06",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "The Attack",
+      "titles": {
+        "ja": "襲撃",
+        "en": "The Attack",
+        "de": "Überfall!"
+      },
+      "overview": "Spica and the others finish their training, but a mysterious girl detains her.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671237/screencap/6a269029cdaec.jpg",
+      "airDate": "2026-06-14T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.35",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Tarf`s Purpose, Chiron`s Resolve",
+      "titles": {
+        "ja": "タルフの覚悟 キロンの決意",
+        "en": "Tarf`s Purpose, Chiron`s Resolve",
+        "de": "Tarfs Entschlossenheit, Chirons Entscheidung"
+      },
+      "overview": "The coven attempts to escape from Arc and Rigel, and Chiron comes up with an idea.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671238/screencap/6a2fc897bc8a8.jpg",
+      "airDate": "2026-06-21T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.72",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "The Superior Magician",
+      "titles": {
+        "ja": "優れた魔術師",
+        "en": "The Superior Magician",
+        "de": "Ein hervorragender Magier"
+      },
+      "overview": "The confrontation with Arc and Rigel continues and concludes.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671239/screencap/6a39023d386f8.jpg",
+      "airDate": "2026-06-28T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.72",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "Memories of Arcturus",
+      "titles": {
+        "ja": "麦星の追想",
+        "en": "Memories of Arcturus",
+        "de": "Erinnerungen an den Stern Arktur"
+      },
+      "overview": "Claude tells Spica the truth about the day of the attack on Diana and the capital.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671240/screencap/6a4510efbc96a.jpg",
+      "airDate": "2026-07-05T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.19",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": "Maids at the House of Regulus",
+      "titles": {
+        "ja": "レグルス家のメイド",
+        "en": "Maids at the House of Regulus",
+        "de": "Das Hausmädchen im Hause Regulus"
+      },
+      "overview": "Thanks to the part-time job Spica landed at the Regulus House, she gets to know Leo better.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671241/screencap/6a4cc8ccab911.jpg",
+      "airDate": "2026-07-12T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.73",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 15,
+      "title": "Astrea`s Troubles / Herbarium Book",
+      "titles": {
+        "ja": "アストレアの悩み / ハーバリウム・ブック",
+        "en": "Astrea`s Troubles / Herbarium Book",
+        "de": "Astraeas Problem / Das Herbarium"
+      },
+      "overview": "Astrea asks Claude for help, and Spica practices her new powers.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671242/screencap/6a54c5110f0b6.jpg",
+      "airDate": "2026-07-19T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.02",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 16,
+      "title": "Io Taurus Gets to Work",
+      "titles": {
+        "ja": "イオ・トーラス がんばります!",
+        "en": "Io Taurus Gets to Work",
+        "de": "Io Taurus gibt ihr Bestes!"
+      },
+      "overview": "Io wants to be a helpful member of society, but things don't quite work out. Claude offers her volunteer work.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671243/screencap/6a5e0b5ab5e3c.jpg",
+      "airDate": "2026-07-26T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.00",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 17,
+      "title": "Finals",
+      "titles": {
+        "ja": "ファイナル・トライアル",
+        "en": "Finals",
+        "de": "Die Abschlussprüfung"
+      },
+      "overview": "Finals are here, giving Spica and the other midterm flunkers a chance to redeem themselves.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671244/screencap/6a675824050c9.jpg",
+      "airDate": "2026-08-02T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.45",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 18,
+      "title": "Adventures on a Deserted Island",
+      "titles": {
+        "ja": "無人島の冒険",
+        "en": "Adventures on a Deserted Island",
+        "de": "Abenteuer auf der einsamen Insel"
+      },
+      "overview": "Claude Coven is on an island to complete their finals. Spica ends up in a bit of a sticky situation.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671245/screencap/6a705cdb9e854.jpg",
+      "airDate": "2026-08-09T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.73",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 19,
+      "title": "Race for the Ruby",
+      "titles": {
+        "ja": "ルビー争奪レース",
+        "en": "Race for the Ruby",
+        "de": "Das Rennen um den Rubin"
+      },
+      "overview": "Spica competes with Capella, Leo, and Ewe to retrieve a ruby from a demonic bird's beak.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671246/screencap/6a79976f7be72.jpg",
+      "airDate": "2026-08-16T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.72",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 20,
+      "title": "Finding the Diamond",
+      "titles": {
+        "ja": "ダイヤの在処",
+        "en": "Finding the Diamond",
+        "de": "Das Diamantenversteck"
+      },
+      "overview": "Spica's in the lead for now, but she needs to do more to stay ahead.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11671247/screencap/6a82b60360d4e.jpg",
+      "airDate": "2026-08-23T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.02",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 21,
+      "title": "Spica vs. Aria",
+      "titles": {
+        "ja": "スピカVSアリア",
+        "en": "Spica vs. Aria"
+      },
+      "overview": "Spica and Aria duke it out over the diamond.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11716981/screencap/6a8be26fbfa46.jpg",
+      "airDate": "2026-08-30T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.02",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 22,
+      "title": "Aria`s Dream",
+      "titles": {
+        "ja": "アリアの夢",
+        "en": "Aria`s Dream"
+      },
+      "overview": "There's a reason Aria is so put off by Spica's scholastic ambitions, and it isn't anything to do with her.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11716982/screencap/6a95182e2927a.jpg",
+      "airDate": "2026-09-06T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.49",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": "Promising Upon a Starry Night.",
+      "titles": {
+        "ja": "星空の誓い",
+        "en": "Promising Upon a Starry Night."
+      },
+      "overview": "Claude is too cat to announce the end and results of the finals, so Principal Jeanne arrives to lend a hand.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11716983/screencap/6a9e559e51e7f.jpg",
+      "airDate": "2026-09-13T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.75",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "The Forbidden Date",
+      "titles": {
+        "ja": "禁断のデート",
+        "en": "The Forbidden Date",
+        "x-jat": "Kindan no Date"
+      },
+      "overview": "Claude takes Spica to town to buy her a new wand, but she ends up looking for herself instead.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11716984/screencap/6aa79581beae5.jpg",
+      "airDate": "2026-09-20T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.31",
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 24,
+  "updatedAt": "2026-09-23T06:30:24.109Z"
+}

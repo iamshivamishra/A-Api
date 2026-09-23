@@ -1,0 +1,1006 @@
+{
+  "anilistId": 187166,
+  "malId": 61107,
+  "route": "ganso-bandori-chan",
+  "titles": {
+    "romaji": "Ganso! Bandori-chan",
+    "english": "GANSO! BanG Dream Chan",
+    "native": "元祖！バンドリちゃん"
+  },
+  "anilist": {
+    "id": 187166,
+    "idMal": 61107,
+    "title": {
+      "romaji": "Ganso! Bandori-chan",
+      "english": "GANSO! BanG Dream Chan",
+      "native": "元祖！バンドリちゃん"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187166-ASfp7wErGrxQ.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187166-ASfp7wErGrxQ.png",
+      "color": "#e4e45d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187166-1T03s7Eow65t.jpg",
+    "description": "After taking the girls' band world by storm, \"BanG Dream Chan\" is back!?\n<br><br>\nGet ready for a huge reunion with all your favorite pop and cute band members in the fun-filled girls' band comedy!\n<br><br>\nCome on, BanG Dream Chan! We are all BanG Dream Chan!\n<br><br>\n(Source: BanG Dream! GBP Twitter account)\n<br><br>\n<i>Note: Relations are provisional and subject to change.</i>",
+    "format": "ONA",
+    "status": "RELEASING",
+    "episodes": 52,
+    "duration": 1,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 2
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "averageScore": 68,
+    "meanScore": 73,
+    "popularity": 2434,
+    "favourites": 23,
+    "source": "OTHER",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 51,
+      "airingAt": 1790254800,
+      "timeUntilAiring": 137343
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "AtoriE"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://anime.bang-dream.com/bandorichan/"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/@bang_dream_official"
+      }
+    ],
+    "trailer": {
+      "id": "7WsRmVZspYI",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Fall 2025",
+      "year": "2025",
+      "season": "Fall",
+      "route": "fall-2025"
+    },
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "studios": [
+      "AtoriE"
+    ],
+    "mediaTypes": [
+      "TV Short"
+    ],
+    "lengthMin": 1,
+    "description": "After taking the girls&#39; band world by storm, &#34;BanG Dream Chan&#34; is back!?<br><br>Get ready for a huge reunion with all your favorite pop and cute band members in the fun-filled girls&#39; band comedy!<br><br>Come on, BanG Dream Chan! We are all BanG Dream Chan!<br><br>(Source: BanG Dream! GBP Twitter account)",
+    "streams": [],
+    "subTime": "2025-10-08T13:01:00Z",
+    "dubTime": "2025-10-02T13:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 52,
+    "latestEpisode": {
+      "number": 50,
+      "airedAt": "2026-09-17T13:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 51,
+      "at": "2026-09-24T13:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 13:01 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 52,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Thursday 13:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Ganso! Bang Dream-chan",
+      "titles": {
+        "ja": "元祖! バンドリちゃん",
+        "en": null,
+        "x-jat": "Ganso! Bang Dream-chan"
+      },
+      "overview": "Come one, come all, \"The OGs! BanG Dream-chan\" is about to begin! Now, I'm sure you're all asking, \"What does 'OG' mean? Who are BanG Dream?\" but don't worry your pretty little head about it. Just sit back and enjoy the show! Satisfaction guaranteed!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11395335/screencap/698efde4e57c6.jpg",
+      "airDate": "2025-10-02T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "Bright Red Sports Car",
+      "titles": {
+        "ja": "真っ赤なスポーツカー",
+        "en": "Bright Red Sports Car",
+        "x-jat": "Makka na Sports Car"
+      },
+      "overview": "\"I'll take the red one, please.\"\r\n\r\nThank you for your business. Would you like any add-ons?\r\n\r\n\"What do you mean power mirrors are an 'add-on'? Let's get out of here, Kasumi. We can get a way cheaper car from the local dealership.\"\r\n\r\n\"No, it's fine, Arisa. I'm getting the red one.\"",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11395336/screencap/698f03e615a2b.jpg",
+      "airDate": "2025-10-09T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "The Same Place as Always",
+      "titles": {
+        "ja": "いつも通りの居場所",
+        "en": "The Same Place as Always",
+        "x-jat": "Itsumodoori no Ibasho"
+      },
+      "overview": "It's the place I usually find myself, no matter if something has happened or not. The deep red sky stretches out before me. The occasional gentle breeze is refreshing. It's the place where it all started for us.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396762/screencap/698f0728ef329.jpg",
+      "airDate": "2025-10-16T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "The Girl That Can Tell",
+      "titles": {
+        "ja": "違いのわかる女の子",
+        "en": "The Girl That Can Tell",
+        "x-jat": "Chigai no Wakaru Onnanoko"
+      },
+      "overview": "Rocks rock.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396763/screencap/698f08c88b941.jpg",
+      "airDate": "2025-10-23T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Hello Happy Regular Meeting",
+      "titles": {
+        "ja": "ハロハピ定例MTG",
+        "en": "Hello Happy Regular Meeting",
+        "x-jat": "HaroHapi Teirei MTG"
+      },
+      "overview": "Hey Michelle, what's on today's agenda?\r\n\r\nIn order to adapt to worldwide demand, we need to double down on our commitment to HSLY.\r\n\r\nSeconded.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396764/screencap/698f0927e3568.jpg",
+      "airDate": "2025-10-30T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "As Professionals",
+      "titles": {
+        "ja": "プロとして",
+        "en": "As Professionals",
+        "x-jat": "Pro Toshite"
+      },
+      "overview": "I'm hard on you because I believe in you. Because I care.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396765/screencap/698f0c8decced.jpg",
+      "airDate": "2025-11-06T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Emergence: Growth",
+      "titles": {
+        "ja": "羽化 ~growth~",
+        "en": "Emergence: Growth",
+        "x-jat": "Uka: Growth"
+      },
+      "overview": "A melody melts into the still of night. The whispers of the breeze stir me. When my doubts and dreams intertwine, I, the song, am born.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396766/screencap/698f0e0288871.jpg",
+      "airDate": "2025-11-13T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Pastel Ludo",
+      "titles": {
+        "ja": "パステルすごろく",
+        "en": "Pastel Ludo",
+        "x-jat": "Pastel Sugoroku"
+      },
+      "overview": "In a tragic turn of events, Mai, Hina and Eve have rolled to fall all the way back to Kyushu from Kyoto! The other team stands to win it all with Tokyo in their sights for rolling six! Can the girls possibly change course and make for a comeback victory?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396767/screencap/698f15391500b.jpg",
+      "airDate": "2025-11-20T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Raise-a-Fire",
+      "titles": {
+        "ja": "RAISE-A-FIRE",
+        "en": "Raise-a-Fire"
+      },
+      "overview": "Hello, could I please book a meeting space? Yes, it's for holding a briefing to end the girls band era. Hm? It'll be a lot? That will be fine; it's for five people.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396768/screencap/698f1d0fef771.jpg",
+      "airDate": "2025-11-27T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Everyone Is Friendly",
+      "titles": {
+        "ja": "Minna na cayosi.",
+        "en": "Everyone Is Friendly",
+        "x-jat": "Minna na Cayosi."
+      },
+      "overview": "One day, when Sakiko arrived at the office for a meeting, she happened to see...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396769/screencap/698f209db9a23.jpg",
+      "airDate": "2025-12-04T13:00:00Z",
+      "runtime": 2,
+      "rating": "7.05",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Dokidoki: To Whom It May Concern",
+      "titles": {
+        "ja": "どきどき☆関係者挨拶",
+        "en": "Dokidoki: To Whom It May Concern",
+        "x-jat": "Dokidoki Kankeisha Aisatsu"
+      },
+      "overview": "I'm so euphoric I'm shaking. My tears and voice are run dry. I must be the happiest person alive to have been invited to such an incredible concert.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396770/screencap/698f230818ae4.jpg",
+      "airDate": "2025-12-11T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Stargaze",
+      "titles": {
+        "ja": "天体観測",
+        "en": "Stargaze",
+        "x-jat": "Tentai Kansoku"
+      },
+      "overview": "Po-pipipipi-popo popippipii, popipo pipi!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11396771/screencap/698f24606735d.jpg",
+      "airDate": "2025-12-18T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "Christmas Eve",
+      "titles": {
+        "ja": "イヴサンタがやってくる",
+        "en": "Christmas Eve",
+        "x-jat": "Eve Santa ga Yatte Kuru"
+      },
+      "overview": "Merry Bushimas! Santa Eve will be delivering presents to all the good kids tonight.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11532405/screencap/698f258b55c97.jpg",
+      "airDate": "2025-12-25T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": "New Year with Everyone",
+      "titles": {
+        "ja": "みんなでお正月",
+        "en": "New Year with Everyone",
+        "x-jat": "Minna de Oshougatsu"
+      },
+      "overview": "Happy New Year! Let's all meet up at the storehouse tomorrow! Be sure to bring some snacks or drinks.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11560418/screencap/698fa3e83c1bf.jpg",
+      "airDate": "2026-01-08T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 15,
+      "title": "Vroom Vroom Bike, Let`s Go",
+      "titles": {
+        "ja": "ブンブンバイクでゴー",
+        "en": "Vroom Vroom Bike, Let`s Go",
+        "x-jat": "Bunbun Bike de Go"
+      },
+      "overview": "Hot coffee tastes great at a rest stop after cruising on a cold day.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11561321/screencap/698f28854d945.jpg",
+      "airDate": "2026-01-15T13:00:00Z",
+      "runtime": 2,
+      "rating": "1.26",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 16,
+      "title": "Exciting! Travel Prep",
+      "titles": {
+        "ja": "わくわく! 旅準備",
+        "en": "Exciting! Travel Prep",
+        "x-jat": "Wakuwaku! Tabi Junbi"
+      },
+      "overview": "I can't wait for our tropical island shoot! What should I bring?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11578902/screencap/698f292e09fd5.jpg",
+      "airDate": "2026-01-22T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 17,
+      "title": "Chuchu-P`s Charisma Radio",
+      "titles": {
+        "ja": "チュチュPのカリスマラジオ",
+        "en": "Chuchu-P`s Charisma Radio",
+        "x-jat": "Chuchu P no Charisma Radio"
+      },
+      "overview": "We have JACKED IN to the airwaves to bring you a PROJECT where we UPDATE the world with the revolutionary SOUND of RAISE-A-SUILEN!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11578903/screencap/698f2aa501620.jpg",
+      "airDate": "2026-01-29T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 18,
+      "title": "Special Collab! Nyamuchi Channel",
+      "titles": {
+        "ja": "スペシャルコラボ! にゃむちチャンネル",
+        "en": null,
+        "x-jat": "Special Collab! Nyamuchi Channel"
+      },
+      "overview": "Good Nyamu-nyamorning! Nyamuchi here! Today I have the pleasure of hosting two special guests! Take it away!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11578904/screencap/698f2cd8a4548.jpg",
+      "airDate": "2026-02-05T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 19,
+      "title": "Hakoiri Michelle",
+      "titles": {
+        "ja": "箱入りミッシェル",
+        "en": null,
+        "x-jat": "Hakoiri Michelle"
+      },
+      "overview": "Don't you hate it when you're in the elevator and you go to press the button for your floor but it's already been pressed and you realise this person lives on your floor too?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11578905/screencap/698f32cfe4c7b.jpg",
+      "airDate": "2026-02-12T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 20,
+      "title": "Tabidachi wa Bitter Chocolate",
+      "titles": {
+        "ja": "旅立ちはビターチョコレート",
+        "en": null,
+        "x-jat": "Tabidachi wa Bitter Chocolate"
+      },
+      "overview": "Farewells are always bittersweet, but I’ll never forget the days I spent with you.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11578906/screencap/699681b883b15.jpg",
+      "airDate": "2026-02-19T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 21,
+      "title": "バイトミーさん",
+      "titles": {
+        "ja": "バイトミーさん",
+        "en": null
+      },
+      "overview": "♪ If you need to work today: BandedIn! Your one stop for every job: BandedIn! Bag your band with BandedIn! BandedIn! BandedIn! ♪",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11642079/screencap/69a0dd22537fd.jpg",
+      "airDate": "2026-02-26T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 22,
+      "title": "Hyakumonogatari",
+      "titles": {
+        "ja": "百物語",
+        "en": null,
+        "x-jat": "Hyakumonogatari"
+      },
+      "overview": "This is a story from a friend of mine... or, well, I actually heard it from Tsu-chan. Once, she got in an elevator and there was this carboard box...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11657643/screencap/69a9603d0f161.jpg",
+      "airDate": "2026-03-05T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": "Houkago Talk Time",
+      "titles": {
+        "ja": "放課後トークタイム",
+        "en": null,
+        "x-jat": "Houkago Talk Time"
+      },
+      "overview": "Chatting with the girls is so much fun!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11660124/screencap/69b1feb3f3637.jpg",
+      "airDate": "2026-03-12T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "Drifting Classroom",
+      "titles": {
+        "ja": "ドリフティング・クラスルーム",
+        "en": null,
+        "x-jat": "Drifting Classroom"
+      },
+      "overview": "Each time we do one of these, it's less and less related to the actual episode, but I'm being for real right now: the drift is classrooming and food runs out in three days.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11660125/screencap/69ba4d8be8693.jpg",
+      "airDate": "2026-03-19T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 25,
+      "title": "宇田川催眠波",
+      "titles": {
+        "ja": "宇田川催眠波",
+        "en": null
+      },
+      "overview": "You are getting very sleepy!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696188/screencap/69c3bb87ca8f0.jpg",
+      "airDate": "2026-03-26T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 26,
+      "title": "魔法少女パッピームジゴ",
+      "titles": {
+        "ja": "魔法少女パッピームジゴ",
+        "en": null
+      },
+      "overview": "Monsters raze the city as citizens flee, their everyday lives swallowed by flames. Only the Pappy MujiGO! girls can brave the threat, but they are torn between what they must protect and what they must sacrifice. Next time, episode 26 of Magical Girl Pappy MujiGO!: Grilled Chicken for Dinner!?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714112/screencap/69ce7bd767a31.jpg",
+      "airDate": "2026-04-02T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 26,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 27,
+      "title": "Kyou no Nyaan-chan",
+      "titles": {
+        "ja": "今日のにゃーんちゃん",
+        "en": null,
+        "x-jat": "Kyou no Nyaan-chan"
+      },
+      "overview": "Yukina and Raana are hosting a show that showcases adorable cats. The recording session starts smoothly, but as a parade of fluffy kittens appears on screen, Yukina's professional composure steadily crumbles until she blurts out, \"How do I become that carrot?!\"",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11725830/screencap/69d7b4ce32c23.jpg",
+      "airDate": "2026-04-09T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 27,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 28,
+      "title": "Kappou Kitazawa",
+      "titles": {
+        "ja": "割烹きたざわ",
+        "en": null,
+        "x-jat": "Kappou Kitazawa"
+      },
+      "overview": "Deep in the heart of Chan-chan Town, on the rugged outskirts of Bandori City, lies a hidden culinary fortress: Kappo Kitazawa. Tonight, the scent of perfection is in the air—and another guest is about to step through those doors to see if they can beat the heat.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11725831/screencap/69e040d9313ae.jpg",
+      "airDate": "2026-04-16T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 28,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 29,
+      "title": "Survival Tower no Shiren",
+      "titles": {
+        "ja": "サバイバルタワーの試練",
+        "en": null,
+        "x-jat": "Survival Tower no Shiren"
+      },
+      "overview": "Forty-five band members find themselves inexplicably trapped on the top floor of a mysterious tower. Still reeling from the sudden turn of events, they are confronted by a mysterious Game Master who dictates a single condition for their escape: \"Split into your respective bands, overcome the trials, and make your way down to the first floor.\" The five members of Poppin'Party begin their desperate descent, but a relentless series of cruel traps eliminates them one by one. Soon, only Kasumi and Arisa remain.\r\n\r\nJust steps away from the exit, Arisa rushes forward in a panic, causing the floor beneath her to collapse. Right as she is about to fall, Kasumi makes the ultimate sacrifice to pull Arisa to safety, vanishing into the dark abyss below with a final, lingering smile...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11725832/screencap/69e8574d71d37.jpg",
+      "airDate": "2026-04-23T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 29,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 30,
+      "title": "Beef Jerky Dekiru ka na",
+      "titles": {
+        "ja": "ビーフジャーキーできるかな",
+        "en": null,
+        "x-jat": "Beef Jerky Dekiru ka na"
+      },
+      "overview": "CHU²-sama, do you think if a cow lives in the desert it would taste like sand too.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11725833/screencap/69f346e39c998.jpg",
+      "airDate": "2026-04-30T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 30,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 31,
+      "title": "Itsumodoori no Kaerimichi",
+      "titles": {
+        "ja": "いつも通りの帰り道",
+        "en": null,
+        "x-jat": "Itsumodoori no Kaerimichi"
+      },
+      "overview": "Walking close together with good friends, bathed in the warm spring sunset. The conversation is lively and effortless. The same walk home as always.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11768242/screencap/69fb43eebccd0.jpg",
+      "airDate": "2026-05-07T13:00:00Z",
+      "runtime": 2,
+      "rating": "7.05",
+      "absoluteEpisodeNumber": 31,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 32,
+      "title": "Makyuu Yabureru! Michelle Kesshi no Jump!",
+      "titles": {
+        "ja": "魔球敗れる! ミッシェル決死のジャンプ!",
+        "en": null,
+        "x-jat": "Makyuu Yabureru! Michelle Kesshi no Jump!"
+      },
+      "overview": "Welcome back to Tsurumaki Stadium, folks. We're witnessing a scoreless pitching duel in this exhibition clash between Hello, Happy World! and the powerhouse Mecha Michelles. We've moved into the 9th inning and Hagumi has been throwing an absolute gem out there, keeping the Michelles off the board entirely. But you can see it now—she's deep into her pitch count and starting to labor on the mound. The fatigue is real and the Mecha Michelles' bats are finally starting to heat up.\r\n\r\nThey've got Hagumi in their sights and Kanon is calling for time, making the slow walk to the mound to settle her pitcher down. Is the tank empty or can they escape the jam? Don't go anywhere! Coming up on GANSO! BanG Dream Chan Episode 32: 'The Magic Pitch Defeated! Michelle's Do-or-Die Jump!' We'll be right back with the finish!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11768243/screencap/6a05deab6c0c7.jpg",
+      "airDate": "2026-05-14T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 32,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 33,
+      "title": "Hirusagari no Gogo",
+      "titles": {
+        "ja": "昼下がりの午後",
+        "en": null,
+        "x-jat": "Hirusagari no Gogo"
+      },
+      "overview": "I walk down a quiet street bathed in soft afternoon light. The spring breeze carries a calming scent. I share a park bench with a napping cat as I enjoy my lunch; a modest luxury that fills my heart to bursting.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11768244/screencap/6a0ea10c2d507.jpg",
+      "airDate": "2026-05-21T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 33,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 34,
+      "title": "Motto Survival",
+      "titles": {
+        "ja": "もっとサバイバル",
+        "en": null,
+        "x-jat": "Motto Survival"
+      },
+      "overview": "The terrifying Ravager Bear is threatening our lands! Hunt down the beast and reclaim your base! DEVOUR MEAT. SURVIVE AT ALL COSTS! In this brutal wasteland, only raw strength and pure stamina matter. Do you have what it takes? Dive into the ultimate EXCITING SURVIVAL ADVENTURE! Hoo-hoo, ho-hoo! Feel like the ultimate survivor, just like the legendary Roven Heiru!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11768245/screencap/6a178ff8e8156.jpg",
+      "airDate": "2026-05-28T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 34,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 35,
+      "title": "Famires Girls",
+      "titles": {
+        "ja": "ファミレス・ガールズ",
+        "en": null,
+        "x-jat": "Famires Girls"
+      },
+      "overview": "Let's go to a diner with everyone after practice! Hey, what are you gonna get? We're definitely getting free refills, right? Is it okay if I start with dessert?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11768246/screencap/6a20e0ab3ea9e.jpg",
+      "airDate": "2026-06-04T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 35,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 36,
+      "title": "Quiz Kotaete Bandori-chan no Yakata",
+      "titles": {
+        "ja": "クイズ答えてバンドリちゃんの館",
+        "en": null,
+        "x-jat": "Quiz Kotaete Bandori-chan no Yakata"
+      },
+      "overview": "A quiz show host, huh... Oh, this offer comes with catering too.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11826101/screencap/6a295469c6378.jpg",
+      "airDate": "2026-06-11T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 36,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 37,
+      "title": "Ring de Machiawase",
+      "titles": {
+        "ja": "RiNGで待ち合わせ",
+        "en": null,
+        "x-jat": "Ring de Machiawase"
+      },
+      "overview": "Huh, looks like I got here a bit too early... Oh, I'll just chill at the cafe until everyone else arrives!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11826102/screencap/6a334b4d4e79b.jpg",
+      "airDate": "2026-06-18T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 37,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 38,
+      "title": "Ring kara no Dasshutsu",
+      "titles": {
+        "ja": "RiNGからの脱出",
+        "en": null,
+        "x-jat": "Ring kara no Dasshutsu"
+      },
+      "overview": "Last week we met up, but this week we're making our escape.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11826103/screencap/6a3c99bbe6377.jpg",
+      "airDate": "2026-06-25T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 38,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 39,
+      "title": "****** no Onayami Soudanshitsu",
+      "titles": {
+        "ja": "＊＊＊＊＊＊のお悩み相談室",
+        "en": null,
+        "x-jat": "****** no Onayami Soudanshitsu"
+      },
+      "overview": "Welcome to our radio talk show! We're here to answer all the problems our listeners have sent in!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11826104/screencap/6a46689c26bbb.jpg",
+      "airDate": "2026-07-02T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 39,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 40,
+      "title": "Artist Kakuzuke Choice",
+      "titles": {
+        "ja": "アーティスト格付けチョイス",
+        "en": null,
+        "x-jat": "Artist Kakuzuke Choice"
+      },
+      "overview": "Snow crab is a true crab, but king crab isn't—it's a relative of the hermit crab. Crab stick isn't crab either—it's a type of fish cake.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11826105/screencap/6a4f9c90d50e6.jpg",
+      "airDate": "2026-07-09T13:00:00Z",
+      "runtime": 2,
+      "rating": "7.05",
+      "absoluteEpisodeNumber": 40,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 41,
+      "title": "Roselia Kyouka Natsu Gasshuku",
+      "titles": {
+        "ja": "Roselia強化夏合宿",
+        "en": null,
+        "x-jat": "Roselia Kyouka Natsu Gasshuku"
+      },
+      "overview": "Roselia has come to an intensive summer training camp to further improve the quality of their next concert. ...You all understand, right? We aren't here to play around!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877552/screencap/6a572fe77d837.jpg",
+      "airDate": "2026-07-16T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 41,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 42,
+      "title": "Short Short Short",
+      "titles": {
+        "ja": "ショートショートショート",
+        "en": null,
+        "x-jat": "Short Short Short"
+      },
+      "overview": "\"Oh, so one plate of beef tongue has four slices.\" \"There are five of us, so one serving alone isn't enough.\" \"I thought they'd cut the number of people after ordering.\" \"Would you like two servings?\" \"If that's the case, we'll have three extra cards and we'll end up fighting.\" \"Oh, Hiromachi is fine with just one card.\" \"What should I do in this situation?\" \"Well, if you order five servings, everyone will be treated equally.\" You can eat it, but that's just how it is. \"Can you have five plates of beef tongue?\"",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877553/screencap/6a607b3aa6c0a.jpg",
+      "airDate": "2026-07-23T13:00:00Z",
+      "runtime": 2,
+      "rating": "1.26",
+      "absoluteEpisodeNumber": 42,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 43,
+      "title": "Nebou Shimashita",
+      "titles": {
+        "ja": "寝坊しました",
+        "en": null,
+        "x-jat": "Nebou Shimashita"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877554/screencap/6a69b4eec4b1d.jpg",
+      "airDate": "2026-07-30T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 43,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 44,
+      "title": "Kore wa Ganso! Bandori-chan no Arasuji",
+      "titles": {
+        "ja": "これは元祖! バンドリちゃんのあらすじ",
+        "en": null,
+        "x-jat": "Kore wa Ganso! Bandori-chan no Arasuji"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877555/screencap/6a73dc4dbdb37.jpg",
+      "airDate": "2026-08-06T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 44,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 45,
+      "title": "Mall de MyGo!!!!!",
+      "titles": {
+        "ja": "モールでMyGO!!!!!",
+        "en": null,
+        "x-jat": "Mall de MyGo!!!!!"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877556/screencap/6a7db9c4e7ea0.jpg",
+      "airDate": "2026-08-13T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 45,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 46,
+      "title": "Beam Uchitai",
+      "titles": {
+        "ja": "ビーム撃ちたい",
+        "en": null,
+        "x-jat": "Beam Uchitai"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877557/screencap/6a8f919d8f54b.jpg",
+      "airDate": "2026-08-20T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 46,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 47,
+      "title": "Sauna de Totonoi.",
+      "titles": {
+        "ja": "Sauna de totonoi.",
+        "en": null,
+        "x-jat": "Sauna de Totonoi."
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11877558/screencap/6a8f91fbd1a8f.jpg",
+      "airDate": "2026-08-27T13:00:00Z",
+      "runtime": 2,
+      "rating": "2.15",
+      "absoluteEpisodeNumber": 47,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 48,
+      "title": "Fujimi Yako-sensei Sign Kai",
+      "titles": {
+        "ja": "富士見夜子先生サイン会",
+        "en": null,
+        "x-jat": "Fujimi Yako-sensei Sign Kai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-03T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 48,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 49,
+      "title": "Big ni Naritai",
+      "titles": {
+        "ja": "BIGになりたい",
+        "en": null,
+        "x-jat": "Big ni Naritai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-10T13:00:00Z",
+      "runtime": 2,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 49,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 50,
+      "title": "機動宇宙戦妃 バンドール",
+      "titles": {
+        "ja": "機動宇宙戦妃 バンドール",
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-17T13:00:00Z",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": 50,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 51,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-24T13:00:00Z",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": 51,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 52,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-01T13:00:00Z",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": 52,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 52,
+  "updatedAt": "2026-09-23T10:33:05.633Z"
+}

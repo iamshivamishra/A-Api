@@ -1,0 +1,542 @@
+{
+  "anilistId": 135865,
+  "malId": 49233,
+  "route": "youjo-senki-ii",
+  "titles": {
+    "romaji": "Youjo Senki II",
+    "english": "Saga of Tanya the Evil Season 2",
+    "native": "幼女戦記Ⅱ"
+  },
+  "anilist": {
+    "id": 135865,
+    "idMal": 49233,
+    "title": {
+      "romaji": "Youjo Senki II",
+      "english": "Saga of Tanya the Evil Season 2",
+      "native": "幼女戦記Ⅱ"
+    },
+    "synonyms": [
+      "Saga of Tanya the Evil II",
+      "Youjo Senki 2"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135865-T7XIPMAbqcxN.png",
+      "color": "#e46b28"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/135865-Ws3e7BhBkFxd.jpg",
+    "description": "The second season of <i>Youjo Senki</i>.",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+    },
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "averageScore": 80,
+    "meanScore": 81,
+    "popularity": 93692,
+    "favourites": 1876,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790166600,
+      "timeUntilAiring": 49143
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "NUT"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/youjosenki"
+      },
+      {
+        "site": "Official Site",
+        "url": "http://youjo-senki.jp/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GR9P57W96/saga-of-tanya-the-evil"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLcWpc-sy22u4"
+      }
+    ],
+    "trailer": {
+      "id": "kUvhvkPDvm0",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Isekai",
+      "Magic",
+      "Military"
+    ],
+    "studios": [
+      "NUT"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The second season of <span class=\"italics\">Youjo Senki</span>.",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3RiS3tn",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GR9P57W96/saga-of-tanya-the-evil",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4gyBIuu",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLcWpc-sy22u4",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-07-08T13:30:00Z",
+    "dubTime": "2026-09-09T13:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-16T12:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-23T12:30:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 13:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 2,
+      "airedAt": "2026-07-15T12:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 3,
+      "at": "2026-09-23T13:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 13:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Salamander Combat Team",
+      "titles": {
+        "ja": "サラマンダー戦闘団",
+        "en": "Salamander Combat Team",
+        "de": "Kampfgruppe Salamander",
+        "x-jat": "Salamander Sentou Dan"
+      },
+      "overview": "Tanya is put in charge of a combat team fighting on the Eastern front.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8498902/screencap/6a4e425cc56c1.jpg",
+      "airDate": "2026-07-08T12:30:00Z",
+      "runtime": 24,
+      "rating": "7.24",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "A Strange Friendship",
+      "titles": {
+        "ja": "奇妙な友情",
+        "en": "A Strange Friendship",
+        "x-jat": "Kimyou na Yuujou"
+      },
+      "overview": "Tanya comes up with a plan to stop the attacks on her unit.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876778/screencap/6a50cabc97b17.jpg",
+      "airDate": "2026-07-15T12:30:00Z",
+      "runtime": 24,
+      "rating": "7.18",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Well-Intentioned Mediator",
+      "titles": {
+        "ja": "善意の仲介人",
+        "en": "Well-Intentioned Mediator",
+        "x-jat": "Zen`i no Chuukaijin"
+      },
+      "overview": "An ally comes up with a plan to end the war.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876779/screencap/6a5a239e005c7.jpg",
+      "airDate": "2026-07-22T12:30:00Z",
+      "runtime": 24,
+      "rating": "8.23",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Operation Iron Hammer",
+      "titles": {
+        "ja": "鉄槌作戦",
+        "en": "Operation Iron Hammer",
+        "x-jat": "Tettsui Sakusen"
+      },
+      "overview": "The Empire goes all-in on a plan to break the Federation army once and for all.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876780/screencap/6a635b72861cd.jpg",
+      "airDate": "2026-07-29T12:30:00Z",
+      "runtime": 24,
+      "rating": "5.47",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Unlucky Draw",
+      "titles": {
+        "ja": "貧乏籤",
+        "en": "Unlucky Draw",
+        "x-jat": "Binboukuji"
+      },
+      "overview": "Zettour is reassigned to the eastern front after an argument with High Leadership.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876781/screencap/6a6caeace9eef.jpg",
+      "airDate": "2026-08-05T12:30:00Z",
+      "runtime": 24,
+      "rating": "7.27",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Decoy",
+      "titles": {
+        "ja": "囮",
+        "en": "Decoy",
+        "x-jat": "Otori"
+      },
+      "overview": "Zettour uses himself as a decoy to lure out the enemy and save Tanya.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876782/screencap/6a75a735ecb88.jpg",
+      "airDate": "2026-08-12T12:30:00Z",
+      "runtime": 24,
+      "rating": "8.03",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Purgatory",
+      "titles": {
+        "ja": "煉獄",
+        "en": "Purgatory",
+        "x-jat": "Rengoku"
+      },
+      "overview": "Tanya returns to the capital and sees what daily life is like there.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876783/screencap/6a7ee8f1b3630.jpg",
+      "airDate": "2026-08-19T12:30:00Z",
+      "runtime": 24,
+      "rating": "8.06",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Torpedo Strike",
+      "titles": {
+        "ja": "雷撃",
+        "en": "Torpedo Strike",
+        "x-jat": "Raigeki"
+      },
+      "overview": "Tanya uses a new type of torpedo to save her allies in the south.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876784/screencap/6a8815a4c9d16.jpg",
+      "airDate": "2026-08-26T12:30:00Z",
+      "runtime": 24,
+      "rating": "8.73",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Sightseeing Tour",
+      "titles": {
+        "ja": "観光旅行",
+        "en": "Sightseeing Tour",
+        "x-jat": "Kankouryokou"
+      },
+      "overview": "Tanya enjoys a wonderful day in Ildoa before returning to the Empire.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876785/screencap/6a91cbe272fbf.jpg",
+      "airDate": "2026-09-02T12:30:00Z",
+      "runtime": 24,
+      "rating": "5.51",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "A Way to Survive",
+      "titles": {
+        "ja": "活路",
+        "en": "A Way to Survive",
+        "x-jat": "Katsuro"
+      },
+      "overview": "The Empire turns to diplomacy to end the war.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876786/screencap/6a9aa55bd23bb.jpg",
+      "airDate": "2026-09-09T12:30:00Z",
+      "runtime": 24,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Hourglass",
+      "titles": {
+        "ja": "砂時計",
+        "en": "Hourglass",
+        "x-jat": "Sunadokei"
+      },
+      "overview": "Time is running out for the empire, and both Rudersdorf and Zettour are willing to take drastic measures.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876787/screencap/6aa3cc6a087ce.jpg",
+      "airDate": "2026-09-16T12:30:00Z",
+      "runtime": 24,
+      "rating": "8.20",
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876788/screencap/6aad1728c783f.jpg",
+      "airDate": "2026-09-23T12:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 26,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Mini-Episode 1",
+      "titles": {
+        "en": "Mini-Episode 1"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-08",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Mini-Episode 2",
+      "titles": {
+        "en": "Mini-Episode 2"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-15",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S3",
+      "title": "Mini-Episode 3",
+      "titles": {
+        "en": "Mini-Episode 3"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-22",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S4",
+      "title": "Mini-Episode 4",
+      "titles": {
+        "en": "Mini-Episode 4"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-29",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S5",
+      "title": "Mini-Episode 5",
+      "titles": {
+        "en": "Mini-Episode 5"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-05",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S6",
+      "title": "Mini-Episode 6",
+      "titles": {
+        "en": "Mini-Episode 6"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-12",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S7",
+      "title": "Mini-Episode 7",
+      "titles": {
+        "en": "Mini-Episode 7"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-19",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S8",
+      "title": "Mini-Episode 8",
+      "titles": {
+        "en": "Mini-Episode 8"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-26",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S9",
+      "title": "Mini-Episode 9",
+      "titles": {
+        "en": "Mini-Episode 9"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-02",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S10",
+      "title": "Mini-Episode 10",
+      "titles": {
+        "ja": "ミニアニメ 10",
+        "en": "Mini-Episode 10"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-10",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S11",
+      "title": "Mini-Episode 11",
+      "titles": {
+        "ja": "ミニアニメ 11",
+        "en": "Mini-Episode 11"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-17",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.620Z"
+}

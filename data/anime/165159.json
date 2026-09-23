@@ -1,0 +1,2556 @@
+{
+  "anilistId": 165159,
+  "malId": 56566,
+  "route": "beyblade-x",
+  "titles": {
+    "romaji": "BEYBLADE X",
+    "english": "BEYBLADE X",
+    "native": "BEYBLADE X"
+  },
+  "anilist": {
+    "id": 165159,
+    "idMal": 56566,
+    "title": {
+      "romaji": "BEYBLADE X",
+      "english": "BEYBLADE X",
+      "native": "BEYBLADE X"
+    },
+    "synonyms": [
+      "ベイブレードエックス",
+      "ベイブレイド X"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx165159-aCFC9Sng7t4M.png",
+      "color": "#28aee4"
+    },
+    "bannerImage": null,
+    "description": "Bird Kazami, aiming to become a pro Blader, meets former champion Ekusu Kurosu, also known as 'Kamen X', and forms a team so that they can aim for the \"top\" of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before. The yet unseen 'X'. The super accelerated (Xtreme) Beyblade runs through a new era!\n<br><br>\n(Source: Official website)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": null,
+    "duration": 22,
+    "season": "FALL",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 6
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sports"
+    ],
+    "averageScore": 64,
+    "meanScore": 66,
+    "popularity": 4671,
+    "favourites": 145,
+    "source": "ORIGINAL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 135,
+      "airingAt": 1790935200,
+      "timeUntilAiring": 781827
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "OLM"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://beyblade.takaratomy.co.jp/anime/"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://www.tv-tokyo.co.jp/anime/beyblade/"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://beyblade.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/beyblade_info"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/81924739"
+      },
+      {
+        "site": "Hulu",
+        "url": "https://www.hulu.com/series/0e46c665-5191-407f-8dc5-e22a0095578c"
+      }
+    ],
+    "trailer": {
+      "id": "SXdTmFshlFs",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Fall 2023",
+      "year": "2023",
+      "season": "Fall",
+      "route": "fall-2023"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sports"
+    ],
+    "studios": [
+      "OLM"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Kazami Bird, aiming to become a professional, meets former champion Kurosu Ex also known as &#39;Kamen X&#39; and forms a team so that they can aim for the &#34;top&#34; of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before. The yet unseen &#39;X&#39;. The super accelerated (Xtreme) beyblade runs through a new era!<br><br>(Source: Official website)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4i07X3w",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "hulu",
+        "url": "hulu.com/series/0e46c665-5191-407f-8dc5-e22a0095578c",
+        "name": "Hulu"
+      },
+      {
+        "platform": "youtube",
+        "url": "youtube.com/playlist?list=PLfX0BhjZoHNlzLJSi0-CPYQXfV_JPWPUh",
+        "name": "YouTube"
+      },
+      {
+        "platform": "netflix",
+        "url": "netflix.com/title/81924739",
+        "name": "Netflix"
+      }
+    ],
+    "subTime": "2026-06-19T10:00:00Z",
+    "dubTime": "2025-05-24T22:45:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 136,
+    "latestEpisode": {
+      "number": 134,
+      "airedAt": "2026-09-18T09:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 135,
+      "at": "2026-10-02T10:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 10:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 136,
+    "latestEpisode": {
+      "number": 100,
+      "airedAt": "2025-10-03T09:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 101,
+      "at": "2026-09-26T22:45:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 22:45 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "X",
+      "titles": {
+        "ja": "X",
+        "en": "X",
+        "x-jat": "X"
+      },
+      "overview": "Bird Kazami is an amateur blader who came to \"X City\" to become a professional beyblader.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9794301/screencap/6523518d5e9e6.jpg",
+      "airDate": "2023-10-06T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Multi-Colored Ambush",
+      "titles": {
+        "ja": "七色の刺客",
+        "en": "Multi-Colored Ambush",
+        "x-jat": "Nanairo no Shikaku"
+      },
+      "overview": "After revealing his true identity and forming Team Persona with Robin, Jaxon signs the new team up for a pro-selection match.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10078290/screencap/65341dbdd6d32.jpg",
+      "airDate": "2023-10-13T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Team Persona",
+      "titles": {
+        "ja": "チームペルソナ",
+        "en": "Team Persona",
+        "x-jat": "Team Persona"
+      },
+      "overview": "After their battle with the mega-popular Multi Nana-iro, Jaxon set his sights on a potential third member for Team Persona.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10078291/screencap/65342169e1908.jpg",
+      "airDate": "2023-10-20T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Bey Sponsor",
+      "titles": {
+        "ja": "ベイスポンサー",
+        "en": "Bey Sponsor",
+        "x-jat": "Bey Sponsor"
+      },
+      "overview": "Now that they're officially pros, the hunt is on for Team Persona's Bey Sponsor, who will help them train and climb The X.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10078292/screencap/653d5569729ef.jpg",
+      "airDate": "2023-10-27T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "To the X",
+      "titles": {
+        "ja": "いざXタワー",
+        "en": "To the X",
+        "x-jat": "Iza X Tower"
+      },
+      "overview": "Now that Team Persona is officially sponsored by Komaba Sushi, the team is finally ready to battle at The X.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10118674/screencap/6547a9fd24030.jpg",
+      "airDate": "2023-11-03T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Lion`s Jungle",
+      "titles": {
+        "ja": "ライオンズジャングル",
+        "en": "Lion`s Jungle",
+        "x-jat": "Lions Jungle"
+      },
+      "overview": "Instead of training, Robin, Jaxon and Multi set off to Lions Jungle to scout out their opponents, Team Zooganic, to see if they could gather any intel.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10143463/screencap/6552364121949.jpg",
+      "airDate": "2023-11-10T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Team Zooganic",
+      "titles": {
+        "ja": "チームズーガニック",
+        "en": "Team Zooganic",
+        "x-jat": "Team Zooganic"
+      },
+      "overview": "It's Team Persona's debut match, they're set to go head-to-head with the inimitable Team Zooganic.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10156054/screencap/655ca886ab9df.jpg",
+      "airDate": "2023-11-17T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "The Mask and the King",
+      "titles": {
+        "ja": "仮面と獅子王",
+        "en": "The Mask and the King",
+        "x-jat": "Kamen to Shishiou"
+      },
+      "overview": "The Persona-Zooganic showdown is locked at one point each; it has all come down to Jaxon's battle with Zooganic's leader, Titus Manju.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10076429/screencap/65662e9dd4265.jpg",
+      "airDate": "2023-11-24T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Beycrafter",
+      "titles": {
+        "ja": "ベイクラフター",
+        "en": "Beycrafter",
+        "x-jat": "Beycrafter"
+      },
+      "overview": "After their victory against Team Zooganic, Multi uses some Beycrafting skills to help Robin improve his game.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10076430/screencap/656f149bd9cad.jpg",
+      "airDate": "2023-12-01T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "The Pro Realm",
+      "titles": {
+        "ja": "プロの世界",
+        "en": "The Pro Realm",
+        "x-jat": "Pro no Sekai"
+      },
+      "overview": "Team Phalanx is hanging on to their sponsorship by a thread, with their upcoming match with Team Persona their last chance to stay in the limelight.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10188325/screencap/6577aa720a35f.jpg",
+      "airDate": "2023-12-08T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Warden`s Exam",
+      "titles": {
+        "ja": "カドバーの試験",
+        "en": "Warden`s Exam",
+        "x-jat": "Kadovar no Shiken"
+      },
+      "overview": "After failing Warden's Exam, Robin wonders if he can ever get to the same level as his teammates.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10201004/screencap/6581d7e5117d1.jpg",
+      "airDate": "2023-12-15T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "The Final Battle",
+      "titles": {
+        "ja": "最後の闘い",
+        "en": "The Final Battle",
+        "x-jat": "Saigo no Tatakai"
+      },
+      "overview": "Team Persona enters the Solo Battle Fest, a series of exhibition matches in which Bladers showcase their individual personalities and skills.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10208789/screencap/658d98c0a70b8.jpg",
+      "airDate": "2023-12-22T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": "The First Fan",
+      "titles": {
+        "ja": "ファン第一号",
+        "en": "The First Fan",
+        "x-jat": "Fan Dai Ichigou"
+      },
+      "overview": "With all eyes on the mysterious Blader X and the multi-talented Multi Nana-iro, Robin's losing streak starts to weigh on his confidence, until he finds his first fan.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10235061/screencap/65a9ef5361e9d.jpg",
+      "airDate": "2024-01-05T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 14,
+      "title": "Jax-ercise",
+      "titles": {
+        "ja": "エクスエクササイズ",
+        "en": "Jax-ercise",
+        "x-jat": "Ekusu Exercise"
+      },
+      "overview": "Recently, feeling a lack of tension and noticing laxity in Ekusu, Meiden orders specialized training at the Blader Gym. If Ekusu completes the training menu, there's a bonus of Meiden personally becoming the opponent in a Beybattle. Presented with a case containing various Beys, Ekusu's excitement reaches its peak! The prepared menu includes strength training, running, and even swimming, unrelated to battles. Meiden emphasizes that this training is not just for Ekusu but also for Bird...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10235062/screencap/65a9f20cc4260.jpg",
+      "airDate": "2024-01-12T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 15,
+      "title": "Riddles and Beys",
+      "titles": {
+        "ja": "ナゾアンドベイ",
+        "en": "Riddles and Beys",
+        "x-jat": "Nazo and Bey"
+      },
+      "overview": "The invitation to the new sensation theme park \"Zonamos House,\" where you can enjoy both the bey and riddles simultaneously, has been extended to the influencer, Multi. In the most popular 4X attraction, \"Riddles and Bey,\" numerous riddles and battles with unknown creatures await, challenging Bird's Team Persona. They collaborate to overcome various challenges, ultimately reaching a mysterious figure who presents further riddles to Persona!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10271298/screencap/65b3cddad0d77.jpg",
+      "airDate": "2024-01-19T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 16,
+      "title": "Noblesse Oblige",
+      "titles": {
+        "ja": "ノブレスオブリージュ",
+        "en": "Noblesse Oblige",
+        "x-jat": "Noblesse Oblige"
+      },
+      "overview": "In the main attraction of Zonamos House, \"Riddles and Beys,\" the Persona who cleared numerous riddles faces further challenges from Zonamos, the caretaker of Zonamos House. Despite struggling to solve the riddles that started with the cry \"Do it!\" by Kamen X and Bird, Multi notices something while watching their battle. Although it's said that no one has ever cleared \"Riddles and Beys\" before, can Persona overcome it?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10271317/screencap/65b3d3a3ce465.jpg",
+      "airDate": "2024-01-26T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 17,
+      "title": "Bey Timeshift",
+      "titles": {
+        "ja": "ベイタイムシフト",
+        "en": "Bey Timeshift",
+        "x-jat": "Bey Timeshift"
+      },
+      "overview": "A mysterious Bey scattered throughout X City. By the time Bird became aware of its existence, it had already fallen into the hands of many bladers. The power of amateur bladers wielding it rivaled that of professionals, and even the shots fired by innocent children in battle were moving at speeds beyond the eye's ability to track with that Bey. Bird, witnessing this phenomenon everywhere, was astonished. The mysterious Bey boasting overwhelming speed enveloped X City...!!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10311695/screencap/65ccdd47018c4.jpg",
+      "airDate": "2024-02-02T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 18,
+      "title": "Pride",
+      "titles": {
+        "ja": "プライド",
+        "en": "Pride",
+        "x-jat": "Pride"
+      },
+      "overview": "Due to declining popularity, the professional status of Phalanx is in jeopardy as they prepare for their third showdown. At the behest of sponsors, all members of Phalanx were seen using the mysterious Bey that's been the talk of the city. As they climb X Tower with consecutive victories, they once again stand before Persona! Will Ishiyama and his team, determined to win at all costs to secure a permanent sponsor, come at them?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10311696/screencap/65ccdda80a7da.jpg",
+      "airDate": "2024-02-09T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 19,
+      "title": "Zip and Zoom",
+      "titles": {
+        "ja": "DATTO",
+        "en": "Zip and Zoom",
+        "x-jat": "Datto"
+      },
+      "overview": "Persona participates as a guest in the \"DATTO\" event hosted by Zooganic's King Manju. Bird is mistaken for an amateur participant for some reason and ends up joining on the run side! Throughout various locations, Beybattles unfold, with some amateur bladers even using the mysterious Bey that's the talk of X City. As the finale approaches, even the seasoned pro bladers begin to show signs of fatigue. Amidst both pros and amateurs dropping out, who manages to stay until the very end...!?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10325251/screencap/65d6ad054f4b5.jpg",
+      "airDate": "2024-02-16T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 20,
+      "title": "Memories of Sushi",
+      "titles": {
+        "ja": "寿司のメモリー",
+        "en": "Memories of Sushi",
+        "x-jat": "Sushi no Memory"
+      },
+      "overview": "Bird discovers a talent outside of Beyblade! His amazing skills for sushi-making end up reminding former top player Ekusu of his past...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10346271/screencap/65e0c5187d53e.jpg",
+      "airDate": "2024-02-23T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 21,
+      "title": "Pop Production",
+      "titles": {
+        "ja": "モテプロデュース",
+        "en": "Pop Production",
+        "x-jat": "Mote Produce"
+      },
+      "overview": "\"Stop neglecting your appearance so much!\" scolded by Multi, Ekusu and Bird were taken to the Blader-exclusive apparel shop \"Bladers Dress\" to tidy up. While Bird was looking for clothes in the store, a person introducing themselves as the Ambassador told him that he lacked charm as a pro Blader. Furthermore, when told that the shoot for measuring Blader characteristics was \"disappointing\", Bird, unsatisfied, challenges to a battle...!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10354818/screencap/65f0859cb6bf2.jpg",
+      "airDate": "2024-03-01T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 22,
+      "title": "Black and White",
+      "titles": {
+        "ja": "BLACK&WHITE",
+        "en": "Black and White",
+        "x-jat": "Black & White"
+      },
+      "overview": "The next battle has already been set to be against the formidable newly formed Team Yggdrasil! As Nekoyama Zonamos and Namba Yuni step onto the stage, the tension rises up and beyond. That, however, is nothing compared to when their leader...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10372665/screencap/65f0868a11152.jpg",
+      "airDate": "2024-03-08T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 23,
+      "title": "True Heart",
+      "titles": {
+        "ja": "本当の心",
+        "en": "True Heart",
+        "x-jat": "Hontou no Kokoro"
+      },
+      "overview": "The second battle between Team Ygdrassil and Team Persona commences! As Nanairo Multi and Namba Yuni fight, the latter proposes to bet on their influencer careers...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10383470/screencap/65f5a4823cf94.jpg",
+      "airDate": "2024-03-15T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 24,
+      "title": "Arrival of the Fastest",
+      "titles": {
+        "ja": "最速の降臨",
+        "en": "Arrival of the Fastest",
+        "x-jat": "Saisoku no Kourin"
+      },
+      "overview": "As the final battle with Team Yggdrasil closes in, their leader Fujiwara Burn finally arrives with a beyblade that seems to surpass its predecessor, Phoenix Feather, which has caused chaos within X City..!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10411303/screencap/667ebc0c8229b.jpg",
+      "airDate": "2024-03-22T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 25,
+      "title": "Proof of the Fastest",
+      "titles": {
+        "ja": "最速の証明",
+        "en": "Proof of the Fastest",
+        "x-jat": "Saisoku no Shoumei"
+      },
+      "overview": "The battle between Persona and Yggdrasil that will determine the team's victory or defeat has finally begun. Kamen X launches his signature Extreme Dash attack, but Burn responds with a confident smile, ready to face it head-on! Despite using his greatest weapon, speed, Kamen X is surpassed by Burn and finds himself in a tight spot. Can Kamen X emerge victorious in the battle against Burn, who has triggered \"Bey Time Shift\"?! What will be the fate of Persona's team survival?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10413460/screencap/667ebc4b34529.jpg",
+      "airDate": "2024-03-29T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 26,
+      "title": "Invitation",
+      "titles": {
+        "ja": "インビテーション",
+        "en": "Invitation",
+        "x-jat": "Invitation"
+      },
+      "overview": "The \"Shuffle Battle Festival\" begins, the rules of which demand existing teams to be broken up and for each member to be assigned to a new one! During this event, however, the winners are not chosen by their amount of victories or losses, but their popularity..?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10428125/screencap/66104fdabe755.jpg",
+      "airDate": "2024-04-05T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 26,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 27,
+      "title": "The End of Persistence",
+      "titles": {
+        "ja": "不屈の最後",
+        "en": "The End of Persistence",
+        "x-jat": "Fukutsu no Saigo"
+      },
+      "overview": "As Byrd passes by the amateur arena, he hears abuse. For some reason, Ishiyama continued to fight against many amateurs without breaking the losing blader's bay. Ishiyama notices Bird and challenges him to a battle, but after many battles, he has clearly exceeded his limits, and he looks thoughtful, as if something is wrong with him... Before long, he has his own bey and starts doing strange things...! Then, an unexpected person appears...! ?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10446564/screencap/661d359f24393.jpg",
+      "airDate": "2024-04-12T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 27,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 28,
+      "title": "The King and the Phoenix",
+      "titles": {
+        "ja": "王とフェニックス",
+        "en": "The King and the Phoenix",
+        "x-jat": "Ou to Phoenix"
+      },
+      "overview": "It's time to let the Shuffle Battle Fest commence! As both active and retired players are brought back to battle within mixed teams, viewers are eager to watch the opening match between unexpected bladers..!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10459522/screencap/6626a80bb25de.jpg",
+      "airDate": "2024-04-19T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 28,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 29,
+      "title": "Mask and Meat Buns",
+      "titles": {
+        "ja": "仮面と肉まん",
+        "en": "Mask and Meat Buns",
+        "x-jat": "Kamen to Nikuman"
+      },
+      "overview": "The battle between Kamen X and Pan begins. King talks about his encounter with the members of Zooganic, and says that he will realize that his friends are truly strong. How will Kamen Will Persona be able to perform well at the Shuffle Battle Festival and collect votes? ? In the final match of each team, the unexpected Blader finally appears! How will the 4X mascot AI, Ichigo-chan, fight? ?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10470601/screencap/662d47127165c.jpg",
+      "airDate": "2024-04-26T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 29,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 30,
+      "title": "Riddles and Pop",
+      "titles": {
+        "ja": "ナゾとモテ",
+        "en": "Riddles and Pop",
+        "x-jat": "Nazo to Mote"
+      },
+      "overview": "On the second day of the Shuffle Battle Festival, a battle begins between the team \"Multi-sama and I\", to which Multi belongs, and the team \"Otokogoma\". Zonamos, who appeared in the first battle, proposes a mysterious Bey battle that he is good at! Toguro was reluctant to accept Nazotoki, but was pushed along by the excitement at the venue and decided to accept. In the ensuing battle, the man who is closely related to Yuni and Persona clash! ! What will be the outcome of these two battles...?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10483026/screencap/6637dbf21862e.jpg",
+      "airDate": "2024-05-03T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 30,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 31,
+      "title": "My Teammates",
+      "titles": {
+        "ja": "ボクの仲間",
+        "en": "My Teammates",
+        "x-jat": "Boku no Nakama"
+      },
+      "overview": "The battle between teams “Multi-sama and I” and “Otokogoma” has finally reached the final battle! The third battle is a showdown between Multi and Cadover, who also operates the X Tower! Maruti will appear on stage with a flashy performance and liven up the venue wearing idol costumes. Persona is conscious of gaining votes as a team, and Multi works for her friends to stand out, but Cadover starts bringing up stories about Multi when she was working as a one-person team even before the battle…! ?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10491390/screencap/663fbf410d59a.jpg",
+      "airDate": "2024-05-10T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 31,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 32,
+      "title": "New Partner",
+      "titles": {
+        "ja": "新しい相棒",
+        "en": "New Partner",
+        "x-jat": "Atarashii Aibou"
+      },
+      "overview": "On the final day of the Shuffle Battle Fest, the team Bird belongs to, ``Class Visit'', will be participating. Due to the success of EX and Multi, votes are gathering for Persona, but they still haven't reached the number one spot in the team vote and need more appeal! After receiving advice, Bird switches to a customized launcher and takes on the battle with his new partner. Will Bird, who has prepared to the fullest, be able to perform well in this event and gather votes for Persona?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10491391/screencap/6648ed3210ba9.jpg",
+      "airDate": "2024-05-17T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 32,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 33,
+      "title": "Our Promise",
+      "titles": {
+        "ja": "人差し指の約束",
+        "en": "Our Promise",
+        "x-jat": "Hitosashiyubi no Yakusoku"
+      },
+      "overview": "Meiden will be competing in the final battle for Bird's team, \"Class Visit.\" Meiden was once a professional blader on a team that was expected to reach the top of the X Tower, but due to certain circumstances, he retired from active duty. The audience, who knew of his past achievements, are excited by Meiden's appearance. Before the battle, Meiden says something cryptic while holding his Bey. What is his intention in participating in this Shuffle Battle Fest...?! And so the event ends, and the curtains rise on another battle.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10491392/screencap/66586851b3b08.jpg",
+      "airDate": "2024-05-24T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 33,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 34,
+      "title": "A Rainbow Guest",
+      "titles": {
+        "ja": "七色の来客",
+        "en": "A Rainbow Guest",
+        "x-jat": "Nanairo no Raikyaku"
+      },
+      "overview": "While Ex and Bird are helping out at Komaba Sushi, Nanairo Shiguru, a member of the X Tower champion team, suddenly visits the store. Shiguru doesn't acknowledge the abilities of the other members except Persona Ex, and asks Ex if he's not going back to Pendragon, but Ex suggests that Shiguru battle Bird. Then Multi appears, and an unexpected relationship between them is revealed...! Can Persona prove the strength of their team to Shiguru?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10491393/screencap/665cbe405ec28.jpg",
+      "airDate": "2024-05-31T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 34,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 35,
+      "title": "The Dream Contest",
+      "titles": {
+        "ja": "夢の競演",
+        "en": "The Dream Contest",
+        "x-jat": "Yume no Kyouen"
+      },
+      "overview": "The All-Star Battle begins, a battle between those chosen by vote in the Shuffle Battle Fest! Persona's opponent is the impromptu team \"Dreams,\" formed from the top three individual votes. One of the team members, Blader Manjuu Quinn, said to be a living legend, changes the battle format to a knockout tournament! The first blader, Bird, faces off against the super popular Beytuber Pakkun. What he pulls out is the same Bey as Bird...?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10520050/screencap/66644860a77c1.jpg",
+      "airDate": "2024-06-07T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 35,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 36,
+      "title": "Bladership",
+      "titles": {
+        "ja": "ブレーダーシップ",
+        "en": "Bladership",
+        "x-jat": "Bladership"
+      },
+      "overview": "Multi is Persona's second blader who will face Pakkun, who won the first match of the All-Star Battle. Although he is a genius Beycrafter, Multi is quietly angry at Pakkun for using a Bird's Bey that was copied in a way that is unbecoming of a professional blader in the first match...! As confusion and criticism grow in the audience as they get closer to the truth about the Bey copy, Queen of the Beasts declares that the match will continue...!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10520051/screencap/666dc6fbd17fe.jpg",
+      "airDate": "2024-06-14T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 36,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 37,
+      "title": "Unpredictable",
+      "titles": {
+        "ja": "予測不能",
+        "en": "Unpredictable",
+        "x-jat": "Yosoku Funou"
+      },
+      "overview": "Dreams' second Blader is Jyura Rex, known as the Undefeated Killer. He is known for his ferocity, and is overwhelmingly popular with fans looking for thrilling battles. The crowd erupts in cheers as Rex appears! From start to finish, Rex keeps jumping around and rampaging, repeating unpredictable onslaughts, forcing the Personas into a difficult battle. Bird and Multi are worried about Masked X in this battle where they don't know what's going to happen, but Masked X, who approaches the battle as usual, uses an unexpected strategy!?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10520053/screencap/6675c1235e011.jpg",
+      "airDate": "2024-06-21T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 37,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 38,
+      "title": "Return of the Queen",
+      "titles": {
+        "ja": "女王の帰還",
+        "en": "Return of the Queen",
+        "x-jat": "Joou no Kikan"
+      },
+      "overview": "The crowd erupts in cheers as the final battle decides whether Queen of the Beasts, who holds a record of 9,999 wins and 9 losses, will achieve her 10,000th victory, or whether Kamen X will break his undefeated record!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10520054/screencap/668169c4d9515.jpg",
+      "airDate": "2024-06-28T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 38,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 39,
+      "title": "The Greatest Blader",
+      "titles": {
+        "ja": "最高のブレーダー",
+        "en": "The Greatest Blader",
+        "x-jat": "Saikou no Blader"
+      },
+      "overview": "The match was decided in a fierce clash between the Ten Thousand Beasts Queen, who was able to parry and nullify the opponent's attacks, and Masked X, who unleashed an unknown extreme dash.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10569164/screencap/66883a6e4c7e0.jpg",
+      "airDate": "2024-07-05T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 39,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 40,
+      "title": "The Other Mask",
+      "titles": {
+        "ja": "もうひとつの仮面",
+        "en": "The Other Mask",
+        "x-jat": "Mou Hitotsu no Kamen"
+      },
+      "overview": "Suddenly, Bird is challenged to a battle by a mysterious Masked Y. Masked Y continues to appear throughout X City, challenging the professional bladers that Masked X has fought to battles.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10569165/screencap/6692d2141b2dc.jpg",
+      "airDate": "2024-07-12T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 40,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 41,
+      "title": "The Three Masks",
+      "titles": {
+        "ja": "3つの仮面",
+        "en": "The Three Masks",
+        "x-jat": "Mittsu no Kamen"
+      },
+      "overview": "Following Masked Y, Masked Z appears, hunting down professional Bladers.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10569166/screencap/669aedb5890c2.jpg",
+      "airDate": "2024-07-19T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 41,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 42,
+      "title": "XYZ",
+      "titles": {
+        "ja": "XYZ",
+        "en": "XYZ",
+        "x-jat": "XYZ"
+      },
+      "overview": "Z challenges X to a battle, but suddenly stops the battle and leaves.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10569167/screencap/66a3f759ef26b.jpg",
+      "airDate": "2024-07-26T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 42,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 43,
+      "title": "Pendragon, Back Then",
+      "titles": {
+        "ja": "あの日のペンドラゴン",
+        "en": "Pendragon, Back Then",
+        "x-jat": "Ano Hi no Pendragon"
+      },
+      "overview": "Since his professional debut, Pendragon has been winning consecutive games, steadily climbing to the top.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10626688/screencap/66b672b57f9ba.jpg",
+      "airDate": "2024-08-09T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 43,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 44,
+      "title": "Family, Back Then",
+      "titles": {
+        "ja": "あの日の家族",
+        "en": "Family, Back Then",
+        "x-jat": "Ano Hi no Kazoku"
+      },
+      "overview": "As Bird worries about which Bey to use in the final battle, Multi begins to tell him about his past. No matter how hard he tries, he can't beat Shiguru with his Beyblade...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10626689/screencap/66be4a244cf6f.jpg",
+      "airDate": "2024-08-16T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 44,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 45,
+      "title": "You, Back Then",
+      "titles": {
+        "ja": "あの日のあなた",
+        "en": "You, Back Then",
+        "x-jat": "Ano Hi no Anata"
+      },
+      "overview": "A blader with dreams takes his first steps into X City. Although he performs as well as an amateur, the wall to become a professional is high and steep.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10626690/screencap/66c92ec176b06.jpg",
+      "airDate": "2024-08-23T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 45,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 46,
+      "title": "Time Off",
+      "titles": {
+        "ja": "オフ",
+        "en": "Time Off",
+        "x-jat": "Off"
+      },
+      "overview": "Just before the summit showdown, Bird is given a day off to rest and get away from his Beys, so he and X return to their hometown.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10626691/screencap/66da20bed340b.jpg",
+      "airDate": "2024-08-30T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 46,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 47,
+      "title": "Battle at the Top",
+      "titles": {
+        "ja": "頂上決戦",
+        "en": "Battle at the Top",
+        "x-jat": "Choujou Kessen"
+      },
+      "overview": "Finally, the summit decisive battle approaching tomorrow. With the thoughts for the actual performance, each spends the night the night... On the day of the greeting, Persona was surrounded by the press.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10684378/screencap/66ddfc1ae17dd.jpg",
+      "airDate": "2024-09-06T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 47,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 48,
+      "title": "The Nana-iro Showdown",
+      "titles": {
+        "ja": "七色の決着",
+        "en": "The Nana-iro Showdown",
+        "x-jat": "Nanairo no Kecchaku"
+      },
+      "overview": "In the first battle of the Summit Showdown, Shiguru and Multi face off.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10684379/screencap/66e59de3d370f.jpg",
+      "airDate": "2024-09-13T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 48,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 49,
+      "title": "Something Xtraordinary",
+      "titles": {
+        "ja": "ミエナイモノ",
+        "en": "Something Xtraordinary",
+        "x-jat": "Mienai Mono"
+      },
+      "overview": "While Z and Bird were in high spirits, it was Ryugu Chrome who stepped up as the second blader. In response, X stepped forward as well.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10707701/screencap/66ef40f557f91.jpg",
+      "airDate": "2024-09-20T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 49,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 50,
+      "title": "The Two Xs",
+      "titles": {
+        "ja": "ふたりのX",
+        "en": "The Two Xs",
+        "x-jat": "Futari no X"
+      },
+      "overview": "The head-on collision between the two Extreme Dashes was so powerful that it caused a crack in the Doranbuster.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10707702/screencap/66f86d693197a.jpg",
+      "airDate": "2024-09-27T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 50,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 51,
+      "title": "The Most Fun Ever",
+      "titles": {
+        "ja": "最高の遊び",
+        "en": "The Most Fun Ever",
+        "x-jat": "Saikou no Asobi"
+      },
+      "overview": "The final battle of the summit showdown has finally come.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10733546/screencap/6702e740d5d82.jpg",
+      "airDate": "2024-10-04T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 51,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 52,
+      "title": "Restart",
+      "titles": {
+        "ja": "Re:[リスタート]",
+        "en": "Restart",
+        "x-jat": "Restart"
+      },
+      "overview": "After the Summit Battle, Persona vows to reach the top once again!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10733547/screencap/67115d1118ab6.jpg",
+      "airDate": "2024-10-18T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 52,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 53,
+      "title": "Signs of a New Era",
+      "titles": {
+        "ja": "新時代の予兆",
+        "en": "Signs of a New Era",
+        "x-jat": "Shinjidai no Yochou"
+      },
+      "overview": "Zooganic and Yggdrasil are strong candidates to challenge for the title match. However, Burn, who has refused to play against any other team, seems to have a plan...?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10733548/screencap/671d21dcd3bce.jpg",
+      "airDate": "2024-10-25T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 53,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 54,
+      "title": "Path of Resolve",
+      "titles": {
+        "ja": "決意の道",
+        "en": "Path of Resolve",
+        "x-jat": "Ketsui no Michi"
+      },
+      "overview": "Senior Director Gigatani won't allow Pendragon to compete in the official match without Chrome.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10763486/screencap/672e70f72bbc9.jpg",
+      "airDate": "2024-11-01T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 54,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 55,
+      "title": "Advance Bey Timeshift",
+      "titles": {
+        "ja": "更なるベイタイムシフト",
+        "en": "Advance Bey Timeshift",
+        "x-jat": "Saranaru Bey Time Shift"
+      },
+      "overview": "In response to Burn's request to try out the Phoenix Ladder, Ishiyama visits Yggdrasil Pharmaceuticals.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10763487/screencap/672e740645e5d.jpg",
+      "airDate": "2024-11-08T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 55,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 56,
+      "title": "Star Plot",
+      "titles": {
+        "ja": "白き陰謀",
+        "en": "Star Plot",
+        "x-jat": "Shiroki Inbou"
+      },
+      "overview": "Shiroboshi Tenka suddenly appears at Komaba Sushi. He comes with the intention of having a bey battle with Masked X, but Masked X himself is not there.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10763488/screencap/673cd705e3813.jpg",
+      "airDate": "2024-11-15T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 56,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 57,
+      "title": "Tri-Blader Battle",
+      "titles": {
+        "ja": "三つ巴の戦い",
+        "en": "Tri-Blader Battle",
+        "x-jat": "Mitsudomoe no Tatakai"
+      },
+      "overview": "Finally, Persona's next match has been decided! When they head to X Tower without knowing the details, three teams have been called: Persona, Yggdrasil, and Zooganic.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10763490/screencap/67419e45369da.jpg",
+      "airDate": "2024-11-22T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 57,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 58,
+      "title": "Triple Battle",
+      "titles": {
+        "ja": "トリプルバトル",
+        "en": "Triple Battle",
+        "x-jat": "Triple Battle"
+      },
+      "overview": "Multi, Pan, and Zonamos were chosen as the second bladers for the triple battle.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10763492/screencap/674b6a815cdd1.jpg",
+      "airDate": "2024-11-29T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 58,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 59,
+      "title": "Blader S",
+      "titles": {
+        "ja": "仮面S",
+        "en": "Blader S",
+        "x-jat": "Kamen S"
+      },
+      "overview": "The third bladers are Mask S, King and Burn! A heated battle ensues, and who will initiate the fight...?! And from B4, the new stadium will be unveiled for the first time in the world!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10833046/screencap/6751ad5dc879b.jpg",
+      "airDate": "2024-12-06T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 59,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 60,
+      "title": "Multi-Colored Trial",
+      "titles": {
+        "ja": "七色の試練",
+        "en": "Multi-Colored Trial",
+        "x-jat": "Nanairo no Shiren"
+      },
+      "overview": "Convinced that we are entering a new era, Burn, Zonamos, and Yuni come to Yggdrasil Pharmaceuticals' research lab on an isolated island. The sudden visitor seems to know the details of Mask S...?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10833047/screencap/675f7b418cb52.jpg",
+      "airDate": "2024-12-13T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 60,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 61,
+      "title": "Invincible",
+      "titles": {
+        "ja": "必勝不敗",
+        "en": "Invincible",
+        "x-jat": "Hisshou Fuhai"
+      },
+      "overview": "Mask X readily accepts Tenka's condition that he will listen to his orders if he wins the battle, and they battle in the Double Extreme Stadium that he had prepared!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10833048/screencap/67683be5b7982.jpg",
+      "airDate": "2024-12-20T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 61,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 62,
+      "title": "The Prestigious Bey Academy",
+      "titles": {
+        "ja": "私立ベイアカデミー",
+        "en": "The Prestigious Bey Academy",
+        "x-jat": "Shiritsu Bey Academy"
+      },
+      "overview": "A special lesson taught by my teacher, Mr. Megaoka. Although confused, Maruti gradually remembers the basics of Baycraft...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10833049/screencap/6770a051c2a7e.jpg",
+      "airDate": "2024-12-27T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 62,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 63,
+      "title": "The Manju Clan",
+      "titles": {
+        "ja": "万獣家の一族",
+        "en": "The Manju Clan",
+        "x-jat": "Manjuu-ke no Ichizoku"
+      },
+      "overview": "To train in baycraft, Multi visits Animal Castle, home to the Ten Thousand Beasts. Multi is overwhelmed by the warm hospitality shown to her by King and Quinn's family.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10875954/screencap/67881085abe23.jpg",
+      "airDate": "2025-01-10T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 63,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 64,
+      "title": "The Shapeless Shadow",
+      "titles": {
+        "ja": "形無き影",
+        "en": "The Shapeless Shadow",
+        "x-jat": "Katachi Naki Kage"
+      },
+      "overview": "Multi, who is working hard on his Beycraft, takes a break and has a Bey battle with Joca. What advice did Joca give Multi?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10875955/screencap/678abcb4d32d0.jpg",
+      "airDate": "2025-01-17T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 64,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 65,
+      "title": "First Flight",
+      "titles": {
+        "ja": "始まりの翼",
+        "en": "First Flight",
+        "x-jat": "Hajimari no Tsubasa"
+      },
+      "overview": "Bird tells Tenka how he got started with Beyblade. His reaction when he first got the chance to play with a Beyblade was in stark contrast to how he is now...!?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10875956/screencap/67992467f1383.jpg",
+      "airDate": "2025-01-24T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 65,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 66,
+      "title": "Something Captivating",
+      "titles": {
+        "ja": "夢中になれるものを",
+        "en": "Something Captivating",
+        "x-jat": "Muchuu ni Nareru Mono o"
+      },
+      "overview": "Tsubasa is afraid of winning, but Bird yells at him to give it his all! The reason why Bird aims to become a professional blader is now revealed!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10875957/screencap/679d125d5df14.jpg",
+      "airDate": "2025-01-31T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 66,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 67,
+      "title": "Silver Wolf",
+      "titles": {
+        "ja": "銀の狼",
+        "en": "Silver Wolf",
+        "x-jat": "Gin no Ookami"
+      },
+      "overview": "Masked X and Bird visit Pakkun for some intensive training. The next day, a disturbing video is posted... Meanwhile, Masked X wants to introduce his master to Bird and Tenka. Who is that master...?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10933125/screencap/67a4fef8946e0.jpg",
+      "airDate": "2025-02-07T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 67,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 68,
+      "title": "Light and Dark",
+      "titles": {
+        "ja": "表と裏",
+        "en": "Light and Dark",
+        "x-jat": "Omote to Ura"
+      },
+      "overview": "Ginrou invites Ex to join him in a fight to protect the world from the underground gang. Ex's future will depend on a triple battle with Tenka! What will the outcome be?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10933126/screencap/67af92092096a.jpg",
+      "airDate": "2025-02-14T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 68,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 69,
+      "title": "Shadowy Underground",
+      "titles": {
+        "ja": "裏の世界",
+        "en": "Shadowy Underground",
+        "x-jat": "Ura no Sekai"
+      },
+      "overview": "Ginrou and his group arrive at an abandoned warehouse and begin battling the underground pros, with the condition that if they win, they will be able to take Pakkun home!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10933127/screencap/67bb0b8562ab1.jpg",
+      "airDate": "2025-02-21T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 69,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 70,
+      "title": "Dread Dragon",
+      "titles": {
+        "ja": "魔龍",
+        "en": "Dread Dragon",
+        "x-jat": "Maryuu"
+      },
+      "overview": "It's the day of the exhibition match! Just as Ciel is beginning to walk his own path to becoming the strongest, Blade appears suddenly in front of him...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10933128/screencap/67c05544190b5.jpg",
+      "airDate": "2025-02-28T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 70,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 71,
+      "title": "To That Place",
+      "titles": {
+        "ja": "その場所へ",
+        "en": "To That Place",
+        "x-jat": "Sono Basho e"
+      },
+      "overview": "Omega hands Chrome a Bey with forbidden power! He witnesses the power of the Demon Dragon with his own eyes... What path will Chrome choose...?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10988266/screencap/67c9fdddeec65.jpg",
+      "airDate": "2025-03-07T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 71,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 72,
+      "title": "Labyrinth of Riddles and Terror",
+      "titles": {
+        "ja": "恐怖の謎迷宮",
+        "en": "Labyrinth of Riddles and Terror",
+        "x-jat": "Kyoufu no Nazo Meikyuu"
+      },
+      "overview": "The promotional event for the new stadium has begun! Bird goes to check out the identity of the ghost he saw on the security camera, but what awaits him...?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10988267/screencap/67d34bfa1cfec.jpg",
+      "airDate": "2025-03-14T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 72,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 73,
+      "title": "The Star Battle",
+      "titles": {
+        "ja": "白星決闘[スターバトル]",
+        "en": "The Star Battle",
+        "x-jat": "Star Battle"
+      },
+      "overview": "At Tenka's request, Persona decides to join the duel for a win, but he notices a familiar face among his opponents! Persona's first match begins!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10988268/screencap/67dc80da0aeaf.jpg",
+      "airDate": "2025-03-21T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 73,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 74,
+      "title": "Cursed",
+      "titles": {
+        "ja": "呪い",
+        "en": "Cursed",
+        "x-jat": "Noroi"
+      },
+      "overview": "Persona vs. Gordius, a showdown between leaders and Karla! Bird is reminded of the curse that was placed on Rayu some time ago...!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10988269/screencap/67e55378106d7.jpg",
+      "airDate": "2025-03-28T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 74,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 75,
+      "title": "Return of the Knight",
+      "titles": {
+        "ja": "リターンオブナイト",
+        "en": "Return of the Knight",
+        "x-jat": "Return of Knight"
+      },
+      "overview": "When Rayu tries to put a curse on him that he cannot win, Multi shows off his new bey and smiles fearlessly. How will the battle between the knight and the ghost end?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054296/screencap/67f041504bacd.jpg",
+      "airDate": "2025-04-04T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 75,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 76,
+      "title": "White Nova",
+      "titles": {
+        "ja": "白き新星",
+        "en": "White Nova",
+        "x-jat": "Shiroki Shinsei"
+      },
+      "overview": "What strategy will Tenka use against Iwao, who boasts a high winning rate?! As the battle nears its end, with both of their stamina depleted, the situation changes dramatically!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054297/screencap/67f828951f82c.jpg",
+      "airDate": "2025-04-11T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 76,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 77,
+      "title": "Blue Dragon and Dread Dragon",
+      "titles": {
+        "ja": "青き龍と魔龍",
+        "en": "Blue Dragon and Dread Dragon",
+        "x-jat": "Aoki Ryuu to Maryuu"
+      },
+      "overview": "Ekusu reunites with Khrome at the street battle arena. Ekusu is excited to fight Khrome again, but...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054298/screencap/68013e50f3a38.jpg",
+      "airDate": "2025-04-18T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 77,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 78,
+      "title": "Customization",
+      "titles": {
+        "ja": "カスタマイズ",
+        "en": "Customization",
+        "x-jat": "Customize"
+      },
+      "overview": "Toguro and Pan visit Animal Castle to try customizing their bays. What is Quinn's true purpose in sending them out?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11054299/screencap/680a7993bb534.jpg",
+      "airDate": "2025-04-25T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 78,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 79,
+      "title": "King and Queen",
+      "titles": {
+        "ja": "王と女王",
+        "en": "King and Queen",
+        "x-jat": "Ou to Joou"
+      },
+      "overview": "In order to attract attention, Pakkun plans to have Dreams enter a duel for a win. He skillfully convinces Quinn and Rex to reunite, but who will be their first opponent?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11102351/screencap/6813f589cf89f.jpg",
+      "airDate": "2025-05-02T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 79,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 80,
+      "title": "The Gradual One",
+      "titles": {
+        "ja": "最遅の者",
+        "en": "The Gradual One",
+        "x-jat": "Saichi no Mono"
+      },
+      "overview": "Ishiyama was invited as a guest to a special program. Byrne said he wanted to master the slowest, the opposite of the fastest, but on the way home he couldn't understand what he meant...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11102352/screencap/681cb91cc5922.jpg",
+      "airDate": "2025-05-09T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 80,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 81,
+      "title": "All In",
+      "titles": {
+        "ja": "オールイン",
+        "en": "All In",
+        "x-jat": "All In"
+      },
+      "overview": "The new Persona bay will be unveiled against Phalanx. This highly anticipated battle will test the true worth of the new bay!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11102353/screencap/6827aed1464e0.jpg",
+      "airDate": "2025-05-16T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 81,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 82,
+      "title": "Multi-Colored Decision",
+      "titles": {
+        "ja": "七色の決意",
+        "en": "Multi-Colored Decision",
+        "x-jat": "Nanairo no Ketsui"
+      },
+      "overview": "After Pendragon was defeated in the Ultimate Summit Battle, Multi appears with a new Bey and challenges Shiguru to a duel for victory. What will be the outcome of the 10,002nd showdown with his sister?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11102354/screencap/6832616d774dd.jpg",
+      "airDate": "2025-05-23T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 82,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 83,
+      "title": "Partner",
+      "titles": {
+        "ja": "相棒",
+        "en": "Partner",
+        "x-jat": "Aibou"
+      },
+      "overview": "Bird is anxious because he can't draw out the power of the new Bey Hell's Reaper. Unable to bear it any longer, Meiden takes Bird to the beach. What is his goal?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11102355/screencap/6838aed9efdc0.jpg",
+      "airDate": "2025-05-30T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 83,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 84,
+      "title": "Proxy Conflict",
+      "titles": {
+        "ja": "代理戦争",
+        "en": "Proxy Conflict",
+        "x-jat": "Dairisensou"
+      },
+      "overview": "The Personas use beys created by Multi, while the Zooganics use beys created by the Manjuu Clan, and the duel is fought under special rules, with the Beycrafter proxy war, so to speak, beginning!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167488/screencap/685d56815f03a.jpg",
+      "airDate": "2025-06-06T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 84,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 85,
+      "title": "Pop vs Curse",
+      "titles": {
+        "ja": "モテVS.[たい]呪い",
+        "en": "Pop vs Curse",
+        "x-jat": "Mote tai Noroi"
+      },
+      "overview": "A duel between Gordius and Yggdrasil! With a minimum of 20 wins bet on each set, the battle becomes tense!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167489/screencap/685d56f46bec0.jpg",
+      "airDate": "2025-06-13T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 85,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 86,
+      "title": "Red Confrontation",
+      "titles": {
+        "ja": "深紅の対決",
+        "en": "Red Confrontation",
+        "x-jat": "Shinku no Taiketsu"
+      },
+      "overview": "The fiery firebird showdown between Karla and Vern has finally begun! Who will burn their opponent to ashes and soar to greater heights on wings of fire?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167490/screencap/685807fd5789c.jpg",
+      "airDate": "2025-06-20T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 86,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 87,
+      "title": "Path of the Dread Dragon",
+      "titles": {
+        "ja": "魔龍の道",
+        "en": "Path of the Dread Dragon",
+        "x-jat": "Maryuu no Michi"
+      },
+      "overview": "Chrome is wandering alone in search of a stronger opponent when Blade appears and challenges him to a battle. He then uses Ex's name to provoke Chrome...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167491/screencap/685d4bc010b57.jpg",
+      "airDate": "2025-06-27T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 87,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 88,
+      "title": "Blading Soul",
+      "titles": {
+        "ja": "ベイ魂",
+        "en": "Blading Soul",
+        "x-jat": "Bey Damashii"
+      },
+      "overview": "After learning from Ciel about Ginrou, a master he shares with Ex, Sigurd visits him to ask for his lessons. He takes on the training one by one, but it's not that easy...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167492/screencap/68686d98c8dc8.jpg",
+      "airDate": "2025-07-04T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 88,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 89,
+      "title": "What Must Be Done",
+      "titles": {
+        "ja": "果たすべきこと",
+        "en": "What Must Be Done",
+        "x-jat": "Hatasubeki Koto"
+      },
+      "overview": "Ciel is shocked to learn that Chrome has gone underground as Masked Y, but then he receives an invitation to joint training from an unexpected person...!?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167493/screencap/687ac867c0044.jpg",
+      "airDate": "2025-07-18T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 89,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 90,
+      "title": "Nine-Tailed Fox",
+      "titles": {
+        "ja": "九尾のキツネ",
+        "en": "Nine-Tailed Fox",
+        "x-jat": "Kyuubi no Kitsune"
+      },
+      "overview": "Yoko Kyubi, the leader of Miss Leaders, came to visit Pakkun after seeing his live stream. Yoko said she was a big fan, and Pakkun got carried away...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11167494/screencap/6883f20aa761f.jpg",
+      "airDate": "2025-07-25T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 90,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 91,
+      "title": "Dream Match",
+      "titles": {
+        "ja": "ドリームマッチ",
+        "en": "Dream Match",
+        "x-jat": "Dream Match"
+      },
+      "overview": "The first set of the Miss Leaders vs. Dreams match is a showdown between Fusaka Dokuga and Pakkun. Next up is a man who has extraordinary feelings for Quinn...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11260207/screencap/688df1e399c5c.jpg",
+      "airDate": "2025-08-01T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 91,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 92,
+      "title": "Perseus the Messenger",
+      "titles": {
+        "ja": "ペルセウスの使者",
+        "en": "Perseus the Messenger",
+        "x-jat": "Perseus no Shisha"
+      },
+      "overview": "Roji Lantz suddenly appears, challenging Bird to a battle with high risk and high reward. It may seem like a reckless challenge, but Bird accepts!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11260208/screencap/68951eb199ae0.jpg",
+      "airDate": "2025-08-08T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 92,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 93,
+      "title": "Super Champion Challenger Chooser Match",
+      "titles": {
+        "ja": "超頂上挑戦者決定戦",
+        "en": "Super Champion Challenger Chooser Match",
+        "x-jat": "Chou Choujou Chousensha Ketteisen"
+      },
+      "overview": "Bird, still feeling the frustration of his battle with Lantz, devotes himself to training. Meanwhile, the final battle to determine the ultimate challenger has been announced!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11260209/screencap/68a08cf073e6f.jpg",
+      "airDate": "2025-08-15T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 93,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 94,
+      "title": "Unknown",
+      "titles": {
+        "ja": "ミスリード",
+        "en": "Unknown",
+        "x-jat": "Mislead"
+      },
+      "overview": "The first set of the Ultimate Challenger Tournament is a showdown between Masked X and Isshin Ryu! Masked X's insensitive remarks only fuel Ryu's fighting spirit...!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11260210/screencap/68af61e8c2898.jpg",
+      "airDate": "2025-08-22T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 94,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 95,
+      "title": "Foxes Enchant, Tanukis Bewitch",
+      "titles": {
+        "ja": "狐七化け狸は八化け",
+        "en": "Foxes Enchant, Tanukis Bewitch",
+        "x-jat": "Kitsune Nanabake Tanuki wa Yabake"
+      },
+      "overview": "Multi challenges the superiorly skilled Kyuubi Yoko. In this battle, they deceive and trick each other! Will Multi's clever strategy be the winning move?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11260211/screencap/68b0df85bc96c.jpg",
+      "airDate": "2025-08-29T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 95,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 96,
+      "title": "Shiroboshi, Back Then",
+      "titles": {
+        "ja": "あの日の白星",
+        "en": "Shiroboshi, Back Then",
+        "x-jat": "Ano Hi no Shiroboshi"
+      },
+      "overview": "At the Hakusei-ryu dojo of the past, young Tenka trains hard with his senior disciples. ...And then his mother, Omega, disappears. What is the truth behind the parting that lies behind the battle between mother and son?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11330068/screencap/68c0824c8753d.jpg",
+      "airDate": "2025-09-05T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 96,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 97,
+      "title": "Star Battle Grand Final",
+      "titles": {
+        "ja": "白星最終決闘[スターバトルグランドファイナル]",
+        "en": "Star Battle Grand Final",
+        "x-jat": "Star Battle Grand Final"
+      },
+      "overview": "The day of the final battle has finally arrived. However, Masked X's Doran Brave is suspected of tampering, and Masked X himself is suspended from the competition!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11330069/screencap/68cf01737c1d3.jpg",
+      "airDate": "2025-09-12T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 97,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 98,
+      "title": "Never Defeated",
+      "titles": {
+        "ja": "絶対に負けない",
+        "en": "Never Defeated",
+        "x-jat": "Zettai ni Makenai"
+      },
+      "overview": "The second set of the final showdown is a showdown between Bird and Lantz! Can they overcome the overwhelming difference in skill?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11330070/screencap/68cf02b99cecb.jpg",
+      "airDate": "2025-09-19T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 98,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 99,
+      "title": "Supernova",
+      "titles": {
+        "ja": "スーパーノヴァ",
+        "en": "Supernova",
+        "x-jat": "Supernova"
+      },
+      "overview": "A supreme mother-daughter showdown between a former and current assistant instructor of the Hakusei-ryu. Who will be the one to claim the undefeated Hakusei-ryu?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11330071/screencap/68d70936d00cc.jpg",
+      "airDate": "2025-09-26T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 99,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 100,
+      "title": "Star Devourer",
+      "titles": {
+        "ja": "星を喰らうX[もの]",
+        "en": "Star Devourer",
+        "x-jat": "Hoshi o Kurau Mono"
+      },
+      "overview": "The final set is about to begin. Sparks fly as unprecedented clashes and power surpasses limits!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11330072/screencap/68e01c77caf12.jpg",
+      "airDate": "2025-10-03T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 100,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 101,
+      "title": "Annihilation",
+      "titles": {
+        "ja": "滅亡",
+        "en": "Annihilation",
+        "x-jat": "Metsubou"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11335184/screencap/690105b6ef68b.jpg",
+      "airDate": "2025-10-24T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 101,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 102,
+      "title": "Another X",
+      "titles": {
+        "ja": "二つのX",
+        "en": "Another X",
+        "x-jat": "Futatsu no X"
+      },
+      "overview": "The Persona group rushes outside after experiencing a violent tremor, only to be shocked by a sight. Furthermore, a giant hologram of Kurosu Zero declares that Beyblade is doomed...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11335185/screencap/690a4e527c85f.jpg",
+      "airDate": "2025-10-31T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 102,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 103,
+      "title": "Bey of the Future",
+      "titles": {
+        "ja": "未来のベイ",
+        "en": "Bey of the Future",
+        "x-jat": "Mirai no Bey"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11335186/screencap/691711ab5a57d.jpg",
+      "airDate": "2025-11-07T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 103,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 104,
+      "title": "Wolf and Sun",
+      "titles": {
+        "ja": "狼と太陽",
+        "en": "Wolf and Sun",
+        "x-jat": "Ookami to Taiyou"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423030/screencap/6917121ac4f9e.jpg",
+      "airDate": "2025-11-14T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 104,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 105,
+      "title": "Challenge from the Future",
+      "titles": {
+        "ja": "未来からの挑戦状",
+        "en": "Challenge from the Future",
+        "x-jat": "Mirai kara no Chousenjou"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423031/screencap/6920764764e4b.jpg",
+      "airDate": "2025-11-21T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 105,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 106,
+      "title": "As the Super-Champions",
+      "titles": {
+        "ja": "超頂上として",
+        "en": "As the Super-Champions",
+        "x-jat": "Chou Choujou Toshite"
+      },
+      "overview": "The Personas train hard with Emperor Might in hand. On the day of the battle at X Tower, Masked X proposes a two-on-one triple battle to Three and Four!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423032/screencap/69299006179d9.jpg",
+      "airDate": "2025-11-28T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 106,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 107,
+      "title": "Tarnished Phoenix",
+      "titles": {
+        "ja": "染まる不死鳥",
+        "en": "Tarnished Phoenix",
+        "x-jat": "Somaru Fushichou"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423033/screencap/69348b501ca2c.jpg",
+      "airDate": "2025-12-05T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 107,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 108,
+      "title": "Savior of Xenon City",
+      "titles": {
+        "ja": "Xシティの救世主",
+        "en": "Savior of Xenon City",
+        "x-jat": "X City no Kyuuseishu"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423034/screencap/693ea02ae9935.jpg",
+      "airDate": "2025-12-12T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 108,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 109,
+      "title": "End of the Dread Dragon",
+      "titles": {
+        "ja": "魔龍の終わり",
+        "en": "End of the Dread Dragon",
+        "x-jat": "Maryuu no Owari"
+      },
+      "overview": "Chrome is asked to cooperate with an experiment at Kurosu One. He is given a new Bey from the future and challenges himself to perform the greatest X-Dash in human history!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423035/screencap/6945c0ddaab54.jpg",
+      "airDate": "2025-12-19T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 109,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 110,
+      "title": "Counterattack Beacon",
+      "titles": {
+        "ja": "反撃の狼煙",
+        "en": "Counterattack Beacon",
+        "x-jat": "Hangeki no Noroshi"
+      },
+      "overview": "Shiguru and the others visit Persona to request customization for Wolf Hunt. Meanwhile, the King of the Beasts makes a sudden live broadcast, passionately calling out to all professional bladers...!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11423036/screencap/69503b66abe28.jpg",
+      "airDate": "2025-12-26T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 110,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 111,
+      "title": "Pro Bladers",
+      "titles": {
+        "ja": "プロブレーダー",
+        "en": "Pro Bladers",
+        "x-jat": "Pro Blader"
+      },
+      "overview": "The battle between the professional bladers and the Kurosu clan begins. To get revenge for his past defeat, Shiguru takes Wolf Hunt in hand and challenges the Kurosu Three & Four in a triple battle!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523014/screencap/696258fb0bd6b.jpg",
+      "airDate": "2026-01-09T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 111,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 112,
+      "title": "Crafter vs Crafter",
+      "titles": {
+        "ja": "クラフターVS.[たい]クラフター",
+        "en": "Crafter vs Crafter",
+        "x-jat": "Crafter tai Crafter"
+      },
+      "overview": "The Kurosu Five appear at Komaba Sushi, and Multi unexpectedly accepts a challenge. Sparks fly as the Bake Crafters' pride is on the line!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523015/screencap/696aad53d04de.jpg",
+      "airDate": "2026-01-16T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 112,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 113,
+      "title": "Phoenix`s Choice",
+      "titles": {
+        "ja": "不死鳥の選択",
+        "en": "Phoenix`s Choice",
+        "x-jat": "Fushichou no Sentaku"
+      },
+      "overview": "Kurosu Zero gives Burn a new Bey from the future, and he tells him about the future that Zero shows him... Will Persona be able to bring Burn back?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523016/screencap/6973c73fbed00.jpg",
+      "airDate": "2026-01-23T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 113,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 114,
+      "title": "Facing the Future",
+      "titles": {
+        "ja": "未来へ向かって",
+        "en": "Facing the Future",
+        "x-jat": "Mirai e Mukatte"
+      },
+      "overview": "While Persona is doing great in the battle against the Kurosu Clan, Nine feels depressed because he's the only one who hasn't done anything. But then Ex nominates Nine as his opponent in the future stadium!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523017/screencap/697dfa913a19e.jpg",
+      "airDate": "2026-01-30T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 114,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 115,
+      "title": "Transfer or Disband",
+      "titles": {
+        "ja": "移籍か解散か",
+        "en": "Transfer or Disband",
+        "x-jat": "Iseki ka Kaisan ka"
+      },
+      "overview": "The title match between Pendragon and Zooganic has been decided. Behind the scenes, Ciel is cornered by a notice from Managing Director Gigatani and is left with doubts, but his opponent, King...!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523018/screencap/69863ce67d987.jpg",
+      "airDate": "2026-02-06T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 115,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 116,
+      "title": "Future Pros",
+      "titles": {
+        "ja": "未来プロ",
+        "en": "Future Pros",
+        "x-jat": "Mirai Pro"
+      },
+      "overview": "The mysterious masked blader Mirai Pro, who Zero dispatched to various parts of X City, appears before Persona. Nine is surprised by the new Bey that Mirai Pro has in his hands, and challenges him to a battle!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523019/screencap/698f68f72139e.jpg",
+      "airDate": "2026-02-13T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 116,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 117,
+      "title": "Growing Power",
+      "titles": {
+        "ja": "拡張するチカラ",
+        "en": "Growing Power",
+        "x-jat": "Kakuchou Suru Chikara"
+      },
+      "overview": "Managing Director Gigatani smiles evilly as he superimposes his own ambitions onto the future that Kurosu Zero has drawn. Then Five and One challenge him to a battle, holding the Future Beyblade, Zero's masterpiece!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523020/screencap/6999b24ee9266.jpg",
+      "airDate": "2026-02-20T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 117,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 118,
+      "title": "Motive to Motive",
+      "titles": {
+        "ja": "巡る思惑",
+        "en": "Motive to Motive",
+        "x-jat": "Meguru Omowaku"
+      },
+      "overview": "Multi and Nine are working hard to complete the new Beyblade. On their way home from buying some gifts for them, Bird and Ex are approached by Haito, who delivers a message.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523021/screencap/69a1d72f3e084.jpg",
+      "airDate": "2026-02-27T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 118,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 119,
+      "title": "To the Place",
+      "titles": {
+        "ja": "あの場所へ",
+        "en": "To the Place",
+        "x-jat": "Ano Basho e"
+      },
+      "overview": "X new Bey is complete! With his head full of Chrome's message, X grabs the Bey and rushes out of Komaba Sushi. The Kurosu siblings stand in his way, trying to stop him!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523022/screencap/69ab29e35a999.jpg",
+      "airDate": "2026-03-06T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 119,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 120,
+      "title": "Clash at the X",
+      "titles": {
+        "ja": "Xタワーウォー",
+        "en": "Clash at the X",
+        "x-jat": "X Tower War"
+      },
+      "overview": "The Kurosu brothers, determined not to be abandoned by Zero, gradually corner the Birds. And then, who should come to their rescue but...!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11523023/screencap/69b59ed783b4c.jpg",
+      "airDate": "2026-03-13T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 120,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 121,
+      "title": "Where the Dragon Goes",
+      "titles": {
+        "ja": "龍の行方",
+        "en": "Where the Dragon Goes",
+        "x-jat": "Ryuu no Yukue"
+      },
+      "overview": "Ciel struggles against Gigaya's power...Chrom turns back and challenges him to battle. An unexpected person approaches from behind Wang, who was watching the scene from afar...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10406092/screencap/69bea63584c58.jpg",
+      "airDate": "2026-03-20T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 121,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 122,
+      "title": "The Future Beyond",
+      "titles": {
+        "ja": "その先のX[みらい]",
+        "en": "The Future Beyond",
+        "x-jat": "Sono Saki no Mirai"
+      },
+      "overview": "Chrome and X face off, Chrome wielding Meteor Dragoon and X wielding his new Beyblade, Dranstrike. The battle they've both been waiting for is finally about to begin!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10406093/screencap/69c6d15df2cd4.jpg",
+      "airDate": "2026-03-27T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 122,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 123,
+      "title": "One Percent of Hope",
+      "titles": {
+        "ja": "1%の希望",
+        "en": "One Percent of Hope",
+        "x-jat": "1% no Kibou"
+      },
+      "overview": "Team Persona trains diligently at the Shirahoshi-ryu dojo. After their training, Bird and the others take the promotion test. When Persona returns to X City after completing their training, they are greeted by a bizarre landscape that has changed drastically from what they remember. Zero appears above the astonished Persona and announces the start of a new battle.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701200/screencap/69da5562714da.jpg",
+      "airDate": "2026-04-17T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 123,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 124,
+      "title": "True X Tower War",
+      "titles": {
+        "ja": "真・Xタワーウォー",
+        "en": "True X Tower War",
+        "x-jat": "Shin X Tower War"
+      },
+      "overview": "Persona ponders the possibility of a new assassin before the True X Tower War. Bird motivates his team and they set off for the True X Tower. Waiting for them in the first stage is the strongest blader, Kurosu Wan! Wan says there's someone who's already there, but who could it be...?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701201/screencap/69da56c0a949e.jpg",
+      "airDate": "2026-04-17T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 124,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 125,
+      "title": "The Strongest Without Desire",
+      "titles": {
+        "ja": "無欲の最強",
+        "en": "The Strongest Without Desire",
+        "x-jat": "Muyoku no Saikyou"
+      },
+      "overview": "Nine proudly declares that he will defeat Wang, wielding his new Beyblade! How will Nine stand against the strongest member of his family? The fated brother-sister showdown begins!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701202/screencap/69f546a7e22f5.jpg",
+      "airDate": "2026-05-01T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 125,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 126,
+      "title": "The Traitor Who Betrayed",
+      "titles": {
+        "ja": "裏切った裏切り者",
+        "en": "The Traitor Who Betrayed",
+        "x-jat": "Uragitta Uragirimono"
+      },
+      "overview": "The battle between X and One, which was expected to be intense, takes an unexpected turn! Meanwhile, news arrives of a new challenger emerging to confront the Kurosu family.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701203/screencap/6a088ee304f61.jpg",
+      "airDate": "2026-05-15T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 126,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 127,
+      "title": "The Kurosu Clan`s Strategy",
+      "titles": {
+        "ja": "黒須の軍略",
+        "en": "The Kurosu Clan`s Strategy",
+        "x-jat": "Kurosu no Gunryaku"
+      },
+      "overview": "Challenger Miyagi Kiwami wields Unicorn Delta. Facing him is Kurosu Two, who uses Bullet Gryphon, equipped with a special mechanism! The battle between these two new Beyblades is about to begin!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701204/screencap/6a2309ed1a702.jpg",
+      "airDate": "2026-06-05T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 127,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 128,
+      "title": "X Tower`s Guardian",
+      "titles": {
+        "ja": "Xタワーの守護者",
+        "en": "X Tower`s Guardian",
+        "x-jat": "X Tower no Shugosha"
+      },
+      "overview": "Against Kurosu Two, Multi steps forward, wielding Night Fortress. What strategy will he employ to defeat Bullet Griffon, who has a numerical advantage by creating clones?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11809218/screencap/6a35ee7d407b0.jpg",
+      "airDate": "2026-06-19T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 128,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 129,
+      "title": "Natural Talent",
+      "titles": {
+        "ja": "天賦の才",
+        "en": "Natural Talent",
+        "x-jat": "Tenpu no Sai"
+      },
+      "overview": "Under the rules of the decisive battle, a test is held to eliminate one member from the Persona team. Their opponent is Kurosu Six! What does the test entail?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11809219/screencap/6a495343ca2db.jpg",
+      "airDate": "2026-07-03T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 129,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 130,
+      "title": "Welcome to the Fourth Stage",
+      "titles": {
+        "ja": "フォースステージだゆ~",
+        "en": "Welcome to the Fourth Stage",
+        "x-jat": "Fourth Stage Da yuu"
+      },
+      "overview": "In the Fourth Stage, Seven Kurosu—the 4X Avatar—appears! The showdown against Seven was an astonishing spectacle that recreated the intensity of a Beybattle using 4X technology!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11809220/screencap/6a6c9f5942ddf.jpg",
+      "airDate": "2026-07-17T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 130,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 131,
+      "title": "The Future at Stake",
+      "titles": {
+        "ja": "未来をかけて",
+        "en": "The Future at Stake",
+        "x-jat": "Mirai o Kakete"
+      },
+      "overview": "Bird's new Bey is finally complete! He immediately faces off against Nine in a battle. After the match, the group rushes outside, only to find a hologram of Zero waiting for them...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11905990/screencap/6a765f2f373d5.jpg",
+      "airDate": "2026-08-07T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 131,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 132,
+      "title": "The True Battle at the Top",
+      "titles": {
+        "ja": "真・超頂上決戦",
+        "en": "The True Battle at the Top",
+        "x-jat": "Shin Chou Choujou Kessen"
+      },
+      "overview": "The ultimate showdown begins! Zero and One appear before Persona, but Bard points out that one person is missing. Just then, the one who starts walking toward Zero is...!?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11915137/screencap/6a89e13b6cb90.jpg",
+      "airDate": "2026-08-21T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 132,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 133,
+      "title": "The Final Future",
+      "titles": {
+        "ja": "最後の未来",
+        "en": "The Final Future",
+        "x-jat": "Saigo no Mirai"
+      },
+      "overview": "Wan holds up the new Bey, Glory Valkyrie, declaring that the moment of its completion sealed a future victory. Kamen X is unable to contain his excitement...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11915138/screencap/6a9fffe95c31f.jpg",
+      "airDate": "2026-09-04T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 133,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 134,
+      "title": "The True Final Future",
+      "titles": {
+        "ja": "真・最後の未来",
+        "en": "The True Final Future",
+        "x-jat": "Shin Saigo no Mirai"
+      },
+      "overview": "Zero readies Drake Brave, while Bird stands firm alongside Hell's Nether. The ultimate showdown—a battle for the future of Beyblade—reaches its thrilling conclusion here!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11915139/screencap/6aaed603f07cc.jpg",
+      "airDate": "2026-09-18T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 134,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 135,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-02T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 136,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-09T09:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "New Chapter Celebration! Grand Reopening of Beyblade Sushi - Go Shoot!",
+      "titles": {
+        "ja": "新章スタート記念! 新装開店 ベイブレ寿司でゴーシュート!",
+        "en": "New Chapter Celebration! Grand Reopening of Beyblade Sushi - Go Shoot!",
+        "x-jat": "Shinshou Start Kinen! Shinsou Kaiten: Beibure Zushi de Go Shoot!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-10-11",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Episode S2",
+      "titles": {
+        "ja": "夏休みもゴーシュート! アニメ『BEYBLADE X』研究室",
+        "en": "Episode S2",
+        "x-jat": "Natsuyasumi mo Go Shoot! Anime \"Beyblade X\" Kenkyuushitsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-07-11",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S3",
+      "title": "Episode S3",
+      "titles": {
+        "ja": "第2シーズン完結記念! アニメ『BEYBLADE X』研究室",
+        "en": "Episode S3",
+        "x-jat": "Dai 2 Season Kanketsu Kinen! Anime \"Beyblade X\" Kenkyuushitsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-10-10",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S4",
+      "title": "Episode S4",
+      "titles": {
+        "ja": "第3シーズンまで待てない! アニメ『BEYBLADE X』研究室",
+        "en": "Episode S4",
+        "x-jat": "Dai 3 Season made Matenai! Anime \"Beyblade X\" Kenkyuushitsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-10-17",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 136,
+  "updatedAt": "2026-09-23T10:33:05.773Z"
+}

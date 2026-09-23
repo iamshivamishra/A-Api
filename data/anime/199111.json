@@ -1,0 +1,351 @@
+{
+  "anilistId": 199111,
+  "malId": 62542,
+  "route": "grand-blue-3rd-season",
+  "titles": {
+    "romaji": "Grand Blue Season 3",
+    "english": "Grand Blue Dreaming Season 3",
+    "native": "ぐらんぶる Season 3"
+  },
+  "anilist": {
+    "id": 199111,
+    "idMal": 62542,
+    "title": {
+      "romaji": "Grand Blue Season 3",
+      "english": "Grand Blue Dreaming Season 3",
+      "native": "ぐらんぶる Season 3"
+    },
+    "synonyms": [
+      "Grand Blue ก๊วนป่วนชวนบุ๋งบุ๋ง ซีซัน 3"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199111-gBSuBG61ElcW.jpg",
+      "color": "#5daed6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
+    "description": "Iori's college shenanigans head overseas! Just as he's finally starting to get the hang of university life, crashing at his uncle's dive shop while balancing the booze-fueled antics of his diving club, Iori's cousin enlists him to help run a new dive shop in Palau. Between crystal-clear dives and his diving group that can't resist partying it up and stripping down, Iori's in for a wild summer.\n<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 22
+    },
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Sports"
+    ],
+    "averageScore": 82,
+    "meanScore": 82,
+    "popularity": 41705,
+    "favourites": 776,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Zero-G"
+        },
+        {
+          "name": "Saber Works"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/gb_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://grandblue-anime.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GNVHKN94W/grand-blue-dreaming"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2414407"
+      }
+    ],
+    "trailer": {
+      "id": "KJw6ZZaMOWA",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Seinen",
+      "Slice of Life"
+    ],
+    "studios": [
+      "Saber Works",
+      "Zero-G"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "The third season of <span class=\"italics\">Grand Blue</span>.<br><br>Iori&#39;s college shenanigans head overseas! Just as he&#39;s finally starting to get the hang of university life, crashing at his uncle&#39;s dive shop while balancing the booze-fueled antics of his diving club, Iori&#39;s cousin enlists him to help run a new dive shop in Palau. Between crystal-clear dives and his diving group that can&#39;t resist partying it up and stripping down, Iori&#39;s in for a wild summer.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4eRGpxi",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GNVHKN94W/grand-blue-dreaming",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4c6GEUM",
+        "name": "Amazon"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2414407",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-06T15:30:00Z",
+    "dubTime": "2026-06-11T15:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-21T15:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Monday 15:30 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Thursday 15:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Unfinished Business",
+      "titles": {
+        "ja": "やり残し",
+        "en": "Unfinished Business",
+        "pl": "Lista letnich życzeń"
+      },
+      "overview": "Summer is coming to an end, and the older kids at the club want to do the things they still have left to do.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11354085/screencap/6a3635a776f7b.jpg",
+      "airDate": "2026-07-06T15:00:00Z",
+      "runtime": 24,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "Homecoming",
+      "titles": {
+        "en": "Homecoming",
+        "pl": "Wizyta w domu"
+      },
+      "overview": "Iori and the gang head to his family home to grab his passport for the upcoming trip.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874767/screencap/6a4e1b04505ba.jpg",
+      "airDate": "2026-07-13T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.28",
+      "absoluteEpisodeNumber": 26,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Saving Private Passport",
+      "titles": {
+        "en": "Saving Private Passport",
+        "pl": "Paszportowa wojna podjazdowa"
+      },
+      "overview": "Iori must navigate Shiori, the tourists, and the stalker on the loose to get his hands on his passport.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874768/screencap/6a575fa499612.jpg",
+      "airDate": "2026-07-20T15:00:00Z",
+      "runtime": 24,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 27,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "The Oceans of Palau",
+      "titles": {
+        "en": "The Oceans of Palau",
+        "pl": "Błękit Palau"
+      },
+      "overview": "The group eagerly arrives in Palau, where someone they know well is waiting for them.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874769/screencap/6a60a6b1ed824.jpg",
+      "airDate": "2026-07-27T15:00:00Z",
+      "runtime": 24,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 28,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "TV Special",
+      "titles": {
+        "en": "TV Special",
+        "pl": "Nagranie"
+      },
+      "overview": "A TV crew has arrived to film a special at Dolphin, and the gang gets roped into it!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874770/screencap/6a6a03a955805.jpg",
+      "airDate": "2026-08-03T15:00:00Z",
+      "runtime": 24,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 29,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Assist",
+      "titles": {
+        "en": "Assist",
+        "pl": "Pomocnik"
+      },
+      "overview": "Kohei has figured out that Aina is into Iori and decides to help her in a way only he can.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874771/screencap/6a72ff86c5e54.jpg",
+      "airDate": "2026-08-10T15:00:00Z",
+      "runtime": 24,
+      "rating": "1.44",
+      "absoluteEpisodeNumber": 30,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Mother",
+      "titles": {
+        "en": "Mother",
+        "pl": "Mama"
+      },
+      "overview": "Tensions between Chisa and her mom come to a head as they clash over her life goals.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874772/screencap/6a7c42e86ddc5.jpg",
+      "airDate": "2026-08-17T15:00:00Z",
+      "runtime": 24,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 31,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Mixer, Round 2",
+      "titles": {
+        "en": "Mixer, Round 2",
+        "pl": "Randka grupowa: runda druga"
+      },
+      "overview": "Back home, Iori gets caught up in the scumbros' shenanigans again, and ends up having to set up a mixer.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874773/screencap/6a8578b630b6c.jpg",
+      "airDate": "2026-08-24T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.28",
+      "absoluteEpisodeNumber": 32,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Ordeals",
+      "titles": {
+        "en": "Ordeals",
+        "pl": "Katusze"
+      },
+      "overview": "The boys have run into several issues over the summer, and they need the collective think tank to resolve them!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874774/screencap/6a8eb071eea46.jpg",
+      "airDate": "2026-08-31T15:00:00Z",
+      "runtime": 24,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 33,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Lottery",
+      "titles": {
+        "en": "Lottery",
+        "pl": "Zdrapka"
+      },
+      "overview": "Iori has a craving for his favorite food, and he also receives a lottery ticket.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874775/screencap/6a97eb4778fb5.jpg",
+      "airDate": "2026-09-07T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.28",
+      "absoluteEpisodeNumber": 34,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Back in Okinawa (A-Side)",
+      "titles": {
+        "en": "Back in Okinawa (A-Side)"
+      },
+      "overview": "Aina wants to stop Iori and Chisa from going on a trip, and enlists Kohei's help. Will she be successful?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874776/screencap/6aa125d7833a5.jpg",
+      "airDate": "2026-09-14T15:00:00Z",
+      "runtime": 24,
+      "rating": "3.46",
+      "absoluteEpisodeNumber": 35,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "While Iori and Chisa enjoyed their first day in Okinawa, there was chaos unfolding behind the scenes!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874777/screencap/6aaa5e89babe6.jpg",
+      "airDate": "2026-09-21T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 36,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.602Z"
+}

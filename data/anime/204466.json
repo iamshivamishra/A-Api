@@ -1,0 +1,387 @@
+{
+  "anilistId": 204466,
+  "malId": 63150,
+  "route": "otome-kaijuu-caramelise",
+  "titles": {
+    "romaji": "Otome Kaijuu Caraméliser",
+    "english": "KAIJU GIRL CARAMELISE",
+    "native": "乙女怪獣キャラメリゼ"
+  },
+  "anilist": {
+    "id": 204466,
+    "idMal": 63150,
+    "title": {
+      "romaji": "Otome Kaijuu Caraméliser",
+      "english": "KAIJU GIRL CARAMELISE",
+      "native": "乙女怪獣キャラメリゼ"
+    },
+    "synonyms": [
+      "สาวน้อยไคจู คาราเมไลซ์"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204466-vXMvIs4VOoQd.png",
+      "color": "#e45d78"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
+    "description": "Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!<br>\n<br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 18
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 75,
+    "meanScore": 75,
+    "popularity": 40507,
+    "favourites": 826,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "LIDENFILMS"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://otomekaiju.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/Otome_Kaiju"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378081/kaiju-girl-caramelise"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl38hoyHQ6-C5HAQ9lJ5jkdG"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/media/2411889"
+      }
+    ],
+    "trailer": {
+      "id": "ECtHlHde3EQ",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "School",
+      "Supernatural"
+    ],
+    "studios": [
+      "LIDENFILMS"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "Kuroe Akaishi just wants a normal high school life—but that’s impossible with a rare condition that turns her into a giant kaiju whenever her emotions spike! Things get even worse when she falls for Arata Minami, the most popular boy in class. Now every blush, heartbeat, and crush could trigger a monster transformation. Can Kuroe survive high school love before it destroys everything around her?!<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4vfuYG6",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378081/kaiju-girl-caramelise",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4qkYBF6",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl38hoyHQ6-C5HAQ9lJ5jkdG",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2411889",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-03T17:30:00Z",
+    "dubTime": "2026-07-16T17:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-17T16:15:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Friday 17:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 10,
+      "airedAt": "2026-09-03T16:15:00Z"
+    },
+    "nextRelease": {
+      "episode": 11,
+      "at": "2026-09-24T17:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 17:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Kaiju Girl Appears in Tokyo",
+      "titles": {
+        "ja": "乙女怪獣東京に現る",
+        "en": "The Kaiju Girl Appears in Tokyo",
+        "de": "Das Kaijū-Mädchen taucht in Tokyo auf",
+        "x-jat": "Otome Kaijuu Tokyo ni Arawaru"
+      },
+      "overview": "Outsider Kuroe begins to experience the complicated physiological changes of adolescence.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11700072/screencap/6a3e45e4e05a4.jpg",
+      "airDate": "2026-07-02T16:15:00Z",
+      "runtime": 24,
+      "rating": "6.52",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "The Unopened Door",
+      "titles": {
+        "ja": "開かない扉",
+        "en": "The Unopened Door",
+        "de": "Die zugesperrte Tür",
+        "x-jat": "Hirakanai Tobira"
+      },
+      "overview": "Following her outburst, Kuroe deals with the consequences of her growing mutual attraction.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870044/screencap/6a47618e1299f.jpg",
+      "airDate": "2026-07-09T16:15:00Z",
+      "runtime": 24,
+      "rating": "7.20",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "A Sparkling Weekend: Where Dreams Come True",
+      "titles": {
+        "ja": "キラメク週末 ~夢の国へ~",
+        "en": "A Sparkling Weekend: Where Dreams Come True",
+        "de": "Ein glitzerndes Wochenende ~ Auf ins Märchenland ~",
+        "x-jat": "Kirameku Shuumatsu: Yume no Kuni e"
+      },
+      "overview": "Kuroe accepts Minami's invitation to a theme park, with a gameplan in mind in case kaiju appear.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870045/screencap/6a50960f8750b.jpg",
+      "airDate": "2026-07-16T16:15:00Z",
+      "runtime": 24,
+      "rating": "7.02",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "The Scary Kaiju Fest",
+      "titles": {
+        "ja": "恐怖の怪獣フェス",
+        "en": "The Scary Kaiju Fest",
+        "de": "Das Kaijū-Festival des Grauens",
+        "x-jat": "Kyoufu no Kaijuu Fes"
+      },
+      "overview": "Rinko's old paramour returns to take Kuroe to a heavy metal festival.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870046/screencap/6a5a1c7d2bfd3.jpg",
+      "airDate": "2026-07-23T16:15:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "A Gyaru and Lipstick",
+      "titles": {
+        "ja": "ギャルと口紅",
+        "en": "A Gyaru and Lipstick",
+        "de": "Gals und Lippenstift",
+        "x-jat": "Gal to Kuchibeni"
+      },
+      "overview": "A new school year puts Kuroe in class with an unexpected ally.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870047/screencap/6a63577ab3ffb.jpg",
+      "airDate": "2026-07-30T16:15:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Rairi`s Forest",
+      "titles": {
+        "ja": "らいりの森",
+        "en": "Rairi`s Forest",
+        "de": "Rairis Wald",
+        "x-jat": "Rairi no Mori"
+      },
+      "overview": "A field trip gives Kuroe and Minami a chance to grow closer, while Raimu deals with an unexpected problem.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870048/screencap/6a6cb01fa6538.jpg",
+      "airDate": "2026-08-06T16:15:00Z",
+      "runtime": 24,
+      "rating": "7.02",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "All Eyes on Arata",
+      "titles": {
+        "ja": "狙われた新汰",
+        "en": "All Eyes on Arata",
+        "de": "Arata im Visier",
+        "x-jat": "Nerawareta Arata"
+      },
+      "overview": "Arata deals with the fallout of his newfound fame.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870049/screencap/6a75a54367c82.jpg",
+      "airDate": "2026-08-13T16:15:00Z",
+      "runtime": 24,
+      "rating": "7.02",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Fly to Manatsu`s Kaiju Island!!",
+      "titles": {
+        "ja": "マ夏の怪獣島へ飛べ!!",
+        "en": "Fly to Manatsu`s Kaiju Island!!",
+        "de": "Ab auf Manatsus Kaijū-Insel!",
+        "x-jat": "Manatsu no Kaijuutou e Tobe!!"
+      },
+      "overview": "Manatsu takes a trip to woo Harugon and invites Kuroe and Raimu to be her wingmen.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870050/screencap/6a7ee987e2f11.jpg",
+      "airDate": "2026-08-20T16:15:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Release the Torrent of Complaints, Kaiju Girl!",
+      "titles": {
+        "ja": "乙女怪獣愚痴を吐け!",
+        "en": "Release the Torrent of Complaints, Kaiju Girl!",
+        "de": "Speie deinen Unmut hinaus, Kaijūmädchen!",
+        "x-jat": "Otome Kaijuu Guchi o Hake!"
+      },
+      "overview": "Arata's first TV appearance sparks an influx of insecurities for Kuroe.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870051/screencap/6a87ec0a6ae43.jpg",
+      "airDate": "2026-08-27T16:15:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Don`t Cry, Heartbroken Kaiju",
+      "titles": {
+        "ja": "泣くな失恋怪獣",
+        "en": "Don`t Cry, Heartbroken Kaiju",
+        "de": "Weine nicht, Kaijū mit Liebeskummer",
+        "x-jat": "Nakuna Shitsuren Kaijuu"
+      },
+      "overview": "Kuroe bonds with a kindred spirit while experiencing friction in her relationship with Arata.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870052/screencap/6a91234429488.jpg",
+      "airDate": "2026-09-03T16:15:00Z",
+      "runtime": 24,
+      "rating": "7.02",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Kuroe vs. Akae",
+      "titles": {
+        "ja": "クロエVSアカエ",
+        "en": "Kuroe vs. Akae",
+        "x-jat": "Kuroe vs Akae"
+      },
+      "overview": "While Kuroe is at rock bottom, a giant flying kaiju threatens the city.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870053/screencap/6a9a63259c1e5.jpg",
+      "airDate": "2026-09-10T16:15:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Charge This One Strike with Love",
+      "titles": {
+        "ja": "この一撃に愛をこめて",
+        "en": "Charge This One Strike with Love",
+        "x-jat": "Kono Ichigeki ni Ai o Komete"
+      },
+      "overview": "The threat of the flying kaiju continues as all hope seems lost.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870054/screencap/6aa39beb4b5b5.jpg",
+      "airDate": "2026-09-17T16:15:00Z",
+      "runtime": 24,
+      "rating": "9.85",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.765Z"
+}

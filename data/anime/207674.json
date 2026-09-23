@@ -1,0 +1,535 @@
+{
+  "anilistId": 207674,
+  "malId": 63468,
+  "route": "ushiro-no-shoumen-kamui-san",
+  "titles": {
+    "romaji": "Ushiro no Shoumen Kamui-san",
+    "english": "KAMUI ---He's behind you",
+    "native": "うしろの正面カムイさん"
+  },
+  "anilist": {
+    "id": 207674,
+    "idMal": 63468,
+    "title": {
+      "romaji": "Ushiro no Shoumen Kamui-san",
+      "english": "KAMUI ---He's behind you",
+      "native": "うしろの正面カムイさん"
+    },
+    "synonyms": [
+      "Kamui-san Directly Behind You",
+      "從後面來的神威先生",
+      "คุณคามุยลุยหลังผี"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207674-BT8lFAwH1WrL.jpg",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207674-0bYvzXIq7Lq3.jpg",
+    "description": "This exorcism is OMFFFFFFFFF!!!! Shizuka is a self-proclaimed ordinary high school girl who \"only\" sees ghosts. Using her unique ability to attract spirits, she works as an assistant to the famous psychic, Kamui. Though Kamui boasts overwhelming spiritual power, his exorcism methods are unprecedented...?! Will Shizuka, tossed about by supernatural disturbances, ever find peace? The curtain rises on \"supreme\" exorcism!! OMFFFFFFFFFG ALMIGHTY!!\n<br><br>\n(Source: OceanVeil)",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 12,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 19
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Supernatural"
+    ],
+    "averageScore": 58,
+    "meanScore": 58,
+    "popularity": 20720,
+    "favourites": 314,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Zero-G"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/anime_kamuisan"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://kamuisan.deregula.com/"
+      },
+      {
+        "site": "OceanVeil",
+        "url": "https://oceanveil.net/anime_titles/463"
+      },
+      {
+        "site": "OceanVeil",
+        "url": "https://oceanveil.net/anime_titles/464"
+      }
+    ],
+    "trailer": {
+      "id": "sHlZd-0gI0k",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Supernatural"
+    ],
+    "studios": [
+      "ZG-R",
+      "Zero-G"
+    ],
+    "mediaTypes": [
+      "TV Short"
+    ],
+    "lengthMin": 12,
+    "description": "This exorcism is OMFFFFFFFFF!!!! Shizuka is a self-proclaimed ordinary high school girl who &#34;only&#34; sees ghosts. Using her unique ability to attract spirits, she works as an assistant to the famous psychic, Kamui. Though Kamui boasts overwhelming spiritual power, his exorcism methods are unprecedented...?! Will Shizuka, tossed about by supernatural disturbances, ever find peace? The curtain rises on &#34;supreme&#34; exorcism!! OMFFFFFFFFFG ALMIGHTY!!<br><br>(Source: OceanVeil)",
+    "streams": [
+      {
+        "platform": "oceanveil",
+        "url": "oceanveil.net/anime_titles/463",
+        "name": "OceanVeil"
+      }
+    ],
+    "subTime": "2026-07-03T16:31:00Z",
+    "dubTime": "2026-09-11T01:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-18T16:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Friday 16:31 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 1,
+      "airedAt": "2026-07-03T16:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 2,
+      "at": "2026-09-24T01:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 01:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Mary-san / Teketeke",
+      "titles": {
+        "ja": "メリーさん / テケテケ",
+        "en": "Mary-san / Teketeke"
+      },
+      "overview": "The ringing of the phone echoes through a high-rise building late at night. The voice on the other end introduces herself as Mary-san. Shizuka is pursued by her via every phone call, no matter the room she flees to or the hallway she runs down. What encounter awaits Mary-san after cornering Shizuka?! / Teketeke a wandering spirit that seeks after its lower half of the body, lost in an accident. Shizuka, who was forced to listen to the story from Kamui, finds the ghost before her 'as promised,' unaware that this was a clever trap set up by Kamui.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11611342/screencap/6a4735b538aa3.jpg",
+      "airDate": "2026-07-03T16:30:00Z",
+      "runtime": 12,
+      "rating": "2.94",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Kokkuri-san",
+      "titles": {
+        "ja": "コックリさん",
+        "en": "Kokkuri-san"
+      },
+      "overview": "Hiding her psychic ability, Shizuka hopes to enjoy school life as an ordinary student. However, her peace is shattered through her friend, Inagawa, who brings in a Kokkuri-san sheet. A spirit appears in response to Inagawa and the others' summons, and its evil grasp closes in on Shizuka. Can Kamui fulfill Shizuka's request to perform an exorcism 'secretly, without anyone seeing'?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864466/screencap/6a4f9a4c8cd79.jpg",
+      "airDate": "2026-07-10T16:30:00Z",
+      "runtime": 12,
+      "rating": "3.07",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "The Cursed Doll / The Gap Woman",
+      "titles": {
+        "ja": "呪いの人形 / 隙間女",
+        "en": "The Cursed Doll / The Gap Woman"
+      },
+      "overview": "A cursed checkered doll that keeps returning no matter how many times it's disposed of is brought into Kamui's office. The doll challenges Kamui to take her on in the purification ritual. But there, she witnesses Kamui's unimaginable lifeforce and exorcism methods firsthand. While searching for a girl who's been spirited away, Shizuka is captured by the Gap Woman. Will Kamui be able to rescue Shizuka who's trapped in a narrow gap of a building where she is out of reach?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864467/screencap/6a598e51ed4de.jpg",
+      "airDate": "2026-07-17T16:30:00Z",
+      "runtime": 12,
+      "rating": "3.07",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "The Slit-Mouthed Woman / Rokurokubi",
+      "titles": {
+        "ja": "口裂け女 / ろくろ首",
+        "en": "The Slit-Mouthed Woman / Rokurokubi"
+      },
+      "overview": "Shizuka is forced into a elementary school costume—tight-fitting clothes and a school backpack. As she grieves over the random punishment, the Slit-Mouthed Woman presses her, asking if she looks pretty. Shizuka flees to the empty school after classes. What is Kamui's secret plan, waiting for her in the infirmary? Kamui receives a message from Shizuka that she's going to hang out with her best friend Kyoko, and upon seeing the attached photo, he senses something. Will Shizuka be able to hide Kamui's exorcism from Kyoko?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864470/screencap/6a6396325f4c1.jpg",
+      "airDate": "2026-07-24T16:30:00Z",
+      "runtime": 12,
+      "rating": "3.07",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Bakeneko",
+      "titles": {
+        "ja": "化け猫",
+        "en": "Bakeneko"
+      },
+      "overview": "Oichi, the cursed Ichimatsu doll who was defeated in her battle against the Slit-Mouthed Woman, gets picked up by a young girl named Yui and becomes her cherished playmate. Then, a black cat that Yui had found joins them as a new playmate. But that cat was no ordinary black cat! With Yui's life and the top spot of playmate on the line, the battle between Oichi and the black cat begins!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11864474/screencap/6a6bb29f20033.jpg",
+      "airDate": "2026-07-31T16:30:00Z",
+      "runtime": 12,
+      "rating": "3.80",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The Mountain Pass Spirit / Jet Babaa",
+      "titles": {
+        "ja": "峠の霊 / ジェットババア",
+        "en": "The Mountain Pass Spirit / Jet Babaa"
+      },
+      "overview": "Shizuka, who has gone for a drive with Kamui, picks up a soaking-wet woman along the mountain pass at night. Eerie handprints appear on the fogged-up windows, and the sound of the car creaking begins to echo from outside. A night of terror begins! Showing off her youth in a tight bikini as she sits in the driver's seat, Shizuka is pursued by the Jet Hag Gang—the mountain pass's supernatural menace! Oichi's driving skills and Kamui's techniques explode onto the nighttime mountain pass!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870735/screencap/6a75bb13e540a.jpg",
+      "airDate": "2026-08-07T16:30:00Z",
+      "runtime": 12,
+      "rating": "3.07",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Hanako-san of the Toilet",
+      "titles": {
+        "ja": "トイレの花子さん",
+        "en": "Hanako-san of the Toilet"
+      },
+      "overview": "The ghostly phenomenon of the girl Hanako-san is haunting elementary schools all over Japan. Kamui and Shizuka join forces to exorcise them all at once. As their friends are exorcised one after another, the Hanako-san from all over Japan panic, and they gather at an abandoned school deep in the mountains. What is the desperate plan they have devised to turn the tide?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870736/screencap/6a7de7be2d8bb.jpg",
+      "airDate": "2026-08-14T16:30:00Z",
+      "runtime": 12,
+      "rating": "2.75",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "The Succubus / Hell",
+      "titles": {
+        "ja": "サキュバス / 地獄",
+        "en": "The Succubus / Hell"
+      },
+      "overview": "A voluptuous mother and her cute daughter visit the office from abroad. When the mother asks Kamui to exorcise the succubus possessing her, Kamui suddenly rips her clothes off! He kicks a flustered Shizuka out of the room and begins the exorcism. Will Shizuka merely stand by and watch Kamui's battle, which could potentially become an international incident?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870737/screencap/6a87816d10920.jpg",
+      "airDate": "2026-08-21T16:30:00Z",
+      "runtime": 12,
+      "rating": "3.07",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Resurrection",
+      "titles": {
+        "ja": "黄泉帰り",
+        "en": "Resurrection"
+      },
+      "overview": "After being ambushed by a succubus and having his life force completely drained, Kamui naturally (?) falls into Hell. However, declaring that he has business to get down to, Kamui aims to return to the living world and confronts Enma the Great, who enforces the rules of the underworld. Meanwhile, in the living world, the creature Fire Cart attempts to possess Kamui's lifeless body. Will Shizuka and Oichi be able to protect Kamui's body from getting taken over?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870738/screencap/6a9184716ae17.jpg",
+      "airDate": "2026-08-28T16:30:00Z",
+      "runtime": 12,
+      "rating": "3.07",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Takaonna / Yamamba",
+      "titles": {
+        "ja": "高女 / 山姥",
+        "en": "Takaonna / Yamamba"
+      },
+      "overview": "A mysterious beauty named Lily Kiskil transfers to Shizuka's school. Shizuka feels as if she's met Lily somewhere before, but Lily presses forward relentlessly. Then, a supernatural phenomenon attacks them without mercy. Shizuka, who longs for an ordinary school life but finds that the abnormal is becoming the norm, and Kamui, who has gone into training to gain greater power, cross paths in the mountains!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870739/screencap/6a9a253a9c081.jpg",
+      "airDate": "2026-09-04T16:30:00Z",
+      "runtime": 12,
+      "rating": "3.42",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Saruyume",
+      "titles": {
+        "ja": "猿夢",
+        "en": "Saruyume"
+      },
+      "overview": "After sucking out Kamui's life force, Lily somehow loses the ability to attack humans. While feeling worried as her power wanes day by day, she spends her days enjoying the lively company of Shizuka and the others. One such day, Lily decides to keep a vigil to protect Shizuka, who has been possessed by a nightmare. Meanwhile, Kamui, the one she needs most, is away from the office on other business. The curtain rises on a night spent alone between Lily, starving for spiritual energy, and Shizuka, the perfect prey for the supernaturals.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870740/screencap/6aa3615b33668.jpg",
+      "airDate": "2026-09-11T16:30:00Z",
+      "runtime": 12,
+      "rating": "6.66",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "The Succubus Returns",
+      "titles": {
+        "ja": "サキュバス:re",
+        "en": "The Succubus Returns"
+      },
+      "overview": "After spending the night with her friend Lily, Shizuka wakes up to find that Lily had vanished from the office. Filled with unease, Shizuka heads to school, only to discover that Lily had been erased from the memories of both teachers and students. In search of proof that Lily had ever existed, Shizuka rushes out of school. Meanwhile, Kamui gazes at the morning sun, recalling last night's battle. What was the outcome of the fight with Lily, in which they staked their very existence, their pride, and the things they could never compromise on?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870741/screencap/6aad490d8386f.jpg",
+      "airDate": "2026-09-18T16:30:00Z",
+      "runtime": 12,
+      "rating": "4.82",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Mini-Anime Theater 1: Snack Hazama 1 / Death Game 1",
+      "titles": {
+        "ja": "ミニアニメ劇場 その1: スナックはざま① / デスゲーム①",
+        "en": "Mini-Anime Theater 1: Snack Hazama 1 / Death Game 1"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-04",
+      "runtime": 15,
+      "rating": "2.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Mini-Anime Theater 2: Snack Hazama 2 / Male Underground Idol 1",
+      "titles": {
+        "ja": "ミニアニメ劇場 その2: スナックはざま② / メン地下アイドル①",
+        "en": "Mini-Anime Theater 2: Snack Hazama 2 / Male Underground Idol 1"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-11",
+      "runtime": 15,
+      "rating": "2.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S3",
+      "title": "Mini-Anime Theater 3: Snack Hazama 3 / Death Game 2",
+      "titles": {
+        "ja": "ミニアニメ劇場 その3: スナックはざま③ / デスゲーム②",
+        "en": "Mini-Anime Theater 3: Snack Hazama 3 / Death Game 2"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-18",
+      "runtime": 15,
+      "rating": "1.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S4",
+      "title": "Mini-Anime Theater 4: Snack Hazama 4 / Death Game 3",
+      "titles": {
+        "ja": "ミニアニメ劇場 その4: スナックはざま④ / デスゲーム③",
+        "en": "Mini-Anime Theater 4: Snack Hazama 4 / Death Game 3"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-25",
+      "runtime": 15,
+      "rating": "2.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S5",
+      "title": "Mini-Anime Theater 5: Snack Hazama 5 / Male Underground Idol 2",
+      "titles": {
+        "ja": "ミニアニメ劇場 その5: スナックはざま⑤ / メン地下アイドル②",
+        "en": "Mini-Anime Theater 5: Snack Hazama 5 / Male Underground Idol 2"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-01",
+      "runtime": 15,
+      "rating": "2.57",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S6",
+      "title": "Mini-Anime Theater 6: Snack Hazama 6 / Death Game 4",
+      "titles": {
+        "ja": "ミニアニメ劇場 その6: スナックはざま⑥ / デスゲーム④",
+        "en": "Mini-Anime Theater 6: Snack Hazama 6 / Death Game 4"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-08",
+      "runtime": 15,
+      "rating": "2.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S7",
+      "title": "Mini-Anime Theater 7: Snack Hazama 7 / Male Underground Idol 3",
+      "titles": {
+        "ja": "ミニアニメ劇場 その7: スナックはざま⑦ / メン地下アイドル③",
+        "en": "Mini-Anime Theater 7: Snack Hazama 7 / Male Underground Idol 3"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-15",
+      "runtime": 15,
+      "rating": "2.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S8",
+      "title": "Mini-Anime Theater 8: Snack Hazama 8 / Male Underground Idol 4",
+      "titles": {
+        "ja": "ミニアニメ劇場 その8: スナックはざま⑧ / メン地下アイドル④",
+        "en": "Mini-Anime Theater 8: Snack Hazama 8 / Male Underground Idol 4"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-22",
+      "runtime": 15,
+      "rating": "2.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S9",
+      "title": "Mini-Anime Theater 9: Snack Hazama 9 / Death Game 5",
+      "titles": {
+        "ja": "ミニアニメ劇場 その9: スナックはざま⑨ / デスゲーム⑤",
+        "en": "Mini-Anime Theater 9: Snack Hazama 9 / Death Game 5"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-29",
+      "runtime": 15,
+      "rating": "2.07",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S10",
+      "title": "Mini-Anime Theater 10: Snack Hazama 10 / Male Underground Idol 5",
+      "titles": {
+        "ja": "ミニアニメ劇場 その10: スナックはざま⑩ / メン地下アイドル⑤",
+        "en": "Mini-Anime Theater 10: Snack Hazama 10 / Male Underground Idol 5"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-05",
+      "runtime": 15,
+      "rating": "2.57",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S11",
+      "title": "Mini-Anime Theater 11: Snack Hazama 11 / Male Underground Idol 6",
+      "titles": {
+        "ja": "ミニアニメ劇場 その11: スナックはざま⑪ / メン地下アイドル⑥",
+        "en": "Mini-Anime Theater 11: Snack Hazama 11 / Male Underground Idol 6"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-12",
+      "runtime": 15,
+      "rating": "2.57",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S12",
+      "title": "Mini-Anime Theater 12: Death Game 6 / Snack Hazama 12",
+      "titles": {
+        "ja": "ミニアニメ劇場 その12: デスゲーム⑥ / スナックはざま⑫",
+        "en": "Mini-Anime Theater 12: Death Game 6 / Snack Hazama 12"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-19",
+      "runtime": 15,
+      "rating": "2.57",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.758Z"
+}

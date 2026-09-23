@@ -1,0 +1,374 @@
+{
+  "anilistId": 185874,
+  "malId": 60636,
+  "route": "bleach-sennen-kessen-hen-kashin-tan",
+  "titles": {
+    "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+    "english": "BLEACH: Thousand-Year Blood War - The Calamity",
+    "native": "BLEACH 千年血戦篇-禍進譚-"
+  },
+  "anilist": {
+    "id": 185874,
+    "idMal": 60636,
+    "title": {
+      "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+      "english": "BLEACH: Thousand-Year Blood War - The Calamity",
+      "native": "BLEACH 千年血戦篇-禍進譚-"
+    },
+    "synonyms": [
+      "BLEACH: Thousand-Year Blood War Part 4",
+      "BLEACH 千年血戦篇 第4クール",
+      "BLEACH: Thousand-Year Blood War The Final Season",
+      "BLEACH TYBW"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-aU3e6tBT6wwA.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185874-aU3e6tBT6wwA.jpg",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185874-IdGyh1EBG91I.jpg",
+    "description": "Destruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and Quincies… as the death of the Soul King mirrors the collapse of the Three Worlds, distortions and omens of destruction start to appear in all realms. \n<br><br>\nFierce battles erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryuu's true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...\n<br><br>\nThe fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait—despair or hope?\n<br><br>\n(Source: VIZ Media, edited)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 10,
+    "duration": null,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 10,
+      "day": 26
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "averageScore": 90,
+    "meanScore": 90,
+    "popularity": 88368,
+    "favourites": 3505,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 9,
+      "airingAt": 1792418400,
+      "timeUntilAiring": 2300943
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "PIERROT FILMS"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://bleach-anime.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/BLEACHanimation/"
+      },
+      {
+        "site": "Instagram",
+        "url": "https://www.instagram.com/bleach_official_anime/"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@bleachanimation"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://youtube.com/@official_bleach"
+      },
+      {
+        "site": "Hulu",
+        "url": "https://www.hulu.com/series/bleach-thousand-year-blood-war-02a3c8c0-4f1d-4610-bbb4-5b8e9468d7b1"
+      },
+      {
+        "site": "Disney Plus",
+        "url": "https://www.disneyplus.com/series/bleach-thousand-year-blood-war/4Afet1Q421gy"
+      }
+    ],
+    "trailer": {
+      "id": "IJONbpfIlUg",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Delayed",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Shounen",
+      "Supernatural",
+      "Superpower"
+    ],
+    "studios": [
+      "PIERROT FILMS"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "The fourth and final part of <span class=\"italics\">BLEACH: Sennen Kessen-hen</span>.<br><br>Destruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and Quincies… as the death of the Soul King mirrors the collapse of the Three Worlds, distortions and omens of destruction start to appear in all realms.<br><br>Fierce battles erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryuu&#39;s true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...<br><br>The fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait—despair or hope?<br><br>(Source: VIZ Media, edited)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4pD39X7",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "hulu",
+        "url": "www.hulu.com/series/bleach-thousand-year-blood-war-02a3c8c0-4f1d-4610-bbb4-5b8e9468d7b1",
+        "name": "Hulu"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLYDN8muP8huc",
+        "name": "YouTube"
+      },
+      {
+        "platform": "disney",
+        "url": "www.disneyplus.com/series/bleach-thousand-year-blood-war/4Afet1Q421gy",
+        "name": "Disney+"
+      }
+    ],
+    "subTime": "2026-09-14T15:30:00Z",
+    "dubTime": "2026-09-14T14:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 10,
+    "latestEpisode": {
+      "number": 8,
+      "airedAt": "2026-09-12T14:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 9,
+      "at": "2026-10-19T14:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 15:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 10,
+    "latestEpisode": {
+      "number": 4,
+      "airedAt": "2026-08-15T14:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 5,
+      "at": "2026-09-26T14:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 14:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "God of Thunder",
+      "titles": {
+        "ja": "GOD OF THUNDER",
+        "en": "God of Thunder",
+        "x-jat": "God of Thunder"
+      },
+      "overview": "Ichigo, Orihime and Chad head out to defeat Yhwach while Yoruichi clashes with Nakk Le Vaar.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897318/screencap/6a6537c1cf1cc.jpg",
+      "airDate": "2026-07-25T14:00:00Z",
+      "runtime": 24,
+      "rating": "3.03",
+      "absoluteEpisodeNumber": 407,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Son of Darkness",
+      "titles": {
+        "ja": "Son of Darkness",
+        "en": "Son of Darkness",
+        "x-jat": "Son of Darkness"
+      },
+      "overview": "The battle between Nakk Le Vaar, Yoruichi and Urahara rages and Ichigo and Orihime confront Yhwach.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897319/screencap/6a6e0abf143f3.jpg",
+      "airDate": "2026-08-01T14:00:00Z",
+      "runtime": 25,
+      "rating": "5.55",
+      "absoluteEpisodeNumber": 408,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Blood for My Bone",
+      "titles": {
+        "ja": "Blood for My Bone",
+        "en": "Blood for My Bone",
+        "x-jat": "Blood for My Bone"
+      },
+      "overview": "Ichigo and Orihime confront Yhwach in a battle that will shape the fate of the Three Worlds.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897320/screencap/6a75d268197cd.jpg",
+      "airDate": "2026-08-08T14:00:00Z",
+      "runtime": 24,
+      "rating": "5.55",
+      "absoluteEpisodeNumber": 409,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "The Perfect Crimson",
+      "titles": {
+        "ja": "The Perfect Crimson",
+        "en": "The Perfect Crimson",
+        "x-jat": "The Perfect Crimson"
+      },
+      "overview": "Gerard's ability remains unbroken, while Ichigo endures Yhwach's fierce assault.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897321/screencap/6a7f0f4262cba.jpg",
+      "airDate": "2026-08-15T14:00:00Z",
+      "runtime": 24,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 410,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Defend You",
+      "titles": {
+        "ja": "DEFEND YOU",
+        "en": "Defend You",
+        "x-jat": "Defend You"
+      },
+      "overview": "Confronting Yhwach, Ichigo awakens the power of the Hollow deep within, becoming Demi-Hollowfied.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897322/screencap/6a8882df7cd5a.jpg",
+      "airDate": "2026-08-22T14:00:00Z",
+      "runtime": 27,
+      "rating": "9.60",
+      "absoluteEpisodeNumber": 411,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The End",
+      "titles": {
+        "ja": "THE END",
+        "en": "The End",
+        "x-jat": "The End"
+      },
+      "overview": "The battle between Uryu and Haschwalth intensifies and nears its conclusion.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897323/screencap/6a91a66709b8b.jpg",
+      "airDate": "2026-08-29T14:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 412,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "The End 2",
+      "titles": {
+        "ja": "THE END 2",
+        "en": "The End 2",
+        "x-jat": "The End 2"
+      },
+      "overview": "Ichigo's Bankai fails to reach Yhwach as he falls into despair and is depowered. Ishida allies with the soul reapers and Arrancar to counter Yhwach's Seed of Destruction to save the Three Worlds.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897324/screencap/6a9b6d094d241.jpg",
+      "airDate": "2026-09-05T14:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 413,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "The End Two World",
+      "titles": {
+        "ja": "THE END TWO WORLD",
+        "en": "The End Two World",
+        "x-jat": "The End Two World"
+      },
+      "overview": "Ichigo, with his Bankai broken and Zanpakuto shattered, sinks into the depths of despair, unable even to stand. As the flame of his courage dims, his past enemies appear in front of him.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11897325/screencap/6aa4b5f10b5a4.jpg",
+      "airDate": "2026-09-12T14:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 414,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "The Blade",
+      "titles": {
+        "ja": "THE BLADE",
+        "en": "The Blade",
+        "x-jat": "The Blade"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-19T14:00:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 415,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-26T14:00:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 416,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Theatrical Premiere",
+      "titles": {
+        "ja": "劇場先行上映",
+        "en": "Theatrical Premiere",
+        "x-jat": "Gekijou Senkou Jouei"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-12",
+      "runtime": 85,
+      "rating": "9.27",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 10,
+  "updatedAt": "2026-09-23T10:33:05.604Z"
+}

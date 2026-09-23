@@ -1,0 +1,1174 @@
+{
+  "anilistId": 154587,
+  "malId": 52991,
+  "route": null,
+  "titles": {
+    "romaji": "Sousou no Frieren",
+    "english": "Frieren: Beyond Journey’s End",
+    "native": "葬送のフリーレン"
+  },
+  "anilist": {
+    "id": 154587,
+    "idMal": 52991,
+    "title": {
+      "romaji": "Sousou no Frieren",
+      "english": "Frieren: Beyond Journey’s End",
+      "native": "葬送のフリーレン"
+    },
+    "synonyms": [
+      "Frieren at the Funeral",
+      "장송의 프리렌",
+      "Frieren - Oltre la Fine del Viaggio",
+      "คำอธิษฐานในวันที่จากลา Frieren",
+      "Frieren e a Jornada para o Além",
+      "Frieren – Nach dem Ende der Reise",
+      "葬送的芙莉蓮",
+      "Frieren: Más allá del final del viaje",
+      "Frieren en el funeral",
+      "Sōsō no Furīren",
+      "Frieren. U kresu drogi",
+      "Frieren - Pháp sư tiễn táng",
+      "Фрирен, провожающая в последний путь",
+      "فريرن: ما وراء نهاية الرحلة",
+      "Frieren: Tras finalizar el viaje"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154587-qQTzQnEJJ3oB.jpg",
+      "color": "#bbf1a1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154587-ivXNJ23SM1xB.jpg",
+    "description": "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure…\n<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 28,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 9,
+      "day": 29
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 22
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 91,
+    "meanScore": 91,
+    "popularity": 482334,
+    "favourites": 56284,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "MADHOUSE"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://frieren-anime.jp/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/anime_frieren"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GG5H5XQX4/frieren-beyond-journeys-end"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2090295"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl10YPPR7qDsVf10wZfYnIMK"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@anime_frieren"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/81726714"
+      },
+      {
+        "site": "Hulu",
+        "url": "https://www.hulu.com/series/frieren-beyond-journeys-end-1d4725f8-06d1-43fb-a077-72143ac5502f"
+      },
+      {
+        "site": "Amazon Prime Video",
+        "url": "https://www.primevideo.com/detail/0FCJEHY4FXTDVCLZ5NR9A0N42N"
+      }
+    ],
+    "trailer": {
+      "id": "tR8YH0G67Rk",
+      "site": "youtube"
+    }
+  },
+  "schedule": null,
+  "sub": {
+    "available": false,
+    "totalEpisodes": 28,
+    "latestEpisode": {
+      "number": 28,
+      "airedAt": "2024-03-22T14:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 28,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Journey`s End",
+      "titles": {
+        "ja": "冒険の終わり",
+        "en": "The Journey`s End",
+        "de": "Das Ende der Reise",
+        "fr": "La fin de l`aventure",
+        "x-jat": "Bouken no Owari",
+        "uk": "Кінець мандрівки",
+        "zh-Hans": "冒险的结束"
+      },
+      "overview": "The world celebrates the Demon King's defeat at the hands of the Hero and his companions. Now that their great adventure is over, what will Frieren the mage do next?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9350138/screencap/6516db4c3a389.jpg",
+      "airDate": "2023-09-29T14:00:00Z",
+      "runtime": 26,
+      "rating": "8.02",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "It Didn`t Have to Be Magic...",
+      "titles": {
+        "ja": "別に魔法じゃなくたって...",
+        "en": "It Didn`t Have to Be Magic...",
+        "de": "Es hätte nicht unbedingt Magie sein müssen ...",
+        "fr": "Magie ou pas, peu importe",
+        "x-jat": "Betsu ni Mahou ja Nakutatte...",
+        "uk": "Це не може бути магією...",
+        "zh-Hans": "也不一定要是魔法…"
+      },
+      "overview": "Frieren instructs Fern in the use of magic while deciphering a grimoire for Heiter.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993737/screencap/6516dba58b3fb.jpg",
+      "airDate": "2023-09-29T14:00:00Z",
+      "runtime": 26,
+      "rating": "8.27",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Killing Magic",
+      "titles": {
+        "ja": "人を殺す魔法",
+        "en": "Killing Magic",
+        "de": "Tötungszauber",
+        "fr": "Le zoltraak",
+        "x-jat": "Hito o Korosu Mahou",
+        "uk": "Вбивча магія",
+        "zh-Hans": "杀人魔法"
+      },
+      "overview": "While retracing the path she took on her adventure with her former traveling companions, Frieren confronts an old enemy.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993738/screencap/6516dbf654876.jpg",
+      "airDate": "2023-09-29T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.69",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "The Land Where Souls Rest",
+      "titles": {
+        "ja": "魂の眠る地",
+        "en": "The Land Where Souls Rest",
+        "de": "Wo die Seelen ruhen",
+        "fr": "Là où reposent les âmes",
+        "x-jat": "Tamashii no Nemuru Chi",
+        "uk": "Місце, де спочивають душі",
+        "zh-Hans": "灵魂安眠之地"
+      },
+      "overview": "Frieren and Fern pay a visit to Eisen, who requests their help in finding the notes of Flamme the Legendary Mage.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993739/screencap/6516dc5905a4d.jpg",
+      "airDate": "2023-09-29T14:00:00Z",
+      "runtime": 26,
+      "rating": "8.58",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Phantoms of the Dead",
+      "titles": {
+        "ja": "死者の幻影",
+        "en": "Phantoms of the Dead",
+        "de": "Trugbild der Toten",
+        "fr": "Mirages",
+        "x-jat": "Shisha no Gen`ei",
+        "uk": "Привиди мертвих",
+        "zh-Hans": "死者的幻影"
+      },
+      "overview": "Frieren and Fern investigate ghost sightings at a village where people have started going missing.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993740/screencap/651c1d2bb51d0.jpg",
+      "airDate": "2023-10-06T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.29",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The Hero of the Village",
+      "titles": {
+        "ja": "村の英雄",
+        "en": "The Hero of the Village",
+        "de": "Der Held des Dorfes",
+        "fr": "Le héros du village",
+        "x-jat": "Mura no Eiyuu",
+        "uk": "Герой села",
+        "zh-Hans": "村子的英雄"
+      },
+      "overview": "Frieren and Fern enlist Stark's help to fight the solar dragon - but is he up to the task?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993741/screencap/6525543a01309.jpg",
+      "airDate": "2023-10-13T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.80",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Like a Fairy Tale",
+      "titles": {
+        "ja": "おとぎ話のようなもの",
+        "en": "Like a Fairy Tale",
+        "de": "Wie aus einem Märchen",
+        "fr": "Comme un conte de fées",
+        "x-jat": "Otogibanashi no You na Mono",
+        "uk": "Неначе казка",
+        "zh-Hans": "童话故事般的人物"
+      },
+      "overview": "After reflecting on the transient nature of the past as it exists in people's collective memories, Frieren unexpectedly runs into a sworn enemy.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993742/screencap/652efc320885c.jpg",
+      "airDate": "2023-10-20T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.90",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Frieren the Slayer",
+      "titles": {
+        "ja": "葬送のフリーレン",
+        "en": "Frieren the Slayer",
+        "de": "Die Todesbotin Frieren",
+        "fr": "Frieren la Fossoyeuse",
+        "x-jat": "Sousou no Frieren",
+        "uk": "Згубниця Фрірен",
+        "zh-Hans": "葬送的芙莉莲"
+      },
+      "overview": "As tensions in Graf Granat's domain reach a breaking point, Fern and Stark find their own resolve - and Frieren resumes an old duty.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993743/screencap/6537f02d13812.jpg",
+      "airDate": "2023-10-27T14:00:00Z",
+      "runtime": 25,
+      "rating": "9.11",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Aura the Guillotine",
+      "titles": {
+        "ja": "断頭台のアウラ",
+        "en": "Aura the Guillotine",
+        "de": "Die Henkerin Aura",
+        "fr": "Aura la Guillotine",
+        "x-jat": "Dantoudai no Aura",
+        "uk": "Аура Гільйотина",
+        "zh-Hans": "断头台阿乌拉"
+      },
+      "overview": "While Fern and Stark make a temporary retreat with Graf Granat, Frieren's true foe awaits her outside the city.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993744/screencap/654120a437854.jpg",
+      "airDate": "2023-11-03T14:00:00Z",
+      "runtime": 25,
+      "rating": "9.59",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "A Powerful Mage",
+      "titles": {
+        "ja": "強い魔法使い",
+        "en": "A Powerful Mage",
+        "de": "Mächtige Magierin",
+        "fr": "Une mage redoutable",
+        "x-jat": "Tsuyoi Mahou Tsukai",
+        "uk": "Могутня чарівниця",
+        "zh-Hans": "强大的魔法使"
+      },
+      "overview": "Frieren's many years of training under her teacher Flamme are tested in her confrontation with Aura the Guillotine. Will Aura's scales find her wanting?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993745/screencap/654a84b7ce6ed.jpg",
+      "airDate": "2023-11-10T14:00:00Z",
+      "runtime": 25,
+      "rating": "9.95",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Winter in the Northern Lands",
+      "titles": {
+        "ja": "北側諸国の冬",
+        "en": "Winter in the Northern Lands",
+        "de": "Winter in den Nördlichen Ländern",
+        "fr": "L`hiver des contrées du nord",
+        "x-jat": "Kitagawa Shokoku no Fuyu",
+        "uk": "Зими північних земель",
+        "zh-Hans": "北方诸国的冬季"
+      },
+      "overview": "Frieren and her companions continue their journey through the northern lands, but obstacles both natural and manmade still stand in their way.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993746/screencap/655384b0cb330.jpg",
+      "airDate": "2023-11-17T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.67",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "A Real Hero",
+      "titles": {
+        "ja": "本物の勇者",
+        "en": "A Real Hero",
+        "de": "Ein echter Held",
+        "fr": "Un authentique héros",
+        "x-jat": "Honmono no Yuusha",
+        "uk": "Справжній герой",
+        "zh-Hans": "真正的勇者"
+      },
+      "overview": "Deep in the mountains of the northern lands, Frieren and her party arrive at the Village of the Sword, where they have another job to do.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9993747/screencap/655ccc7b3af99.jpg",
+      "airDate": "2023-11-24T14:00:00Z",
+      "runtime": 25,
+      "rating": "9.45",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "Aversion to One`s Own Kind",
+      "titles": {
+        "ja": "同族嫌悪",
+        "en": "Aversion to One`s Own Kind",
+        "de": "Abneigung unter Gleichgesinnten",
+        "fr": "Répulsion envers un semblable",
+        "x-jat": "Douzoku Ken`o",
+        "uk": "Відраза до собі подібних",
+        "zh-Hans": "同类厌恶"
+      },
+      "overview": "While passing by a village in the woods of the northern lands, Frieren and party meet Sein, a gifted priest who is nonetheless corrupt enough to give even Heiter a run for his money. But what happened in his past?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057050/screencap/6566533a28a09.jpg",
+      "airDate": "2023-12-01T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.07",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": "Privilege of the Young",
+      "titles": {
+        "ja": "若者の特権",
+        "en": "Privilege of the Young",
+        "de": "Das Vorrecht der Jugend",
+        "fr": "Le privilège de la jeunesse",
+        "x-jat": "Wakamono no Tokken",
+        "uk": "Переваги юності",
+        "zh-Hans": "年轻人的特权"
+      },
+      "overview": "The party arrives in a large and lively town with a bustling shopping district that Frieren once visited with Himmel, but something seems to have come up between Fern and Stark.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057051/screencap/656f4338bce78.jpg",
+      "airDate": "2023-12-08T14:00:00Z",
+      "runtime": 25,
+      "rating": "9.02",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 15,
+      "title": "Smells Like Trouble",
+      "titles": {
+        "ja": "厄介事の匂い",
+        "en": "Smells Like Trouble",
+        "de": "Der Geruch von Ärger",
+        "fr": "L`odeur des ennuis",
+        "x-jat": "Yakkai Goto no Nioi",
+        "uk": "Запах негараздів",
+        "zh-Hans": "麻烦事的气息"
+      },
+      "overview": "When the party happens upon a town whose inhabitants are all mysteriously asleep, it's time for their newest traveling companion to prove his mettle.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057052/screencap/6578681405dfa.jpg",
+      "airDate": "2023-12-15T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.85",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 16,
+      "title": "Long-Lived Friends",
+      "titles": {
+        "ja": "長寿友達",
+        "en": "Long-Lived Friends",
+        "de": "Langlebige Freunde",
+        "fr": "Amis de longue vie",
+        "x-jat": "Chouju Tomodachi",
+        "uk": "Довголітні друзі",
+        "zh-Hans": "长寿的朋友"
+      },
+      "overview": "Frieren pays a visit to Old Man Voll, a long-lived friend of hers, with traveling companions in tow.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057054/screencap/658b5526a03f5.jpg",
+      "airDate": "2023-12-22T14:00:00Z",
+      "runtime": 24,
+      "rating": "8.97",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 17,
+      "title": "Take Care",
+      "titles": {
+        "ja": "じゃあ元気で",
+        "en": "Take Care",
+        "de": "Dann macht`s gut",
+        "fr": "Faites bon voyage",
+        "x-jat": "Jaa Genki de",
+        "uk": "Що ж, бережіть себе",
+        "zh-Hans": "那就多保重了"
+      },
+      "overview": "Now that Sein finally has a lead on the whereabouts of his long-lost friend, is it time for him and Frieren's party to part ways?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057056/screencap/659adba284e6d.jpg",
+      "airDate": "2024-01-05T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.62",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 18,
+      "title": "First-Class Mage Exam",
+      "titles": {
+        "ja": "一級魔法使い選抜試験",
+        "en": "First-Class Mage Exam",
+        "de": "Die Auswahlprüfung für Magier des ersten Ranges",
+        "fr": "L`examen de mage de premier niveau",
+        "x-jat": "Ikkyuu Mahou Tsukai Senbatsu Shiken",
+        "uk": "Іспит чародіїв першого класу",
+        "zh-Hans": "一级魔法使选拔测验"
+      },
+      "overview": "Frieren and party finally arrive in Äußerst, ready to undergo the first-class mage exam, and meet a number of colorful characters who are there to do the same.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057058/screencap/659d4cf65c4aa.jpg",
+      "airDate": "2024-01-12T14:00:00Z",
+      "runtime": 25,
+      "rating": "7.85",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 19,
+      "title": "Well-Laid Plans",
+      "titles": {
+        "ja": "入念な計画",
+        "en": "Well-Laid Plans",
+        "de": "Ein sorgfältig durchdachter Plan",
+        "fr": "Une stratégie soignée",
+        "x-jat": "Nyuunen na Keikaku",
+        "uk": "Злагоджений план",
+        "zh-Hans": "周密的计划"
+      },
+      "overview": "Frieren and her new teammates hatch a plan to capture a Stille - but are the other teams just going to stand by and let it happen?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057061/screencap/65a69070d4e1f.jpg",
+      "airDate": "2024-01-19T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.51",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 20,
+      "title": "Necessary Killing",
+      "titles": {
+        "ja": "必要な殺し",
+        "en": "Necessary Killing",
+        "de": "Notwendiges Töten",
+        "fr": "Meurtres nécessaires",
+        "x-jat": "Hitsuyou na Koroshi",
+        "uk": "Вимушене вбивство",
+        "zh-Hans": "必要的杀戮"
+      },
+      "overview": "The first-class mage exam intensifies as fighting breaks out between the participants - and what's at stake might even be worth killing for.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057064/screencap/65afb9c87c277.jpg",
+      "airDate": "2024-01-26T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.13",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 21,
+      "title": "The World of Magic",
+      "titles": {
+        "ja": "魔法の世界",
+        "en": "The World of Magic",
+        "de": "Die Welt der Magie",
+        "fr": "Le monde de la magie",
+        "x-jat": "Mahou no Sekai",
+        "uk": "Світ магії",
+        "zh-Hans": "魔法的世界"
+      },
+      "overview": "Frieren, Kanne, and Lawine struggle with the 13th party over possession of the Stille, but there'll be more surprises in store before their battle, and the first test, reach their conclusion.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057067/screencap/65b971031f20c.jpg",
+      "airDate": "2024-02-02T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.92",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 22,
+      "title": "Future Enemies",
+      "titles": {
+        "ja": "次からは敵同士",
+        "en": "Future Enemies",
+        "de": "Zukünftige Feinde",
+        "fr": "D`alliés à ennemis",
+        "x-jat": "Tsugi kara wa Tekidoushi",
+        "uk": "Майбутні вороги",
+        "zh-Hans": "下次开始就是敌人"
+      },
+      "overview": "After the conclusion of the first test, the exam participants have some time to kill in town. What do mages get up to on their days off?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057069/screencap/65c329e26d027.jpg",
+      "airDate": "2024-02-09T14:00:00Z",
+      "runtime": 25,
+      "rating": "7.76",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": "Conquering the Labyrinth",
+      "titles": {
+        "ja": "迷宮攻略",
+        "en": "Conquering the Labyrinth",
+        "de": "Eroberung des Labyrinths",
+        "fr": "La conquête du donjon",
+        "x-jat": "Dungeon Kouryaku",
+        "uk": "Підкорення лабіринту",
+        "zh-Hans": "攻略迷宫"
+      },
+      "overview": "The aspiring first-class mages now face their second test: conquering the Ruins of the King's Tomb. A simple task, or so the proctor claims, but there's a reason this particular dungeon remains unexplored.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057071/screencap/65cb96020dbab.jpg",
+      "airDate": "2024-02-16T14:00:00Z",
+      "runtime": 25,
+      "rating": "9.07",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "Perfect Replicas",
+      "titles": {
+        "ja": "完璧な複製体",
+        "en": "Perfect Replicas",
+        "de": "Perfekte Kopien",
+        "fr": "Des copies conformes",
+        "x-jat": "Kanpeki na Fukuseitai",
+        "uk": "Досконалі копії",
+        "zh-Hans": "完美的复制体"
+      },
+      "overview": "Due to the Spiegel, a legendary monster that can create perfect replicas of others, the test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate enemy: themselves.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057072/screencap/65d4bfcc5a74c.jpg",
+      "airDate": "2024-02-23T14:00:00Z",
+      "runtime": 25,
+      "rating": "8.92",
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 25,
+      "title": "A Fatal Vulnerability",
+      "titles": {
+        "ja": "致命的な隙",
+        "en": "A Fatal Vulnerability",
+        "de": "Fatale Schwachstelle",
+        "fr": "Le point faible",
+        "x-jat": "Chimeiteki na Suki",
+        "uk": "Смертельна вразливість",
+        "zh-Hans": "致命破绽"
+      },
+      "overview": "A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she knows how to win. Is it time for the student to surpass the master?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10057073/screencap/65ddf33f9c6ae.jpg",
+      "airDate": "2024-03-01T14:00:00Z",
+      "runtime": 25,
+      "rating": "9.22",
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 26,
+      "title": "The Height of Magic",
+      "titles": {
+        "ja": "魔法の高み",
+        "en": "The Height of Magic",
+        "de": "Die Höhe der Magie",
+        "fr": "Les sommets de la magie",
+        "x-jat": "Mahou no Takami",
+        "uk": "Вершина мрії",
+        "zh-Hans": "魔法的高深境界"
+      },
+      "overview": "To defeat Spiegel, Frieren and Fern fight against Frieren's replica, but have a tough time. Meanwhile, Denken, Lavine, and the others fight against the replicas, but the magic of Sense, a first-class mage and the exam's proctor, rages.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10086091/screencap/65e750eb8cbe8.jpg",
+      "airDate": "2024-03-08T14:00:00Z",
+      "runtime": 25,
+      "rating": "9.68",
+      "absoluteEpisodeNumber": 26,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 27,
+      "title": "An Era of Humans",
+      "titles": {
+        "ja": "人間の時代",
+        "en": "An Era of Humans",
+        "de": "Das Zeitalter der Menschen",
+        "fr": "L`âge des Hommes",
+        "x-jat": "Ningen no Jidai",
+        "uk": "Епоха людей",
+        "zh-Hans": "人类的时代"
+      },
+      "overview": "With the second test behind them, only one remains - but first, Frieren and Fern need to settle an important matter in town. What awaits them in the third test?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10086092/screencap/65f468dd5a039.jpg",
+      "airDate": "2024-03-15T14:00:00Z",
+      "runtime": 25,
+      "rating": "9.33",
+      "absoluteEpisodeNumber": 27,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 28,
+      "title": "It Would Be Embarrassing When We Met Again",
+      "titles": {
+        "ja": "また会ったときに恥ずかしいからね",
+        "en": "It Would Be Embarrassing When We Met Again",
+        "de": "Weil es peinlich wäre, wenn man sich wiedersähe",
+        "fr": "Nos retrouvailles en deviendraient gênantes",
+        "x-jat": "Mata Atta Toki ni Hazukashii kara ne",
+        "uk": "Як же ніяково буде за наступної зустрічі",
+        "zh-Hans": "因为再见面时会很难为情"
+      },
+      "overview": "As the first-class mage exam concludes and the test-takers go their separate ways, farewell leads to departure - but the next stage of Frieren's journey has only just begun.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10086093/screencap/65f95e7dcf03d.jpg",
+      "airDate": "2024-03-22T14:00:00Z",
+      "runtime": 24,
+      "rating": "9.27",
+      "absoluteEpisodeNumber": 28,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": "S21",
+      "title": "Episode S21",
+      "titles": {
+        "ja": "葬送のフリーレン×ZIP! 待望のアニメ化! 魅力解剖SP",
+        "en": "Episode S21",
+        "x-jat": "Sousou no Frieren x ZIP! Taibou no Anime-ka! Miryoku Kaibou SP"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-09-24",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S22",
+      "title": "Episode S22",
+      "titles": {
+        "ja": "『葬送のフリーレン』が見たくなる魔法",
+        "en": "Episode S22",
+        "x-jat": "\"Sousou no Frieren\" ga Mitaku Naru Mahou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-09-29",
+      "runtime": 60,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S1",
+      "title": "Magic Episode 1: Magic to Say What You Are Thinking",
+      "titles": {
+        "ja": "●●の魔法 第1回: 考えていることを言ってしまう魔法",
+        "en": "Magic Episode 1: Magic to Say What You Are Thinking",
+        "x-jat": "Marumaru no Mahou Dai 1 Kai: Kangaete Iru Koto o Itte Shimau Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第1话：「把心里想的事说出来的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-10-11",
+      "runtime": 1,
+      "rating": "5.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Magic Episode 2: Magic to Just Remove Alcohol from Booze",
+      "titles": {
+        "ja": "●●の魔法 第2回: お酒からアルコールだけを抜く魔法",
+        "en": "Magic Episode 2: Magic to Just Remove Alcohol from Booze",
+        "x-jat": "Marumaru no Mahou Dai 2 Kai: Osake kara Alcohol dake o Nuku Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第2话：「从酒里去除酒精的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-10-25",
+      "runtime": 2,
+      "rating": "5.52",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S3",
+      "title": "Magic Episode 3: Magic to Wake Up at the Right Time at Morning",
+      "titles": {
+        "ja": "●●の魔法 第3回: 朝決まった時間に起きれるようになる魔法",
+        "en": "Magic Episode 3: Magic to Wake Up at the Right Time at Morning",
+        "x-jat": "Marumaru no Mahou Dai 3 Kai: Asa Kimatta Jikan ni Okireru You ni Naru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第3话：「能让人早上准时起床的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-11-15",
+      "runtime": 2,
+      "rating": "5.41",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S4",
+      "title": "Magic Episode 4: Magic to Make a Good Scent Come from the Body",
+      "titles": {
+        "ja": "●●の魔法 第4回: 体から良いにおいが出る魔法",
+        "en": "Magic Episode 4: Magic to Make a Good Scent Come from the Body",
+        "x-jat": "Marumaru no Mahou Dai 4 Kai: Karada kara Yoi Nioi ga Deru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第4话：「能从身上散发香味的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-11-29",
+      "runtime": 1,
+      "rating": "6.62",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S5",
+      "title": "Magic Special Episode: Magic to Make for a Merry Dining Table",
+      "titles": {
+        "ja": "●●の魔法 特別版: 食卓をしあわせにする魔法",
+        "en": "Magic Special Episode: Magic to Make for a Merry Dining Table",
+        "x-jat": "Marumaru no Mahou Tokubetsu Ban: Shokutaku o Shiawase ni Suru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」特别篇：「让餐桌变得幸福的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-12-14",
+      "runtime": 2,
+      "rating": "8.00",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S6",
+      "title": "Magic Episode 5: Magic to Improve Luck",
+      "titles": {
+        "ja": "●●の魔法 第5回: 運がよくなる魔法",
+        "en": "Magic Episode 5: Magic to Improve Luck",
+        "x-jat": "Marumaru no Mahou Dai 5 Kai: Un ga Yoku Naru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第5话：「能将运气变好的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-12-27",
+      "runtime": 2,
+      "rating": "5.35",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S7",
+      "title": "Magic Episode 6: Magic to Remove Annoying Oil Stains",
+      "titles": {
+        "ja": "●●の魔法 第6回: しつこい油汚れを落とす魔法",
+        "en": "Magic Episode 6: Magic to Remove Annoying Oil Stains",
+        "x-jat": "Marumaru no Mahou Dai 6 Kai: Shitsukoi Abura Yogore o Otosu Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第6话：「去除烦人油污的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-01-10",
+      "runtime": 2,
+      "rating": "6.62",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S8",
+      "title": "Magic Episode 7: Magic to Speak Extremely Fast Without Faltering",
+      "titles": {
+        "ja": "●●の魔法 第7回: ものすごく早口に澱みなく喋れる魔法",
+        "en": "Magic Episode 7: Magic to Speak Extremely Fast Without Faltering",
+        "x-jat": "Marumaru no Mahou Dai 7 Kai: Monosugoku Hayakuchi Yodominaku Shabereru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第7话：「能顺溜说话的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-01-24",
+      "runtime": 2,
+      "rating": "5.65",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S9",
+      "title": "Magic Episode 8: Magic to Understand the Feelings of a Fish",
+      "titles": {
+        "ja": "●●の魔法 第8回: 魚の気持ちがわかる魔法",
+        "en": "Magic Episode 8: Magic to Understand the Feelings of a Fish",
+        "x-jat": "Marumaru no Mahou Dai 8 Kai: Sakana no Kimochi ga Wakaru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第8话：「能理解鱼的心情的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-02-07",
+      "runtime": 1,
+      "rating": "6.29",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S10",
+      "title": "Magic Episode 9: Magic to Improve Luck (Part 2)",
+      "titles": {
+        "ja": "●●の魔法 第9回: 運が良くなる魔法その2",
+        "en": "Magic Episode 9: Magic to Improve Luck (Part 2)",
+        "x-jat": "Marumaru no Mahou Dai 9 Kai: Un ga Yoku Naru Mahou Sono 2",
+        "zh-Hans": "迷你动画「〇〇的魔法」第9话：「能将运气变好的魔法 其二」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-02-19",
+      "runtime": 2,
+      "rating": "7.25",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S11",
+      "title": "Magic Episode 10: Magic to Develop a Weird Sentence Ender",
+      "titles": {
+        "ja": "●●の魔法 第10回: 語尾が変なふうになる魔法",
+        "en": "Magic Episode 10: Magic to Develop a Weird Sentence Ender",
+        "x-jat": "Marumaru no Mahou Dai 10 Kai: Gobi ga Hen na Fuu ni Naru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第10话：「让句尾变得奇怪的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-03-11",
+      "runtime": 2,
+      "rating": "7.56",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S23",
+      "title": "Episode S23",
+      "titles": {
+        "ja": "~トークの魔法~ 特別版",
+        "en": "Episode S23",
+        "x-jat": "Talk no Mahou: Tokubetsu Ban"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-12-04",
+      "runtime": 75,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S24",
+      "title": "Episode S24",
+      "titles": {
+        "ja": "~トークの魔法~ 特別版【一級魔法使い試験編】",
+        "en": "Episode S24",
+        "x-jat": "Talk no Mahou: Tokubetsu Ban \"Ikkyuu Mahou Tsukai Shiken Hen\""
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-02-13",
+      "runtime": 65,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S12",
+      "title": "Magic Episode 11: Magic to Completely Remove Filth from Clothes",
+      "titles": {
+        "ja": "●●の魔法 第11回: 服の汚れをきれいさっぱり落とす魔法",
+        "en": "Magic Episode 11: Magic to Completely Remove Filth from Clothes",
+        "x-jat": "Marumaru no Mahou Dai 11 Kai: Fuku no Yogore o Kirei Sappari Otosu Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第11话：「彻底清除衣服污渍的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-03-24",
+      "runtime": 1,
+      "rating": "6.62",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S20",
+      "title": "Episode S20",
+      "titles": {
+        "ja": "FRIDAY ANIME NIGHT 特別編 葬送のフリーレン 大感謝祭 人の心を知る軌跡",
+        "en": "Episode S20",
+        "x-jat": "Friday Anime Night Tokubetsu Hen: Sousou no Frieren - Dai Kanshasai Hito no Kokoro o Shiru Kiseki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-03-29",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S19",
+      "title": "Journey`s Memory Special Video",
+      "titles": {
+        "ja": "\"旅の記憶\"スペシャルビデオ",
+        "en": "Journey`s Memory Special Video",
+        "x-jat": "\"Tabi no Kioku\" Special Video"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2024-03-23",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S25",
+      "title": "Completed Screening Theater Greeting Event",
+      "titles": {
+        "ja": "完成披露上映イベント舞台挨拶",
+        "en": "Completed Screening Theater Greeting Event",
+        "x-jat": "Kansei Hirou Jouei Event Butai Aisatsu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2023-09-23",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S13",
+      "title": "Magic Episode 12: Magic to Grow Taller",
+      "titles": {
+        "ja": "●●の魔法 第12回: 身長が伸びる魔法",
+        "en": "Magic Episode 12: Magic to Grow Taller",
+        "x-jat": "Marumaru no Mahou Dai 12 Kai: Shinchou ga Nobiru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第12话：「能长高的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-04-02",
+      "runtime": 2,
+      "rating": "7.15",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S14",
+      "title": "Magic Episode 13: Magic to Have a Full Stomach",
+      "titles": {
+        "ja": "●●の魔法 第13回: おなかいっぱいになる魔法",
+        "en": "Magic Episode 13: Magic to Have a Full Stomach",
+        "x-jat": "Marumaru no Mahou Dai 13 Kai: Onaka Ippai ni Naru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第13话：「让肚子吃饱饱的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-05-07",
+      "runtime": 2,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S15",
+      "title": "Magic Episode 14: Magic to Slash Almost Anything",
+      "titles": {
+        "ja": "●●の魔法 第14回: 大体なんでも切る魔法",
+        "en": "Magic Episode 14: Magic to Slash Almost Anything",
+        "x-jat": "Marumaru no Mahou Dai 14 Kai: Daitai Nandemo Kiru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第14话：「大概什么都能切开的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-06-04",
+      "runtime": 2,
+      "rating": "7.15",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S16",
+      "title": "Magic Episode 15: Magic to Move at High Speeds",
+      "titles": {
+        "ja": "●●の魔法 第15回: 高速で移動する魔法",
+        "en": "Magic Episode 15: Magic to Move at High Speeds",
+        "x-jat": "Marumaru no Mahou Dai 15 Kai: Kousoku de Idou Suru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第15话：「能高速移动的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-07-02",
+      "runtime": 2,
+      "rating": "7.15",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S17",
+      "title": "Magic Episode 16: Magic to Make Your Surroundings Cool",
+      "titles": {
+        "ja": "●●の魔法 第16回: 体のまわりを涼しくする魔法",
+        "en": "Magic Episode 16: Magic to Make Your Surroundings Cool",
+        "x-jat": "Marumaru no Mahou Dai 16 Kai: Karada no Mawari o Suzushiku Suru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第16话：「让身边凉快下来的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-08-06",
+      "runtime": 2,
+      "rating": "7.15",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S18",
+      "title": "Magic Episode 17: Magic to Seal Special Techniques",
+      "titles": {
+        "ja": "●●の魔法 第17回: 得意技を封じる魔法",
+        "en": "Magic Episode 17: Magic to Seal Special Techniques",
+        "x-jat": "Marumaru no Mahou Dai 17 Kai: Tokuiwaza o Fuujiru Mahou",
+        "zh-Hans": "迷你动画「〇〇的魔法」第17话：「将最擅长的招式封印的魔法」"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-09-03",
+      "runtime": 2,
+      "rating": "7.15",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 28,
+  "updatedAt": "2026-09-23T08:50:21.755Z"
+}

@@ -1,0 +1,368 @@
+{
+  "anilistId": 185875,
+  "malId": 60637,
+  "route": "mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance",
+  "titles": {
+    "romaji": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+    "english": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+    "native": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
+  },
+  "anilist": {
+    "id": 185875,
+    "idMal": 60637,
+    "title": {
+      "romaji": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "english": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "native": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
+    },
+    "synonyms": [
+      "NANOHA EXGV"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-XMvDVlIUZODx.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185875-XMvDVlIUZODx.jpg",
+      "color": "#e46b43"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185875-kHVsTIJKPVRJ.jpg",
+    "description": "Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown \"invasive alien species.\"\n<br><br>\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.\n<br><br>\nIn this world, the United Nations Hazardous Species Investigation Agency, \"EXCEEDS,\" has begun operations to ward off crises and disasters caused by invasive species.\n<br><br>\nThe story begins on the island nation of \"Mizuho\" in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?\n<br><br>\n<i>Note: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.</i>",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 20
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mahou Shoujo",
+      "Sci-Fi"
+    ],
+    "averageScore": 64,
+    "meanScore": 65,
+    "popularity": 10026,
+    "favourites": 152,
+    "source": "ORIGINAL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Seven Arcs"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/exgv_official"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://nanoha.com/EXGV/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378090/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance"
+      }
+    ],
+    "trailer": {
+      "id": "4IcEbMCW-FU",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Magical Girl"
+    ],
+    "studios": [
+      "Seven Arcs"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 26,
+    "description": "Thirty years ago, the sudden appearance of unknown invasive alien lifeforms nearly brought about the end of the world.<br><br>Since then, humanity and these creatures, known as Invasion Species, have continued to clash over living territory. Although human safety is barely being maintained, the world remains on the brink of collapse. As the threat of death and destruction lingers, people go about their daily lives by turning away from the constant danger around them. In response, the United Nations establishes EXCEEDS, an organization tasked with investigating and combating threats caused by the Invasion Species.<br><br>The story begins in the Far Eastern island nation of Mizuho, where Shiina Kuze, a young hunter who exterminates invasive species, lives on a remote island. Wanting nothing more than a quiet life with her only family—her younger sister, Setsuna—Shiina&#39;s routine is disrupted when an unexpected incident occurs, drawing her into a much larger conflict.<br><br>(Source: MAL News)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4vf1wQx",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378090/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-07-04T17:00:00Z",
+    "dubTime": "2026-03-28T16:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-19T16:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Kuze Shiina Origin",
+      "titles": {
+        "ja": "久瀬シイナ Origin",
+        "en": "Kuze Shiina Origin",
+        "de": "Shiina Kuze Origin – Der Grund, warum ein Mädchen von einer abgelegenen Insel als „Dämonin“ weiterlebt und wie ihre Geschichte beginnt –",
+        "x-jat": "Kuze Shiina Origin"
+      },
+      "overview": "A young girl living in peace as a hunter sees her life forever changed when a new threat comes for her sister.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11141823/screencap/6a4890b320b61.jpg",
+      "airDate": "2026-07-04T16:00:00Z",
+      "runtime": 48,
+      "rating": "5.79",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "UN Investigation Agency Exceeds / Diaboli Slayers",
+      "titles": {
+        "ja": "国連調査機関EXCEEDS / 魔人狩り",
+        "en": "UN Investigation Agency Exceeds / Diaboli Slayers",
+        "x-jat": "Kokuren Chousa Kikan Exceeds / Majingari"
+      },
+      "overview": "Nanoha & Fate recruit Shiina to EXCEEDS, and explain the Diaboli. / A mysterious group of girls slay Diaboli.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872351/screencap/6a4f844b721e2.jpg",
+      "airDate": "2026-07-11T16:00:00Z",
+      "runtime": 24,
+      "rating": "7.36",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Kuze Shiina & Yorumi Towa",
+      "titles": {
+        "ja": "久瀬シイナと夜海トワ",
+        "en": "Kuze Shiina & Yorumi Towa",
+        "x-jat": "Kuze Shiina to Yorumi Towa"
+      },
+      "overview": "On her day off from EXCEEDS, Shiina encounters Towa attempting to rescue a cat & the two become fast friends.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872352/screencap/6a59958807343.jpg",
+      "airDate": "2026-07-18T16:00:00Z",
+      "runtime": 24,
+      "rating": "5.72",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Yorumi Towa Origin",
+      "titles": {
+        "ja": "夜海トワ Origin",
+        "en": "Yorumi Towa Origin",
+        "x-jat": "Yorumi Towa Origin"
+      },
+      "overview": "Shiina is killing progenitors while Towa prepares to make her move, reflecting on the reason for her actions.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872353/screencap/6a640ad889ff3.jpg",
+      "airDate": "2026-07-25T16:00:00Z",
+      "runtime": 24,
+      "rating": "4.31",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Chance Encounter",
+      "titles": {
+        "ja": "遭遇",
+        "en": "Chance Encounter",
+        "x-jat": "Souguu"
+      },
+      "overview": "EXCEEDS & the Diaboli Slayers run into each other as both target the facility abusing Progenitor Three & Four.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872354/screencap/6a6bb47a8bf4e.jpg",
+      "airDate": "2026-08-01T16:00:00Z",
+      "runtime": 24,
+      "rating": "5.72",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Kuragi Eiji and Shinomiya Mana / Sunlight",
+      "titles": {
+        "ja": "蔵木エイジと篠宮マナ / 陽光",
+        "en": "Kuragi Eiji and Shinomiya Mana / Sunlight",
+        "x-jat": "Kuragi Eiji to Shinomiya Mana / Youkou"
+      },
+      "overview": "Eiji and Mana discuss the Diaboli Slayers and take countermeasures. Shiina and Towa enjoy a day together.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872355/screencap/6a75d4cdda14b.jpg",
+      "airDate": "2026-08-08T16:00:00Z",
+      "runtime": 24,
+      "rating": "5.72",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Jurisdiction 4`s Subway Running Extermination Battle",
+      "titles": {
+        "ja": "第四管区地下鉄道追跡駆除戦",
+        "en": "Jurisdiction 4`s Subway Running Extermination Battle",
+        "x-jat": "Dai Yon Kanku Chikatetsudou Tsuiseki Kujosen"
+      },
+      "overview": "Parasitic invaders are unleashed on a public park. As both groups work to stop it Towa becomes a wanted woman.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872356/screencap/6a7fce99ef6ad.jpg",
+      "airDate": "2026-08-15T16:00:00Z",
+      "runtime": 24,
+      "rating": "7.16",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Yorumi Towa Descent",
+      "titles": {
+        "ja": "夜海トワ Descent",
+        "en": "Yorumi Towa Descent",
+        "x-jat": "Yorumi Towa Descent"
+      },
+      "overview": "Shiina fails to persuade Towa, and Towa turns herself in to get closer to Shinomiya.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872357/screencap/6a88869ca585d.jpg",
+      "airDate": "2026-08-22T16:00:00Z",
+      "runtime": 24,
+      "rating": "5.17",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Exceeds",
+      "titles": {
+        "ja": "『EXCEEDS』",
+        "en": "Exceeds",
+        "x-jat": "\"Exceeds\""
+      },
+      "overview": "EXCEEDS interviews the Diaboli Slayers and mobilizes its forces while Towa fights Shinomiya Mana.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872358/screencap/6a921e2f98b9e.jpg",
+      "airDate": "2026-08-29T16:00:00Z",
+      "runtime": 24,
+      "rating": "5.72",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "South Pole Underground Research Lab & Search and Destroy Mission",
+      "titles": {
+        "ja": "南極地下研究所捜索殲滅戦",
+        "en": "South Pole Underground Research Lab & Search and Destroy Mission",
+        "x-jat": "Nankyoku Chika Kenkyuujo Sousaku Senmetsusen"
+      },
+      "overview": "EXCEEDS raids Shinomiya's lab in the south pole to rescue Towa and exterminate Progenitor Zero.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872359/screencap/6a9b756dbedc7.jpg",
+      "airDate": "2026-09-05T16:00:00Z",
+      "runtime": 24,
+      "rating": "3.82",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "The Diaboli, Shinomiya Mana",
+      "titles": {
+        "ja": "魔人・篠宮マナ",
+        "en": "The Diaboli, Shinomiya Mana",
+        "x-jat": "Majin: Shinomiya Mana"
+      },
+      "overview": "Shiina rescues Towa and faces off against Mana while Nanoha and Fate handle progenitor zero.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872360/screencap/6aa4b88e5f3e3.jpg",
+      "airDate": "2026-09-12T16:00:00Z",
+      "runtime": 24,
+      "rating": "5.72",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "The Flame Connecting Me to You",
+      "titles": {
+        "ja": "君と繋ぐ炎",
+        "en": "The Flame Connecting Me to You",
+        "x-jat": "Kimi to Tsunagu Honoo"
+      },
+      "overview": "Towa and Shiina work together to end the real Progenitor Zero and bring peace back to their world.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872361/screencap/6aaea71272007.jpg",
+      "airDate": "2026-09-19T16:00:00Z",
+      "runtime": 24,
+      "rating": "4.20",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Final Episode Pre-Broadcast Special",
+      "titles": {
+        "ja": "最終回直前生放送特番",
+        "en": "Final Episode Pre-Broadcast Special",
+        "x-jat": "Saishuukai Chokuzen Namahousou Tokuban"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-14",
+      "runtime": 75,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T05:28:37.929Z"
+}

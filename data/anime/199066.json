@@ -1,0 +1,354 @@
+{
+  "anilistId": 199066,
+  "malId": 62535,
+  "route": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+  "titles": {
+    "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+    "english": "Hanaori-san Still Wants to Fight in the Next Life",
+    "native": "花織さんは転生しても喧嘩がしたい"
+  },
+  "anilist": {
+    "id": 199066,
+    "idMal": 62535,
+    "title": {
+      "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+      "english": "Hanaori-san Still Wants to Fight in the Next Life",
+      "native": "花織さんは転生しても喧嘩がしたい"
+    },
+    "synonyms": [
+      "Hanaori-san Wants to Have A Fight Even If She Reincarnates",
+      "คุณฮานาโอริ เกิดใหม่ครั้งนี้ก็ขอมีเรื่อง"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199066-YXDVsguvFZMm.jpg",
+      "color": "#43bbe4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
+    "description": "Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 12
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 69,
+    "meanScore": 70,
+    "popularity": 25429,
+    "favourites": 326,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790442000,
+      "timeUntilAiring": 324543
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "LIDENFILMS"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/hanaori_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://hanaorisan-anime.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378066/hanaori-san-still-wants-to-fight-in-the-next-life"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2413807"
+      }
+    ],
+    "trailer": {
+      "id": "xueZbCyZcnI",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "studios": [
+      "LIDENFILMS"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3T02ti8",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378066/hanaori-san-still-wants-to-fight-in-the-next-life",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4g9zIra",
+        "name": "Amazon"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2413807",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-10T17:30:00Z",
+    "dubTime": "2026-07-10T17:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-19T17:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-26T17:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 17:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-19T17:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-26T17:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 17:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "When Ryusei Met Meteor...",
+      "titles": {
+        "en": "When Ryusei Met Meteor...",
+        "de": "Liebe liegt in der Luft"
+      },
+      "overview": "The reincarnated Hero visits the reincarnated Demon Lord, and the former NEET becomes a teacher at her school.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11350623/screencap/6a4cc70c5f8b4.jpg",
+      "airDate": "2026-07-11T17:00:00Z",
+      "runtime": 24,
+      "rating": "5.28",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "The Witches of Oz",
+      "titles": {
+        "en": "The Witches of Oz",
+        "de": "Die Zauberinnen von Oz"
+      },
+      "overview": "Meteor and Ryusei get to know the two new transfer students, and then their secret identities are revealed.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11350639/screencap/6a5618c58279f.jpg",
+      "airDate": "2026-07-18T17:00:00Z",
+      "runtime": 24,
+      "rating": "6.97",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Midnight Run",
+      "titles": {
+        "en": "Midnight Run"
+      },
+      "overview": "Meteor and Ryusei discuss the food of their old and new lives. Then they go on a dungeon date.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880587/screencap/6a5f5bac823e3.jpg",
+      "airDate": "2026-07-25T17:00:00Z",
+      "runtime": 24,
+      "rating": "6.36",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Those Who Can`t Be Forgiven",
+      "titles": {
+        "en": "Those Who Can`t Be Forgiven"
+      },
+      "overview": "Ryusei fights off a Returner. Ryusei and Hanaori go through couples therapy.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880588/screencap/6a68af4f90a8e.jpg",
+      "airDate": "2026-08-01T17:00:00Z",
+      "runtime": 24,
+      "rating": "6.36",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Much Ado About Nothing",
+      "titles": {
+        "en": "Much Ado About Nothing"
+      },
+      "overview": "Ryusei resolves some of the girls' troubles. Then he goes on a not-date with Meteor.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880589/screencap/6a72fe51874ec.jpg",
+      "airDate": "2026-08-08T17:00:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Pulp Fiction",
+      "titles": {
+        "en": "Pulp Fiction"
+      },
+      "overview": "Hanaori gets turned into a cat. Then silenced. Then a magical girl from a parallel world attacks Ryusei.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880590/screencap/6a7ae8a14520b.jpg",
+      "airDate": "2026-08-15T17:00:00Z",
+      "runtime": 24,
+      "rating": "6.36",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Seven",
+      "titles": {
+        "en": "Seven"
+      },
+      "overview": "The witches gripe about their work for Oz. Hanaori gets corrupted and fights Ryusei.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890992/screencap/6a8425b1087af.jpg",
+      "airDate": "2026-08-22T17:00:00Z",
+      "runtime": 24,
+      "rating": "7.55",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Training Day",
+      "titles": {
+        "en": "Training Day"
+      },
+      "overview": "Meteor finds out the holy sword Ryusei gave her is worth 1 billion yen. Ryusei trains the witches.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890993/screencap/6a8d5f3f819c9.jpg",
+      "airDate": "2026-08-29T17:00:00Z",
+      "runtime": 24,
+      "rating": "5.14",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Scream",
+      "titles": {
+        "en": "Scream"
+      },
+      "overview": "Ryusei deals with a robot from another world and ghosts at the cultural festival. Ayame faces her bullies.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890994/screencap/6a96a1853193a.jpg",
+      "airDate": "2026-09-05T17:00:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Triangle of Sadness",
+      "titles": {
+        "en": "Triangle of Sadness"
+      },
+      "overview": "A mage from Earth 13 tries to fuse their dimensions together, and Ryusei's princess comes to their world.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890995/screencap/6a9fd407b775d.jpg",
+      "airDate": "2026-09-12T17:00:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Ryusei and Meteor fight together to defeat the evil princess.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890996/screencap/6aa90f6046481.jpg",
+      "airDate": "2026-09-19T17:00:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11890997/screencap/6ab247c33d21b.jpg",
+      "airDate": "2026-09-26T17:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.699Z"
+}

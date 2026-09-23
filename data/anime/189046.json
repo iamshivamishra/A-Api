@@ -1,0 +1,916 @@
+{
+  "anilistId": 189046,
+  "malId": 61316,
+  "route": "re-zero-kara-hajimeru-isekai-seikatsu-4",
+  "titles": {
+    "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+    "english": "Re:ZERO -Starting Life in Another World- Season 4",
+    "native": "Re:ゼロから始める異世界生活 4th season"
+  },
+  "anilist": {
+    "id": 189046,
+    "idMal": 61316,
+    "title": {
+      "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "english": "Re:ZERO -Starting Life in Another World- Season 4",
+      "native": "Re:ゼロから始める異世界生活 4th season"
+    },
+    "synonyms": [
+      "Re:ZERO รีเซทชีวิต ฝ่าวิกฤตต่างโลก ซีซั่น 4",
+      "Re:ZERO – Жизнь с нуля в альтернативном мире 4"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189046-yaHWtS5FII46.jpg",
+      "color": "#e49350"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
+    "description": "In the deadly battle at Priestella, Subaru and his allies emerged victorious, but at great cost. As Subaru searches for a way to save Rem, Crusch, and Julius, he learns of a \"wise woman,\" Shaula, an all-seeing being said to possess every form of knowledge, who resides at the Pleiades Watchtower. Subaru and his crew must brave the uncharted Auguria Dunes to reclaim what was lost.\n<br><br>\n(Source: Crunchyroll)\n<br><br>\n<i>Note: Lucca Comics & Games pre-screened episode 1 early on November 1, 2025, prior to the Japanese television broadcast on July 8th, 2026.",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 19,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 30
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance",
+      "Thriller"
+    ],
+    "averageScore": 90,
+    "meanScore": 90,
+    "popularity": 142243,
+    "favourites": 7605,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 18,
+      "airingAt": 1790168400,
+      "timeUntilAiring": 50943
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "WHITE FOX"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/Rezero_official"
+      },
+      {
+        "site": "Instagram",
+        "url": "https://www.instagram.com/re.zero.fans/"
+      },
+      {
+        "site": "Official Site",
+        "url": "http://re-zero-anime.jp/tv/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://www.twitter.com/ReZero_En"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GRGG9798R"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@rezero_anime_official"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/re-zero-starting-life-in-another-world-season-4-2026-201wmt3pwgh"
+      },
+      {
+        "site": "Facebook",
+        "url": "https://www.facebook.com/ReZero.fans"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2342439"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3RN7t6wesJqlUkSUN6FHKF"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/ReZEROFR"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/@Rezero_official"
+      }
+    ],
+    "trailer": {
+      "id": "i8EjBP85cCc",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Isekai",
+      "Psychological",
+      "Thriller"
+    ],
+    "studios": [
+      "White Fox"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The fourth season of <span class=\"italics\">Re:Zero kara Hajimeru Isekai Seikatsu</span>.<br><br>In the deadly battle at Priestella, Subaru and his allies emerged victorious, but at great cost. As Subaru searches for a way to save Rem, Crusch, and Julius, he learns of a &#34;wise woman,&#34; Shaula, an all-seeing being said to possess every form of knowledge, who resides at the Pleiades Watchtower. Subaru and his crew must brave the uncharted Auguria Dunes to reclaim what was lost.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3CMHQyd",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GRGG9798R/rezero--starting-life-in-another-world-",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4hC6hR5",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl3RN7t6wesJqlUkSUN6FHKF",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2342439",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-04-07T14:00:00Z",
+    "dubTime": "2026-04-07T14:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 19,
+    "latestEpisode": {
+      "number": 17,
+      "airedAt": "2026-09-16T13:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 18,
+      "at": "2026-09-23T13:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Tuesday 14:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 19,
+    "latestEpisode": {
+      "number": 15,
+      "airedAt": "2026-09-02T13:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 16,
+      "at": "2026-09-23T14:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Tuesday 14:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Reason I`m Taking You with Me / Gorgeous Tiger Reloaded",
+      "titles": {
+        "ja": "君を連れ出す理由 / ゴージャス・タイガー・リローデッド",
+        "en": "The Reason I`m Taking You with Me / Gorgeous Tiger Reloaded",
+        "de": "Der Grund, dich mitzunehmen / Gorgeous Tiger Reloaded",
+        "fr": "La raison pour laquelle je t`emmène / Gorgeous Tiger Reloaded",
+        "pl": "Właśnie dlatego biorę Cię ze sobą / Supertajger",
+        "x-jat": "Kimi o Tsuredasu Riyuu / Gorgeous Tiger Reloaded"
+      },
+      "overview": "Subaru sets out for the Pleiades Watchtower in hopes of saving his friends and the people of Priestella.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714303/screencap/69ce986703421.jpg",
+      "airDate": "2026-04-08T13:30:00Z",
+      "runtime": 24,
+      "rating": "4.10",
+      "absoluteEpisodeNumber": 67,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Overcome Sand Time",
+      "titles": {
+        "ja": "砂時間を越えろ",
+        "en": "Overcome Sand Time",
+        "de": "Überwinde die Sandzeit",
+        "fr": "Surmontez l`heure du sable",
+        "pl": "Droga przez pustynię",
+        "x-jat": "Suna Jikan o Koeru"
+      },
+      "overview": "Subaru and company struggle to cross the Auguria Dunes on the way to the Pleiades Watchtower.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714304/screencap/69de2dd7e15fe.jpg",
+      "airDate": "2026-04-15T13:30:00Z",
+      "runtime": 24,
+      "rating": "7.89",
+      "absoluteEpisodeNumber": 68,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "The Keeper of the Watchtower",
+      "titles": {
+        "ja": "監視塔の番人",
+        "en": "The Keeper of the Watchtower",
+        "de": "Die Wächterin des Wachturms",
+        "fr": "Le gardien de la tour de guet",
+        "pl": "Strażniczka Wieży Plejad",
+        "x-jat": "Kanshitou no Bannin"
+      },
+      "overview": "The party is separated just before reaching the Pleiades Watchtower. Subaru awakens to find he's underground.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714305/screencap/69e73f0ab6960.jpg",
+      "airDate": "2026-04-22T13:30:00Z",
+      "runtime": 24,
+      "rating": "7.56",
+      "absoluteEpisodeNumber": 69,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "A White Sky Asterism",
+      "titles": {
+        "ja": "白い星空のアステリズム",
+        "en": "A White Sky Asterism",
+        "de": "Asterismus des weißen Sternenhimmels",
+        "fr": "Astérisme sur fond de ciel blanc étoilé",
+        "pl": "Asteryzm na białym niebie",
+        "x-jat": "Shiroi Hoshizora no Asterism"
+      },
+      "overview": "Subaru and company meet Shaula, keeper of the Pleiades Watchtower, who leads them to the first of its trials.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714306/screencap/69f07ae9f0ee7.jpg",
+      "airDate": "2026-04-29T13:30:00Z",
+      "runtime": 24,
+      "rating": "7.19",
+      "absoluteEpisodeNumber": 70,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Stick Swinger",
+      "titles": {
+        "ja": "棒振り",
+        "en": "Stick Swinger",
+        "de": "Stockschwinger",
+        "fr": "Le manieur de bâton",
+        "pl": "Zawadiaka z pałeczkami",
+        "x-jat": "Boufuri"
+      },
+      "overview": "The Great Pleiades Library doesn't seem to have the answers Subaru seeks, so he decides they must go further.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714307/screencap/69f9b7986175c.jpg",
+      "airDate": "2026-05-06T13:30:00Z",
+      "runtime": 24,
+      "rating": "5.62",
+      "absoluteEpisodeNumber": 71,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Julius Juukulius",
+      "titles": {
+        "ja": "ユリウス・ユークリウス",
+        "en": "Julius Juukulius",
+        "de": "Julius Juukulius",
+        "fr": "Julius Jûkulius",
+        "pl": "Julius Juukulius",
+        "x-jat": "Julius Juukulius"
+      },
+      "overview": "Subaru and crew attempt to get past the second floor of the tower, but its examiner poses a tough challenge.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714308/screencap/6a02f54cd3ed0.jpg",
+      "airDate": "2026-05-13T13:30:00Z",
+      "runtime": 24,
+      "rating": "5.93",
+      "absoluteEpisodeNumber": 72,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Walking out of the Convenience Store and into a Wondrous World",
+      "titles": {
+        "ja": "コンビニを出ると, そこは不思議の世界でした",
+        "en": "Walking out of the Convenience Store and into a Wondrous World",
+        "de": "Vor dem Konbini wartete ein Wunderland",
+        "fr": "En sortant de la supérette, je me suis retrouvé dans un monde étrange",
+        "pl": "Wyszedłem do sklepu i nagle znalazłem się w innym świecie",
+        "x-jat": "Konbini o Deru to, Soko wa Fushigi no Sekai Deshita"
+      },
+      "overview": "Julius overhears Anastasia and Subaru talking about Anastasia's current condition.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714309/screencap/6a0adb4a9c87a.jpg",
+      "airDate": "2026-05-20T13:30:00Z",
+      "runtime": 24,
+      "rating": "4.39",
+      "absoluteEpisodeNumber": 73,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Who Are You?",
+      "titles": {
+        "ja": "オマエハダレダ",
+        "en": "Who Are You?",
+        "de": "Wer bist du",
+        "fr": "Qui es-tu ?",
+        "pl": "Kim jesteś?",
+        "x-jat": "Omae wa Dare Da"
+      },
+      "overview": "Subaru wakes up in the green room, remembering absolutely nothing about the world he is in.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714310/screencap/6a1563be309a9.jpg",
+      "airDate": "2026-05-27T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.32",
+      "absoluteEpisodeNumber": 74,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Empty Shell",
+      "titles": {
+        "ja": "残骸",
+        "en": "Empty Shell",
+        "de": "Überreste",
+        "fr": "Cadavres",
+        "pl": "Wrak",
+        "x-jat": "Zangai"
+      },
+      "overview": "Maddened by fear and distrust, Subaru attempts to escape the watchtower... only to end up lost underground.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714311/screencap/6a1e9ff881e50.jpg",
+      "airDate": "2026-06-03T13:30:00Z",
+      "runtime": 24,
+      "rating": "7.98",
+      "absoluteEpisodeNumber": 75,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Murder Is a Habit",
+      "titles": {
+        "ja": "殺人は癖になる",
+        "en": "Murder Is a Habit",
+        "de": "Morden macht süchtig",
+        "fr": "Le meurtre est une habitude",
+        "pl": "Morderstwo wchodzi w nawyk",
+        "x-jat": "Satsujin wa Kuse ni Naru"
+      },
+      "overview": "Shortly after Subaru discovers Meili's corpse, Beatrice finds a book with Meili's name on it in the archive.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714312/screencap/6a27d76746609.jpg",
+      "airDate": "2026-06-10T13:30:00Z",
+      "runtime": 24,
+      "rating": "5.97",
+      "absoluteEpisodeNumber": 76,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Re:Zero - Starting Life in Another World",
+      "titles": {
+        "ja": "Re:ゼロから始まる異世界生活",
+        "en": "Re:Zero - Starting Life in Another World",
+        "fr": "Re:Vivre dans un autre monde à partir de zéro",
+        "pl": "Życie w innym świecie od zera",
+        "x-jat": "Re:Zero kara Hajimaru Isekai Seikatsu"
+      },
+      "overview": "Subaru tries desperately to convince the others that he's lost his memories, but they aren't convinced.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714313/screencap/6a311711a7cfd.jpg",
+      "airDate": "2026-06-17T13:30:00Z",
+      "runtime": 25,
+      "rating": "6.81",
+      "absoluteEpisodeNumber": 77,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "From Now On",
+      "titles": {
+        "ja": "これからの話",
+        "en": "From Now On",
+        "pl": "Co teraz?",
+        "x-jat": "Kore kara no Hanashi"
+      },
+      "overview": "After waking up without his memories yet again, Subaru makes up his mind to save Meili this time.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714314/screencap/6a735b7f999d0.jpg",
+      "airDate": "2026-08-12T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.37",
+      "absoluteEpisodeNumber": 78,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": "Stand Up",
+      "titles": {
+        "ja": "立ちなさい",
+        "en": "Stand Up",
+        "pl": "Wstań!",
+        "x-jat": "Tachinasai"
+      },
+      "overview": "Subaru decides to read Reid's book of the dead in hopes of finding a way to defeat him.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714315/screencap/6a84210a7e528.jpg",
+      "airDate": "2026-08-19T13:30:00Z",
+      "runtime": 29,
+      "rating": "6.93",
+      "absoluteEpisodeNumber": 79,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 14,
+      "title": "Five Obstacles",
+      "titles": {
+        "ja": "五つの障害",
+        "en": "Five Obstacles",
+        "pl": "Pięć przeszkód",
+        "x-jat": "Itsutsu no Shougai"
+      },
+      "overview": "Subaru returns from the corridor of memories to find the tower under attack by mabeasts.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714316/screencap/6a8d5bc17d5c5.jpg",
+      "airDate": "2026-08-26T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.03",
+      "absoluteEpisodeNumber": 80,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 15,
+      "title": "A Single-Minded Star",
+      "titles": {
+        "ja": "一途な星",
+        "en": "A Single-Minded Star",
+        "pl": "Wierna gwiazda",
+        "x-jat": "Ichizu na Hoshi"
+      },
+      "overview": "Subaru searches for a way to deal with Reid, Gluttony, mabeasts, and a giant scorpion attacking the tower.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714317/screencap/6a969f6bf15ab.jpg",
+      "airDate": "2026-09-02T13:30:00Z",
+      "runtime": 24,
+      "rating": "7.80",
+      "absoluteEpisodeNumber": 81,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 16,
+      "title": "Subaru Natsuki",
+      "titles": {
+        "ja": "ナツキ・スバル",
+        "en": "Subaru Natsuki",
+        "pl": "Subaru Natsuki",
+        "x-jat": "Natsuki Subaru"
+      },
+      "overview": "With his mental state already in tatters, Subaru finds a book in the archive with his name on it.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714318/screencap/6a9fd0de754e7.jpg",
+      "airDate": "2026-09-09T13:30:00Z",
+      "runtime": 27,
+      "rating": "5.74",
+      "absoluteEpisodeNumber": 82,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 17,
+      "title": "Good Loser",
+      "titles": {
+        "ja": "グッドルーザー",
+        "en": "Good Loser",
+        "pl": "Umieć przegrywać",
+        "x-jat": "Good Loser"
+      },
+      "overview": "Subaru's two sets of memories have merged, and he leads the others in an all-out war to conquer the tower.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714319/screencap/6aa90c4b0fe52.jpg",
+      "airDate": "2026-09-16T13:30:00Z",
+      "runtime": 25,
+      "rating": "7.26",
+      "absoluteEpisodeNumber": 83,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 18,
+      "title": "Ram",
+      "titles": {
+        "ja": "ラム",
+        "en": null,
+        "pl": "Ram",
+        "x-jat": "Ram"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11714320/screencap/6aafd14d9dd22.jpg",
+      "airDate": "2026-09-23T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 84,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 19,
+      "title": null,
+      "titles": {
+        "en": null,
+        "pl": "Shaula / Bohater"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-30T13:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 85,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Re:Zero - Starting Break Time from Zero #1: Emilia Party Struggles",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #1 エミリア陣営奮闘記",
+        "en": "Re:Zero - Starting Break Time from Zero #1: Emilia Party Struggles",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #1: Emilia Jin`ei Funtouki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-04-08",
+      "runtime": 3,
+      "rating": "4.42",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Re:Zero - Starting Break Time from Zero #2: Emilia Party Struggles",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #2 エミリア陣営奮闘記",
+        "en": "Re:Zero - Starting Break Time from Zero #2: Emilia Party Struggles",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #2: Emilia Jin`ei Funtouki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-04-15",
+      "runtime": 3,
+      "rating": "6.29",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S3",
+      "title": "Re:Zero - Starting Break Time from Zero #3: Everyone Is Quite a Handful, I Suppose.",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #3 みんな困ったもんかしら",
+        "en": "Re:Zero - Starting Break Time from Zero #3: Everyone Is Quite a Handful, I Suppose.",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #3: Minna Komattamon Kashira"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-04-22",
+      "runtime": 3,
+      "rating": "8.10",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S4",
+      "title": "Re:Zero - Starting Break Time from Zero #4: Everyone Is Quite a Handful, I Suppose.",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #4 みんな困ったもんかしら",
+        "en": "Re:Zero - Starting Break Time from Zero #4: Everyone Is Quite a Handful, I Suppose.",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #4: Minna Komattamon Kashira"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-04-29",
+      "runtime": 3,
+      "rating": "4.42",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S5",
+      "title": "Re:Zero - Starting Break Time from Zero #5: Walk-the-Talk Log",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #5 有言実行備忘録",
+        "en": "Re:Zero - Starting Break Time from Zero #5: Walk-the-Talk Log",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #5: Yuugenjikkou Bibouroku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-06",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S6",
+      "title": "Re:Zero - Starting Break Time from Zero #6: Walk-the-Talk Log",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #6 有言実行備忘録",
+        "en": "Re:Zero - Starting Break Time from Zero #6: Walk-the-Talk Log",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #6: Yuugenjikkou Bibouroku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-13",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S7",
+      "title": "Re:Zero - Starting Break Time from Zero #7: Walk-the-Talk Log",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #7 有言実行備忘録",
+        "en": "Re:Zero - Starting Break Time from Zero #7: Walk-the-Talk Log",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #7: Yuugenjikkou Bibouroku"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-20",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S8",
+      "title": "Re:Zero - Starting Break Time from Zero #8: The Wiry-Armed Success in Kararagi",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #8 カララギ細腕繁盛期",
+        "en": "Re:Zero - Starting Break Time from Zero #8: The Wiry-Armed Success in Kararagi",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #8: Kararagi Hosoude Hanjouki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-27",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S9",
+      "title": "Re:Zero - Starting Break Time from Zero #9: Emilia Party Struggles",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #9 エミリア陣営奮闘記",
+        "en": "Re:Zero - Starting Break Time from Zero #9: Emilia Party Struggles",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #9: Emilia Jin`ei Funtouki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S10",
+      "title": "Re:Zero - Starting Break Time from Zero #10: Emilia Party Struggles",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #10 エミリア陣営奮闘記",
+        "en": "Re:Zero - Starting Break Time from Zero #10: Emilia Party Struggles",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #10: Emilia Jin`ei Funtouki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-10",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S11",
+      "title": "Re:Zero - Starting Break Time from Zero #11: Golden Lion & the Sword Saint",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #11 金獅子と剣聖",
+        "en": "Re:Zero - Starting Break Time from Zero #11: Golden Lion & the Sword Saint",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #11: Kinjishi to Kensei"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-17",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S20",
+      "title": "Episode S20",
+      "titles": {
+        "ja": "喪失編完走スペシャル! in鳥取砂丘 前編",
+        "en": "Episode S20",
+        "x-jat": "Soushitsu Hen Kansou Special! In Tottori Sakyuu: Zenpen"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-24",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S21",
+      "title": "Episode S21",
+      "titles": {
+        "ja": "喪失編完走スペシャル! in鳥取砂丘 後編",
+        "en": "Episode S21",
+        "x-jat": "Soushitsu Hen Kansou Special! In Tottori Sakyuu: Kouhen"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-01",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S12",
+      "title": "Re:Zero - Starting Break Time from Zero #12: Diary of the Dark Work Sisters",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #12 裏稼業姉妹暗躍日報",
+        "en": "Re:Zero - Starting Break Time from Zero #12: Diary of the Dark Work Sisters",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #12: Ura Kagyou Shimai An`yaku Nippou"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-12",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S13",
+      "title": "Re:Zero - Starting Break Time from Zero #13: Golden Lion & the Sword Saint",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #13 金獅子と剣聖",
+        "en": "Re:Zero - Starting Break Time from Zero #13: Golden Lion & the Sword Saint",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #13: Kinjishi to Kensei"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-19",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S14",
+      "title": "Re:Zero - Starting Break Time from Zero #14: Golden Lion & the Sword Saint",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #14 金獅子と剣聖",
+        "en": "Re:Zero - Starting Break Time from Zero #14: Golden Lion & the Sword Saint",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #14: Kinjishi to Kensei"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-26",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S15",
+      "title": "Re:Zero - Starting Break Time from Zero #15: Cheers for Me",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #15 妾バンザイ",
+        "en": "Re:Zero - Starting Break Time from Zero #15: Cheers for Me",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #15: Warawa Banzai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-02",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S16",
+      "title": "Re:Zero - Starting Break Time from Zero #16: Cheers for Me",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #16 妾バンザイ",
+        "en": "Re:Zero - Starting Break Time from Zero #16: Cheers for Me",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #16: Warawa Banzai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-09",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S17",
+      "title": "Re:Zero - Starting Break Time from Zero #17: The Pleiades Travelogue",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #17 六連星漫遊記",
+        "en": "Re:Zero - Starting Break Time from Zero #17: The Pleiades Travelogue",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #17: Mutsuraboshi Man`yuuki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-16",
+      "runtime": 4,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S18",
+      "title": "Re:Zero - Starting Break Time from Zero #18: The Pleiades Travelogue",
+      "titles": {
+        "ja": "Re:ゼロから始める休憩時間[ブレイクタイム] #18 六連星漫遊記",
+        "en": "Re:Zero - Starting Break Time from Zero #18: The Pleiades Travelogue",
+        "x-jat": "Re:Zero kara Hajimeru Break Time #18: Mutsuraboshi Man`yuuki"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-23",
+      "runtime": 3,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 19,
+  "updatedAt": "2026-09-23T10:33:05.622Z"
+}

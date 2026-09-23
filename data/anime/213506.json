@@ -1,0 +1,127 @@
+{
+  "anilistId": 213506,
+  "malId": 64378,
+  "route": "hokuto-no-ken-kenougun-zako-tachi-no-banka-part-2",
+  "titles": {
+    "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2",
+    "english": "Elegy for the Henchmen: Fist of the North Star Part 2",
+    "native": "北斗の拳 拳王軍ザコたちの挽歌 第2クール"
+  },
+  "anilist": {
+    "id": 213506,
+    "idMal": 64378,
+    "title": {
+      "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2",
+      "english": null,
+      "native": "北斗の拳 拳王軍ザコたちの挽歌 第2クール"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213506-vr9kwJjMvXV8.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213506-vr9kwJjMvXV8.jpg",
+      "color": "#febb50"
+    },
+    "bannerImage": null,
+    "description": null,
+    "format": "TV_SHORT",
+    "status": "RELEASING",
+    "episodes": null,
+    "duration": 4,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 6
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Comedy"
+    ],
+    "averageScore": null,
+    "meanScore": 54,
+    "popularity": 313,
+    "favourites": 3,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Doraku"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://zakoban.com/"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLcPnuVJ3jm6A"
+      }
+    ],
+    "trailer": {
+      "id": "ZPqIvoDeMT0",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Parody"
+    ],
+    "studios": [
+      "Doraku"
+    ],
+    "mediaTypes": [
+      "TV Short"
+    ],
+    "lengthMin": 4,
+    "description": null,
+    "streams": [
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLcPnuVJ3jm6A",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-07-07T11:05:00Z",
+    "dubTime": "2026-06-11T11:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-21T11:05:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Tuesday 11:05 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Thursday 11:00 UTC"
+  },
+  "episodes": [],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.587Z"
+}

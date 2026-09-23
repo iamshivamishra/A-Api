@@ -1,0 +1,140 @@
+{
+  "anilistId": 214703,
+  "malId": 64718,
+  "route": "ghost-meets-gal",
+  "titles": {
+    "romaji": "Ghost Meets Gal!",
+    "english": null,
+    "native": "ごーすと・みーつ・ぎゃる！"
+  },
+  "anilist": {
+    "id": 214703,
+    "idMal": 64718,
+    "title": {
+      "romaji": "Ghost Meets Gal!",
+      "english": null,
+      "native": "ごーすと・みーつ・ぎゃる！"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214703-iXoaVH6UkiZd.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214703-iXoaVH6UkiZd.png",
+      "color": "#5daee4"
+    },
+    "bannerImage": null,
+    "description": null,
+    "format": "TV_SHORT",
+    "status": "RELEASING",
+    "episodes": null,
+    "duration": 2,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 5
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": null,
+    "meanScore": 61,
+    "popularity": 779,
+    "favourites": 11,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 4,
+      "airingAt": 1790377200,
+      "timeUntilAiring": 259743
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "AtoriE"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/cfvanguard_PR"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://cf-vanguard.com/anime-ghost_meets_gal/"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLMeyOW8qY3fA"
+      }
+    ],
+    "trailer": {
+      "id": "n0na0hTpl1E",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "studios": [
+      "AtoriE"
+    ],
+    "mediaTypes": [
+      "TV Short"
+    ],
+    "lengthMin": 2,
+    "description": "<span class=\"italics\">Cardfight!! Vanguard</span> spin-off centered on two girls aiming to become idols.\r<br>\r<br>(Source: Official X Account)",
+    "streams": [
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLZZYdEtpc2mU",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-09-18T23:01:00Z",
+    "dubTime": "2026-09-05T23:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": null,
+    "latestEpisode": {
+      "number": 3,
+      "airedAt": null
+    },
+    "nextRelease": {
+      "episode": 4,
+      "at": "2026-09-25T23:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 23:01 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": null,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Saturday 23:00 UTC"
+  },
+  "episodes": [],
+  "episodeCount": null,
+  "updatedAt": "2026-09-23T10:33:05.662Z"
+}

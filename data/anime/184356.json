@@ -1,0 +1,176 @@
+{
+  "anilistId": 184356,
+  "malId": 63316,
+  "route": "dogul-wang",
+  "titles": {
+    "romaji": "Dogul Wang",
+    "english": "Tomb Raider King",
+    "native": "도굴왕"
+  },
+  "anilist": {
+    "id": 184356,
+    "idMal": 63316,
+    "title": {
+      "romaji": "Dogul Wang",
+      "english": "Tomb Raider King",
+      "native": "도굴왕"
+    },
+    "synonyms": [
+      "Toukutsuou",
+      "盗掘王"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184356-SlFIstXUXJYP.png",
+      "color": "#5d93e4"
+    },
+    "bannerImage": null,
+    "description": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.<br>\n<br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 12,
+    "duration": 23,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 9
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 10,
+      "day": 1
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 66,
+    "meanScore": 66,
+    "popularity": 36240,
+    "favourites": 501,
+    "source": "MANGA",
+    "countryOfOrigin": "KR",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790784900,
+      "timeUntilAiring": 667443
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "STUDIO EEK"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://tombraiderking-pr.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/TombRaider_King"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378123/"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLRwxYv2koIzY"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/media/2412873"
+      }
+    ],
+    "trailer": {
+      "id": "6f702O_nnq8",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Delayed",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Magic"
+    ],
+    "studios": [
+      "STUDIO EEK"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/44XPwrH",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378123/tomb-raider-king",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLRwxYv2koIzY",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2412873",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-08T17:20:00Z",
+    "dubTime": "2026-07-22T17:20:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": null
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-30T16:15:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 17:20 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 9,
+      "airedAt": null
+    },
+    "nextRelease": {
+      "episode": 10,
+      "at": "2026-09-23T17:20:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 17:20 UTC"
+  },
+  "episodes": [],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.629Z"
+}

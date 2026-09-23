@@ -1,0 +1,367 @@
+{
+  "anilistId": 196218,
+  "malId": 62078,
+  "route": "ryoumin-0-nin-start-no-henkyou-ryoushu-sama",
+  "titles": {
+    "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
+    "english": "The Frontier Lord Begins with Zero Subjects",
+    "native": "領民0人スタートの辺境領主様"
+  },
+  "anilist": {
+    "id": 196218,
+    "idMal": 62078,
+    "title": {
+      "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
+      "english": "The Frontier Lord Begins with Zero Subjects",
+      "native": "領民0人スタートの辺境領主様"
+    },
+    "synonyms": [
+      "The Frontier Lord Begins with Zero Subjects: Tales of Blue Dias and the Beastkin Alna",
+      "The Population of the Frontier Owner Stars with 0.",
+      "Penguasa Negeri Terluar Memulai dari 0 Rakyat",
+      "ได้เป็นถึงท่านเจ้าครอบครองดินแดน แต่ดันมีพลเมืองเริ่มต้นจากศูนย์ซะงั้น"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196218-UsdTTCrwpDIN.jpg",
+      "color": "#febb50"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
+    "description": "The war is over, and hero Dias is finally rewarded with land of his own—only to discover it's a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life. \n<br><br>\n(Source: Crunchyroll)<br><br>\n\n<i>Note: Ryoumin 0-Nin Start no Henkyou Ryoushu-sama is streaming a week advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 10th, 2026.</i>",
+    "format": "ONA",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 25,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 18
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 67,
+    "meanScore": 68,
+    "popularity": 33065,
+    "favourites": 475,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "animation studio42"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/ryomin0_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://ryomin0-anime.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378124/the-frontier-lord-begins-with-zero-subjects"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/media/2413170"
+      }
+    ],
+    "trailer": {
+      "id": "5JpTU6wj_-g",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "studios": [
+      "animation studio42"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The war is over, and hero Dias is finally rewarded with land of his own—only to discover it&#39;s a barren frontier with no people, no villages, and no sign of civilization. With nothing but endless grassland ahead of him, Dias sets out to build a domain from the ground up. But after meeting Alna, a mysterious girl with a blue horn, his lonely frontier is about to spring to life.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4wsr65C",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378124/the-frontier-lord-begins-with-zero-subjects",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2413170",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-03T13:31:00Z",
+    "dubTime": "2026-05-30T13:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-18T13:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Frontier Lord and the Girl with the Blue Horn",
+      "titles": {
+        "ja": "辺境領主様と蒼角の乙女",
+        "en": "The Frontier Lord and the Girl with the Blue Horn",
+        "de": "Der Markgraf und die gehörnte Jungfrau",
+        "x-jat": "Henkyou Ryoushu-sama to Aozuno no Otome"
+      },
+      "overview": "Dias is awarded a domain for his wartime service, but there's one small problem. Does anyone even live there?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11250947/screencap/6a47339224686.jpg",
+      "airDate": "2026-07-10T13:30:00Z",
+      "runtime": 25,
+      "rating": "5.72",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "The Frontier Lord and His First Visitor",
+      "titles": {
+        "ja": "辺境領主様と初めての来訪者",
+        "en": "The Frontier Lord and His First Visitor",
+        "de": "Der Markgraf und die ersten Besucher",
+        "x-jat": "Henkyou Ryoushu-sama to Hajimete no Raihousha"
+      },
+      "overview": "Dias settles into daily life with Alna, and little by little, people begin to come calling.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871096/screencap/6a50f4ea43e79.jpg",
+      "airDate": "2026-07-17T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.38",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "The Frontier Lord and the Strange Merchant",
+      "titles": {
+        "ja": "辺境領主様と奇妙な行商人",
+        "en": "The Frontier Lord and the Strange Merchant",
+        "de": "Der Markgraf und der sonderbare reisende Händler",
+        "x-jat": "Henkyou Ryoushu-sama to Kimyou na Gyoushounin"
+      },
+      "overview": "The population of Nezrose slowly grows, including a few surprises courtesy of an unusual visitor.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871097/screencap/6a5a2f5ea7cbc.jpg",
+      "airDate": "2026-07-24T13:30:00Z",
+      "runtime": 24,
+      "rating": "5.70",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "The Frontier Lord and the Neighboring Lord",
+      "titles": {
+        "ja": "辺境領主様とお隣の領主",
+        "en": "The Frontier Lord and the Neighboring Lord",
+        "x-jat": "Henkyou Ryoushu-sama to Otonari no Ryoushu"
+      },
+      "overview": "Dias meets the new lord of the neighboring domain, and he learns there are many rumors about them both.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871098/screencap/6a6369dc367c8.jpg",
+      "airDate": "2026-07-31T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.58",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "The Frontier Lord and the Assailants from the Desert",
+      "titles": {
+        "ja": "辺境領主様と砂漠からの襲撃者",
+        "en": "The Frontier Lord and the Assailants from the Desert",
+        "x-jat": "Henkyou Ryoushu-sama to Sabaku kara no Shuugekisha"
+      },
+      "overview": "Dias tries his hand at farming, and Eldan sends a caravan of gifts to help him establish his domain.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871099/screencap/6a6ca47838bf7.jpg",
+      "airDate": "2026-08-07T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.37",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The Frontier Lord and the Twins` Prayer",
+      "titles": {
+        "ja": "辺境領主様と双子の祈り",
+        "en": "The Frontier Lord and the Twins` Prayer",
+        "x-jat": "Henkyou Ryoushu-sama to Futago no Inori"
+      },
+      "overview": "Senai and Ayhan want to secretly help Dias cultivate his field. Can a new arrival offer them a solution?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871101/screencap/6a75df238674a.jpg",
+      "airDate": "2026-08-14T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.91",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "The Frontier Lord and the New Subjects",
+      "titles": {
+        "ja": "辺境領主様と新たな領民たち",
+        "en": "The Frontier Lord and the New Subjects",
+        "x-jat": "Henkyou Ryoushu-sama to Arata na Ryoumin-tachi"
+      },
+      "overview": "Expectations are low for a new group of dogkin immigrants, but Dias has some ideas for how they'd be useful.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871103/screencap/6a7f197997eb5.jpg",
+      "airDate": "2026-08-21T13:30:00Z",
+      "runtime": 24,
+      "rating": "5.18",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "The Frontier Lord and the Grassland Battle",
+      "titles": {
+        "ja": "辺境領主様と草原の戦い",
+        "en": "The Frontier Lord and the Grassland Battle",
+        "x-jat": "Henkyou Ryoushu-sama to Sougen no Tatakai"
+      },
+      "overview": "Diane's plans quickly go awry when she launches an attack on Dias in his own domain.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871105/screencap/6a88536651cc7.jpg",
+      "airDate": "2026-08-28T13:30:00Z",
+      "runtime": 24,
+      "rating": "4.34",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "The Frontier Lord and the Wedding",
+      "titles": {
+        "ja": "辺境領主様と結婚式",
+        "en": "The Frontier Lord and the Wedding",
+        "x-jat": "Henkyou Ryoushu-sama to Kekkonshiki"
+      },
+      "overview": "Klaus and Canis have grown close, and an event must be held, even if Dias is oblivious.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871107/screencap/6a918dbe3df09.jpg",
+      "airDate": "2026-09-04T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.31",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "The Frontier Lord and His Son and Daughters",
+      "titles": {
+        "ja": "辺境領主様と息子と娘たち",
+        "en": "The Frontier Lord and His Son and Daughters",
+        "x-jat": "Henkyou Ryoushu-sama to Musuko to Musume-tachi"
+      },
+      "overview": "A bunch of new faces arrive at Iluk Village, but not many of them turn out to be total strangers.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871109/screencap/6a9acab56adbf.jpg",
+      "airDate": "2026-09-11T13:30:00Z",
+      "runtime": 24,
+      "rating": "3.33",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "The Frontier Lord and Alna`s Big Brother",
+      "titles": {
+        "ja": "辺境領主様とアルナーの兄",
+        "en": "The Frontier Lord and Alna`s Big Brother",
+        "x-jat": "Henkyou Ryoushu-sama to Alna no Ani"
+      },
+      "overview": "Zorg rushes home to save his sister Alna from the wicked domain lord, utterly unprepared for what awaits him.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871110/screencap/6aa4028d2eb8a.jpg",
+      "airDate": "2026-09-18T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.88",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "The Frontier Lord and the Story That Began with Zero Subjects",
+      "titles": {
+        "ja": "辺境領主様と領民０人から始まった物語",
+        "en": "The Frontier Lord and the Story That Began with Zero Subjects",
+        "x-jat": "Henkyou Ryoushu-sama to Ryoumin 0-nin kara Hajimatta Monogatari"
+      },
+      "overview": "Eldan visits Dias' domain, and delivers a range of official tidings from the king.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871111/screencap/6aad3d85d3591.jpg",
+      "airDate": "2026-09-25T13:30:00Z",
+      "runtime": 24,
+      "rating": "7.20",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T06:30:20.803Z"
+}

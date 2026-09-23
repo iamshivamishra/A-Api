@@ -1,0 +1,356 @@
+{
+  "anilistId": 196356,
+  "malId": 62102,
+  "route": "ibitte-konai-gibo-to-gishi",
+  "titles": {
+    "romaji": "Ibitte Konai Gibo to Gishi",
+    "english": "My Stepmother and Stepsisters Aren’t Wicked",
+    "native": "いびってこない義母と義姉"
+  },
+  "anilist": {
+    "id": 196356,
+    "idMal": 62102,
+    "title": {
+      "romaji": "Ibitte Konai Gibo to Gishi",
+      "english": "My Stepmother and Stepsisters Aren’t Wicked",
+      "native": "いびってこない義母と義姉"
+    },
+    "synonyms": [
+      "いびこな",
+      "IbiKona",
+      "My Mother-in-Law and Sister-in-Law Who Don't Bully Me",
+      "Keluarga Tiriku Manis dan Memanja",
+      "IbiKona: Mi Madrastra y Mis Hermanastras No Son Malvadas"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-2TNt2b9tu0jm.jpg",
+      "color": "#93f1c9"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196356-OUT2nMhW0IdS.jpg",
+    "description": "Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": null,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 8
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "averageScore": 64,
+    "meanScore": 65,
+    "popularity": 12466,
+    "favourites": 117,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790173800,
+      "timeUntilAiring": 56343
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "NEWON"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://ibikona-anime.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/ibikona_anime"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/270mjzjqx0d"
+      },
+      {
+        "site": "Amazon Prime Video",
+        "url": "https://www.amazon.com/My-Stepmother-Stepsisters-Arent-Wicked/dp/B0GYPBM8WL"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLKx8CEsRVJts"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLCTv3-IP7ow8"
+      },
+      {
+        "site": "Viki",
+        "url": "https://www.viki.com/tv/41626"
+      }
+    ],
+    "trailer": {
+      "id": "2UBOHZNG1fM",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Historical",
+      "Slice of Life"
+    ],
+    "studios": [
+      "NEWON"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Miya is the illegitimate child of a certain prominent family. When her mother dies, she&#39;s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters! Yet when she finally meets the women she expects to treat her like dirt, they actually end up being...sweet?!<br><br>(Source: Seven Seas Entertainment)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4faJlpf",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLKx8CEsRVJts",
+        "name": "YouTube"
+      },
+      {
+        "platform": "amazon",
+        "url": "www.amazon.com/dp/B0H7NQQJHH",
+        "name": "Amazon"
+      }
+    ],
+    "subTime": "2026-09-22T17:28:00Z",
+    "dubTime": "2026-09-22T17:23:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-16T14:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-23T14:30:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Tuesday 17:28 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Tuesday 17:23 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "My Stepmother and Stepsisters Aren`t Wicked",
+      "titles": {
+        "ja": "いびってこない義母と義姉",
+        "en": "My Stepmother and Stepsisters Aren`t Wicked",
+        "x-jat": "Ibitte Konai Gibo to Gishi"
+      },
+      "overview": "Miya Nakamura lived a humble but happy life with her beloved mother. \r\nBut when her mother passes away, Miya is taken in by the prestigious Kounokura family. \r\nExpecting rejection as the child of a mistress, Miya prepares for the worst. Instead, she's welcomed with open arms by her caring stepsisters, \r\nwho pamper her with affection and even transform her father's study into a room of her own.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11255434/screencap/6a4bd0c4974f8.jpg",
+      "airDate": "2026-07-08T14:30:00Z",
+      "runtime": 24,
+      "rating": "9.21",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "The Kounokura Family`s Guard",
+      "titles": {
+        "en": "The Kounokura Family`s Guard"
+      },
+      "overview": "Still adjusting to life in the Kounokura household, Miya is told to greet the family's guardian. Expecting a fearsome soldier, she's stunned to meet Gungnir: a tiny, fluffy dog. \r\nInstantly charmed, Miya soon learns he lost his bark because of a tragic past. \r\nAs she uncovers his story, she finds painful parallels with her own.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876810/screencap/6a56d4e9bd2c9.jpg",
+      "airDate": "2026-07-15T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.57",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Daughters of Distinguished Families",
+      "titles": {
+        "en": "Daughters of Distinguished Families"
+      },
+      "overview": "Miya is struggling to keep up with her studies under Marika's guidance, but grows discouraged when her hard work doesn't pay off. To cheer her up, Marika opens up about her own past, helping Miya realize she's not alone. Just as the mood begins to lift, Arisa arrives to insist it's time for a break. But on their way to enjoy some tea on the terrace, a loud crash suddenly echoes from the garden…",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876811/screencap/6a5fdbc17e3be.jpg",
+      "airDate": "2026-07-22T14:30:00Z",
+      "runtime": 24,
+      "rating": "9.21",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Miya Returning a Favor",
+      "titles": {
+        "en": "Miya Returning a Favor"
+      },
+      "overview": "A month after joining the Kounokura family, Miya wants to find a way to repay their kindness. She offers to help when Marika and the others receive new clothes, but somehow ends up picking out outfits for herself too. But Miya decides to focus on the plan to repay them, and starts turning down Marika and Arisa's invitations to focus on the plan, leaving them to think she's avoiding them.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11892939/screencap/6a696872947de.jpg",
+      "airDate": "2026-07-29T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.73",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Thanks to Teru, Miya enrolls at Eihou Girls' Academy alongside Marika and Arisa. Though thrilled to experience school life for the first time, her excitement quickly turns to anxiety when she catches the eye of the school's admired beauty Riru Kazan. Convinced she's somehow offended her, Miya is left bewildered - until Riru unexpectedly appoints her vice leader for their upcoming school excursion.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11892940/screencap/6a7088a20394e.jpg",
+      "airDate": "2026-08-05T14:30:00Z",
+      "runtime": 24,
+      "rating": "8.50",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Miya has settled into life at Eihou Girls' Academy, and meets Koyuki Inari, a classmate who has been absent since the entrance ceremony. Though shy and timid, Koyuki is the eldest daughter of the influential Inari family, whose vast intelligence network earns even Arisa's respect. Drawn to Koyuki's quiet nature, Miya soon discovers she's carrying a secret burden.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11892941/screencap/6a7bd676b2b0a.jpg",
+      "airDate": "2026-08-12T14:30:00Z",
+      "runtime": 24,
+      "rating": "8.58",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Miya's cousin Yaeko visits the Kounokura family with a cake to celebrate Miya passing her written exam. While heading to the terrace with Arisa for tea, Yaeko accidentally bumps into Teru, the intimidating main wife of the Kounokura family. Yaeko panicks and desperately tries to make amends for offending the lady of the household - and impulsively invites Teru to join them for tea…?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902255/screencap/6a834a6a3feaa.jpg",
+      "airDate": "2026-08-19T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.00",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "It's Parents' Observation Day at Eihou Girls Academy. The teachers nervously welcome the parents, knowing a single complaint could cost them their jobs. Teru charms the mothers before visiting Marika and Arisa's classes. When she arrives at Miya's, curious looks and whispers follow the girl whose unusual circumstances make her a rarity at school. Under Teru's watch, Miya reads her composition.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902256/screencap/6a8efa80aac2c.jpg",
+      "airDate": "2026-08-26T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.57",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Student Council President Sadame Mikuriya is respected for her strict adherence to school rules. Though Miya wonders if she is mistaken, the girl she met walking a dog in the park bears a striking resemblance to Sadame. The Student Council reviews a Parents' Day survey on concerns over Miya's enrollment as the child of a mistress - but strangely, none of her classmates' parents have voiced them.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902257/screencap/6a9783c81b071.jpg",
+      "airDate": "2026-09-02T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.85",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Sports Day has arrived. Sadame and Marika face off in the sprint, while Miya's Aquilegia Team falls behind Team Rindo. Determined to win at any cost, Miya enters the scavenger hunt - only to find Marika and Arisa among the contestants. Despite their efforts, Aquilegia struggles to close the gap. Recharged by Teru's special bento, Miya is ready to give it her all in the afternoon… but then…",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902258/screencap/6aa0ae159fc94.jpg",
+      "airDate": "2026-09-09T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.73",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "During summer break, Teru takes the family to the beach. While Marika and Arisa are excited, Miya feels uneasy because of painful memories from the past. Teru's words help her relax, and she begins to enjoy the sea. There, they run into Riru and student council members Homare and Takiko. The group heads to the Kounokura beach house, where Marika and Arisa soon start bickering again.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11902259/screencap/6aaaa9544e12e.jpg",
+      "airDate": "2026-09-16T14:30:00Z",
+      "runtime": 24,
+      "rating": "2.95",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-30T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.661Z"
+}

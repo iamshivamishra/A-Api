@@ -1,0 +1,338 @@
+{
+  "anilistId": 206249,
+  "malId": 63324,
+  "route": "iwamoto-senpai-no-suisen",
+  "titles": {
+    "romaji": "Iwamoto-senpai no Suisen",
+    "english": "Recommendations from Iwamoto-Senpai",
+    "native": "岩元先輩ノ推薦"
+  },
+  "anilist": {
+    "id": 206249,
+    "idMal": 63324,
+    "title": {
+      "romaji": "Iwamoto-senpai no Suisen",
+      "english": "Recommendations from Iwamoto-Senpai",
+      "native": "岩元先輩ノ推薦"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206249-1AUSry416wGz.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206249-1AUSry416wGz.png",
+      "color": "#fed650"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206249-gKJUJDCbMjDT.jpg",
+    "description": "The year 1910. Iwamoto Kodou is a young boy who has successfully carried out many curious missions under the military's directive. His destinations lead to encounters with the strange, weaving tales of history that have yet to be told.",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 19
+    },
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "averageScore": 53,
+    "meanScore": 54,
+    "popularity": 6538,
+    "favourites": 58,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio DEEN"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://iwamoto-anime.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/nura_gumi"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378096/recommendations-from-iwamoto-senpai"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/recommendations-from-iwamoto-senpai-2026-1qxzw6rnxe5"
+      }
+    ],
+    "trailer": {
+      "id": "5Q2OFIvOME0",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Historical",
+      "Military",
+      "Seinen",
+      "Supernatural"
+    ],
+    "studios": [
+      "Studio DEEN"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The 1910s. Iwamoto Kodo, a student at Suho Junior High School under direct command of the army, is investigating paranormal phenomena across the country as per military instruction. In a village rumoured to have &#34;black snow,&#34; he meets a boy with special powers who believes them to be an illness; through Iwamoto&#39;s support, he realises they might have something in common and receives a recommendation to the school. Mysteries await Iwamoto at each place he visits–a romantic tale of this era begins to unravel!<br><br>(Source: MAL News)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3SA22uS",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378096/recommendations-from-iwamoto-senpai",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-07-04T14:00:00Z",
+    "dubTime": "2026-05-30T13:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-19T13:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Black Snow",
+      "titles": {
+        "ja": "黒イ雪",
+        "en": "Black Snow",
+        "de": "Schwarzer Schnee"
+      },
+      "overview": "Iwamoto Kodo has a mission: finding special individuals to attend a special military school.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11818397/screencap/6a464ebb1c038.jpg",
+      "airDate": "2026-07-04T13:30:00Z",
+      "runtime": 24,
+      "rating": "4.12",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "The Bond-Severing Sickles",
+      "titles": {
+        "ja": "縁切リノ鎌",
+        "en": "The Bond-Severing Sickles"
+      },
+      "overview": "Iwamoto joins up with another student from Seiho to investigate a mysterious shrine.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872160/screencap/6a51933105a68.jpg",
+      "airDate": "2026-07-11T13:30:00Z",
+      "runtime": 24,
+      "rating": "3.99",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "The Lad Who Loved Insects",
+      "titles": {
+        "ja": "蟲愛ヅル君",
+        "en": "The Lad Who Loved Insects"
+      },
+      "overview": "A massive cocoon appears in the barracks, and Iwamoto has to discover where it came from.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872161/screencap/6a599207010c3.jpg",
+      "airDate": "2026-07-18T13:30:00Z",
+      "runtime": 24,
+      "rating": "7.52",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "The Legend of the Dead and the Gas Refinery",
+      "titles": {
+        "ja": "屍人伝説ト瓦斯工場",
+        "en": "The Legend of the Dead and the Gas Refinery"
+      },
+      "overview": "Iwamoto comes across a community where rumors of the walking dead lead to a disturbing discovery.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872162/screencap/6a6407ae089e8.jpg",
+      "airDate": "2026-07-25T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.34",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Deicidal Flame",
+      "titles": {
+        "ja": "神殺シノ炎",
+        "en": "Deicidal Flame"
+      },
+      "overview": "Iwamoto is forced to unleash his powers against the mastermind behind the Ryugu Palace slaughter.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872163/screencap/6a6a1737e309d.jpg",
+      "airDate": "2026-08-01T13:30:00Z",
+      "runtime": 24,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Invasion of the Witches",
+      "titles": {
+        "ja": "魔女ノ侵攻",
+        "en": "Invasion of the Witches"
+      },
+      "overview": "A new recruiting mission puts Iwamoto and Haramachi into conflict with witches from England.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872164/screencap/6a73bbfc27177.jpg",
+      "airDate": "2026-08-08T13:30:00Z",
+      "runtime": 24,
+      "rating": "2.07",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Echoes of Destruction",
+      "titles": {
+        "ja": "残響ノ廃音",
+        "en": "Echoes of Destruction"
+      },
+      "overview": "The clash with the witches continue, with some unexpected assistance coming from Sazame Ryu's rain.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872165/screencap/6a7de9fb14bc5.jpg",
+      "airDate": "2026-08-15T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.63",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "AKA the Box Man",
+      "titles": {
+        "ja": "通称・怪奇箱男",
+        "en": "AKA the Box Man"
+      },
+      "overview": "Iwamoto is recruited by the person who recruited him, Okuaki Oni, to capture the elusive box man.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872166/screencap/6a88822bbc1a7.jpg",
+      "airDate": "2026-08-22T13:30:00Z",
+      "runtime": 24,
+      "rating": "3.95",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "The Gap Man and the Box Man",
+      "titles": {
+        "ja": "隙間男ト箱男",
+        "en": "The Gap Man and the Box Man"
+      },
+      "overview": "Iwamoto's investigation into the box man brings him into conflict with one of his recruits.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872167/screencap/6a921889a0b96.jpg",
+      "airDate": "2026-08-29T13:30:00Z",
+      "runtime": 24,
+      "rating": "4.79",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "The Simultaneous Shooting Stars & the Signal Man & the Spirit Photo Man",
+      "titles": {
+        "ja": "同時多発流星事件ト電波物件ト念写男",
+        "en": "The Simultaneous Shooting Stars & the Signal Man & the Spirit Photo Man"
+      },
+      "overview": "When mysterious meteor impacts start peppering the entire Japanese countryside, Iwamoto investigates.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872168/screencap/6a9b6a1aeb7d0.jpg",
+      "airDate": "2026-09-05T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.34",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "The Poison Man",
+      "titles": {
+        "ja": "毒男",
+        "en": "The Poison Man"
+      },
+      "overview": "Iwamoto visits a girl's school with his classmates to search for the culprit behind a poisoning incident.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872169/screencap/6aa4b5d0ba73f.jpg",
+      "airDate": "2026-09-12T13:30:00Z",
+      "runtime": 24,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Star Anise",
+      "titles": {
+        "ja": "樒",
+        "en": "Star Anise",
+        "x-jat": "Shikimi"
+      },
+      "overview": "Iwamoto learns the past of the poison man in his time since he escaped the military.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872170/screencap/6aad9ba6393f6.jpg",
+      "airDate": "2026-09-19T13:30:00Z",
+      "runtime": 24,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T06:30:51.457Z"
+}

@@ -1,0 +1,406 @@
+{
+  "anilistId": 159309,
+  "malId": 54000,
+  "route": "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2nd-season",
+  "titles": {
+    "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+    "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+    "native": "乙女ゲー世界はモブに厳しい世界です2"
+  },
+  "anilist": {
+    "id": 159309,
+    "idMal": 54000,
+    "title": {
+      "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+      "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "native": "乙女ゲー世界はモブに厳しい世界です2"
+    },
+    "synonyms": [
+      "mobseka 2",
+      "ชีวิตตัวประกอบอย่างตูช่างอยู่ยาก เมื่ออยู่ในโลกเกมจีบหนุ่ม ภาค 2",
+      "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+      "Otomege 2",
+      "モブせか 2"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx159309-wRfh9O1odrDJ.jpg",
+      "color": "#e4c986"
+    },
+    "bannerImage": null,
+    "description": "Office worker Leon has just been thrust into an otome game where women hold all the power. His only tool for survival is the knowledge gained from playing this game in his past life. But after befriending the heroine and villainess, and making a name for himself, his choices begin to warp the story beyond what he knows. Now, Leon is dragged into a conspiracy that could shake the entire kingdom.\n<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 23
+    },
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mecha",
+      "Romance"
+    ],
+    "averageScore": 68,
+    "meanScore": 69,
+    "popularity": 54124,
+    "favourites": 871,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790173800,
+      "timeUntilAiring": 56343
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "ENGI"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/mobseka_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://mobseka.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/G0XHWM0D3/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2413722"
+      }
+    ],
+    "trailer": {
+      "id": "d3n8-15GCG8",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Harem",
+      "Isekai",
+      "Mecha",
+      "Romance"
+    ],
+    "studios": [
+      "ENGI"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The second season of <span class=\"italics\">Otome Game Sekai wa Mob ni Kibishii Sekai desu</span>.<br><br>Office worker Leon has just been thrust into an otome game where women hold all the power. His only tool for survival is the knowledge gained from playing this game in his past life. But after befriending the heroine and villainess, and making a name for himself, his choices begin to warp the story beyond what he knows. Now, Leon is dragged into a conspiracy that could shake the entire kingdom.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4wx4Rez",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/G0XHWM0D3/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4wqr1yF",
+        "name": "Amazon"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2413722",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-08T15:30:00Z",
+    "dubTime": "2026-07-21T15:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-16T14:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-23T14:30:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 15:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 9,
+      "airedAt": "2026-09-02T14:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 10,
+      "at": "2026-09-23T15:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Tuesday 15:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "It`s Always Love That Saves the World",
+      "titles": {
+        "ja": "愛こそ, 世界を救うんだよなぁ",
+        "en": "It`s Always Love That Saves the World",
+        "de": "Die Liebe rettet natürlich die Welt.",
+        "x-jat": "Ai Koso, Sekai o Sukuun da yo naa"
+      },
+      "overview": "Leon's hopes for a peaceful life are shattered when he's appointed to be one of the Saint's guards.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11679084/screencap/6a4bd75d11d54.jpg",
+      "airDate": "2026-07-08T14:30:00Z",
+      "runtime": 24,
+      "rating": "3.19",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Do You Enjoy the Aesthetics of Destruction?",
+      "titles": {
+        "ja": "滅びの美学がお好みですか?",
+        "en": "Do You Enjoy the Aesthetics of Destruction?",
+        "de": "Stehst du auf die Ästhetik des Vergehens?",
+        "x-jat": "Horobi no Bigaku ga Okonomi Desu ka?"
+      },
+      "overview": "Leon and his companions head to an elf island in search of treasure.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876845/screencap/6a55abb9e2f3f.jpg",
+      "airDate": "2026-07-15T14:30:00Z",
+      "runtime": 24,
+      "rating": "3.73",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Hey, Brat",
+      "titles": {
+        "ja": "おい, クソガキ",
+        "en": "Hey, Brat",
+        "de": "He, du kleiner Scheißer!",
+        "x-jat": "Oi, Kusogaki"
+      },
+      "overview": "The expedition is successful, but Leon's problems begin before he can even make it back to the academy.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876846/screencap/6a5fe813c5dda.jpg",
+      "airDate": "2026-07-22T14:30:00Z",
+      "runtime": 24,
+      "rating": "2.81",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "They`re Flip-Flopping Again?",
+      "titles": {
+        "ja": "また手のひら返しかよ",
+        "en": "They`re Flip-Flopping Again?",
+        "de": "Schon wieder ’ne 180-Grad-Wende …",
+        "x-jat": "Mata Te no Hiragaeshi ka yo"
+      },
+      "overview": "Leon is arrested for treason, and Marquis Frampton and the duchy appear to be conspiring together.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876847/screencap/6a6967dd98501.jpg",
+      "airDate": "2026-07-29T14:30:00Z",
+      "runtime": 24,
+      "rating": "3.73",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "I Love Facades",
+      "titles": {
+        "ja": "建前が大好きでしてね",
+        "en": "I Love Facades",
+        "de": "Ich lieb’s halt, so zu tun als ob",
+        "x-jat": "Tatemae ga Daisuki Deshi tene"
+      },
+      "overview": "Julius and the idiots attempt to rescue Leon, and Marie crumbles on the front line.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876848/screencap/6a70881125120.jpg",
+      "airDate": "2026-08-05T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.25",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "If You Don`t Like It, I`ll Just Run",
+      "titles": {
+        "ja": "嫌なら俺は逃げるだけです",
+        "en": "If You Don`t Like It, I`ll Just Run",
+        "de": "Wenn’s euch nicht passt, hau ich einfach ab.",
+        "x-jat": "Iya Nara Ore wa Nigeru dake Desu"
+      },
+      "overview": "Leon says he can defeat the invaders, but only if he's made supreme commander.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876849/screencap/6a7bd63d6591a.jpg",
+      "airDate": "2026-08-12T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.04",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Shut Your Filthy Mouth, Scum",
+      "titles": {
+        "ja": "汚い口を閉じろ, ゴミが",
+        "en": "Shut Your Filthy Mouth, Scum",
+        "de": "Halt die Fresse, du Abschaum!",
+        "x-jat": "Kitanai Kuchi o Tojiro, Gomi ga"
+      },
+      "overview": "Leon and Marie realize they know each other from their past lives, and Leon confronts Marquis Frampton.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876850/screencap/6a8349b744e55.jpg",
+      "airDate": "2026-08-19T14:30:00Z",
+      "runtime": 24,
+      "rating": "9.24",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "You Can`t Quantify Love!",
+      "titles": {
+        "ja": "愛を数値ではかるなんておかしいよ!",
+        "en": "You Can`t Quantify Love!",
+        "de": "Ist doch krank, Liebe in Zahlen zu messen!",
+        "x-jat": "Ai o Suuchi de Hakaru Nante Okashii yo!"
+      },
+      "overview": "Marie and the idiots are recruited to activate the royal ship, and Leon prepares for war.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876851/screencap/6a8ee25b2406e.jpg",
+      "airDate": "2026-08-26T14:30:00Z",
+      "runtime": 24,
+      "rating": "9.24",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Livia......",
+      "titles": {
+        "ja": "リビア......",
+        "en": "Livia......",
+        "x-jat": "Livia......"
+      },
+      "overview": "Leon's forces engage the guardians of the sky and sea.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876852/screencap/6a981b725693b.jpg",
+      "airDate": "2026-09-02T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "They Hit Where It Hurts",
+      "titles": {
+        "ja": "痛いところを突きやがる",
+        "en": "They Hit Where It Hurts",
+        "x-jat": "Itai Tokoro o Tsuki Yagaru"
+      },
+      "overview": "The light unleashed from the royal ship robs everyone of their will to fight, except for Vandel.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876853/screencap/6aa0acd007ba1.jpg",
+      "airDate": "2026-09-09T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "I Don`t Care About That!",
+      "titles": {
+        "ja": "そんなのどうだっていい!",
+        "en": "I Don`t Care About That!",
+        "x-jat": "Sonna no Dou datte Ii!"
+      },
+      "overview": "Olivia, Angelica, and Marie make a final desperate attempt to stop the fighting.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876854/screencap/6aa9e56b6e984.jpg",
+      "airDate": "2026-09-16T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876855/screencap/6ab32565f1722.jpg",
+      "airDate": "2026-09-23T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-30",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 13,
+  "updatedAt": "2026-09-23T10:33:05.626Z"
+}

@@ -1,0 +1,334 @@
+{
+  "anilistId": 169583,
+  "malId": 56735,
+  "route": "tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
+  "titles": {
+    "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+    "english": "Oh Boy, Was I Wrong About Her",
+    "native": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件"
+  },
+  "anilist": {
+    "id": 169583,
+    "idMal": 56735,
+    "title": {
+      "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+      "english": "Oh Boy, Was I Wrong About Her",
+      "native": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件"
+    },
+    "synonyms": [
+      "Tenkosaki: The Neat and Pretty Girl at My New School Is a Childhood Friend of Mine Who I Thought Was a Boy",
+      "Tenbin"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169583-0ZTdBGrKNIbe.jpg",
+      "color": "#50c9fe"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169583-wB0yHc7e8Kjk.jpg",
+    "description": "Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.\n<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 21
+    },
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "averageScore": 69,
+    "meanScore": 69,
+    "popularity": 40953,
+    "favourites": 529,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "project No.9"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/tenbin_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://tenbin-anime.asmik-ace.co.jp/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378120/oh-boy-was-i-wrong-about-her"
+      }
+    ],
+    "trailer": {
+      "id": "UTsFnJgDJz8",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "School"
+    ],
+    "studios": [
+      "project No.9"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "Seven years after making a childhood promise to always be friends, Hayato is reunited with his formerly tomboyish pal Haruki at a city high school–only now, Haruki has transformed into the girl every guy dreams about! While Haruki’s looks may have changed, with Hayato, she’s still the same pal he remembers. Despite years apart, their promise and feelings remain and deepen into something stronger.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4vjyE9z",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378120/oh-boy-was-i-wrong-about-her",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-07-06T15:00:00Z",
+    "dubTime": "2026-06-18T14:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-21T15:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Monday 15:00 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Thursday 14:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Beginning with a Summer Day",
+      "titles": {
+        "ja": "始まりの, 夏の日",
+        "en": "Beginning with a Summer Day",
+        "de": "Es beginnt an einem Sommertag",
+        "x-jat": "Hajimari no, Natsu no Hi"
+      },
+      "overview": "Childhood buddies Hayato and Haruki are reunited when Hayato moves to Tokyo and sees Haruki at his new school.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11307719/screencap/6a4a69f25f6a8.jpg",
+      "airDate": "2026-07-06T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.86",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "I Really Suck at Girl Talk",
+      "titles": {
+        "en": "I Really Suck at Girl Talk",
+        "de": "Hab’s nicht so mit Liebeskram"
+      },
+      "overview": "As the two old friends continue to get reacquainted, Haruki starts teasing Hayato for not owning a cell phone.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874734/screencap/6a544c66dfe98.jpg",
+      "airDate": "2026-07-13T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.47",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Produced by Himeko",
+      "titles": {
+        "en": "Produced by Himeko",
+        "de": "Himeko übernimmt"
+      },
+      "overview": "Himeko meets Haruki for the first time in years and decides to take her shopping to help update her wardrobe.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874735/screencap/6a5e1c2e2cbe9.jpg",
+      "airDate": "2026-07-20T14:30:00Z",
+      "runtime": 24,
+      "rating": "3.53",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Small Hands, Broad Shoulders",
+      "titles": {
+        "en": "Small Hands, Broad Shoulders",
+        "de": "Kleine Hand und breiter Rücken"
+      },
+      "overview": "Hayato and Haruki go phone shopping together and then Haruki ends up spending the night at Hayato's apartment.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874736/screencap/6a674b3a18cf5.jpg",
+      "airDate": "2026-07-27T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.47",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Discipline, Young Maiden",
+      "titles": {
+        "en": "Discipline, Young Maiden",
+        "de": "Für Mädchen gibt es Regeln"
+      },
+      "overview": "Himeko and Haruki decide to go on a diet, so Hayato starts asking friends for health-conscious recipe ideas.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874737/screencap/6a6ff1d56db3e.jpg",
+      "airDate": "2026-08-03T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.45",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "What About Your Camouflage?!",
+      "titles": {
+        "en": "What About Your Camouflage?!",
+        "de": "Was ist mit deiner Tarnung?!"
+      },
+      "overview": "Hayato steps in when he sees Kazuki trying to make a move on Haruki, who keeps dropping her nice girl facade.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874738/screencap/6a792c2d9796b.jpg",
+      "airDate": "2026-08-10T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "You`re Special",
+      "titles": {
+        "en": "You`re Special",
+        "de": "Weil du was Besonderes bist"
+      },
+      "overview": "Hayato visits his mother in the hospital and then makes plans with Haruki and Himeko to go somewhere together.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874739/screencap/6a82f9a7eda7b.jpg",
+      "airDate": "2026-08-17T14:30:00Z",
+      "runtime": 24,
+      "rating": "2.95",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Where the Heart Is",
+      "titles": {
+        "en": "Where the Heart Is",
+        "de": "Irgendwo dazugehören"
+      },
+      "overview": "Hayato, Haruki, and Himeko go to the movies as planned but end up catching an unexpected guest along the way.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874740/screencap/6a8c5da6cde35.jpg",
+      "airDate": "2026-08-24T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Truly Special",
+      "titles": {
+        "en": "Truly Special"
+      },
+      "overview": "Haruki opens up about family issues after her rough night and Kazuki keeps trying to stir up drama at school.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874741/screencap/6a9597a8ac153.jpg",
+      "airDate": "2026-08-31T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "We Are Friends, Right?",
+      "titles": {
+        "en": "We Are Friends, Right?"
+      },
+      "overview": "Himeko sets up a group chat with Saki from Tsukinose and Hayato and his pals make plans for a day at the pool.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874742/screencap/6a9e16b0396fb.jpg",
+      "airDate": "2026-09-07T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "As Long As We`re Together",
+      "titles": {
+        "en": "As Long As We`re Together"
+      },
+      "overview": "Hayato and Haruki adjust to their new job and the girls shop for new swimsuits to wear on their big pool date.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874743/screencap/6aa7429dc08de.jpg",
+      "airDate": "2026-09-14T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "A Fresh Start",
+      "titles": {
+        "ja": "これからの, 始まり",
+        "en": "A Fresh Start",
+        "x-jat": "Kore kara no, Hajimari"
+      },
+      "overview": "Hayato and friends enjoy their long-awaited pool day and then take a trip to revisit their roots in Tsukinose.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874744/screencap/6ab121313b73f.jpg",
+      "airDate": "2026-09-21T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.600Z"
+}

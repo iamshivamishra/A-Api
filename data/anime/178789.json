@@ -1,0 +1,463 @@
+{
+  "anilistId": 178789,
+  "malId": 59193,
+  "route": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+  "titles": {
+    "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+    "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+  },
+  "anilist": {
+    "id": 178789,
+    "idMal": 59193,
+    "title": {
+      "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+    },
+    "synonyms": [
+      "無職転生 ～異世界行ったら本気だす～ 第3期",
+      "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
+      "เกิดชาตินี้พี่ต้องเทพ ซีซั่น 3"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178789-hNXjKFzUq7mk.jpg",
+      "color": "#28bbe4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
+    "description": "The third season of <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i>.",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 14,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+    },
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "averageScore": 85,
+    "meanScore": 85,
+    "popularity": 159699,
+    "favourites": 5420,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 14,
+      "airingAt": 1790506800,
+      "timeUntilAiring": 353427
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio Bind"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/mushokutensei_A"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://mushokutensei.jp/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/ds3kartbap"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1LMA6zhohDzfoV-XXFxS9Z"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/media/2411609"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/80987039"
+      }
+    ],
+    "trailer": {
+      "id": "ODxfIvSgWuo",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Isekai",
+      "Magic"
+    ],
+    "studios": [
+      "Studio Bind"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The third season of <span class=\"italics\">Mushoku Tensei: Isekai Ittara Honki Dasu</span>.",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4wkMsSg",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/G24H1N3MP/mushoku-tensei-jobless-reincarnation",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/468Ogm8",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl1LMA6zhohDzfoV-XXFxS9Z",
+        "name": "YouTube"
+      },
+      {
+        "platform": "netflix",
+        "url": "www.netflix.com/title/80987039",
+        "name": "Netflix"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2411609",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-06T15:01:00Z",
+    "dubTime": "2026-07-21T15:01:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 14,
+    "latestEpisode": {
+      "number": 13,
+      "airedAt": "2026-09-20T15:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 14,
+      "at": "2026-09-27T11:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 15:01 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 14,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-06T15:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-27T15:01:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Tuesday 15:01 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Burn Bright, Mad Dog",
+      "titles": {
+        "ja": "燃えよ狂犬",
+        "en": "Burn Bright, Mad Dog",
+        "de": "Glühe, Wilde Hündin",
+        "x-jat": "Moeyo Kyouken"
+      },
+      "overview": "Ghislaine takes Eris to train under the Sword God, but Eris's brash attitude angers the other disciples.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10569214/screencap/6a44fa3f65126.jpg",
+      "airDate": "2026-07-03T15:00:00Z",
+      "runtime": 24,
+      "rating": "9.25",
+      "absoluteEpisodeNumber": 50,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Howl, Mad Dog",
+      "titles": {
+        "ja": "吠えよ狂犬",
+        "en": "Howl, Mad Dog",
+        "de": "Belle, Wilde Hündin",
+        "x-jat": "Hoeyo Kyouken"
+      },
+      "overview": "Nina continues to eye Eris as a rival, but training with masters of other styles sparks new discoveries.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11304523/screencap/6a44fa993ae18.jpg",
+      "airDate": "2026-07-03T15:00:00Z",
+      "runtime": 24,
+      "rating": "9.51",
+      "absoluteEpisodeNumber": 51,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Life Back at Home",
+      "titles": {
+        "ja": "帰ってきた日常",
+        "en": "Life Back at Home",
+        "de": "Rückkehr in den Alltag",
+        "x-jat": "Kaette Kita Nichijou"
+      },
+      "overview": "Rudeus starts a new life with Roxy and Sylphiette, but not all his friends approve of his second marriage.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11863961/screencap/6a4e4197389b3.jpg",
+      "airDate": "2026-07-12T15:00:00Z",
+      "runtime": 24,
+      "rating": "6.79",
+      "absoluteEpisodeNumber": 52,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "A King-Class Water Mage",
+      "titles": {
+        "ja": "水王級魔術師",
+        "en": "A King-Class Water Mage",
+        "de": "Wassermagier der Königsklasse",
+        "x-jat": "Suiou-kyuu Majutsushi"
+      },
+      "overview": "Fearful of losing more loved ones, Rudeus begs Roxy to teach him a more potent form of magic.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872044/screencap/6a58cbfe678d7.jpg",
+      "airDate": "2026-07-19T15:00:00Z",
+      "runtime": 24,
+      "rating": "6.87",
+      "absoluteEpisodeNumber": 53,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Celebrations",
+      "titles": {
+        "ja": "お祝い",
+        "en": "Celebrations",
+        "de": "Feierlichkeiten",
+        "x-jat": "Oiwai"
+      },
+      "overview": "Rudeus attends Cliff and Elinalise's wedding and goes shopping for his sisters' birthday presents.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872045/screencap/6a6561ff8f0ed.jpg",
+      "airDate": "2026-07-26T15:00:00Z",
+      "runtime": 24,
+      "rating": "6.90",
+      "absoluteEpisodeNumber": 54,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Another Domestic Disaster?",
+      "titles": {
+        "ja": "修羅場再び?",
+        "en": "Another Domestic Disaster?",
+        "de": "Wieder aufs Schlachtfeld?",
+        "x-jat": "Shuraba Futatabi?"
+      },
+      "overview": "Rudeus accompanies Roxy on a bodyguard mission and runs into an unexpected face from his past.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872046/screencap/6a6f5c0e632e7.jpg",
+      "airDate": "2026-08-02T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.06",
+      "absoluteEpisodeNumber": 55,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Phase Four",
+      "titles": {
+        "ja": "第四段階",
+        "en": "Phase Four",
+        "de": "Die vierte Stufe",
+        "x-jat": "Dai Yon Dankai"
+      },
+      "overview": "Following a successful summoning experiment, Nanahoshi offers Rudeus a reward.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872047/screencap/6a77f965276d0.jpg",
+      "airDate": "2026-08-09T15:00:00Z",
+      "runtime": 24,
+      "rating": "5.87",
+      "absoluteEpisodeNumber": 56,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "The Flying Fortress",
+      "titles": {
+        "ja": "空中城塞",
+        "en": "The Flying Fortress",
+        "de": "Die schwebende Festung",
+        "x-jat": "Kuchuu Jousai"
+      },
+      "overview": "Rudeus seeks an audience with the hero Perugius, hoping to find a cure for his mother's condition.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872048/screencap/6a80f6e0043cd.jpg",
+      "airDate": "2026-08-16T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.80",
+      "absoluteEpisodeNumber": 57,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Lament",
+      "titles": {
+        "ja": "慟哭",
+        "en": "Lament",
+        "de": "Wehklagen",
+        "x-jat": "Doukoku"
+      },
+      "overview": "Nanahoshi contracts an ancient disease. Seeing her lose hope, Rudeus races to find help.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872049/screencap/6a8a20637600b.jpg",
+      "airDate": "2026-08-23T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.19",
+      "absoluteEpisodeNumber": 58,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "An Audience with an Immortal Demon King",
+      "titles": {
+        "ja": "不死魔王との謁見",
+        "en": "An Audience with an Immortal Demon King",
+        "x-jat": "Fushi Maou to no Ekken"
+      },
+      "overview": "Rudeus and friends locate Kishirika, only to be captured along with her by the guards of a warlike Demon King.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872050/screencap/6a93885168f7e.jpg",
+      "airDate": "2026-08-30T15:00:00Z",
+      "runtime": 24,
+      "rating": "8.93",
+      "absoluteEpisodeNumber": 59,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Turning Point 4",
+      "titles": {
+        "ja": "ターニングポイント4",
+        "en": "Turning Point 4",
+        "x-jat": "Turning Point 4"
+      },
+      "overview": "Rudeus receives a puzzling message in his dreams. But before he can act on it, a strange visitor appears.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872051/screencap/6a9ca2c4be6b5.jpg",
+      "airDate": "2026-09-06T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.33",
+      "absoluteEpisodeNumber": 60,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "An End and a Beginning",
+      "titles": {
+        "ja": "終わりと始まり",
+        "en": "An End and a Beginning",
+        "x-jat": "Owari to Hajimari"
+      },
+      "overview": "Rudeus's strange guest recounts his future and reveals the cause of all his misfortunes.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872052/screencap/6aa605d44001a.jpg",
+      "airDate": "2026-09-13T15:00:00Z",
+      "runtime": 24,
+      "rating": "9.88",
+      "absoluteEpisodeNumber": 61,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "The Diary",
+      "titles": {
+        "ja": "日記",
+        "en": "The Diary",
+        "x-jat": "Nikki"
+      },
+      "overview": "In a future that could have been, Rudeus crumbles under the weight of loss.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872053/screencap/6aaf3705498d2.jpg",
+      "airDate": "2026-09-20T15:00:00Z",
+      "runtime": 24,
+      "rating": "9.25",
+      "absoluteEpisodeNumber": 62,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": "Resolve",
+      "titles": {
+        "ja": "覚悟",
+        "en": "Resolve",
+        "x-jat": "Kakugo"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-27T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 63,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Pre-Broadcast Special",
+      "titles": {
+        "ja": "~3期はエリスも本気だす~ 修行編直前特番",
+        "en": "Pre-Broadcast Special",
+        "x-jat": "3 Ki wa Eris mo Honki Dasu: Shugyou Hen Chokuzen Tokuban"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-04",
+      "runtime": 55,
+      "rating": "7.02",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 14,
+  "updatedAt": "2026-09-23T10:33:05.717Z"
+}

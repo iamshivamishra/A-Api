@@ -1,0 +1,372 @@
+{
+  "anilistId": 209669,
+  "malId": 63780,
+  "route": "hanazakari-no-kimitachi-e-2nd-season",
+  "titles": {
+    "romaji": "Hanazakari no Kimitachi e 2nd Season",
+    "english": "Hana-Kimi Season 2",
+    "native": "花ざかりの君たちへ 第2期"
+  },
+  "anilist": {
+    "id": 209669,
+    "idMal": 63780,
+    "title": {
+      "romaji": "Hanazakari no Kimitachi e 2nd Season",
+      "english": "Hana-Kimi Season 2",
+      "native": "花ざかりの君たちへ 第2期"
+    },
+    "synonyms": [
+      "Hana-Kimi",
+      "Hana-Kimi: For You in Full Blossom"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209669-7GlPe2ra5f1i.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209669-7GlPe2ra5f1i.jpg",
+      "color": "#436be4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209669-pX2iiPUsKtXq.jpg",
+    "description": "The second season of <i>Hanazakari no Kimitachi e</i>.\n<br><br>\n<i>Note: Hanazakari no Kimitachi e 2nd Season is streaming 1 week in advance of the TV broadcast on Prime Video and Crunchyroll beginning with episode 2 on July 2nd.</i>",
+    "format": "ONA",
+    "status": "FINISHED",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 2
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 17
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 71,
+    "meanScore": 72,
+    "popularity": 7280,
+    "favourites": 128,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Signal.MD"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/hanakimi_anime"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@hanakimi_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://hanakimi-anime.com/"
+      },
+      {
+        "site": "Instagram",
+        "url": "https://www.instagram.com/hanakimi_anime/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00365568/hana-kimi"
+      }
+    ],
+    "trailer": {
+      "id": "dN7LV-oVFBg",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "School",
+      "Shoujo"
+    ],
+    "studios": [
+      "Signal.MD"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": null,
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4v8GcvK",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00365568/hana-kimi",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4z8twsb",
+        "name": "Amazon"
+      }
+    ],
+    "subTime": "2026-07-01T16:00:00Z",
+    "dubTime": "2026-07-14T16:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-16T15:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Wednesday 16:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-09T15:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-23T16:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Tuesday 16:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Definitely Weird",
+      "titles": {
+        "en": "Definitely Weird",
+        "de": "Das ist doch nicht normal"
+      },
+      "overview": "Sano's jumping well, and he seems happier. Nakatsu's still confused about Mizuki, but then a girl asks him out?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367694/screencap/6a4257bab70d7.jpg",
+      "airDate": "2026-07-01T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Please Make Me Stronger!",
+      "titles": {
+        "en": "Please Make Me Stronger!",
+        "de": "Hilf mir, stärker zu werden!"
+      },
+      "overview": "Even though Nakatsu is dating Komatsu, he can't stop thinking about Mizuki. Meanwhile, Mizuki starts karate...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367695/screencap/6a453a59e23a5.jpg",
+      "airDate": "2026-07-08T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "How Did You Know?!",
+      "titles": {
+        "en": "How Did You Know?!",
+        "de": "Woher weißt du das?!"
+      },
+      "overview": "An unexpected visitor arrives before the school trip, turning Mizuki's daily life upside down.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367696/screencap/6a4e746178293.jpg",
+      "airDate": "2026-07-15T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "I`ll Wait",
+      "titles": {
+        "en": "I`ll Wait",
+        "de": "Ich werde warten"
+      },
+      "overview": "Everyone is enjoying the trip to Hokkaido. But Sano is lost in thought and wanders off, so Mizuki follows him.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367697/screencap/6a57af272c4f4.jpg",
+      "airDate": "2026-07-22T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "I Can`t Not Think About It",
+      "titles": {
+        "en": "I Can`t Not Think About It",
+        "de": "Hyper bewusst"
+      },
+      "overview": "During her midnight bath, Mizuki runs into Sano. Shaken by this, she can't look him in the eyes the next day.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367698/screencap/6a60e95d2a28a.jpg",
+      "airDate": "2026-07-29T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "It`s Fine, Right?",
+      "titles": {
+        "en": "It`s Fine, Right?",
+        "de": "Alles gut, ja?"
+      },
+      "overview": "Julia's worried that someone might find out that Mizuki is a girl. But then Sano's words rock her to the core.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367699/screencap/6a6a2565e68ad.jpg",
+      "airDate": "2026-08-05T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Because I Want to Stay by Your Side Forever",
+      "titles": {
+        "en": "Because I Want to Stay by Your Side Forever",
+        "de": "Weil ich immer bei dir sein will"
+      },
+      "overview": "The picture of Sano, Nakatsu, and Nanba goes viral with girls. A fashion photographer is also interested.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367700/screencap/6a735f22ab769.jpg",
+      "airDate": "2026-08-12T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "The Doctor`s Boyfriend?",
+      "titles": {
+        "en": "The Doctor`s Boyfriend?",
+        "de": "Sein Freund?"
+      },
+      "overview": "Akiha talks the gang into doing a test shoot. He's a good photographer, but is he also Umeda's boyfriend?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11367701/screencap/6a7c9ad560bb7.jpg",
+      "airDate": "2026-08-19T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Dont`t Look!!",
+      "titles": {
+        "en": "Dont`t Look!!",
+        "de": "Nicht hingucken!!"
+      },
+      "overview": "The photos turned out great, but Sano's not interested in modeling. So Akiha tries to convince Mizuki.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11690902/screencap/6a85d4596166d.jpg",
+      "airDate": "2026-08-26T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Did You Do It?!",
+      "titles": {
+        "en": "Did You Do It?!"
+      },
+      "overview": "Someone sabotaged the shoot and destroyed the photos. So now they're doing a shoot on location.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11690904/screencap/6a8f0ed3df46a.jpg",
+      "airDate": "2026-09-02T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "What Do You Want?",
+      "titles": {
+        "en": "What Do You Want?"
+      },
+      "overview": "The joint Christmas ball with St. Blossom is coming up, but Mizuki ends up having to learn the girl steps?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11690907/screencap/6a9848555af10.jpg",
+      "airDate": "2026-09-09T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "No Helping It",
+      "titles": {
+        "en": "No Helping It"
+      },
+      "overview": "Mizuki wants to dance with Sano, but Nakatsu jumps in and asks her to partner with him.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11690909/screencap/6aa183df1bc04.jpg",
+      "airDate": "2026-09-16T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "I`m So Happy!",
+      "titles": {
+        "ja": "すっごく幸せ!",
+        "en": "I`m So Happy!",
+        "x-jat": "Suggoku Shiawase!"
+      },
+      "overview": "Somehow Nakatsu faints and Mizuki's dress gets ruined at the ball. Can she still dance with Sano?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868937/screencap/6aaabd37a879c.jpg",
+      "airDate": "2026-09-23T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 13,
+  "updatedAt": "2026-09-23T10:33:05.756Z"
+}

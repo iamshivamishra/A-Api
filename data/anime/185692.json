@@ -1,0 +1,367 @@
+{
+  "anilistId": 185692,
+  "malId": 60552,
+  "route": "kabushikigaisha-magi-lumi-re-2nd-season",
+  "titles": {
+    "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+    "english": "Magilumiere Magical Girls Inc. Season 2",
+    "native": "株式会社マジルミエ 第2期"
+  },
+  "anilist": {
+    "id": 185692,
+    "idMal": 60552,
+    "title": {
+      "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+      "english": "Magilumiere Magical Girls Inc. Season 2",
+      "native": "株式会社マジルミエ 第2期"
+    },
+    "synonyms": [
+      "Magilumiere Magical Girls Inc. Season 2"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-1a8huwOIx7gw.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185692-1a8huwOIx7gw.jpg",
+      "color": "#5dc9e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185692-FLmhWYEAA7IY.jpg",
+    "description": "Magical Girls - they're strong, cool and agile. Everyone wants to be one. Popular and high-paying, it's a respectable line of work. Kana Sakuragi, Hitomi Koshigaya, and the members of Magilumiere work to promote the Alice System, which allows Magical Girls to order the magic they need to battle. But behind the scenes, factions seeking to ease magic regulations and make a profit are moving...\n<br><br>\n(Source: Prime Video)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+    },
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "averageScore": 64,
+    "meanScore": 67,
+    "popularity": 7265,
+    "favourites": 76,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790438100,
+      "timeUntilAiring": 320643
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "J.C.STAFF"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/MagilumiereLtd"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://magilumiere-pr.com/"
+      },
+      {
+        "site": "Prime Video",
+        "url": "https://www.primevideo.com/detail/0FE2AB0LVV5MWJ89ZVNG6KSNUC"
+      }
+    ],
+    "trailer": {
+      "id": "3w7_piPtkNY",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Magic",
+      "Magical Girl"
+    ],
+    "studios": [
+      "J.C. Staff"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The second season of <span class=\"italics\">Kabushiki Gaisha Magi Lumiere</span>.<br><br>Magical Girls - they&#39;re strong, cool and agile. Everyone wants to be one. Popular and high-paying, it&#39;s a respectable line of work. Kana Sakuragi, Hitomi Koshigaya, and the members of Magilumiere work to promote the Alice System, which allows Magical Girls to order the magic they need to battle. But behind the scenes, factions seeking to ease magic regulations and make a profit are moving...<br><br>(Source: Prime Video)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4y0FoMp",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4fZ9FTl",
+        "name": "Amazon"
+      }
+    ],
+    "subTime": "2026-07-04T17:25:00Z",
+    "dubTime": "2026-07-04T17:25:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": "2026-09-05T00:00:00Z"
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-19T16:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-26T15:55:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 17:25 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-19T16:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-26T17:25:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 17:25 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "A Legitimate Job Admired by Everyone",
+      "titles": {
+        "ja": "誰もが憧れる立派なひとつの職業",
+        "en": "A Legitimate Job Admired by Everyone",
+        "de": "Ein anerkannter Traumberuf",
+        "x-jat": "Dare mo ga Akogareru Rippa na Hitotsu no Shokugyou"
+      },
+      "overview": "At a conference among industry leaders in Kaii countermeasures, Shigemoto's \"Alice System\" is rejected due to lack of proven results. He takes on a massive yet dangerous new project for himself to prove his abilities while questioning the industry's power dynamics and expectations. Meanwhile, a certain individual approaches Koshigaya with a suspicious proposal, putting her father on shaky ground.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10860203/screencap/6a462c811c6d9.jpg",
+      "airDate": "2026-07-04T16:00:00Z",
+      "runtime": 23,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "No Logical Means of Exterminating This Kaii",
+      "titles": {
+        "ja": "この怪異に退治方法はございませんの",
+        "en": "No Logical Means of Exterminating This Kaii",
+        "de": "Es gibt keinen Weg, dieses seltsame Phänomen loszuwerden.",
+        "x-jat": "Kono Kaii ni Taiji Houhou wa Gozaimasen no"
+      },
+      "overview": "Kana and Koshigaya visit the RIMT to investigate and exterminate a new Kaii species. Guided by Vice Chief Akasaka, they face a bewildering and seemingly invincible Kaii specimen defying all common sense. Behind the scenes, ulterior motives surrounding magic power regulations cause tension as the Kaii unexpectedly mutates. With a strict time limit, Magilumiere's skills are put to the test.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872349/screencap/6a4e1f0b3edbc.jpg",
+      "airDate": "2026-07-11T16:00:00Z",
+      "runtime": 23,
+      "rating": "4.99",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Haven`t Seen Delusion Like This in Ages",
+      "titles": {
+        "ja": "こういうイチャモンは久々だな",
+        "en": "Haven`t Seen Delusion Like This in Ages",
+        "de": "Es ist lang her, dass ich solche Belästigung ertragen musste.",
+        "x-jat": "Kouiu Ichamon wa Hisabisa Da na"
+      },
+      "overview": "Magical Girls from Magilumiere and AST simultaneously face a rampaging new Kaii species. Koshigaya extends an olive branch to Tsuchiba, resulting in a clash of opinions that only sparks tension between their companies. The unknown Kaii rapidly mutates under the influence of magic power, after which a certain individual takes control as operator for the do-or-die battle ahead.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880577/screencap/6a58af110fec0.jpg",
+      "airDate": "2026-07-18T16:00:00Z",
+      "runtime": 23,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "How Exceptional His Magical Girls Are",
+      "titles": {
+        "ja": "よっぽどいい魔法少女と働いてるんですよ",
+        "en": "How Exceptional His Magical Girls Are",
+        "de": "Magische Mädchen sind außergewöhnlich.",
+        "x-jat": "Yoppodo Ii Mahou Shoujo to Hataraiterundesu yo"
+      },
+      "overview": "An improvised collaboration between Magilumiere and AST engages in a do-or-die fight against the rapidly mutating Class C Kaii. Magilumiere's fluctuating defensive and offensive tactics upset conventional methods as Kana gathers real-time data during battle to take control. Through physicality, precise control, and high-level guidance, the seemingly unbalanced team devises a plan to counterattack.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880578/screencap/6a61fd418c296.jpg",
+      "airDate": "2026-07-25T16:00:00Z",
+      "runtime": 23,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Can`t Keep Acting Like a Rookie",
+      "titles": {
+        "ja": "いつまでも新人気分じゃいられない",
+        "en": "Can`t Keep Acting Like a Rookie",
+        "x-jat": "Itsumademo Shinjin Kibun ja Irarenai"
+      },
+      "overview": "Magilumiere begins recruiting engineers to promote the Alice System. Kana struggles to convey the company's appeal while overseeing the interview process. This causes unexpected personnel to assemble, bringing the team a fresh atmosphere. When securing more talent proves difficult after serious attempts to strengthen their combat potential, Magilumiere heads to Kyoto for lectures and interviews.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880579/screencap/6a6b4ea802f63.jpg",
+      "airDate": "2026-08-01T16:00:00Z",
+      "runtime": 23,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "You`re Not Fit for This Job",
+      "titles": {
+        "ja": "あなた, この仕事向いてないわよ",
+        "en": "You`re Not Fit for This Job",
+        "x-jat": "Anata, Kono Shigoto Muitenai wa yo"
+      },
+      "overview": "In Kyoto, Magilumiere meets engineer candidate Yamimori, who boasts impressive skills but struggles with cooperation. While compatibility with the team is called into question, he appears to be hiding certain feelings about his childhood friend Sakae and his personal values. Meanwhile, during a festival at Tonomori Shrine, a ritual unleashes a Kaii while an ominous shadow lurks behind the scenes.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880580/screencap/6a7450037511f.jpg",
+      "airDate": "2026-08-08T16:00:00Z",
+      "runtime": 23,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "The Battle`s Already Over",
+      "titles": {
+        "ja": "どう考えてもゲームセットでしょ",
+        "en": "The Battle`s Already Over",
+        "x-jat": "Dou Kangaete mo Game Set Desho"
+      },
+      "overview": "At the Tonomori Shrine ceremony's climax, an unknown Kaii suddenly invades a barrier once believed to be safe, enveloping the area in chaos. The barrier blocks outside forces, which separates Magilumiere's team. Makino and Akasaka are forced into a struggle within the barrier while Nikoyama searches for an opening outside. With time running out, each decision will greatly influence the outcome.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880581/screencap/6a7d8f2f43062.jpg",
+      "airDate": "2026-08-15T16:00:00Z",
+      "runtime": 23,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "You Can Choose Where to Grow Up",
+      "titles": {
+        "ja": "一人前になる場所は選べるんや",
+        "en": "You Can Choose Where to Grow Up",
+        "x-jat": "Ichininmae ni Naru Basho wa Eraberun`ya"
+      },
+      "overview": "After gaining the trust of his allies, Yamimori takes action to fight the rampaging Kaii inside the sealed barrier. Makino and Akasaka also rechallenge the front lines to face the now-overpowered Kaii with harmonious teamwork and quick thinking. The dire situation demonstrates the skill and trust between Magical Girls and their engineers as the team marches onward with full hearts.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880582/screencap/6a86c3ce8081b.jpg",
+      "airDate": "2026-08-22T16:00:00Z",
+      "runtime": 23,
+      "rating": "4.99",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Are You Expecting Us to Sugarcoat This?",
+      "titles": {
+        "ja": "きれい事が聞きたくて来たんですか?",
+        "en": "Are You Expecting Us to Sugarcoat This?",
+        "x-jat": "Kireigoto ga Kikitakute Kitandesuka?"
+      },
+      "overview": "The Kaii at Tonomori is revealed to be someone's act of sabotage promoting a scheme to ease magic regulations behind the scenes and manipulate public opinion. Then, the culprit emerges-someone entirely unexpected. While Yamimori becomes comfortable at Magilumiere, Kana decides to confront major industry norms and her own role in the process, sparking the onset of war on a much grander scale.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880583/screencap/6a994aa9434b1.jpg",
+      "airDate": "2026-09-05T16:00:00Z",
+      "runtime": 23,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Do You Like Barley Spice?",
+      "titles": {
+        "ja": "プリハト...... 好きなんですか?",
+        "en": "Do You Like Barley Spice?",
+        "x-jat": "Purihato...... Suki Nandesuka?"
+      },
+      "overview": "While deregulation advocates plot their next scheme, Magilumiere defies all precedents by waiting to ambush an enormous, unclassified, and highly irregular Kaii before it emerges. Koshigaya, Akasaka, and Makino struggle on the field as the Kaii's power escalates beyond all expectation while Nikoyama and Yamimori frantically work together on analysis and support from the operator's chair.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880584/screencap/6aa276ac7306f.jpg",
+      "airDate": "2026-09-12T16:00:00Z",
+      "runtime": 23,
+      "rating": "4.99",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "A Job You Can Bail on Has No Value",
+      "titles": {
+        "ja": "諦めのある仕事など無価値です",
+        "en": "A Job You Can Bail on Has No Value",
+        "x-jat": "Akirame no Aru Shigoto Nado Mukachi Desu"
+      },
+      "overview": "As the battle in Tokyo Bay intensifies, Magilumiere's Magical Girls work together to take control. However, Tsuchiba from AST intervenes to turn the battle on its head with her ultra-powerful new magical device—\"Wings\"—aiming to single-handedly annihilate the target and contradict Magilumiere's cooperative combat style. Now, with tensions flaring, it's not just a fight against the Kaii anymore.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11880585/screencap/6aabb0c49094a.jpg",
+      "airDate": "2026-09-19T16:00:00Z",
+      "runtime": 23,
+      "rating": "4.99",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "Glad I Became a Magical Girl",
+      "titles": {
+        "ja": "魔法少女になって良かった",
+        "en": "Glad I Became a Magical Girl",
+        "x-jat": "Mahou Shoujo ni Natte Yokatta"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-26T16:00:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.696Z"
+}

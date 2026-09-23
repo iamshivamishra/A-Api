@@ -1,0 +1,396 @@
+{
+  "anilistId": 196017,
+  "malId": 62051,
+  "route": "grow-up-show-himawari-no-circus-dan",
+  "titles": {
+    "romaji": "Grow Up Show: Himawari no Circus-dan",
+    "english": "Grow Up Show",
+    "native": "グロウアップショウ ～ひまわりのサーカス団～"
+  },
+  "anilist": {
+    "id": 196017,
+    "idMal": 62051,
+    "title": {
+      "romaji": "Grow Up Show: Himawari no Circus-dan",
+      "english": "Grow Up Show",
+      "native": "グロウアップショウ ～ひまわりのサーカス団～"
+    },
+    "synonyms": [
+      "GROW UP SHOW -คณะเซอร์คัสดอกทานตะวัน-",
+      "GROW UP SHOW ~Sunflower Circus~"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196017-GynDNdbDzqzk.jpg",
+      "color": "#f1ae1a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196017-qB1xhp5PO10x.jpg",
+    "description": "The anime's story is set in the late 1950s and early 1960s, during the height of Japan's economic boom, when the circus is a major form of entertainment. Different circus troupes travel throughout Japan to perform and compete for a chance to participate in the world-renowned festival called \"Circus Collection.\" One troupe called the \"Sunflower Circus,\" led by its ringmaster Maria, travels around Japan to perform, despite struggling with financial difficulties. However, they meet a circus prodigy named Mizuka Tsurumaki. This is the story of a one-of-a-kind circus show of young girls with big dreams.<br><br>\n(Source: Anime News Network)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+    },
+    "genres": [
+      "Adventure",
+      "Slice of Life",
+      "Sports"
+    ],
+    "averageScore": 71,
+    "meanScore": 72,
+    "popularity": 9707,
+    "favourites": 121,
+    "source": "ORIGINAL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 13,
+      "airingAt": 1790434800,
+      "timeUntilAiring": 317343
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "A-1 Pictures"
+        },
+        {
+          "name": "Psyde Kick Studio"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://growupshow.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/growupshow"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378063/grow-up-show"
+      }
+    ],
+    "trailer": {
+      "id": "PAneuhZLHzU",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Historical"
+    ],
+    "studios": [
+      "A-1 Pictures",
+      "Psyde Kick Studio"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "In Japan during the height of its economic boom in the mid-1950s, the circus was a form of entertainment that became a central part of many people&#39;s lives. The best troupes are permitted to participate in the world-renowned &#34;Circus Collection&#34; festival, and many come from all over Japan to compete daily.<br><br>The story centers on the struggling &#34;Sunflower Circus&#34; troupe, led by ringmaster Maria, and a new prodigy that joins their ranks for unknown reasons: Mizuka Tsurumaki.<br><br>Is her encounter with the highly individual members of the Sunflower Circus troupe a coincidence or destiny? This one-of-a-kind circus show depicting young girls chasing their dreams begins!<br><br>(Source: Official site, translated)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4fjbWK4",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378063/grow-up-show",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-07-02T16:00:00Z",
+    "dubTime": "2026-07-02T16:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-19T15:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 13,
+      "at": "2026-09-26T15:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 16:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-19T15:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 13,
+      "at": "2026-09-26T16:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 16:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Welcome to the Sunflower Circus!",
+      "titles": {
+        "ja": "ようこそ, ひまわりサーカスへ!",
+        "en": "Welcome to the Sunflower Circus!",
+        "x-jat": "Youkoso, Himawari Circus e!"
+      },
+      "overview": "In 1950s Japan, penniless Mizuka meets two circus girls, sparking a dream-filled new beginning.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11243613/screencap/6a462b3755886.jpg",
+      "airDate": "2026-07-04T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.72",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "That Was So Dazzling",
+      "titles": {
+        "ja": "それはとっても, 眩しくて",
+        "en": "That Was So Dazzling",
+        "x-jat": "Sore wa Tottemo, Mabushikute"
+      },
+      "overview": "The \"Sunflower Circus\" is headed to Toyokawa, a popular and officially sanctioned performance venue.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872249/screencap/6a4e1cb732b18.jpg",
+      "airDate": "2026-07-11T15:00:00Z",
+      "runtime": 24,
+      "rating": "8.93",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "I Don`t Want to Show My Scars",
+      "titles": {
+        "ja": "傷跡なんか, 見せたくない",
+        "en": "I Don`t Want to Show My Scars",
+        "x-jat": "Kizuato Nanka, Misetakunai"
+      },
+      "overview": "Determined to surpass \"Shiny Lavender\", the \"Sunflower Circus\" prepares for its upcoming show.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872250/screencap/6a57623ad6cca.jpg",
+      "airDate": "2026-07-18T15:00:00Z",
+      "runtime": 24,
+      "rating": "8.93",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "I Just Can`t Bring Myself to Be Honest",
+      "titles": {
+        "ja": "素直になんか, なれなくて",
+        "en": "I Just Can`t Bring Myself to Be Honest",
+        "x-jat": "Sunao ni Nanka, Narenakute"
+      },
+      "overview": "The \"Sunflower Circus\" had a successful show in Toyokawa, but their earnings were seized by debt collectors.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872251/screencap/6a60a8514e1a3.jpg",
+      "airDate": "2026-07-25T15:00:00Z",
+      "runtime": 24,
+      "rating": "8.93",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "There Is Nowhere I Belong",
+      "titles": {
+        "ja": "居場所なんか, どこにもない",
+        "en": "There Is Nowhere I Belong",
+        "x-jat": "Ibasho Nanka, Doko ni mo Nai"
+      },
+      "overview": "Akane storms off as Mizuka searches the mountains for Rafflesia Circus’s missing François.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872252/screencap/6a6a015914ba9.jpg",
+      "airDate": "2026-08-01T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.84",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "A Sinister Legend Summons a Storm",
+      "titles": {
+        "ja": "忌まわしき伝説, 嵐を呼んで",
+        "en": "A Sinister Legend Summons a Storm",
+        "x-jat": "Imawashiki Densetsu, Arashi o Yonde"
+      },
+      "overview": "Nanami Sumeragi’s team makes headlines with newspapers asking if they could surpass the \"Lotus Circus.\"",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872253/screencap/6a72ff105601f.jpg",
+      "airDate": "2026-08-08T15:00:00Z",
+      "runtime": 24,
+      "rating": "8.85",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "I Don`t Get the Circus",
+      "titles": {
+        "ja": "サーカスが, わからない",
+        "en": "I Don`t Get the Circus",
+        "x-jat": "Circus ga, Wakaranai"
+      },
+      "overview": "Mizuka, determined to challenge Mitscher, returns to the group members who all look very serious.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872254/screencap/6a7c4189a310d.jpg",
+      "airDate": "2026-08-15T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.49",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "This Is What I Always Wanted",
+      "titles": {
+        "ja": "それはずっと, ほしかったもの",
+        "en": "This Is What I Always Wanted",
+        "x-jat": "Sore wa Zutto, Hoshikatta Mono"
+      },
+      "overview": "With the Sumeragi Group’s elite troupe, the \"Blue Rose Circus,\" nearby, the \"Sunflower Circus\" faces a predictably poor turnout for its next performance. Mizuka, having resolves to take the stage as a performer, nervously peeks out at the audience. After confiding her anxiety to Ouka in the wings, she trusts Ouka's advice—\"look at the audience before you fly\"—and Mizuka steps onto the trapeze.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872255/screencap/6a857af409efb.jpg",
+      "airDate": "2026-08-22T15:00:00Z",
+      "runtime": 24,
+      "rating": "9.12",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Is All That Kindness Just a Lie?",
+      "titles": {
+        "ja": "その優しさは, ぜんぶ嘘?",
+        "en": "Is All That Kindness Just a Lie?",
+        "x-jat": "Sono Yasashisa wa, Zenbu Uso?"
+      },
+      "overview": "Maria collapses from exhaustion, and Rin fiercely scolds the troupe for causing chaos at the hospital.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872256/screencap/6a8eb0b77e9f7.jpg",
+      "airDate": "2026-08-29T15:00:00Z",
+      "runtime": 24,
+      "rating": "8.75",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Beyond the Stage of Dreams",
+      "titles": {
+        "ja": "夢の舞台, その向こう側へ",
+        "en": "Beyond the Stage of Dreams",
+        "x-jat": "Yume no Butai, Sono Mukougawa e"
+      },
+      "overview": "The \"Sunflower Circus\" has been granted permission to participate in the \"Circus Collection Japan Tournament.\"",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872257/screencap/6a97ed041c084.jpg",
+      "airDate": "2026-09-05T15:00:00Z",
+      "runtime": 24,
+      "rating": "8.29",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "For Whose Sake Is This Unfulfilled Dream?",
+      "titles": {
+        "ja": "見果てぬ夢は, 誰がために?",
+        "en": "For Whose Sake Is This Unfulfilled Dream?",
+        "x-jat": "Mihatenu Yume wa, Ta ga Tame ni?"
+      },
+      "overview": "Mizuka and Ouka are unable to hide their growing anxiety, pushing themselves with excessive training.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872258/screencap/6aa274490dddc.jpg",
+      "airDate": "2026-09-12T15:00:00Z",
+      "runtime": 24,
+      "rating": "7.49",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "Where the Heart Resides - Weaving Dreams",
+      "titles": {
+        "ja": "想いの在処, 紡ぐは夢",
+        "en": "Where the Heart Resides - Weaving Dreams",
+        "x-jat": "Omoi no Arika, Tsumugu wa Yume"
+      },
+      "overview": "With surgery in the United States fast approaching, Maria was placed under a strict no-visitor policy.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872265/screencap/6aaa5ff0b9077.jpg",
+      "airDate": "2026-09-19T15:00:00Z",
+      "runtime": 24,
+      "rating": "8.29",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-26T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Episode S1",
+      "titles": {
+        "ja": "特別生配信 「潜入! ひまわりサーカス」",
+        "en": "Episode S1",
+        "x-jat": "Tokubetsu Namahaishin \"Sennyuu! Himawari Circus\""
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-13",
+      "runtime": 55,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 13,
+  "updatedAt": "2026-09-23T10:33:05.694Z"
+}

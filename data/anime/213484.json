@@ -1,0 +1,550 @@
+{
+  "anilistId": 213484,
+  "malId": 62957,
+  "route": "bai-ri-cheng-wang",
+  "titles": {
+    "romaji": "Bai Ri Cheng Wang",
+    "english": "Crowned in a Hundred Days",
+    "native": "百日成王"
+  },
+  "anilist": {
+    "id": 213484,
+    "idMal": 62957,
+    "title": {
+      "romaji": "Bai Ri Cheng Wang",
+      "english": "Crowned in a Hundred Days",
+      "native": "百日成王"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213484-FIyYH43ASHgB.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213484-FIyYH43ASHgB.png",
+      "color": "#1a86f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213484-Apezw4iSrrr6.jpg",
+    "description": "Driven to the brink of despair, restaurant owner Ming forms an unlikely bond with the soul of the true King Lie after swallowing it to save his loved one. Bound together by fate, the two embark on a perilous journey to challenge the tyrant who has usurped the throne.<br><br>\nWith only one hundred days to change their destiny, Ming uses his extraordinary memory to master long-lost magic, gathering allies and winning the support of the people along the way. As their strength grows, so does their resolve to overthrow a corrupt regime, reclaim the rightful king's throne, and restore peace to the realm.<br><br>\n(Source: Bilibili TV)",
+    "format": "ONA",
+    "status": "FINISHED",
+    "episodes": 25,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 15
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 65,
+    "meanScore": 69,
+    "popularity": 3768,
+    "favourites": 60,
+    "source": "ORIGINAL",
+    "countryOfOrigin": "CN",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio LAN"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md281710135"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2410830"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00379214/crowned-in-a-hundred-days"
+      }
+    ],
+    "trailer": {
+      "id": "IYcGvpXYfGE",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "studios": [
+      "Studio LAN"
+    ],
+    "mediaTypes": [
+      "ONA (Chinese)"
+    ],
+    "lengthMin": 12,
+    "description": "Driven to the brink of despair, restaurant owner Ming forms an unlikely bond with the soul of the true King Lie after swallowing it to save his loved one. Bound together by fate, the two embark on a perilous journey to challenge the tyrant who has usurped the throne.<br><br>With only one hundred days to change their destiny, Ming uses his extraordinary memory to master long-lost magic, gathering allies and winning the support of the people along the way. As their strength grows, so does their resolve to overthrow a corrupt regime, reclaim the rightful king&#39;s throne, and restore peace to the realm.<br><br>(Source: BiliBili TV)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3RhaVsL",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00379214",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLBW3OJcFogIA",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2410830",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-03T04:01:00Z",
+    "dubTime": "2026-07-03T04:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 25,
+    "latestEpisode": {
+      "number": 25,
+      "airedAt": "2026-09-15"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 25,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "100天成王计划正式开启"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-03",
+      "runtime": 15,
+      "rating": "5.94",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "原来学不会魔法竟因为是文盲"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-03",
+      "runtime": 15,
+      "rating": "3.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "最强魔法秘籍出现了!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-03",
+      "runtime": 15,
+      "rating": "3.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "不忍直视的美食秘方"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-03",
+      "runtime": 15,
+      "rating": "3.70",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "误会误会, 是落枕不是挑衅"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-07",
+      "runtime": 10,
+      "rating": "5.94",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "这烈王的马甲掉得也太快了吧!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-10",
+      "runtime": 15,
+      "rating": "5.94",
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "重生之成为富可敌国的最强财阀"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-14",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "女孩子们真的又勇敢又可爱!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-17",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "年轻人, 喜欢就要大胆表白啊"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-21",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "敢动我的人, 那就让你死!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-24",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "快看! 天上有金子!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-28",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "小小区长, 拿下!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-31",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "重振第十区"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-04",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "全民学魔法"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-07",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 15,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "英雄救美!? 好俗套的剧情"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-11",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 16,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "那试试我这一拳怎么样!?"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-14",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 17,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "每一场应援就像一场战斗!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-18",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 18,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "妙手回春"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-21",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 19,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "我是谁!? 我是你大哥!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-25",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 20,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "这竟然是一场梦吗"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-28",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 21,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "快醒醒! 救救大家!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-01",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 22,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "还好有你! 黄主管"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-04",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "龙傲"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-08",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "还有人在等着我"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-11",
+      "runtime": 20,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 25,
+      "title": null,
+      "titles": {
+        "en": null,
+        "zh-Hans": "现在我要夺回失去的一切!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-15",
+      "runtime": 15,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 25,
+  "updatedAt": "2026-09-23T06:30:54.728Z"
+}

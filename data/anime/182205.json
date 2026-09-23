@@ -1,0 +1,665 @@
+{
+  "anilistId": 182205,
+  "malId": 59970,
+  "route": "tensei-shitara-slime-datta-ken-4th-season",
+  "titles": {
+    "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
+    "english": "That Time I Got Reincarnated as a Slime Season 4",
+    "native": "転生したらスライムだった件 第4期"
+  },
+  "anilist": {
+    "id": 182205,
+    "idMal": 59970,
+    "title": {
+      "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
+      "english": "That Time I Got Reincarnated as a Slime Season 4",
+      "native": "転生したらスライムだった件 第4期"
+    },
+    "synonyms": [
+      "Tensura 4",
+      "転スラ 4",
+      "เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว ซีซั่น 4",
+      "О моём перерождении в слизь 4",
+      "Aquella vez que me convertí en slime - Temporada 4",
+      "Moi, quand je me réincarne en Slime Saison 4"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182205-q2AeO1owuQbO.jpg",
+      "color": "#1abbd6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
+    "description": "Demon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>\n\n(Source: Crunchyroll News)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 24,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 83,
+    "meanScore": 83,
+    "popularity": 137054,
+    "favourites": 4905,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 24,
+      "airingAt": 1790344800,
+      "timeUntilAiring": 227343
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "8-bit"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://www.ten-sura.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/ten_sura_anime"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GYZJ43JMR/that-time-i-got-reincarnated-as-a-slime"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/jkfiu4aeb5"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3_YNRvXA7O89pNPsj1WIkb"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2342192"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/81028712"
+      }
+    ],
+    "trailer": {
+      "id": "ikxIrDr72iA",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Isekai",
+      "Magic",
+      "Shounen"
+    ],
+    "studios": [
+      "8bit"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "The fourth season of <span class=\"italics\">Tensei Shitara Slime Datta Ken</span>.<br><br>Demon Lord Rimuru&#39;s dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4e2i49k",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GYZJ43JMR/that-time-i-got-reincarnated-as-a-slime",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/3TZLrBg",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl3_YNRvXA7O89pNPsj1WIkb",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2342192",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-08-17T15:00:00Z",
+    "dubTime": "2026-08-10T15:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": "2026-08-21T00:00:00Z"
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 23,
+      "airedAt": "2026-09-18T14:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 24,
+      "at": "2026-09-25T14:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 15:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 21,
+      "airedAt": "2026-09-04T14:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 22,
+      "at": "2026-09-25T15:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 15:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "New Days",
+      "titles": {
+        "ja": "新しい日々",
+        "en": "New Days",
+        "de": "Ein neuer Alltag",
+        "hu": "Újabb hétköznapok",
+        "x-jat": "Atarashii Hibi",
+        "uk": "Нові дні"
+      },
+      "overview": "Tempest is thriving after the success of its festival, but unexpected trouble has arisen with the new dungeon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11561313/screencap/69cbb9ad64647.jpg",
+      "airDate": "2026-04-03T14:00:00Z",
+      "runtime": 24,
+      "rating": "3.64",
+      "absoluteEpisodeNumber": 73,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "The Dungeon Evolves",
+      "titles": {
+        "ja": "進化する迷宮[ダンジョン]",
+        "en": "The Dungeon Evolves",
+        "de": "Das entwickelte Labyrinth",
+        "hu": "A dungeon fejlődik",
+        "x-jat": "Shinka Suru Dungeon"
+      },
+      "overview": "Rimuru and his trusted companions discuss ideas for improving the dungeon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696720/screencap/69d59d2930387.jpg",
+      "airDate": "2026-04-10T14:00:00Z",
+      "runtime": 24,
+      "rating": "4.28",
+      "absoluteEpisodeNumber": 74,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "The Avatar Team Is Formed",
+      "titles": {
+        "ja": "仮魔体[アバター]チーム結成",
+        "en": "The Avatar Team Is Formed",
+        "de": "Das Avatar-Team steht",
+        "x-jat": "Avatar Team Kessei"
+      },
+      "overview": "Rimuru, Ramiris, Veldora, and Milim work on perfecting their avatars before facing Team Green Fury.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696721/screencap/69e2170496c9a.jpg",
+      "airDate": "2026-04-17T14:00:00Z",
+      "runtime": 24,
+      "rating": "6.49",
+      "absoluteEpisodeNumber": 75,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Invitation",
+      "titles": {
+        "ja": "招待状",
+        "en": "Invitation",
+        "de": "Die Einladung",
+        "x-jat": "Shoutaijou"
+      },
+      "overview": "The Council of the West deliberates on whether to grant membership to Tempest.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696722/screencap/69ea877d2a96c.jpg",
+      "airDate": "2026-04-24T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.05",
+      "absoluteEpisodeNumber": 76,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "The First Step",
+      "titles": {
+        "ja": "最初の一歩",
+        "en": "The First Step",
+        "de": "Der erste Schritt",
+        "hu": "Az első lépés",
+        "x-jat": "Saisho no Ippo"
+      },
+      "overview": "Rimuru attends the meeting that will determine Tempest's membership in the Council of the West.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696723/screencap/69f79e4fee55e.jpg",
+      "airDate": "2026-05-08T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.05",
+      "absoluteEpisodeNumber": 77,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "The Council of the West",
+      "titles": {
+        "ja": "西方諸国評議会[カウンシル・オブ・ウェスト]",
+        "en": "The Council of the West",
+        "de": "Der Rat des Westens",
+        "hu": "A Nyugati Tanács",
+        "x-jat": "Council of West"
+      },
+      "overview": "A list of unreasonable demands from the Council makes Rimuru realize that a deeper plot is in motion.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696725/screencap/6a03bd43472a2.jpg",
+      "airDate": "2026-05-15T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.59",
+      "absoluteEpisodeNumber": 78,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "The Mastermind`s Identity",
+      "titles": {
+        "ja": "黒幕の正体",
+        "en": "The Mastermind`s Identity",
+        "de": "Die Offenbarung der Drahtzieher",
+        "x-jat": "Kuromaku no Shoutai"
+      },
+      "overview": "An interrogation of Prince Elric's would-be shooter reveals who's pulling the strings behind the Council.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696727/screencap/6a0dece1b4360.jpg",
+      "airDate": "2026-05-22T14:00:00Z",
+      "runtime": 24,
+      "rating": "9.46",
+      "absoluteEpisodeNumber": 79,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "The Groundwork of Greed",
+      "titles": {
+        "ja": "強欲の布石",
+        "en": "The Groundwork of Greed",
+        "de": "Kalkül der Habgier",
+        "x-jat": "Gouyoku no Fuseki"
+      },
+      "overview": "Glenda reveals all she knows about the Council and the Rozzos, and Rimuru prepares to inspect ancient ruins.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696729/screencap/6a158a7ae26b4.jpg",
+      "airDate": "2026-05-29T14:00:00Z",
+      "runtime": 24,
+      "rating": "8.58",
+      "absoluteEpisodeNumber": 80,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Investigating the Ruins",
+      "titles": {
+        "ja": "遺跡調査",
+        "en": "Investigating the Ruins",
+        "de": "Ausgrabung der Reliktstätte",
+        "x-jat": "Iseki Chousa"
+      },
+      "overview": "The investigation of the ancient ruins of Amrita begins.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696731/screencap/6a1ec613445a0.jpg",
+      "airDate": "2026-06-05T14:00:00Z",
+      "runtime": 24,
+      "rating": "8.58",
+      "absoluteEpisodeNumber": 81,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "The Master of Greed",
+      "titles": {
+        "ja": "強欲の主人[あるじ]",
+        "en": "The Master of Greed",
+        "de": "Der unersättliche Meister",
+        "x-jat": "Gouyoku no Aruji"
+      },
+      "overview": "Rimuru and Mirabel come face-to-face at last in the ancient ruins.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696733/screencap/6a281ac120043.jpg",
+      "airDate": "2026-06-12T14:00:00Z",
+      "runtime": 24,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 82,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Milim`s Friend",
+      "titles": {
+        "ja": "ミリムの友達",
+        "en": "Milim`s Friend",
+        "de": "Millims Freund",
+        "x-jat": "Milim no Tomodachi"
+      },
+      "overview": "Rimuru helps Milim confront the Chaos Dragon, a corrupted form of the baby dragon that was once her friend.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696735/screencap/6a31572fee81d.jpg",
+      "airDate": "2026-06-19T14:00:00Z",
+      "runtime": 24,
+      "rating": "9.46",
+      "absoluteEpisodeNumber": 83,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "Tempest Evolves",
+      "titles": {
+        "ja": "進化する魔国連邦[テンペスト]",
+        "en": "Tempest Evolves",
+        "de": "Die Entwicklung von Tempest",
+        "x-jat": "Shinka Suru Tempest"
+      },
+      "overview": "Rimuru shares his plans for Tempest's future, including a new system of government and Council representation.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696738/screencap/6a3c1de78428f.jpg",
+      "airDate": "2026-06-26T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.59",
+      "absoluteEpisodeNumber": 84,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": "New Companions",
+      "titles": {
+        "ja": "新しい仲間達",
+        "en": "New Companions",
+        "de": "Neue Kameraden",
+        "x-jat": "Atarashii Nakama-tachi"
+      },
+      "overview": "Ramiris and Veldora are feeling overworked, so they ask Rimuru to find assistants for them.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696740/screencap/6a43a74531cf6.jpg",
+      "airDate": "2026-07-03T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.05",
+      "absoluteEpisodeNumber": 85,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 14,
+      "title": "The Black Numbers",
+      "titles": {
+        "ja": "黒色軍団[ブラックナンバーズ]",
+        "en": "The Black Numbers",
+        "de": "Black Numbers",
+        "x-jat": "Black Numbers"
+      },
+      "overview": "Diablo returns with new demon subordinates to add to Tempest's ranks.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696742/screencap/6a50306197727.jpg",
+      "airDate": "2026-07-10T14:00:00Z",
+      "runtime": 24,
+      "rating": "6.49",
+      "absoluteEpisodeNumber": 86,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 15,
+      "title": "An Unsettling Feeling",
+      "titles": {
+        "ja": "不穏な気配",
+        "en": "An Unsettling Feeling",
+        "de": "Unheilvolle Vorzeichen",
+        "x-jat": "Fuon na Kehai"
+      },
+      "overview": "As Tempest continues to grow and evolve, the Moderate Harlequin Alliance approaches Demon Lord Leon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696744/screencap/6a55acfacf3f0.jpg",
+      "airDate": "2026-07-17T14:00:00Z",
+      "runtime": 24,
+      "rating": "9.46",
+      "absoluteEpisodeNumber": 87,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 16,
+      "title": "Gran, the Hero of Dawn",
+      "titles": {
+        "ja": "夜明けの勇者グラン",
+        "en": "Gran, the Hero of Dawn",
+        "de": "Der Heroe der Morgendämmerung, Gran",
+        "x-jat": "Yoake no Yuusha Gran"
+      },
+      "overview": "Luminus meets with Rimuru to discuss Gran and future plans.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696745/screencap/6a62ba9e59d0e.jpg",
+      "airDate": "2026-07-24T14:00:00Z",
+      "runtime": 24,
+      "rating": "6.86",
+      "absoluteEpisodeNumber": 88,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 17,
+      "title": "Lubelius, the Point of Convergence",
+      "titles": {
+        "ja": "集束の地ルベリオス",
+        "en": "Lubelius, the Point of Convergence",
+        "de": "Der Ort der Zusammenführung, Luberios",
+        "x-jat": "Shuusoku no Chi Lubelius"
+      },
+      "overview": "While Leon seeks Elmesia's help in finding Chloe, Granville's forces invade Lubelius.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696747/screencap/6a696ce51048f.jpg",
+      "airDate": "2026-08-07T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.05",
+      "absoluteEpisodeNumber": 89,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 18,
+      "title": "Turbulence in the West",
+      "titles": {
+        "ja": "西方動乱",
+        "en": "Turbulence in the West",
+        "de": "Die Unruhen im Westen",
+        "x-jat": "Seihou Douran"
+      },
+      "overview": "An army of demons advances from the north, leaving the Western Nations in turmoil.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696750/screencap/6a7d271ee8df6.jpg",
+      "airDate": "2026-08-14T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.59",
+      "absoluteEpisodeNumber": 90,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 19,
+      "title": "Death and Loss",
+      "titles": {
+        "ja": "死と消失",
+        "en": "Death and Loss",
+        "de": "Tod und Verschwinden",
+        "x-jat": "Shi to Shoushitsu"
+      },
+      "overview": "Granville's true plan is revealed, but it may already be too late to stop it.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696752/screencap/6a877c7bb395b.jpg",
+      "airDate": "2026-08-21T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.42",
+      "absoluteEpisodeNumber": 91,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 20,
+      "title": "Chronoa the Hero, Part 1",
+      "titles": {
+        "ja": "勇者クロノア・前編",
+        "en": "Chronoa the Hero, Part 1",
+        "de": "Die Heroe Chronoa, Teil 1",
+        "x-jat": "Yuusha Chronoa: Zenpen"
+      },
+      "overview": "When Chloe's Time Traveler skill kicks in, Hinata's soul is sent to the past along with her.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696754/screencap/6a916fc52a7f2.jpg",
+      "airDate": "2026-08-28T14:00:00Z",
+      "runtime": 24,
+      "rating": "9.78",
+      "absoluteEpisodeNumber": 92,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 21,
+      "title": "Chronoa the Hero, Part 2",
+      "titles": {
+        "ja": "勇者クロノア・後編",
+        "en": "Chronoa the Hero, Part 2",
+        "x-jat": "Yuusha Chronoa: Kouhen"
+      },
+      "overview": "Chloe and Hinata meet Luminus and begin their journey as Chronoa.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696756/screencap/6a9a1a1481242.jpg",
+      "airDate": "2026-09-04T14:00:00Z",
+      "runtime": 24,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 93,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 22,
+      "title": "Where the Soul Resides",
+      "titles": {
+        "ja": "魂の在処",
+        "en": "Where the Soul Resides",
+        "x-jat": "Tamashii no Arika"
+      },
+      "overview": "Chronoa is freed from her seal—not as a Hero, but as an avatar of destruction.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696758/screencap/6aa350bde95e8.jpg",
+      "airDate": "2026-09-11T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.24",
+      "absoluteEpisodeNumber": 94,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": "Granville`s Hope",
+      "titles": {
+        "ja": "グランベルの希望",
+        "en": "Granville`s Hope",
+        "x-jat": "Granville no Kibou"
+      },
+      "overview": "Shion and Ranga continue to battle Razul while Rimuru struggles to save Chloe and Hinata.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11696760/screencap/6aad3c4313b91.jpg",
+      "airDate": "2026-09-18T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.24",
+      "absoluteEpisodeNumber": 95,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "The Hero Awakens",
+      "titles": {
+        "ja": "勇者覚醒",
+        "en": "The Hero Awakens",
+        "x-jat": "Yuusha Kakusei"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-25T14:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 96,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "S2",
+      "title": "Episode S2",
+      "titles": {
+        "ja": "第4期 解体新書!",
+        "en": "Episode S2",
+        "x-jat": "Dai 4 Ki: Kaitai Shinsho!"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-02",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S1",
+      "title": "Episode S1",
+      "titles": {
+        "ja": "総集編 魔国連邦の歩み",
+        "en": "Episode S1",
+        "x-jat": "Soushuuhen: Makoku Renbou no Ayumi"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-01",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 24,
+  "updatedAt": "2026-09-23T10:33:05.653Z"
+}

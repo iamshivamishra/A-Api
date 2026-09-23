@@ -1,0 +1,413 @@
+{
+  "anilistId": 207809,
+  "malId": 63489,
+  "route": "sora-wa-akai-kawa-no-hotori",
+  "titles": {
+    "romaji": "Sora wa Akai Kawa no Hotori",
+    "english": "Red River",
+    "native": "天は赤い河のほとり"
+  },
+  "anilist": {
+    "id": 207809,
+    "idMal": 63489,
+    "title": {
+      "romaji": "Sora wa Akai Kawa no Hotori",
+      "english": "Red River",
+      "native": "天は赤い河のほとり"
+    },
+    "synonyms": [
+      "Anatolia Story"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207809-cpS7CAyjN7iP.jpg",
+      "color": "#e4bb5d"
+    },
+    "bannerImage": null,
+    "description": "After a mysterious hand drags her beneath a puddle, modern Japanese teenager Yuri awakens in the Hittite Empire of the 14th century BCE. Thrust into a deadly struggle for the throne, she joins Prince Kail to battle assassins, outwit royal conspiracies, and survive a world at war. As her exploits earn her renown as the goddess Ishtar, Yuri must choose between her old life and an uncertain future.\n<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 24,
+    "duration": 23,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 8
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 61,
+    "meanScore": 62,
+    "popularity": 10780,
+    "favourites": 106,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 13,
+      "airingAt": 1790699700,
+      "timeUntilAiring": 582243
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Tatsunoko Production"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://www.vap.co.jp/sorahaakaikawanohotori/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/tenkawa_anime"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@tenkawa_anime"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378099/red-river"
+      }
+    ],
+    "trailer": {
+      "id": "qpFcQ1Bek08",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Historical",
+      "Romance",
+      "Shoujo",
+      "Supernatural"
+    ],
+    "studios": [
+      "Tatsunoko Production"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "After a mysterious hand drags her beneath a puddle, modern Japanese teenager Yuri awakens in the Hittite Empire of the 14th century BCE. Thrust into a deadly struggle for the throne, she joins Prince Kail to battle assassins, outwit royal conspiracies, and survive a world at war. As her exploits earn her renown as the goddess Ishtar, Yuri must choose between her old life and an uncertain future.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3SFeQjF",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378099/red-river",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4gh74Vh",
+        "name": "Amazon"
+      }
+    ],
+    "subTime": "2026-07-07T17:40:00Z",
+    "dubTime": "2026-07-13T16:29:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-22T17:40:00Z"
+    },
+    "nextRelease": {
+      "episode": 13,
+      "at": "2026-09-29T16:35:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Tuesday 17:40 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 24,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Monday 16:29 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "A Goodbye Kiss, A Hello Kiss",
+      "titles": {
+        "ja": "別れと出会いのキス",
+        "en": "A Goodbye Kiss, A Hello Kiss",
+        "de": "Ein Kuss des Abschieds, ein Kuss der Begegnung",
+        "x-jat": "Wakare to Deai no Kiss"
+      },
+      "overview": "Yuri is an ordinary teenage girl, until she's dragged to the ancient Hittite Empire—and marked for sacrifice!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11616849/screencap/6a3638cbde6bc.jpg",
+      "airDate": "2026-07-07T16:30:00Z",
+      "runtime": 23,
+      "rating": "5.26",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "The Black Water",
+      "titles": {
+        "ja": "黒い水",
+        "en": "The Black Water",
+        "de": "Schwarzes Wasser",
+        "x-jat": "Kuroi Mizu"
+      },
+      "overview": "Yuri discovers that the only way to return home is to risk her life and retrieve her old clothes from Nakia.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876013/screencap/6a50e712b24d7.jpg",
+      "airDate": "2026-07-14T16:30:00Z",
+      "runtime": 23,
+      "rating": "4.37",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "I Can`t Go Back, I Won`t Go Back",
+      "titles": {
+        "ja": "還らない, 還れない",
+        "en": "I Can`t Go Back, I Won`t Go Back",
+        "x-jat": "Kaeranai, Kaerenai"
+      },
+      "overview": "Yuri finally has everything she needs to go home. But Tito's fate changes everything she's fighting for.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876014/screencap/6a5a2499b7147.jpg",
+      "airDate": "2026-07-21T16:30:00Z",
+      "runtime": 23,
+      "rating": "4.03",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Ishtar Incarnate",
+      "titles": {
+        "en": "Ishtar Incarnate"
+      },
+      "overview": "Yuri accompanies Kail to battle in Alinna, where she faces danger from foes and purported friends alike!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876015/screencap/6a635bdc19801.jpg",
+      "airDate": "2026-07-28T16:30:00Z",
+      "runtime": 23,
+      "rating": "3.82",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "A Sword to Fight",
+      "titles": {
+        "en": "A Sword to Fight"
+      },
+      "overview": "A mysterious old man forces Yuri to battle the ruthless warrior Zuwa, with the weapon of her choosing.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876016/screencap/6a6cacd94e2cd.jpg",
+      "airDate": "2026-08-04T16:30:00Z",
+      "runtime": 23,
+      "rating": "4.37",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The One I Can`t Love",
+      "titles": {
+        "en": "The One I Can`t Love"
+      },
+      "overview": "Prince Zannanza is struck by a spell from Nakia that drives him to act on his darkest desires.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876017/screencap/6a75a7ec490c4.jpg",
+      "airDate": "2026-08-11T16:30:00Z",
+      "runtime": 23,
+      "rating": "4.37",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Cold Lips",
+      "titles": {
+        "en": "Cold Lips"
+      },
+      "overview": "Ambushed by the Prince of Darkness, Yuri has to cut through enemy lines to save the kingdom of Kizzuwatna.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876018/screencap/6a7ee758464ea.jpg",
+      "airDate": "2026-08-18T16:30:00Z",
+      "runtime": 23,
+      "rating": "5.09",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Under the Apple Tree",
+      "titles": {
+        "en": "Under the Apple Tree"
+      },
+      "overview": "Kail is ordered to destroy the Mitanni, but he refuses to let Yuri join him until Zannanza intervenes.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876019/screencap/6a88164b845cb.jpg",
+      "airDate": "2026-08-25T16:30:00Z",
+      "runtime": 23,
+      "rating": "5.55",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "The Sign on the Palm",
+      "titles": {
+        "en": "The Sign on the Palm"
+      },
+      "overview": "The Dark Prince has occupied Malatya, but Kail and Yuri slip inside the city to bring it down.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876020/screencap/6a9152152e7b2.jpg",
+      "airDate": "2026-09-01T16:30:00Z",
+      "runtime": 23,
+      "rating": "5.09",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Ishtar the Purloined",
+      "titles": {
+        "en": "Ishtar the Purloined"
+      },
+      "overview": "The Dark Prince takes Yuri prisoner, and he condemns her to death in a coliseum to prove she's not Ishtar.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876021/screencap/6a9aa60bb8203.jpg",
+      "airDate": "2026-09-08T16:30:00Z",
+      "runtime": 23,
+      "rating": "8.27",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Where My Heart Is",
+      "titles": {
+        "en": "Where My Heart Is"
+      },
+      "overview": "Held captive in the Dark Prince's harem, Yuri plots her escape while the top concubine plots her murder.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876022/screencap/6aa3cb8165985.jpg",
+      "airDate": "2026-09-15T16:30:00Z",
+      "runtime": 23,
+      "rating": "8.27",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "The Appointed Time",
+      "titles": {
+        "en": "The Appointed Time"
+      },
+      "overview": "The Prince of Darkness has taken Yuri hostage to save himself. Will Kail rescue Yuri in time to send her home?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876023/screencap/6aad153c4a86c.jpg",
+      "airDate": "2026-09-22T16:30:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-29T16:30:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-06T16:30:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 14,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 15,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-13T16:30:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 15,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 16,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-20T16:30:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 16,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 16,
+  "updatedAt": "2026-09-23T10:33:05.614Z"
+}

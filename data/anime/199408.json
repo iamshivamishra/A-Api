@@ -1,0 +1,348 @@
+{
+  "anilistId": 199408,
+  "malId": 62289,
+  "route": "buchigire-reijou-wa-houfuku-wo-chikaimashita-madousho-no-chikara-de-sokoku-wo-tatakitsubushimasu",
+  "titles": {
+    "romaji": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+    "english": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+    "native": "ブチ切れ令嬢は報復を誓いました。　～魔導書の力で祖国を叩き潰します～"
+  },
+  "anilist": {
+    "id": 199408,
+    "idMal": 62289,
+    "title": {
+      "romaji": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+      "english": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+      "native": "ブチ切れ令嬢は報復を誓いました。　～魔導書の力で祖国を叩き潰します～"
+    },
+    "synonyms": [
+      "คู่มือชำระแค้นของท่านหญิง: วิธีถล่มบ้านเกิดด้วยคัมภีร์เวทมนตร์"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199408-ocRWG4pRWl8f.png",
+      "color": "#f1ae35"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199408-ouNGkjrw0ohT.jpg",
+    "description": "Elizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!\n<br><br>\n(Source: J-Novel Club)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 21
+    },
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "averageScore": 68,
+    "meanScore": 69,
+    "popularity": 24920,
+    "favourites": 282,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio Comet"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/buchigire_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://buchigire-anime.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00379182/a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires"
+      }
+    ],
+    "trailer": {
+      "id": "yC4TghEG8q8",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Magic"
+    ],
+    "studios": [
+      "Studio Comet"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Elizabeth Leiston, the daughter of Haldoria&#39;s powerful prime minister, is the picture of a refined noble lady and the perfect future queen. But when her fiancé publicly humiliates her, calls off their engagement, and starts spreading nasty rumors about her, Elizabeth reaches her breaking point. Why should her only friend be her loyal maid, and why should she continue to serve a country that doesn&#39;t respect her?<br><br>Elizabeth concludes she won&#39;t stand it any longer and will bring down the kingdom, even if it&#39;s the last thing she does! As such, she uses her quick wit and, more importantly, her seven magic grimoires to embark on a quest for revenge. And let her tell you, there will be hell to pay!<br><br>(Source: J-Novel Club)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4vfgwOi",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00379182/a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-07-06T14:30:00Z",
+    "dubTime": "2026-07-06T13:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-21T14:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Monday 14:30 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Monday 13:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Despair and a Promise of Revenge",
+      "titles": {
+        "ja": "絶望と報復の誓い",
+        "en": "Despair and a Promise of Revenge",
+        "de": "Verzweiflung und ein Schwur der Rache",
+        "x-jat": "Zetsubou to Houfuku no Chikai"
+      },
+      "overview": "Elizabeth is Prince Friede's devoted fiancée and works tirelessly for the kingdom and its people.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11543479/screencap/6a4a69623be80.jpg",
+      "airDate": "2026-07-06T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.84",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "Starting Business in Asylum",
+      "titles": {
+        "ja": "亡命と起業",
+        "en": "Starting Business in Asylum",
+        "de": "Eine Flucht und eine Firmengründung",
+        "x-jat": "Boumei to Kigyou"
+      },
+      "overview": "Elizabeth, now Ellie, starts a cosmetics business in a neighboring town under Viscount Lucas's domain.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874717/screencap/6a544a484f6c8.jpg",
+      "airDate": "2026-07-13T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.14",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Met on the Road",
+      "titles": {
+        "ja": "旅路での出会い",
+        "en": "Met on the Road",
+        "de": "Eine zufällige Begegnung auf Reisen",
+        "x-jat": "Tabiji de no Deai"
+      },
+      "overview": "Ellie expands her business in the imperial capital and meets someone unusual along the way.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11874718/screencap/6a5e1b83d3a71.jpg",
+      "airDate": "2026-07-20T13:30:00Z",
+      "runtime": 24,
+      "rating": "7.54",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "New Friends and Social Parties",
+      "titles": {
+        "ja": "新たな仲間と社交パーティー",
+        "en": "New Friends and Social Parties",
+        "x-jat": "Arata na Nakama to Shakou Party"
+      },
+      "overview": "After arriving in the capital, Ellie begins to build her circle of potential clients.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882478/screencap/6a67661a9dd58.jpg",
+      "airDate": "2026-07-27T13:30:00Z",
+      "runtime": 24,
+      "rating": "7.13",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Adventurers Assemble",
+      "titles": {
+        "ja": "冒険者集結",
+        "en": "Adventurers Assemble",
+        "x-jat": "Boukensha Shuuketsu"
+      },
+      "overview": "An unexpected conflict jeopardizes Ellie's plan, forcing her to take action.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882479/screencap/6a6ff0704f20c.jpg",
+      "airDate": "2026-08-03T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.20",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Taking Back the Fortress",
+      "titles": {
+        "ja": "砦, 奪還作戦",
+        "en": "Taking Back the Fortress",
+        "x-jat": "Toride, Dakkan Sakusen"
+      },
+      "overview": "Ellie and her men join Lebrick's army to retake Broccen Fortress.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882480/screencap/6a792b0845174.jpg",
+      "airDate": "2026-08-10T13:30:00Z",
+      "runtime": 24,
+      "rating": "7.27",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Revenge in the Dead of Night",
+      "titles": {
+        "ja": "闇夜の報復",
+        "en": "Revenge in the Dead of Night",
+        "x-jat": "Yamiyo no Houfuku"
+      },
+      "overview": "The empire's troops are preparing to lay siege to the capital of Sarjas with the help of a new ally.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882481/screencap/6a82e89e6abbf.jpg",
+      "airDate": "2026-08-17T13:30:00Z",
+      "runtime": 24,
+      "rating": "3.28",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "The Tragedy of the House of Count Arty",
+      "titles": {
+        "ja": "アーティ伯爵家の悲劇",
+        "en": "The Tragedy of the House of Count Arty",
+        "x-jat": "Arti Hakushaku-ke no Higeki"
+      },
+      "overview": "Robert returns home alive with those he most wants to protect.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882482/screencap/6a8b832a1a9dc.jpg",
+      "airDate": "2026-08-24T13:30:00Z",
+      "runtime": 24,
+      "rating": "5.09",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "The Empire`s Merchants` Guild Council",
+      "titles": {
+        "ja": "帝国ギルド評議会",
+        "en": "The Empire`s Merchants` Guild Council",
+        "x-jat": "Teikoku Guild Hyougikai"
+      },
+      "overview": "Ellie auditions for membership in the empire's Merchants' Guild Council.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882483/screencap/6a94e10f542fa.jpg",
+      "airDate": "2026-08-31T13:30:00Z",
+      "runtime": 24,
+      "rating": "5.27",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "By the Sea",
+      "titles": {
+        "ja": "海辺にて",
+        "en": "By the Sea",
+        "x-jat": "Umibe nite"
+      },
+      "overview": "In her drive to expand, Ellie decides to establish a Traitre branch in a harbor city.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882484/screencap/6a9e14b1646a2.jpg",
+      "airDate": "2026-09-07T13:30:00Z",
+      "runtime": 24,
+      "rating": "3.75",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "False Gold",
+      "titles": {
+        "ja": "偽りの金貨",
+        "en": "False Gold",
+        "x-jat": "Itsuwari no Kinka"
+      },
+      "overview": "A counterfeit currency scandal forces Ellie to deal with the remains of her old company, Funnel.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882485/screencap/6aa73fff09a0f.jpg",
+      "airDate": "2026-09-14T13:30:00Z",
+      "runtime": 24,
+      "rating": "8.27",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "A Livid Lady`s Revenge Never Ends",
+      "titles": {
+        "ja": "ブチ切れ令嬢の報復は終わらない",
+        "en": "A Livid Lady`s Revenge Never Ends",
+        "x-jat": "Buchigire Reijou no Houfuku wa Owaranai"
+      },
+      "overview": "After thwarting Colt's plans, Ellie moves on to the next stage of her revenge.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11882486/screencap/6ab11ec800c04.jpg",
+      "airDate": "2026-09-21T13:30:00Z",
+      "runtime": 24,
+      "rating": "6.10",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.598Z"
+}

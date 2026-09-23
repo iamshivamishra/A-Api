@@ -1,0 +1,353 @@
+{
+  "anilistId": 196219,
+  "malId": 62080,
+  "route": "mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu",
+  "titles": {
+    "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+    "english": "The Oblivious Saint Can't Contain Her Power",
+    "native": "無自覚聖女は今日も無意識に力を垂れ流す"
+  },
+  "anilist": {
+    "id": 196219,
+    "idMal": 62080,
+    "title": {
+      "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+      "english": "The Oblivious Saint Can't Contain Her Power",
+      "native": "無自覚聖女は今日も無意識に力を垂れ流す"
+    },
+    "synonyms": [
+      "The Oblivious Saint Can't Contain Her Power Glossary"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196219-imvC0rbk4VzH.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196219-imvC0rbk4VzH.jpg",
+      "color": "#5daee4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
+    "description": "Lady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation’s next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable “Bloodthirsty Prince” of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.\n<br><br>\n(Source: J-Novel Club)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 6,
+      "day": 30
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 15
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 63,
+    "meanScore": 63,
+    "popularity": 21218,
+    "favourites": 253,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Magic Bus"
+        },
+        {
+          "name": "Picante Circus"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/mujikaku_seijo"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://mujikaku-seijo.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378125/"
+      }
+    ],
+    "trailer": {
+      "id": "R82wqxOXPIM",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "studios": [
+      "Magic Bus",
+      "Picante Circus"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "Overshadowed by her saintly sister Flora, plain Carolina seizes a chance to be useful by agreeing to political marriage with a prince rumored to be cruel. But the prince is nothing as expected—he’s a gentleman, and Carolina feels valued for once in her life. As Carolina blossoms, she discovers a sense of self-worth and a mysterious power, while Flora’s perfect life back home starts to crumble.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4oYCXpl",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378125/",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-06-30T13:30:00Z",
+    "dubTime": "2026-06-06T13:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-15T13:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Disgrace of the Ducal House of Sanchez",
+      "titles": {
+        "ja": "サンチェス公爵家の出来損ない",
+        "en": "The Disgrace of the Ducal House of Sanchez",
+        "de": "Die Versagerin der Herzogsfamilie Sanchez",
+        "x-jat": "Sanchez Koushaku-ke no Dekisokonai"
+      },
+      "overview": "Carolina Sanchez is given one option to redeem herself as a disgrace: to marry the Bloodthirty prince.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11250946/screencap/6a4252c3cc25f.jpg",
+      "airDate": "2026-06-30T13:00:00Z",
+      "runtime": 24,
+      "rating": "5.92",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "The Bloodthirty Second Prince",
+      "titles": {
+        "ja": "戦好きの第二皇子",
+        "en": "The Bloodthirty Second Prince",
+        "de": "Der kriegsliebende zweite Prinz",
+        "x-jat": "Ikusazuki no Dai Ni Ouji"
+      },
+      "overview": "Leaving her country, Carolina heads for a rendezvous point to meet said Bloodthirsty Prince, when...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866390/screencap/6a4bb522d7e40.jpg",
+      "airDate": "2026-07-07T13:00:00Z",
+      "runtime": 25,
+      "rating": "8.68",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Founder`s Day Fete",
+      "titles": {
+        "ja": "建国記念パーティー",
+        "en": "Founder`s Day Fete",
+        "de": "Die Staatsgründungsfeier",
+        "x-jat": "Kenkoku Kinen Party"
+      },
+      "overview": "With preparations for the Fete coming along, Carolina receives a letter from her father with surprising news.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866391/screencap/6a55aaabc1973.jpg",
+      "airDate": "2026-07-14T13:00:00Z",
+      "runtime": 25,
+      "rating": "8.71",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Red Eyes and Ruby",
+      "titles": {
+        "ja": "赤い瞳とルビー",
+        "en": "Red Eyes and Ruby",
+        "x-jat": "Akai Hitomi to Ruby"
+      },
+      "overview": "Carolina expresses her gratitude towards her maid for all her hard work when a certain plan stirs Marisa.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11866392/screencap/6a5ed223a9b61.jpg",
+      "airDate": "2026-07-21T13:00:00Z",
+      "runtime": 25,
+      "rating": "8.46",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Hidden Divinity",
+      "titles": {
+        "ja": "秘められた神聖力",
+        "en": "Hidden Divinity",
+        "x-jat": "Himerareta Shinseiryoku"
+      },
+      "overview": "With the issue with Marielle resolved, Carolina now faces the moment of truth as she takes the aptitude test.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891715/screencap/6a68aaf964089.jpg",
+      "airDate": "2026-07-28T13:00:00Z",
+      "runtime": 24,
+      "rating": "8.15",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "First Prince Gilbert",
+      "titles": {
+        "ja": "第一皇子ギルバート",
+        "en": "First Prince Gilbert",
+        "x-jat": "Daiichi Ouji Gilbert"
+      },
+      "overview": "Gilbert's conditions improve thanks to Carolina, but unpleasant rumors of the two drives Edward to...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891716/screencap/6a70859f5b6ff.jpg",
+      "airDate": "2026-08-04T13:00:00Z",
+      "runtime": 25,
+      "rating": "8.76",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "The Waver of the Perfect Young Lady",
+      "titles": {
+        "ja": "完璧令嬢の揺らぎ",
+        "en": "The Waver of the Perfect Young Lady",
+        "x-jat": "Kanpeki Reijou no Yuragi"
+      },
+      "overview": "With Jonathan on her case, the Empire must find a way to prevent the Archbishop from taking Carolina away.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891717/screencap/6a7a707db14f8.jpg",
+      "airDate": "2026-08-11T13:00:00Z",
+      "runtime": 25,
+      "rating": "6.02",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Jonathan`s Scheme",
+      "titles": {
+        "ja": "ジョナサンの企み",
+        "en": "Jonathan`s Scheme",
+        "x-jat": "Jonathan no Takurami"
+      },
+      "overview": "Jonathan feels pressured as the Royal family and friends begin making preparations to present their proposal.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891718/screencap/6a83444705815.jpg",
+      "airDate": "2026-08-18T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.44",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "The Exposed Sin",
+      "titles": {
+        "ja": "暴かれた罪",
+        "en": "The Exposed Sin",
+        "x-jat": "Abakareta Tsumi"
+      },
+      "overview": "Preparations to arrest the Archbishop are completed, but he's nowhere to be found! Will the exam run smoothly?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891719/screencap/6a8d8dba8cf7a.jpg",
+      "airDate": "2026-08-25T13:00:00Z",
+      "runtime": 25,
+      "rating": "6.10",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Saintly Trials",
+      "titles": {
+        "ja": "聖女試験",
+        "en": "Saintly Trials",
+        "x-jat": "Seijou Shiken"
+      },
+      "overview": "Time had come for Carolina to show off her skills at the Saintly Trials. Will things go well with Flora there?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11911200/screencap/6a9623467b138.jpg",
+      "airDate": "2026-09-01T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.96",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "The Perfect Young Lady`s Resolve",
+      "titles": {
+        "ja": "完璧令嬢の決意",
+        "en": "The Perfect Young Lady`s Resolve",
+        "x-jat": "Kanpeki Reijou no Ketsui"
+      },
+      "overview": "With the Saintly Trials over, Carolina checks on Flora's condition, when she finds out from Teodore that...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11911201/screencap/6a9ee49f00fcb.jpg",
+      "airDate": "2026-09-08T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.10",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Executing the Revenge",
+      "titles": {
+        "ja": "復讐の遂行",
+        "en": "Executing the Revenge",
+        "x-jat": "Fukushuu no Suikou"
+      },
+      "overview": "Flora is determined to do whatever it takes to ruin Carolina's happiness, even if it meant...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11911202/screencap/6aa86b197b498.jpg",
+      "airDate": "2026-09-15T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.10",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T06:30:22.385Z"
+}

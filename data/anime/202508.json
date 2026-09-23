@@ -1,0 +1,544 @@
+{
+  "anilistId": 202508,
+  "malId": 62981,
+  "route": "kami-no-shizuku",
+  "titles": {
+    "romaji": "Kami no Shizuku",
+    "english": "The Drops of God",
+    "native": "神の雫"
+  },
+  "anilist": {
+    "id": 202508,
+    "idMal": 62981,
+    "title": {
+      "romaji": "Kami no Shizuku",
+      "english": "The Drops of God",
+      "native": "神の雫"
+    },
+    "synonyms": [
+      "Les Gouttes de Dieu",
+      "신의물방울",
+      "สืบมรดกข้ามชาติ หยาดเทวะ"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202508-dk6LEyevJYUY.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202508-dk6LEyevJYUY.jpg",
+      "color": "#e44386"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
+    "description": "World-renowned wine critic Yutaka Kanzaki has passed away, leaving behind a wine collection worth over 12 billion yen. His will states that his collection will be given to the one who can identify the origin and year of twelve wines he’s chosen, the “Twelve Apostles”, and one that’s superior even to them, <i>“The Drops of God”. </i><br><br>\nCompeting for the prize are Yutaka’s son, Shizuku, who received a world-class education in wine but rebelled against his father and has never drank a drop, and Issei Tomine, a young charismatic wine critic whom Yutaka had recently adopted as his son. <br><br>\nWhat is wine? What is a parent and a child? What is life?<br>\nThe complex and fragrant battle surrounding the legendary <i>”Drops of God”</i> is about to begin… <br><br>\n(Source: Pony Canyon)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 24,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 10
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 18
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Slice of Life"
+    ],
+    "averageScore": 57,
+    "meanScore": 58,
+    "popularity": 6025,
+    "favourites": 43,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Satelight"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/@dropsofgodanime"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/dropsofgodAnime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://dropsofgod-anime.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00371872/the-drops-of-god"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/2f82gh1fg1l"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLbuF5Onrcu9fuunA9-WbxAZpiwmHUS0w9"
+      },
+      {
+        "site": "Instagram",
+        "url": "https://www.instagram.com/dropsofgodanime/"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@dropsofgodanime"
+      }
+    ],
+    "trailer": {
+      "id": "Oz5EkYVJbBc",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Seinen",
+      "Slice of Life"
+    ],
+    "studios": [
+      "Satelight"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "When world-renowned wine critic Toyotaka Kanzaki passes away, he leaves behind an enviable collection. The will promises his estate to whoever correctly guesses the brand and year of the 12 greatest wines he selected, and the legendary wine that stands atop them all, &#34;Drops of God.&#34; The challengers are Toyotaka&#39;s son, Shizuku Kanzaki, and a young critic, Issei Tomine, who was adopted by Toyotaka.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/41nv0zd",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00371872/the-drops-of-god",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/3UkINGi",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLbuF5Onrcu9fuunA9-WbxAZpiwmHUS0w9",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-04-10T15:30:00Z",
+    "dubTime": "2026-04-23T15:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 24,
+      "airedAt": "2026-09-18T14:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Friday 15:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 22,
+      "airedAt": "2026-09-04T14:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 23,
+      "at": "2026-09-25T15:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 15:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Beginning of All Battles",
+      "titles": {
+        "en": "The Beginning of All Battles"
+      },
+      "overview": "A beer company employee is caught up in a game of wine after his father's death.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11466852/screencap/69c7bbf40d027.jpg",
+      "airDate": "2026-04-10T14:30:00Z",
+      "runtime": 24,
+      "rating": "3.51",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Prayers to a Fragrant Land",
+      "titles": {
+        "en": "Prayers to a Fragrant Land"
+      },
+      "overview": "Shizuku begins his search for the meaning of the vision he saw.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704333/screencap/69e0d7afdc822.jpg",
+      "airDate": "2026-04-17T14:30:00Z",
+      "runtime": 24,
+      "rating": "8.28",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Thus Spoke the Will",
+      "titles": {
+        "en": "Thus Spoke the Will"
+      },
+      "overview": "Shizuku begins his search for the first of the Twelve Apostles.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704334/screencap/69ea3495597f5.jpg",
+      "airDate": "2026-04-24T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Made by the Hand of Man",
+      "titles": {
+        "en": "Made by the Hand of Man"
+      },
+      "overview": "The first battle over the Twelve Apostles is held.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704335/screencap/69f3511355f56.jpg",
+      "airDate": "2026-05-01T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "The Strange Man From the Wine Division",
+      "titles": {
+        "en": "The Strange Man From the Wine Division"
+      },
+      "overview": "A strange man transfers to the newly-founded wine division at Taiyo beer.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704336/screencap/69fc943d59cdf.jpg",
+      "airDate": "2026-05-08T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Bring Back the Smile from That Day",
+      "titles": {
+        "en": "Bring Back the Smile from That Day"
+      },
+      "overview": "Miyabi is reunited with an old love from school who wants to buy wine from Taiyo beer's wine division.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704337/screencap/6a05b30d55733.jpg",
+      "airDate": "2026-05-15T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "The Pegasus in the Heavens",
+      "titles": {
+        "en": "The Pegasus in the Heavens"
+      },
+      "overview": "Shizuku gets help with Takasugi's challenge from Issei Tomine.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704338/screencap/6a0eef44c6df1.jpg",
+      "airDate": "2026-05-22T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "A Smile That`s Mysterious",
+      "titles": {
+        "en": "A Smile That`s Mysterious"
+      },
+      "overview": "A mystery author comes to Shizuku about a strange bottle of wine.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704339/screencap/6a1822c1e628e.jpg",
+      "airDate": "2026-05-29T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "A Smile That`s Refreshing and Healing",
+      "titles": {
+        "en": "A Smile That`s Refreshing and Healing"
+      },
+      "overview": "The identity of the one who sent the threatening letter, as well as the Second Apostle, are revealed.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704340/screencap/6a216d80e2c1d.jpg",
+      "airDate": "2026-06-05T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "In the Great Flow of Time",
+      "titles": {
+        "en": "In the Great Flow of Time"
+      },
+      "overview": "The battle for the Third Apostle begins, and a new member comes to the wine division.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704341/screencap/6a2aa7925a7fc.jpg",
+      "airDate": "2026-06-12T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "A Large Hand Met in a Nostalgic Place",
+      "titles": {
+        "en": "A Large Hand Met in a Nostalgic Place"
+      },
+      "overview": "The battle for the Third Apostle continues.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704342/screencap/6a33e5e0daa64.jpg",
+      "airDate": "2026-06-19T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "Take the Distant Path",
+      "titles": {
+        "en": "Take the Distant Path"
+      },
+      "overview": "Louran's jealous rivals plot to separate her from Tomine.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704343/screencap/6a3d0dd918208.jpg",
+      "airDate": "2026-06-26T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": "You Remind Me of My First Love",
+      "titles": {
+        "en": "You Remind Me of My First Love"
+      },
+      "overview": "Shizuku and Tomine search for their first loves to win the next Apostle battle.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704344/screencap/6a47d541c7e81.jpg",
+      "airDate": "2026-07-03T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 14,
+      "title": "The Missing Goddesses",
+      "titles": {
+        "en": "The Missing Goddesses"
+      },
+      "overview": "Shizuku and Tomine work together to get back stolen wine.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704345/screencap/6a50f00eac99e.jpg",
+      "airDate": "2026-07-10T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 15,
+      "title": "Wine, Served with Mystery",
+      "titles": {
+        "en": "Wine, Served with Mystery"
+      },
+      "overview": "Tomine and Shizuku work together to appraise an old wine collection.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704346/screencap/6a5988ed20782.jpg",
+      "airDate": "2026-07-17T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 16,
+      "title": "Beautiful Silver Goddess",
+      "titles": {
+        "en": "Beautiful Silver Goddess"
+      },
+      "overview": "Tomine and Shizuku climb the Matterhorn in search of the Fifth Apostle.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704347/screencap/6a62baff7d3d6.jpg",
+      "airDate": "2026-07-24T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 17,
+      "title": "A Voice, Strict but Gentle",
+      "titles": {
+        "en": "A Voice, Strict but Gentle"
+      },
+      "overview": "Tomine and Shizuku climb the Matterhorn.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704348/screencap/6a6bb06aabb32.jpg",
+      "airDate": "2026-07-31T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 18,
+      "title": "Embraced by the Eternal Universe",
+      "titles": {
+        "en": "Embraced by the Eternal Universe"
+      },
+      "overview": "The battle for the Sixth Apostle begins.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704349/screencap/6a75b85baebc2.jpg",
+      "airDate": "2026-08-07T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 19,
+      "title": "A Pale Moon Shines in the Distance",
+      "titles": {
+        "en": "A Pale Moon Shines in the Distance"
+      },
+      "overview": "Tomine and Shizuku conclude the battle for the Sixth Apostle.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704350/screencap/6a7de2a95f779.jpg",
+      "airDate": "2026-08-14T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 20,
+      "title": "A New Hand, Shrouded in a Veil",
+      "titles": {
+        "en": "A New Hand, Shrouded in a Veil"
+      },
+      "overview": "Shizuku heads to Australia in search of the Seventh Apostle.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704351/screencap/6a877dcae30b4.jpg",
+      "airDate": "2026-08-21T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 21,
+      "title": "Prayers and Wisdom Unending",
+      "titles": {
+        "en": "Prayers and Wisdom Unending"
+      },
+      "overview": "The identity of the Seventh Apostle is revealed.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704352/screencap/6a917aefd5bf3.jpg",
+      "airDate": "2026-08-28T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 22,
+      "title": "Gentle Fragrance of Distant Days",
+      "titles": {
+        "en": "Gentle Fragrance of Distant Days"
+      },
+      "overview": "Shizuku prepares to give up the battle for the Apostles.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704353/screencap/6a9a1c18ac586.jpg",
+      "airDate": "2026-09-04T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 23,
+      "title": "Oh, Young One",
+      "titles": {
+        "en": "Oh, Young One"
+      },
+      "overview": "Shizuku and Tomine try to sniff out counterfeit wine bottles to save a struggling winemaker.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704354/screencap/6aa354bb1684f.jpg",
+      "airDate": "2026-09-11T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "A Light on a Long Road",
+      "titles": {
+        "ja": "長久の旅路に燈る火",
+        "en": "A Light on a Long Road",
+        "x-jat": "Choukyuu no Tabiji ni Tomoru Hi"
+      },
+      "overview": "Shizuku and Tomine race across France to find the Eighth Apostle.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11704355/screencap/6aad3f2989929.jpg",
+      "airDate": "2026-09-18T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 24,
+  "updatedAt": "2026-09-23T10:33:05.767Z"
+}

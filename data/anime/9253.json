@@ -1,0 +1,576 @@
+{
+  "anilistId": 9253,
+  "malId": 9253,
+  "route": null,
+  "titles": {
+    "romaji": "Steins;Gate",
+    "english": "Steins;Gate",
+    "native": "シュタインズ・ゲート"
+  },
+  "anilist": {
+    "id": 9253,
+    "idMal": 9253,
+    "title": {
+      "romaji": "Steins;Gate",
+      "english": "Steins;Gate",
+      "native": "シュタインズ・ゲート"
+    },
+    "synonyms": [
+      "S;G",
+      "סטיינס;גייט",
+      "命运石之门",
+      "Врата;Штейна"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9253-tIUXF2gfU8Sg.jpg",
+      "color": "#ffd6ae"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n9253-JIhmKgBKsWUN.jpg",
+    "description": "Self-proclaimed mad scientist Okabe Rintarou lives in a small room in Akihabara, where he invents \"future gadgets\" with fellow lab members Shiina Mayuri, his air-headed childhood friend, and Hashida Itaru, an otaku hacker. The three pass the time by tinkering with their latest creation, a \"Phone Microwave\" that can be controlled through text messages. \n<br><br>\nThe lab members soon face a string of mysterious incidents that lead to a game-changing discovery: the Phone Microwave can send emails to the past and thus alter history. Adapted from the critically acclaimed visual novel by 5pb. and Nitroplus, Steins;Gate takes Okabe to the depths of scientific theory and human despair as he faces the dire consequences of changing the past.",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 24,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2011,
+    "startDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2011,
+      "month": 9,
+      "day": 14
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "averageScore": 89,
+    "meanScore": 89,
+    "popularity": 596370,
+    "favourites": 54126,
+    "source": "VISUAL_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "WHITE FOX"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "http://www.steinsgate.tv/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/SG_anime"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/steinsgate"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/37207"
+      }
+    ],
+    "trailer": {
+      "id": "27OZc-ku6is",
+      "site": "youtube"
+    }
+  },
+  "schedule": null,
+  "sub": {
+    "available": false,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 24,
+      "airedAt": "2011-09-14"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 24,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Turning Point",
+      "titles": {
+        "ja": "始まりと終わりのプロローグ -Turning Point-",
+        "en": "Turning Point",
+        "it": "Prologo dell`inizio e della fine",
+        "x-jat": "Hajimari to Owari no Prologue: Turning Point"
+      },
+      "overview": "Founder of an inventors group in Akihabara, the Future Gadget Lab (AKA The Lab), Okabe Rintarou, goes with another member of the group, his childhood friend Shiina Mayuri to a press conference held by Doctor Nakabachi at the Radio building. Okabe objects to the doctor's theories of time travel, but a girl appears and drags him away...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989271.jpg",
+      "airDate": "2011-04-03",
+      "runtime": 25,
+      "rating": "4.65",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "Time Travel Paranoia",
+      "titles": {
+        "ja": "時間跳躍のパラノイア -Time Travel Paranoia-",
+        "en": "Time Travel Paranoia",
+        "it": "Paranoia da spostamenti temporali",
+        "x-jat": "Jikan Chouyaku no Paranoia: Time Travel Paranoia"
+      },
+      "overview": "Makise Kurisu was stabbed by an unknown assailant during Doctor Nakabachi's lecture at the Radio Building. But Okabe sees her alive and well, giving a seminar at the ATF, like nothing had ever happened. Okabe is shocked by this incomprehensible event, but it's not the only strange thing that's happened...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989281.jpg",
+      "airDate": "2011-04-13",
+      "runtime": 25,
+      "rating": "5.67",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Parallel World Paranoia",
+      "titles": {
+        "ja": "並列過程のパラノイア -Parallel World Paranoia-",
+        "en": "Parallel World Paranoia",
+        "it": "Paranoia da realtà parallele",
+        "x-jat": "Heiretsu Katei no Paranoia: Parallel World Paranoia"
+      },
+      "overview": "Makise pays an unexpected visit to the lab, much to Okabe's dismay; however, her intrusion leads to further experimentation with the phone microwave, a device Okabe now believes to be a time machine.",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989291.jpg",
+      "airDate": "2011-04-20",
+      "runtime": 25,
+      "rating": "5.63",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Interpreter Rendezvous",
+      "titles": {
+        "ja": "空理彷徨のランデヴー -Interpreter Rendezvous-",
+        "en": "Interpreter Rendezvous",
+        "it": "Rendez-vous di collisioni di impossibili teorie erranti",
+        "x-jat": "Kuuri Houkou no Rendezvous: Interpreter Rendezvous"
+      },
+      "overview": "The lab members uncover the shocking truth about SERN's experiments, and hints of a deeper conspiracy. Okabe goes in search of the IBN5100, a retro-PC that could reveal more of the conspiracy. And Makise finds herself drawn back to the Future Gadget Lab for reasons having to do with her past...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989301.jpg",
+      "airDate": "2011-04-27",
+      "runtime": 25,
+      "rating": "5.76",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Starmine Rendezvous",
+      "titles": {
+        "ja": "電荷衝突のランデヴー -Starmine Rendezvous-",
+        "en": "Starmine Rendezvous",
+        "it": "Rendez-vous di collisioni tra cariche elettriche",
+        "x-jat": "Denka Shoutotsu no Rendezvous: Starmine Rendezvous"
+      },
+      "overview": "Kurisu and Okabe return the IBN5100 to the Future Gadget Lab, where they find Suzuha. Suzuha panics when she sees Kurisu, but why?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989311.jpg",
+      "airDate": "2011-05-04",
+      "runtime": 25,
+      "rating": "7.15",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Butterfly Effect`s Divergence",
+      "titles": {
+        "ja": "蝶翼のダイバージェンス -Butterfly Effect`s Divergence-",
+        "en": "Butterfly Effect`s Divergence",
+        "it": "Divergenza dell`effetto farfalla",
+        "x-jat": "Chouyoku no Divergence: Butterfly Effect`s Divergence"
+      },
+      "overview": "The Lab members decide to develop a time machine ahead of SERN. They discover a method of reliably sending messages to the past, which they call \"D-Mail\".",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989321.jpg",
+      "airDate": "2011-05-11",
+      "runtime": 25,
+      "rating": "5.80",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Divergence Singularity",
+      "titles": {
+        "ja": "断層のダイバージェンス -Divergence Singularity-",
+        "en": "Divergence Singularity",
+        "x-jat": "Dansou no Divergence: Divergence Singularity"
+      },
+      "overview": "The Lab experiments with a lottery ticket to see if they can change the past. They succeed, but for some reason only Okabe remembers the experiment...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989331.jpg",
+      "airDate": "2011-05-18",
+      "runtime": 25,
+      "rating": "7.55",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Chaos Theory Homeostasis - I",
+      "titles": {
+        "ja": "夢幻のホメオスタシス -Chaos Theory Homeostasis-",
+        "en": "Chaos Theory Homeostasis - I",
+        "x-jat": "Mugen no Homeostasis: Chaos Theory Homeostasis"
+      },
+      "overview": "Moeka and Ruka ask to use the time machine. Moeka wants to stop herself from buying a new cellphone, and Ruka... wants to become a girl!?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989341.jpg",
+      "airDate": "2011-05-25",
+      "runtime": 25,
+      "rating": "8.07",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Chaos Theory Homeostasis - II",
+      "titles": {
+        "ja": "幻相のホメオスタシス -Chaos Theory Homeostasis-",
+        "en": "Chaos Theory Homeostasis - II",
+        "x-jat": "Gensou no Homeostasis: Chaos Theory Homeostasis"
+      },
+      "overview": "The IBN5100 is gone, and nobody else can remember it ever being brought to the lab! Ruka says that she remembers it being brought to Yanabayashi Shrine, but can't remember when it disappeared. Okabe turns to Feyris for help, but she wants to use the D-Mail in exchange, and she won't tell anybody what she's sending...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989351.jpg",
+      "airDate": "2011-06-01",
+      "runtime": 25,
+      "rating": "8.20",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Chaos Theory Homeostasis - III",
+      "titles": {
+        "ja": "相生のホメオスタシス -Chaos Theory Homeostasis-",
+        "en": "Chaos Theory Homeostasis - III",
+        "x-jat": "Sousai no Homeostasis: Chaos Theory Homeostasis"
+      },
+      "overview": "All the anime is gone from Akihabara! The single message Feyris sent changed the entire city. Okabe wonders if he should ever use the D-Mail again. And Suzuha's getting ready to leave...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989361.jpg",
+      "airDate": "2011-06-08",
+      "runtime": 25,
+      "rating": "7.28",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Dogma in Event Horizon",
+      "titles": {
+        "ja": "時空境界のドグマ -Dogma in Event Horizon-",
+        "en": "Dogma in Event Horizon",
+        "x-jat": "Jikuu Kyoukai no Dogma: Dogma in Event Horizon"
+      },
+      "overview": "Makise invents a method for sending memories back in time, but seems strangely reluctant to go forward with it. And Okabe gets another disturbing message...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989371.jpg",
+      "airDate": "2011-06-15",
+      "runtime": 25,
+      "rating": "7.49",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Dogma in Ergosphere",
+      "titles": {
+        "ja": "静止限界のドグマ -Dogma in Ergosphere-",
+        "en": "Dogma in Ergosphere",
+        "x-jat": "Seishi Genkai no Dogma: Dogma in Ergosphere"
+      },
+      "overview": "The Time Leap Machine is complete. Makise found a way to use the LHC to compress the contents of an entire human brain down to 36 bytes. But Okabe decides not to test it, and instead to go public with it...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989391.jpg",
+      "airDate": "2011-06-22",
+      "runtime": 25,
+      "rating": "8.70",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "Metaphysics Necrosis",
+      "titles": {
+        "ja": "形而上のネクローシス -Metaphysics Necrosis-",
+        "en": "Metaphysics Necrosis",
+        "x-jat": "Keijijou no Necrosis: Metaphysics Necrosis"
+      },
+      "overview": "Everything has gone wrong. Moeka was a spy from SERN, and she's come to take the time machine. Desperate, Okabe activates it and sends himself back to two hours ago, hoping he can change the present...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989401.jpg",
+      "airDate": "2011-06-29",
+      "runtime": 25,
+      "rating": "8.50",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": "Physically Necrosis",
+      "titles": {
+        "ja": "形而下のネクローシス -Physically Necrosis-",
+        "en": "Physically Necrosis",
+        "x-jat": "Keijika no Necrosis: Physically Necrosis"
+      },
+      "overview": "Okabe keeps time leaping to try and set things right, but to no avail. In despair, he turns to Kurisu for help. With new allies and a fresh perspective, he starts to unravel the mystery.",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989411.jpg",
+      "airDate": "2011-07-06",
+      "runtime": 25,
+      "rating": "8.88",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 15,
+      "title": "Missing Link Necrosis",
+      "titles": {
+        "ja": "亡環上のネクローシス -Missing Link Necrosis-",
+        "en": "Missing Link Necrosis",
+        "x-jat": "Boukanjou no Necrosis: Missing Link Necrosis"
+      },
+      "overview": "John Titor reveals Okabe's final goal: to travel over Divergence 1% and stop the time machine from ever existing. But for that to happen, John Titor must go back in time and find the IBN5100. And the time machine is broken...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989421.jpg",
+      "airDate": "2011-07-13",
+      "runtime": 25,
+      "rating": "6.95",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 16,
+      "title": "Sacrificial Necrosis",
+      "titles": {
+        "ja": "不可逆のネクローシス -Sacrificial Necrosis-",
+        "en": "Sacrificial Necrosis",
+        "x-jat": "Fukagyaku no Necrosis: Sacrificial Necrosis"
+      },
+      "overview": "Okabe gets a call: Titor's father has been found. They are reunited, and the time machine repair is finished. Titor promises to get them the IBN5100, and tells them it will be delivered to them in the present. When they get back, there's a knock at the door...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989431.jpg",
+      "airDate": "2011-07-20",
+      "runtime": 25,
+      "rating": "9.21",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 17,
+      "title": "Made in Complex",
+      "titles": {
+        "ja": "虚像歪曲のコンプレックス -Made in Complex-",
+        "en": "Made in Complex",
+        "x-jat": "Kyozou Waikyoku no Complex: Made in Complex"
+      },
+      "overview": "Okabe realizes that to save the world from SERN, he needs to undo the effects of the D-Mails that have been sent so far. The first on the list is Feyris. But what message did she send? And why won't she tell him?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989441.jpg",
+      "airDate": "2011-07-27",
+      "runtime": 25,
+      "rating": "7.77",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 18,
+      "title": "Fractal Androgynous",
+      "titles": {
+        "ja": "自己相似のアンドロギュノス -Fractal Androgynous-",
+        "en": "Fractal Androgynous",
+        "x-jat": "Jiko Souji no Androgynous: Fractal Androgynous"
+      },
+      "overview": "Okarin has to convince Ruka to reverse her D-mail, but she refuses to believe that she was once a man. If she was a man, how could she get Okarin to love her?",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989451.jpg",
+      "airDate": "2011-08-03",
+      "runtime": 25,
+      "rating": "6.69",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 19,
+      "title": "Endless Apoptosis",
+      "titles": {
+        "ja": "無限連鎖のアポトーシス -Endless Apoptosis-",
+        "en": "Endless Apoptosis",
+        "x-jat": "Mugen Rensa no Apoptosis: Endless Apoptosis"
+      },
+      "overview": "The last D-Mail Okabe has to undo is Moeka's. He knows the what she sent and he has a plan to undo it, now all that's left is to track her down. But when he finds her apartment, it's covered in police tape...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989461.jpg",
+      "airDate": "2011-08-10",
+      "runtime": 25,
+      "rating": "7.93",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 20,
+      "title": "Finalize Apoptosis",
+      "titles": {
+        "ja": "怨嗟断絶のアポトーシス -Finalize Apoptosis-",
+        "en": "Finalize Apoptosis",
+        "x-jat": "Ensa Danzetsu no Apoptosis: Finalize Apoptosis"
+      },
+      "overview": "To undo the last D-Mail, Okabe needs to send a message to Moeka from FB's cellphone. He follows the IBN5100 to find FB, but on the way he sees a familiar face...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989471.jpg",
+      "airDate": "2011-08-17",
+      "runtime": 25,
+      "rating": "8.80",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 21,
+      "title": "Paradox Meltdown",
+      "titles": {
+        "ja": "因果律のメルト -Paradox Meltdown-",
+        "en": "Paradox Meltdown",
+        "x-jat": "Ingaritsu no Melt: Paradox Meltdown"
+      },
+      "overview": "All the D-Mails have been undone, and everything is ready to go. But there's a price to be paid that Okabe hasn't considered...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989481.jpg",
+      "airDate": "2011-08-24",
+      "runtime": 25,
+      "rating": "7.73",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 22,
+      "title": "Being Meltdown",
+      "titles": {
+        "ja": "存在了解のメルト -Being Meltdown-",
+        "en": "Being Meltdown",
+        "x-jat": "Sonzai Ryoukai no Melt: Being Meltdown"
+      },
+      "overview": "It's time to decide: should the lab undo the last D-Mail? The consequences are bad either way, but Okabe is forced to decide. He meets with Kurisu to talk things over, but things take an unexpected turn...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989491.jpg",
+      "airDate": "2011-08-31",
+      "runtime": 25,
+      "rating": "9.71",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": "Open the Steins Gate",
+      "titles": {
+        "ja": "境界面上のシュタインズゲート -Open the Steins Gate-",
+        "en": "Open the Steins Gate",
+        "x-jat": "Kyoukaimenjou no Steins Gate: Open the Steins Gate"
+      },
+      "overview": "Okabe gets an unexpected phone call, asking him to come to the radio building. There he meets somebody he thought he'd never see again, who offers him a chance to do something he thought was impossible...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989501.jpg",
+      "airDate": "2011-09-07",
+      "runtime": 25,
+      "rating": "8.91",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "Achievement Point",
+      "titles": {
+        "ja": "終わりと始まりのプロローグ -Achievement Point-",
+        "en": "Achievement Point",
+        "x-jat": "Owari to Hajimari no Prologue: Achievement Point"
+      },
+      "overview": "Okabe has one last chance to stop World War 3. But in order to prevent a time paradox, he has to change the outcome of the past, without changing what actually happened...",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/3989511.jpg",
+      "airDate": "2011-09-14",
+      "runtime": 25,
+      "rating": "9.18",
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Egoistic Poriomania",
+      "titles": {
+        "ja": "横行跋扈のポリオマニア",
+        "en": "Egoistic Poriomania",
+        "x-jat": "Oukoubakko no Poriomania"
+      },
+      "overview": "The story is set a few months after the last scene of the television series. On a calm day in Akihabara, Okabe and the other laboratory members are invited by Faris go to America. Mayuri and the rest are planning to reunite with Kurisu, who had come back to an American laboratory. A few days later, Okabe&#39;s mad scientist persona Hououin Kyouma arrives alone at the airport in Los Angeles, where he may be taking the first step to leading the world into chaos.",
+      "image": "https://artworks.thetvdb.com/banners/episodes/244061/4122943.jpg",
+      "airDate": "2012-02-22",
+      "runtime": 25,
+      "rating": "8.13",
+      "absoluteEpisodeNumber": 25,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Open the Missing Link",
+      "titles": {
+        "ja": "境界面上のミッシングリンク -Divide By Zero-",
+        "en": "Open the Missing Link",
+        "x-jat": "Kyoukaimenjou no Missing Link: Divide by Zero"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2015-12-03",
+      "runtime": 25,
+      "rating": "5.76",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S3",
+      "title": "Akihabara Map",
+      "titles": {
+        "en": "Akihabara Map"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2012-09-25",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 24,
+  "updatedAt": "2026-09-23T08:50:20.481Z"
+}

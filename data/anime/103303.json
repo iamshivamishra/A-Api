@@ -1,0 +1,425 @@
+{
+  "anilistId": 103303,
+  "malId": 62856,
+  "route": "nijuuseiki-denki-mokuroku",
+  "titles": {
+    "romaji": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+    "english": "Sparks of Tomorrow",
+    "native": "二十世紀電氣目録-ユーレカ・エヴリカ-"
+  },
+  "anilist": {
+    "id": 103303,
+    "idMal": 62856,
+    "title": {
+      "romaji": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+      "english": "Sparks of Tomorrow",
+      "native": "二十世紀電氣目録-ユーレカ・エヴリカ-"
+    },
+    "synonyms": [
+      "20th Century Electricity Catalogue",
+      "Twentieth Century Electrical Records",
+      "A Luz do Futuro",
+      "Destellos del mañana",
+      "Étincelles de Demain",
+      "ประกายฝัน วันพรุ่งนี้",
+      "Záblesky zítřka"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103303-IF43hFJPPv2Y.png",
+      "color": "#fec950"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
+    "description": "The novel takes place in the summer of 1907, the 40th year of the Meiji era. 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods, and boasts of the incoming age of electricity. <br><br>\n\nThe topic of marriage suddenly comes up in Inako's household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the \"Electricity Catalog.\" The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.<br><br>\n\n(Source: Anime News Network)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 13,
+    "duration": 25,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+    },
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Romance"
+    ],
+    "averageScore": 76,
+    "meanScore": 76,
+    "popularity": 58169,
+    "favourites": 747,
+    "source": "OTHER",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 13,
+      "airingAt": 1790517600,
+      "timeUntilAiring": 364227
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Kyoto Animation"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "http://www.kyotoanimation.co.jp/books/20thdenmoku/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/denkimokuroku"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://denkimokuroku.jp/"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://denkimokuroku.jp/en/"
+      },
+      {
+        "site": "Instagram",
+        "url": "https://www.instagram.com/denkimokuroku"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@denkimokuroku_"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://www.threads.com/@denkimokuroku"
+      },
+      {
+        "site": "Bluesky",
+        "url": "https://bsky.app/profile/sparks-of-tmr.bsky.social"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/Sparks_of_Tmr"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/81698957"
+      }
+    ],
+    "trailer": {
+      "id": "-W2vs2etG9o",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Drama",
+      "Historical",
+      "Romance"
+    ],
+    "studios": [
+      "Kyoto Animation"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "In an alternate version of the early 20th century where technological progress evolved along a different path shaped by steam power, Kyoto is blanketed in constant smoke.<br><br>A boy, hardened by the loss of his brother, grows distrustful after their shared dream of an &#34;Age of Electricity&#34; is cut short. A deeply devout girl hides her dreams and regrets for her deceased mother deep within her heart. When the two cross paths, they set about exploring the secrets of the 20th Century Electrical Catalog, a glimpse into the future they long for.<br><br>Together, they must confront their pasts and carve a path toward the future they once believed in.<br><br>(Source: Press Release)",
+    "streams": [
+      {
+        "platform": "netflix",
+        "url": "www.netflix.com/title/81698957",
+        "name": "Netflix"
+      }
+    ],
+    "subTime": "2026-06-29T14:01:00Z",
+    "dubTime": "2026-06-29T14:01:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-20T14:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 13,
+      "at": "2026-09-27T14:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 14:01 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-20T14:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 13,
+      "at": "2026-09-27T14:01:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 14:01 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Electric Boy",
+      "titles": {
+        "ja": "電氣少年",
+        "en": "The Electric Boy",
+        "de": "Der Junge und die Elektrizität",
+        "x-jat": "Denki Shounen"
+      },
+      "overview": "Early 20th-century Kyoto. Kihachi witnesses the wonders of electricity with Seiroku. Four years later, alone and cynical, he meets a girl deep in prayer.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/8586178/screencap/6a3cf4d915378.jpg",
+      "airDate": "2026-07-05T14:00:00Z",
+      "runtime": 24,
+      "rating": "6.92",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "The Mysteries of the Catalog",
+      "titles": {
+        "ja": "目録の謎",
+        "en": "The Mysteries of the Catalog",
+        "de": "Das Geheimnis des Katalogs",
+        "x-jat": "Mokuroku no Nazo"
+      },
+      "overview": "In a haze of incense, Yosuke storms into Kihachi's workshop and demands the Catalog — and his fiancée. But why does Inako have it in the first place?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873118/screencap/6a4e1919b6a92.jpg",
+      "airDate": "2026-07-12T14:00:00Z",
+      "runtime": 24,
+      "rating": "5.60",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Their Dream",
+      "titles": {
+        "ja": "二人の夢",
+        "en": "Their Dream",
+        "de": "Ein gemeinsamer Traum",
+        "x-jat": "Futari no Yume"
+      },
+      "overview": "Full of denial, Yosuke clashes with Kihachi. Later, Inako's sharp senses reveal a secret and her belief inspires Kihachi to recreate an invention.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11873119/screencap/6a576132b55a4.jpg",
+      "airDate": "2026-07-19T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.55",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "The Steadfast Girl",
+      "titles": {
+        "ja": "信心の娘",
+        "en": "The Steadfast Girl",
+        "x-jat": "Shinjin no Musume"
+      },
+      "overview": "Inako meets a grieving shop owner whose loss echoes her own. Fully believing in Kihachi's skills, she asks him to build an electric machine to help.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886644/screencap/6a60a78275294.jpg",
+      "airDate": "2026-07-26T14:00:00Z",
+      "runtime": 24,
+      "rating": "5.56",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Proof of Love",
+      "titles": {
+        "ja": "愛の証明",
+        "en": "Proof of Love",
+        "x-jat": "Ai no Shoumei"
+      },
+      "overview": "Kihachi's latest experiment catches the eye of a strange university graduate, who's convinced that it can help him prove his passion to his crush.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886645/screencap/6a6a0300816eb.jpg",
+      "airDate": "2026-08-02T14:00:00Z",
+      "runtime": 24,
+      "rating": "3.30",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "The Sound of Innovation",
+      "titles": {
+        "ja": "革新の音",
+        "en": "The Sound of Innovation",
+        "x-jat": "Kakushin no Oto"
+      },
+      "overview": "Yosuke challenges Kihachi and the gang to a music battle. With only Inako having musical experience, can they master electric instruments in a week?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886646/screencap/6a72fcef0dd9c.jpg",
+      "airDate": "2026-08-09T14:00:00Z",
+      "runtime": 24,
+      "rating": "6.18",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Elopement",
+      "titles": {
+        "ja": "駆け落ち",
+        "en": "Elopement",
+        "x-jat": "Kakeochi"
+      },
+      "overview": "On the day of Inako's engagement ceremony, Kihachi urges her to chase her dreams and helps her escape. Guided by Stuart's letter, they head for Shiga.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11886647/screencap/6a807e32caa1c.jpg",
+      "airDate": "2026-08-16T14:00:00Z",
+      "runtime": 24,
+      "rating": "3.31",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "His Brother`s Footsteps",
+      "titles": {
+        "ja": "兄の足跡",
+        "en": "His Brother`s Footsteps",
+        "x-jat": "Ani no Sokuseki"
+      },
+      "overview": "Before Kihachi can figure out how to fix the electric key, Kengo breaks down and confesses the secret he's been carrying for the past three years.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908162/screencap/6a857a4f0f541.jpg",
+      "airDate": "2026-08-23T14:00:00Z",
+      "runtime": 24,
+      "rating": "4.33",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Time to Part",
+      "titles": {
+        "ja": "別れの時",
+        "en": "Time to Part",
+        "x-jat": "Wakare no Toki"
+      },
+      "overview": "Kihachi makes a shocking decision to protect Inako, but she takes matters into her own hands. Yosuke reminisces about his first meeting with Seiroku.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908163/screencap/6a8eb175467a7.jpg",
+      "airDate": "2026-08-30T14:00:00Z",
+      "runtime": 24,
+      "rating": "2.49",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Engagement Trouble",
+      "titles": {
+        "ja": "求婚騒動",
+        "en": "Engagement Trouble",
+        "x-jat": "Kyuukon Soudou"
+      },
+      "overview": "Yosuke makes a critical discovery. After Inako and Kihachi clear up their misunderstanding, they help Kengo reconcile with Noriko using a shocking plan.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908164/screencap/6a97ec880efa9.jpg",
+      "airDate": "2026-09-06T14:00:00Z",
+      "runtime": 24,
+      "rating": "3.31",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "The Enticing Circuit",
+      "titles": {
+        "ja": "誘う回路",
+        "en": "The Enticing Circuit",
+        "x-jat": "Izanau Kairo"
+      },
+      "overview": "After Inako and Saki sneak into Yosuke's office to find clues about the Electric Brocade, Kihachi vanishes. Inako realizes that her father holds the key.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908165/screencap/6aa125eb66c41.jpg",
+      "airDate": "2026-09-13T14:00:00Z",
+      "runtime": 24,
+      "rating": "2.07",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "Electric Brain",
+      "titles": {
+        "ja": "電氣頭脳",
+        "en": "Electric Brain",
+        "x-jat": "Denki Zunou"
+      },
+      "overview": "Inako and Kihachi throw themselves into pursuing their dreams. Determined to fulfill Seiroku's vision, Yosuke ropes Kihachi into a colossal project.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908166/screencap/6aaa61c159a98.jpg",
+      "airDate": "2026-09-20T14:00:00Z",
+      "runtime": 24,
+      "rating": "1.32",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11908167/screencap/6ab0f7fa3e3c2.jpg",
+      "airDate": "2026-09-27T14:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Pre-Broadcast Special",
+      "titles": {
+        "ja": "放送直前生配信",
+        "en": "Pre-Broadcast Special",
+        "x-jat": "Housou Chokuzen Namahaishin"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-05",
+      "runtime": 60,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 13,
+  "updatedAt": "2026-09-23T10:33:05.715Z"
+}

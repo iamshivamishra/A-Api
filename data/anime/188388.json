@@ -1,0 +1,1036 @@
+{
+  "anilistId": 188388,
+  "malId": 61269,
+  "route": "digimon-beatbreak",
+  "titles": {
+    "romaji": "DIGIMON BEATBREAK",
+    "english": "DIGIMON BEATBREAK",
+    "native": "DIGIMON BEATBREAK"
+  },
+  "anilist": {
+    "id": 188388,
+    "idMal": 61269,
+    "title": {
+      "romaji": "DIGIMON BEATBREAK",
+      "english": "DIGIMON BEATBREAK",
+      "native": "DIGIMON BEATBREAK"
+    },
+    "synonyms": [
+      "デジモンビートブレイク",
+      "ดิจิมอน บีตเบรก",
+      "디지몬 비트브레이크"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188388-aXx9fsnvezBf.jpg",
+      "color": "#fec928"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
+    "description": "<i>GLITCH THE FUTURE.</i><br><br>\n\nTomoro Tenma lives in a world where human thoughts and emotions—known as “e-Pulse”—power AI devices called Sapotama. But when Digimon begin materializing from Sapotama and feeding on e-Pulse, society begins to fracture. After Gekkomon appears from his device, Tomoro joins Glowing Dawn, a secret team investigating rogue Digimon and the dark truth of a system both fueled and corrupted by emotion. What new future will be forged by humans and Digimon? <br><br>\n\n(Source: Crunchyroll, DIGIMON BEATBREAK Official Site, edited)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 49,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "averageScore": 69,
+    "meanScore": 70,
+    "popularity": 14859,
+    "favourites": 283,
+    "source": "ORIGINAL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 49,
+      "airingAt": 1790467200,
+      "timeUntilAiring": 313827
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Toei Animation"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://www.toei-anim.co.jp/tv/digimon_beatbreak/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/digimon_tv"
+      },
+      {
+        "site": "Hulu",
+        "url": "https://www.hulu.com/series/4c47f9ab-f6b8-45ec-8fb9-fbd5ed1a5529"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00364378/digimon-beatbreak"
+      }
+    ],
+    "trailer": {
+      "id": "naNctHU5MQE",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Fall 2025",
+      "year": "2025",
+      "season": "Fall",
+      "route": "fall-2025"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "studios": [
+      "Toei Animation"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "<span class=\"italics\">GLITCH THE FUTURE.</span><br><br>Tomoro Tenma lives in a world where human thoughts and emotions—known as “e-Pulse”—power AI devices called Sapotama. But when Digimon begin materializing from Sapotama and feeding on e-Pulse, society begins to fracture. After Gekkomon appears from his device, Tomoro joins Glowing Dawn, a secret team investigating rogue Digimon and the dark truth of a system both fueled and corrupted by emotion. What new future will be forged by humans and Digimon?<br><br>(Source: Crunchyroll, DIGIMON BEATBREAK Official Site, edited)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/46H4d4p",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00364378/digimon-beatbreak",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4yZYO4l",
+        "name": "Amazon"
+      },
+      {
+        "platform": "hulu",
+        "url": "www.hulu.com/series/4c47f9ab-f6b8-45ec-8fb9-fbd5ed1a5529",
+        "name": "Hulu"
+      }
+    ],
+    "subTime": "2026-08-10T03:00:00Z",
+    "dubTime": "2026-08-10T03:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 49,
+    "latestEpisode": {
+      "number": 48,
+      "airedAt": "2026-09-20T00:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 49,
+      "at": "2026-09-27T00:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 03:00 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 49,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Monday 03:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Beat of Emotions",
+      "titles": {
+        "ja": "感情の鼓動",
+        "en": "The Beat of Emotions",
+        "x-jat": "Kanjou no Kodou"
+      },
+      "overview": "An ideal society managed by Sapotamas. Underneath, terrifying creatures called Digimon appear. After a classmate is attacked, Tomoro Tenma's emotions explode. Suddenly his Sapotama shines and Gekkomon is born.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11037631/screencap/68e13ad334bf6.jpg",
+      "airDate": "2025-10-05T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "Glowing Dawn",
+      "titles": {
+        "ja": "グローイングドーン",
+        "en": "Glowing Dawn",
+        "x-jat": "Glowing Dawn"
+      },
+      "overview": "Gekkomon is awakened by Tomoro's anger and overwhelms his enemy. Just then, a mysterious Digimon steals their Sapotama. With his brother lost, Tomoro shuts down emotionally, until he is shocked by what the leader of the \"Glowing Dawn\" has to say.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11376603/screencap/68eba24d2e96a.jpg",
+      "airDate": "2025-10-12T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Facing Mirrors",
+      "titles": {
+        "ja": "合わせ鏡",
+        "en": "Facing Mirrors",
+        "x-jat": "Awasekagami"
+      },
+      "overview": "Upon learning that the bounty intel is wrong, Tomoro and Gekkomon follow the scent of his own e-Pulse. There they find the Mirror World, a virtual space inside the net. Inside the Sapotama that glows within Hyemon…",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11376604/screencap/68f4e2d814baf.jpg",
+      "airDate": "2025-10-19T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Family",
+      "titles": {
+        "ja": "ファミリー",
+        "en": "Family",
+        "x-jat": "Family"
+      },
+      "overview": "Reina is in high spirits after being handed leadership for the next job by Kyo. But, because of Tomoro's mistake, the Machmon bounty escapes. Rookie member Tomoro can't understand Reina's obsession with the Glowing Dawn being a family.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11376605/screencap/68fd39b35b137.jpg",
+      "airDate": "2025-10-26T00:00:00Z",
+      "runtime": 24,
+      "rating": "7.15",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Half and Half",
+      "titles": {
+        "ja": "五分と五分",
+        "en": "Half and Half",
+        "x-jat": "Gobu to Gobu"
+      },
+      "overview": "Tomoro wanders into an old shopping district where he witnesses the Panda-gumi protecting the town from thugs. Their leader Sasatake and Pandamon have a bond of father and child. Meanwhile, Yuukari of the Koala-kai prepares to evict the residents.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11407132/screencap/69074a2987796.jpg",
+      "airDate": "2025-11-02T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The Bond of Parent and Child",
+      "titles": {
+        "ja": "親子の盃",
+        "en": "The Bond of Parent and Child",
+        "x-jat": "Oyako no Sakazuki"
+      },
+      "overview": "Pandamon is furious that Yuukari has hurt the boss but is conflicted between their feelings and teachings about chivalry. Tomoro wants to challenge Astamon in battle. Meanwhile, Kyo investigates the identity of the mastermind.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11407133/screencap/69109800a2f05.jpg",
+      "airDate": "2025-11-09T00:00:00Z",
+      "runtime": 24,
+      "rating": "1.34",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Nirinso",
+      "titles": {
+        "ja": "ニリンソウ",
+        "en": "Nirinso",
+        "x-jat": "Nirinsou"
+      },
+      "overview": "Tomoro and the others find hikers who’ve nearly fallen victim to Cold Heart. They are saved by an exhausted Kyo and Murasamemon. Deep in the mountain is an old observatory that holds Kyo’s secret.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11433090/screencap/691ba1f345391.jpg",
+      "airDate": "2025-11-16T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "The Vanishing Classroom",
+      "titles": {
+        "ja": "消エル教室",
+        "en": "The Vanishing Classroom",
+        "x-jat": "Kieru Kyoushitsu"
+      },
+      "overview": "Hitomi takes Tomoro to school to investigate a series of student disappearances. Only the top students are going missing. Gekkomon struggles to rescue Tomoro when he’s trapped inside Mimicmon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11433091/screencap/6923041d47f4c.jpg",
+      "airDate": "2025-11-23T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Utopia",
+      "titles": {
+        "ja": "理想郷",
+        "en": "Utopia",
+        "x-jat": "Risoukyou"
+      },
+      "overview": "Going after a bounty, the Glowing Dawn infiltrate Shangri-La Egg, a utopia created after a massive disaster. There, other Cleaners who are also after Goldnumemon appear in front of Tomoro and the others…",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11433092/screencap/692ad82378ec4.jpg",
+      "airDate": "2025-11-30T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "A True Friend",
+      "titles": {
+        "ja": "本当の友達",
+        "en": "A True Friend",
+        "x-jat": "Hontou no Tomodachi"
+      },
+      "overview": "Chiropmon is taken from Makoto by Haruko, who sees Digimon as toys. Kyo tries to interrupt the buyer’s transaction, while Makoto feels troubled because his own weakness caused Chiropmon to suffer.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11433093/screencap/6935c10595fb4.jpg",
+      "airDate": "2025-12-07T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "A Black Emotion",
+      "titles": {
+        "ja": "黒い感情",
+        "en": "A Black Emotion",
+        "x-jat": "Kuroi Kanjou"
+      },
+      "overview": "While out buying a birthday present for Asuka, Tomoro gets into a fight with Gekkomon over picking a scarf. Separated from Tomoro, the sulking Gekkomon encounters a Digimon who emits poisonous gas.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11433094/screencap/693ead653c12c.jpg",
+      "airDate": "2025-12-14T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "A New Family",
+      "titles": {
+        "ja": "新しい家族",
+        "en": "A New Family",
+        "x-jat": "Atarashii Kazoku"
+      },
+      "overview": "Tomoro regrets that Kyo and Gekkomon got hurt because of him and faces his job as a Cleaner once more. Meanwhile, a Digimon with an abnormal e-Pulse heads towards the Glowing Dawn's headquarters.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11433095/screencap/694773decf473.jpg",
+      "airDate": "2025-12-21T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": "Five Star Meeting",
+      "titles": {
+        "ja": "五行星会議",
+        "en": "Five Star Meeting",
+        "x-jat": "Go Gyousei Kaigi"
+      },
+      "overview": "The Five Stars, who stand at the top of the Cleaner world, gather for a meeting. The topic is the increase in Cold Heart incidents and emerging disaster-class Digimon. Meanwhile, Tomoro and the others encounter a strange trio at a crime site.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517387/screencap/695a4e7bc0953.jpg",
+      "airDate": "2026-01-04T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 14,
+      "title": "Tactics",
+      "titles": {
+        "ja": "タクティクス",
+        "en": "Tactics",
+        "x-jat": "Tactics"
+      },
+      "overview": "The Tactics are Cleaner teams that undergo rigorous training to perfect e-Pulse control. The Glowing Dawn members face off against them over a bounty, but Tomoro can't accept their methods.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517390/screencap/69634bb45e2a9.jpg",
+      "airDate": "2026-01-11T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 15,
+      "title": "Little Courage",
+      "titles": {
+        "ja": "小さな勇気",
+        "en": "Little Courage",
+        "x-jat": "Chiisana Yuuki"
+      },
+      "overview": "The Kinoko Gang, holding a grudge, sneak into Nirinso while Kyo is away, aiming to destroy the Glowing Dawn. Redvegimon paralyzes Gekkomon and the others, while the In-Training Digimon can only watch…",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517391/screencap/696cc46d00aaf.jpg",
+      "airDate": "2026-01-18T00:00:00Z",
+      "runtime": 24,
+      "rating": "7.15",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 16,
+      "title": "Where I Belong",
+      "titles": {
+        "ja": "僕の居場所",
+        "en": "Where I Belong",
+        "x-jat": "Boku no Ibasho"
+      },
+      "overview": "Granit’s interference causes Reina to let her target escape, and they are both taken to a cold, snowy mountain by Moosemon. While they look for clues to go back, Granit recalls the birth of Ludomon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517392/screencap/6975965909179.jpg",
+      "airDate": "2026-01-25T00:00:00Z",
+      "runtime": 24,
+      "rating": "7.15",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 17,
+      "title": "Antipathy",
+      "titles": {
+        "ja": "アンチパシー",
+        "en": "Antipathy",
+        "x-jat": "Antipathy"
+      },
+      "overview": "While pursuing a Koemon, the Glowing Dawn encounter the Tactics. Hotaruko's siblings mistake Makoto for her coworker and invite them for okonomiyaki. Hotaruko becomes hostile towards them, but there's an issue of food theft in town…",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517393/screencap/697f4b195fb77.jpg",
+      "airDate": "2026-02-01T00:00:00Z",
+      "runtime": 24,
+      "rating": "7.15",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 18,
+      "title": "The Price of Freedom",
+      "titles": {
+        "ja": "自由の代償",
+        "en": "The Price of Freedom",
+        "x-jat": "Jiyuu no Daishou"
+      },
+      "overview": "Tomoro and the others treat a man who collapsed outside their headquarters to stew, but then the Tactics demand they hand him over. While they try to stop the Tactics, Commandramon is taken away. The man shares his dark past.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517394/screencap/6988724858c68.jpg",
+      "airDate": "2026-02-08T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 19,
+      "title": "Black Market Auction",
+      "titles": {
+        "ja": "闇オークション",
+        "en": "Black Market Auction",
+        "x-jat": "Yami Auction"
+      },
+      "overview": "Tomoro and the others infiltrate an illegal Digimon auction held by Five Star member Klay Arslan. While investigating the venue which is being guarded by Tactics, they find a girl and her Tinkermon locked in a cage.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517395/screencap/6991ac6d0d0a6.jpg",
+      "airDate": "2026-02-15T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 20,
+      "title": "Proof of Genius",
+      "titles": {
+        "ja": "天才の証明",
+        "en": "Proof of Genius",
+        "x-jat": "Tensai no Shoumei"
+      },
+      "overview": "Tomoro gets kidnapped by a monkey Digimon and wakes up in an arena inside the Mirror World, where Digimon Owners are forced to fight. After Tomoro wins his first match, his next opponent appears to be Raito.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517396/screencap/699afd4aea404.jpg",
+      "airDate": "2026-02-22T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 21,
+      "title": "The One Beside You",
+      "titles": {
+        "ja": "そばにいるもの",
+        "en": "The One Beside You",
+        "x-jat": "Soba ni Iru Mono"
+      },
+      "overview": "The members of Glowing Dawn rush to Tomoro’s aid. Tomoro descends beneath the colosseum to rescue Raito who was taken away. Naito and his team intercept Kyo, but Reina suddenly notices something wrong with Granit…",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517397/screencap/69a42bfb5c6c1.jpg",
+      "airDate": "2026-03-01T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 22,
+      "title": "Defiance",
+      "titles": {
+        "ja": "反抗心",
+        "en": "Defiance",
+        "x-jat": "Hankoushi"
+      },
+      "overview": "Naito relentlessly pursues Kyo in order to fulfill Clay's wish. Meanwhile, Hotaruko is tormented by the order to eliminate the traitor. At that moment, Honoka of the Abyss, the Water Star and one of the Five Elements Stars, appears and declares that she has come to hunt Tactics.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517398/screencap/69b6baf2a7573.jpg",
+      "airDate": "2026-03-15T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 23,
+      "title": "The Power to Take",
+      "titles": {
+        "ja": "奪うための力",
+        "en": "The Power to Take",
+        "x-jat": "Ubau Tame no Chikara"
+      },
+      "overview": "Tomorow and his friends head to the Coliseum to rescue those who have been frozen. Meanwhile, Kray is steadily making preparations to fulfill his own ambitions. Kyo and Murasamemon confront Proganomon, who is enveloped in a mysterious light...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517399/screencap/69bfdb88b65be.jpg",
+      "airDate": "2026-03-22T00:00:00Z",
+      "runtime": 24,
+      "rating": "2.44",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 24,
+      "title": "Overlapping Beats",
+      "titles": {
+        "ja": "重なる鼓動",
+        "en": "Overlapping Beats",
+        "x-jat": "Kasanaru Kodou"
+      },
+      "overview": "To save Kyo, Tomorou fights Clay. Helpless against Clay's overwhelming power, his family is injured. Consumed by rage, Tomorou goes berserk, when the genius he once defeated appears before him.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11517400/screencap/69c6cf2b500ad.jpg",
+      "airDate": "2026-03-29T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 25,
+      "title": "Half-Baked Hero",
+      "titles": {
+        "ja": "半人前のヒーロー",
+        "en": "Half-Baked Hero",
+        "x-jat": "Hanninmae no Hero"
+      },
+      "overview": "On their way back to their hideout, Tomorou and his friends spend a brief vacation on a luxury cruise ship and encounter Handa, a popular showman, and Starmon. To Makoto and Kiropmon, he is the legendary Cleaner. Starmon takes on pirates who attack the luxury cruise ship, but...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701182/screencap/69cfa5c4ebea0.jpg",
+      "airDate": "2026-04-05T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 26,
+      "title": "The Taste of Guilt",
+      "titles": {
+        "ja": "罪の味",
+        "en": "The Taste of Guilt",
+        "x-jat": "Tsumi no Aji"
+      },
+      "overview": "Haruomi was found collapsed in front of a Nirinsou flower. He was rescued by Kyo and reunited with Commandramon, but also encountered a weakened Elizamon. The two, vying for Haruomi's partner, are set up to settle their rivalry with a cooking battle, as suggested by Geckomon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701183/screencap/69da54bfc6b6a.jpg",
+      "airDate": "2026-04-12T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 26,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 27,
+      "title": "Wandering Love",
+      "titles": {
+        "ja": "さまよえる愛",
+        "en": "Wandering Love",
+        "x-jat": "Samayoeru Ai"
+      },
+      "overview": "Hitomi is reunited with Tomorou after a long time, but something seems off. A strange bandage wrapped around Hitomi causes Tomorou and the others to start showing affection towards the Digimon. Geckomon and the others run away and beg Maki for help...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701184/screencap/69e3e5e239f12.jpg",
+      "airDate": "2026-04-19T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 27,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 28,
+      "title": "Gift",
+      "titles": {
+        "ja": "GIFT",
+        "en": "Gift",
+        "x-jat": "Gift"
+      },
+      "overview": "Tomorou visits Asuka in the hospital and encounters a mysterious girl. Meanwhile, Growing Dawn also heads to the hospital to catch a serial killer. There, he encounters a supporter who is obsessed with Digimon and a Digimon with an abnormal obsession with deliveries.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701185/screencap/69ed9f699276b.jpg",
+      "airDate": "2026-04-26T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 28,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 29,
+      "title": "Dangerous Fandom",
+      "titles": {
+        "ja": "危険な推し活",
+        "en": "Dangerous Fandom",
+        "x-jat": "Kiken na Oshikatsu"
+      },
+      "overview": "In order to investigate the Digimon incident, Rena infiltrates a fan meeting for young actor Urato. There, she encounters Rose, a beauty evangelist and one of the Five Elements Stars. Rena is bewildered by the unfamiliar surroundings, but then Urato approaches her, revealing his true identity...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701186/screencap/69f505f348df6.jpg",
+      "airDate": "2026-05-03T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 29,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 30,
+      "title": "Wings to Protect You",
+      "titles": {
+        "ja": "君を守る翼",
+        "en": "Wings to Protect You",
+        "x-jat": "Kimi o Mamoru Tsubasa"
+      },
+      "overview": "Growing Dawn visits Shangri-La Egg again at the request of the president of Kuonji Industries. Makoto and Kiropmon's expressions are clouded as they listen to the testimony of Tsukasa, the twin brother who is hospitalized. As they continue their investigation, the true motive of the culprit becomes clear.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11701187/screencap/69ffa6a4dfdbc.jpg",
+      "airDate": "2026-05-10T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 30,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 31,
+      "title": "One Step Forward",
+      "titles": {
+        "ja": "踏み出す一歩",
+        "en": "One Step Forward",
+        "x-jat": "Fumidasu Ippo"
+      },
+      "overview": "Tomorou encounters a reclusive girl on the beach who is accompanied by a Digimon. Maki explains to Tomorou and his friends that there is an urgent matter: a very dangerous Digimon has appeared in the bay area. At that moment, two Cleaners appear and approach the girl.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11786066/screencap/6a08a2e16c0ca.jpg",
+      "airDate": "2026-05-17T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 31,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 32,
+      "title": "Cold Rain",
+      "titles": {
+        "ja": "冷たい雨",
+        "en": "Cold Rain",
+        "x-jat": "Tsumetai Ame"
+      },
+      "overview": "Following the GIFT incident, informants were being killed one after another. Tomorou and his friends, along with their next target Maki, flee the Garando. Maki had a plan to settle the score with the opposing Digimon...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11786067/screencap/6a109640b6eaa.jpg",
+      "airDate": "2026-05-24T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 32,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 33,
+      "title": "Midsummer Ghost",
+      "titles": {
+        "ja": "真夏の亡霊",
+        "en": "Midsummer Ghost",
+        "x-jat": "Manatsu no Bourei"
+      },
+      "overview": "Tomorou and his friends visit a beach house run by Hotaruko. While enjoying the local specialty, grilled mantis shrimp, they discover Light and Monodramon lying unconscious at the water's edge. Light leaves indifferently, but a dark shadow watches them.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11786068/screencap/6a1ae376bdf5b.jpg",
+      "airDate": "2026-05-31T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 33,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 34,
+      "title": "Behind the Mask",
+      "titles": {
+        "ja": "仮面の奥",
+        "en": "Behind the Mask",
+        "x-jat": "Kamen no Oku"
+      },
+      "overview": "Tomorou devises a plan and catches the serial kidnapper. The next day, while he is on the hospital rooftop with Asuka, Miharu appears. Sensing her strange presence, he inadvertently starts reminiscing about his memories with Asuka, when they receive news that the kidnapper has been released...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11786069/screencap/6a230bb20f44d.jpg",
+      "airDate": "2026-06-07T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 34,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 35,
+      "title": "Rampaging Instinct",
+      "titles": {
+        "ja": "暴れる本能",
+        "en": "Rampaging Instinct",
+        "x-jat": "Abareru Honnou"
+      },
+      "overview": "Lena trains hard with Pristimon to get revenge on Rose. Meanwhile, a series of bombings targeting World Union-related facilities by GIFT occurs. Feeling anxious and losing focus, Lena lets the target escape and becomes discouraged.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11786070/screencap/6a2c5d0c90f2c.jpg",
+      "airDate": "2026-06-14T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 35,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 36,
+      "title": "Twisted Code",
+      "titles": {
+        "ja": "歪んだコード",
+        "en": "Twisted Code",
+        "x-jat": "Yuganda Code"
+      },
+      "overview": "GIFT, having attacked Chairman Wang, begins a countdown to the entire world for the sake of its true objective. Meanwhile, guided by sapotama, Tomorou meets Miharu in the Mirror World. Amidst the battle, Mephismon emerges from the dark clouds swirling in the background.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11845341/screencap/6a357a64ef296.jpg",
+      "airDate": "2026-06-21T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 36,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 37,
+      "title": "Kind Magic",
+      "titles": {
+        "ja": "優しい魔法",
+        "en": "Kind Magic",
+        "x-jat": "Yasashii Mahou"
+      },
+      "overview": "Tomorou, Rose, and the others storm the temple that serves as GIFT's headquarters. Having seized control of the Shangri-La Egg system, Miharu takes the residents hostage and demands that Chairman O reveal the existence of Digimon to the public. When Tomorou questions her, Miharu begins to speak of her older sister Chifuyu's wish, but...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11845343/screencap/6a49511993e81.jpg",
+      "airDate": "2026-07-05T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 37,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 38,
+      "title": "Hollow Thirst",
+      "titles": {
+        "ja": "虚ろな渇き",
+        "en": "Hollow Thirst",
+        "x-jat": "Utsuro na Kawaki"
+      },
+      "overview": "Tomoro Tenma and his Digimon Gekkomon join the bounty hunters Golden Dawn to investigate rogue Digimon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11845344/screencap/6a53ad65f1efc.jpg",
+      "airDate": "2026-07-12T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 38,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 39,
+      "title": "Lip Service",
+      "titles": {
+        "ja": "きれいごと",
+        "en": "Lip Service",
+        "x-jat": "Kireigoto"
+      },
+      "overview": "Meto and Kanon attack the Glowing Dawn, looking for Kyo Sawashiro. Meanwhile, at Nirinso, Souji Kuroshio attempts to quench his thirst by threatening to destroy everything Kyo treasures, demanding Kyo return to his old self.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11845345/screencap/6a5cb992b6ec9.jpg",
+      "airDate": "2026-07-19T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 39,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 40,
+      "title": "Unfading Night",
+      "titles": {
+        "ja": "消せない夜",
+        "en": "Unfading Night",
+        "x-jat": "Kesenai Yoru"
+      },
+      "overview": "Tomorou is shocked to learn the true identity of former Five-Star Planet member Kuroshio Soji from Clay, yet he renews his resolve to bring Kyo back. Meanwhile, as Kyo heads to the showdown to settle things once and for all, he finds himself reminiscing about the days he once spent at the observatory.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11845346/screencap/6a65f3ef01db1.jpg",
+      "airDate": "2026-07-26T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 40,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 41,
+      "title": "A Golden Tomorrow",
+      "titles": {
+        "ja": "黄金の明日",
+        "en": "A Golden Tomorrow",
+        "x-jat": "Ougon no Ashita"
+      },
+      "overview": "At the site of the decisive battle, Tomorou and the others found themselves struggling against three Perfect-level opponents. Finally steeling his resolve, Kyo overwhelmed Soji. Tomorou attempted to stop Kyo by invoking the sole rule of Growing Dawn, but...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907187/screencap/6a6e44d7d23a9.jpg",
+      "airDate": "2026-08-02T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 41,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 42,
+      "title": "Sakura Friendship",
+      "titles": {
+        "ja": "桜の友情",
+        "en": "Sakura Friendship",
+        "x-jat": "Sakura no Yuujou"
+      },
+      "overview": "Tomorou took Kyo—who wanted to see Asuka after a long time—to visit her in the hospital. On the way, Kyo began sharing memories of Asuka that even Tomorou didn't know about. Hidden within those stories lay the secret behind the birth of Koogamon.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907188/screencap/6a77689fc40e6.jpg",
+      "airDate": "2026-08-09T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 42,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 43,
+      "title": "The White Digimon",
+      "titles": {
+        "ja": "白きデジモン",
+        "en": "The White Digimon",
+        "x-jat": "Shiroki Digimon"
+      },
+      "overview": "Tomorou is bewildered by the sudden appearance of Asuka and her partner Digimon. Meanwhile, Kishiwada arrives at Apraxas, having been appointed as the new \"Five-Star\" representative for the Planet of Earth. What is the final piece needed for the Shangri-La Project...?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11907189/screencap/6a7f51ff127c6.jpg",
+      "airDate": "2026-08-16T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 43,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 44,
+      "title": "The Strongest Man",
+      "titles": {
+        "ja": "最強の男",
+        "en": "The Strongest Man",
+        "x-jat": "Saikyou no Otoko"
+      },
+      "overview": "As Kyo and the others raced to rescue Tomorou, Kaito appeared, intent on settling the score. Separated from the group, Rena found herself facing Honoka, while Makoto confronted Kishiwada. Amidst a violent pulsing of energy, Flaremon was enveloped in light, and Kaito—driven by the pursuit of ultimate strength—wore a fearless grin...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11916006/screencap/6a88acb4a887e.jpg",
+      "airDate": "2026-08-23T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 44,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 45,
+      "title": "Big Brother, Little Brother",
+      "titles": {
+        "ja": "兄と弟",
+        "en": "Big Brother, Little Brother",
+        "x-jat": "Ani to Otouto"
+      },
+      "overview": "Tomorou resolves to bring back Asuka, who has lost her will. He and his \"Family\" confront Heliosboamon, but Kaneda and Gokumon suddenly barge into the fray. While Tomorou is forced onto the defensive, what is the true objective Kaneda reveals?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11916007/screencap/6a91d5ae80a2b.jpg",
+      "airDate": "2026-08-30T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 45,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 46,
+      "title": "Glitch",
+      "titles": {
+        "ja": "バグ",
+        "en": "Glitch",
+        "x-jat": "Bug"
+      },
+      "overview": "Tomorou, having awakened thanks to the Nirinsou, wore a look of deep anguish. Meanwhile, Chairman O declared that he would eliminate the \"bugs\" known as Digimon and deliver an ideal world. Just then, a new member of the Five Planetary Stars launched an attack on the Nirinsou.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11950980/screencap/6a9d4c1d80307.jpg",
+      "airDate": "2026-09-06T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 46,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 47,
+      "title": "The Ultimate Power",
+      "titles": {
+        "ja": "究極の力",
+        "en": "The Ultimate Power",
+        "x-jat": "Kyuukyoku no Chikara"
+      },
+      "overview": "Growing Dawn charges into Aproxas to rescue Asuka. With the help of their allies, they arrive at their destination, only to find Chairman King and Kaneda standing in Tomorou's path. Meanwhile, Monarchlizamon engages in a fierce clash with his sworn rival, Gokuwmon, but...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11950981/screencap/6aa3fec2b35ba.jpg",
+      "airDate": "2026-09-13T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 47,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 48,
+      "title": "Two Beats",
+      "titles": {
+        "ja": "二つの鼓動",
+        "en": "Two Beats",
+        "x-jat": "Futatsu no Kodou"
+      },
+      "overview": "Sanzomon finally reveals her true form and begins absorbing e-pulses from the people to realize a utopia for Digimon. With their resolve renewed, Tomorow and his friends confront Seitengokumon to rescue Geckomon and Asuka...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11950982/screencap/6aad47caf36f0.jpg",
+      "airDate": "2026-09-20T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 48,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 49,
+      "title": "A World of Shining Light",
+      "titles": {
+        "ja": "光輝く世界",
+        "en": "A World of Shining Light",
+        "x-jat": "Hikari Kagayaku Sekai"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-27T00:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "We Are the Digimon Promotion Department",
+      "titles": {
+        "ja": "俺たち! デジモン宣伝部",
+        "en": "We Are the Digimon Promotion Department",
+        "x-jat": "Oretachi! Digimon Sendenbu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-09-28",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "We Are the Digimon Promotion Department (Web Version)",
+      "titles": {
+        "ja": "俺たち! デジモン宣伝部",
+        "en": "We Are the Digimon Promotion Department (Web Version)",
+        "x-jat": "Oretachi! Digimon Sendenbu"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2025-09-28",
+      "runtime": 40,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 49,
+  "updatedAt": "2026-09-23T10:33:05.704Z"
+}

@@ -1,0 +1,367 @@
+{
+  "anilistId": 201667,
+  "malId": 62883,
+  "route": "bungou-stray-dogs-wan-2",
+  "titles": {
+    "romaji": "Bungou Stray Dogs Wan! 2",
+    "english": "Bungo Stray Dogs WAN! 2",
+    "native": "文豪ストレイドッグス わん！２"
+  },
+  "anilist": {
+    "id": 201667,
+    "idMal": 62883,
+    "title": {
+      "romaji": "Bungou Stray Dogs Wan! 2",
+      "english": "Bungo Stray Dogs WAN! 2",
+      "native": "文豪ストレイドッグス わん！２"
+    },
+    "synonyms": [
+      "Bungo Stray Dogs WAN! TWO",
+      "คณะประพันธกรจรจัด โฮ่ง! 2"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201667-oqaW97DQ7HUj.jpg",
+      "color": "#e46b5d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201667-QYNOqPVSG3vi.jpg",
+    "description": "The second season of <i>Bungou Stray Dogs Wan!</i>",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 12,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 2
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 17
+    },
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "averageScore": 73,
+    "meanScore": 75,
+    "popularity": 4833,
+    "favourites": 102,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "bones"
+        },
+        {
+          "name": "Nomad"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/bungosd_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://wan2.bungo-stray-dogs-wan.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GMEHMEN75/bungo-stray-dogs-wan"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLSFfcgIBEqIU"
+      }
+    ],
+    "trailer": {
+      "id": "xrGcSD7-miY",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "studios": [
+      "Nomad",
+      "bones"
+    ],
+    "mediaTypes": [
+      "TV Short"
+    ],
+    "lengthMin": 12,
+    "description": null,
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4w0MoHP",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GMEHMEN75/bungo-stray-dogs-wan",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLSFfcgIBEqIU",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-07-02T12:41:00Z",
+    "dubTime": "2026-07-16T12:41:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": "2026-09-17T00:00:00Z"
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-17T12:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Thursday 12:41 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 10,
+      "airedAt": "2026-09-03T12:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 11,
+      "at": "2026-09-24T12:41:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 12:41 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Bungo Stray Dogs Wan! The Real Returns! / Atsushi`s Sweet Recipe / Relativistic Dazai",
+      "titles": {
+        "ja": "文豪ストレイドッグス わん! THE REAL RETURNS! / 敦のスイーツ☆クッキング / 相対論的太宰",
+        "en": "Bungo Stray Dogs Wan! The Real Returns! / Atsushi`s Sweet Recipe / Relativistic Dazai",
+        "x-jat": "Bungou Stray Dogs Wan! The Real Returns! / Atsushi no Sweets Cooking / Soutairontekisei Dazai"
+      },
+      "overview": "The stray dogs return, Atsushi and Kyouka make crepes, and Dazai's coworkers speculate about his behavior.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11862072/screencap/6a3e8a8636089.jpg",
+      "airDate": "2026-07-02T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Late Night Summons and Service / Between Freedom and Duty / Atsushi-kun and the Angel and Devil / Wan! Shorts: Won`t Stop Counting Up",
+      "titles": {
+        "ja": "深夜の呼び出しおもてなし / 自由と義務のはざまで / 敦君と天使と悪魔 / わん! 小ネタ カウントアップが 止まらない",
+        "en": "Late Night Summons and Service / Between Freedom and Duty / Atsushi-kun and the Angel and Devil / Wan! Shorts: Won`t Stop Counting Up",
+        "x-jat": "Shin`ya no Yobidashi Omotenashi / Jiyuu to Gimu no Hazama de / Atsushi-kun to Tenshi to Akuma / Wan! Koneta: Count up ga Tomaranai"
+      },
+      "overview": "The agency is haunted, Atsushi and Kunikida go camping, and Dazai tempts Atsushi with a recording device.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869842/screencap/6a4e6a208408a.jpg",
+      "airDate": "2026-07-09T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "The Hunting Dogs Are Here! / Investigate the Strongest Military Police Squad! / The Ultimate Military Police Science Squad`s (Super Scary) Hunting Dog Reasearch Lab",
+      "titles": {
+        "ja": "猟犬が来た! / 探れ! 軍警最強部隊 / 軍警最強科学 (ぱられる) 部隊猟犬 (こわいわんわん) 研究所",
+        "en": "The Hunting Dogs Are Here! / Investigate the Strongest Military Police Squad! / The Ultimate Military Police Science Squad`s (Super Scary) Hunting Dog Reasearch Lab",
+        "x-jat": "Ryouken ga Kita! / Sagure! Gunkei Saikyou Butai / Gunkei Saikyou Kagaku (Parallel) Butai Ryouken (Kowai Wanwan) Kenkyuujo"
+      },
+      "overview": "Jouno's senses are assaulted, Tachihara asks about the squad's weaknesses, and Fukuchi unveils his inventions.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869843/screencap/6a58437959e1d.jpg",
+      "airDate": "2026-07-16T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Laid-Back Guild / We Intelligent Men / Kyou-chan and Lu-chan",
+      "titles": {
+        "ja": "ゆるぎるど / 頭の善い僕たちは / きょーちゃんとルーちゃん",
+        "en": "Laid-Back Guild / We Intelligent Men / Kyou-chan and Lu-chan",
+        "x-jat": "Yuru Guild / Atama no Yoi Bokutachi wa / Kyou-chan to Lu-chan"
+      },
+      "overview": "The Guild moves into its new headquarters, Poe is terrorized by geniuses, and Kyouka and Lucy go shopping.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869844/screencap/6a6180de2c103.jpg",
+      "airDate": "2026-07-23T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Bungo Stray Dogs Preschool 2!",
+      "titles": {
+        "ja": "文ストほいくえん2!",
+        "en": "Bungo Stray Dogs Preschool 2!",
+        "x-jat": "Bun Suto Hoikuen 2!"
+      },
+      "overview": "Someone draws on Dazai-sensei's plushie, the kids are afraid of ghosts, and Ango-sensei comes for training.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869845/screencap/6a696b3e4fca9.jpg",
+      "airDate": "2026-07-30T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Reclaim Your Bygone Youth! / Oddly Incompatible / Wan! Shorts: The Cat, Akutagawa, and the Suspicious Gaze",
+      "titles": {
+        "ja": "取り戻せ! 青春! 過ぎ去った! 青春! / 微妙に嚙み合わない二人 / わん! 小ネタ キャッ! とやつがれ疑惑の眼差し",
+        "en": "Reclaim Your Bygone Youth! / Oddly Incompatible / Wan! Shorts: The Cat, Akutagawa, and the Suspicious Gaze",
+        "x-jat": "Torimodose! Seishun! Sugisatta! Seishun! / Bimyou ni Kamiawanai Futari / Wan! Koneta: Cat! to Yatsugare Giwaku no Manazashi"
+      },
+      "overview": "Battles break out when Atsushi and Akutagawa run into each other at a soba shop and on a rainy day.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869846/screencap/6a73b96b03f48.jpg",
+      "airDate": "2026-08-06T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Strength Is Everything! Survive the Night! / Sigma`s Secret",
+      "titles": {
+        "ja": "力こそ全て! 生き残れNight! / シグマくんのひ・み・つ",
+        "en": "Strength Is Everything! Survive the Night! / Sigma`s Secret",
+        "x-jat": "Chikara Koso Subete! Ikinokore Night! / Sigma-kun no Himitsu"
+      },
+      "overview": "The Detective Agency and Port Mafia play werewolf, and Sigma showers his beloved Sky Casino with love.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869847/screencap/6a7d25fb190bb.jpg",
+      "airDate": "2026-08-13T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Clash! At a Dangerous Field Day!",
+      "titles": {
+        "ja": "激突! 危険な運動会!",
+        "en": "Clash! At a Dangerous Field Day!",
+        "x-jat": "Gekitotsu! Kiken na Undoukai!"
+      },
+      "overview": "The Detective Agency and Port Mafia engage in some friendly competition at a joint field day.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869848/screencap/6a86e22ec2e51.jpg",
+      "airDate": "2026-08-20T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "The Oddly Delightful Meeting / Seize the Invisible Hand of God / A Certain Secret Meeting / Early Days",
+      "titles": {
+        "ja": "奇妙で愉快な待ち合わせ / 神の見えざる手を掴む / とある秘密の会合 / 設立ほやほや物語",
+        "en": "The Oddly Delightful Meeting / Seize the Invisible Hand of God / A Certain Secret Meeting / Early Days",
+        "x-jat": "Kimyou de Yukai na Machiawase / Kami no Miezaru Te o Tsukamu / Toaru Himitsu no Kaigou / Setsuritsu Hoyahoya Monogatari"
+      },
+      "overview": "Mushitarou and Poe meet in a park, the glasses-wearers get together, and Fukuzawa recalls his early days.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869849/screencap/6a902f5ae5a91.jpg",
+      "airDate": "2026-08-27T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Dazai, Chuuya, Age 14 (Edgelord Era): Personal Tastes / Dazai, Chuuya, Age 14: Hypothetically Speaking / An Ambitious Age / Wan! Shorts: New Teacher Atsushi-sensei!!",
+      "titles": {
+        "ja": "太宰, 中也, 十四歳 (中二病) ~ 趣味の章 / 太宰, 中也, 十四歳 ~ もしも力があったなら / 背伸びしたいお年頃たち / わん! 小ネタ 新任教師 敦先生!!",
+        "en": "Dazai, Chuuya, Age 14 (Edgelord Era): Personal Tastes / Dazai, Chuuya, Age 14: Hypothetically Speaking / An Ambitious Age / Wan! Shorts: New Teacher Atsushi-sensei!!",
+        "x-jat": "Dazai, Chuuya, Juuyonsai (Chuunibyou): Shumi no Shou / Dazai, Chuuya, Juuyonsai: Moshimo Chikara ga Atta Nara / Senobi Shitai Otoshigoro-tachi / Wan! Koneta: Shinnin Kyoushi - Atsushi-sensei!!"
+      },
+      "overview": "A teenage Dazai and Chuuya try to one-up each other with cool stories and hypotheticals.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869850/screencap/6a995f557fd07.jpg",
+      "airDate": "2026-09-03T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Wan! The Dark Era Chapter 2",
+      "titles": {
+        "ja": "わん! 黒の時代編 第二章",
+        "en": "Wan! The Dark Era Chapter 2",
+        "x-jat": "Wan! Kuro no Jidai Hen: Daini Shou"
+      },
+      "overview": "Odasaku meets Dazai and Ango in the park for a picnic.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869851/screencap/6aa2a422be360.jpg",
+      "airDate": "2026-09-10T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Write, Mushitarou-kun, Write! / Don`t Go / May I Take Your Picture? / Wan! Shorts: The Real Returns! 2",
+      "titles": {
+        "ja": "書け! 書け! 虫太郎くん / 帰っちゃやーよ / お写真一枚良いですか? / わん! 小ネタ THE REAL RETURNS!2",
+        "en": "Write, Mushitarou-kun, Write! / Don`t Go / May I Take Your Picture? / Wan! Shorts: The Real Returns! 2",
+        "x-jat": "Kake! Kake! Mushitarou-kun / Kaeccha Yaa yo / Oshashin Ichimai Ii Desuka? / Wan! Koneta: The Real Returns! 2"
+      },
+      "overview": "Mushitarou tries to write, Kyouka plans a surprise party, and the Detective Agency takes a photo.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869852/screencap/6aabdefee0b07.jpg",
+      "airDate": "2026-09-17T12:30:00Z",
+      "runtime": 12,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.760Z"
+}

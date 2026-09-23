@@ -1,0 +1,695 @@
+{
+  "anilistId": 207141,
+  "malId": 63403,
+  "route": "yani-neko",
+  "titles": {
+    "romaji": "Yani Neko",
+    "english": "Chainsmoker Cat",
+    "native": "ヤニねこ"
+  },
+  "anilist": {
+    "id": 207141,
+    "idMal": 63403,
+    "title": {
+      "romaji": "Yani Neko",
+      "english": "Chainsmoker Cat",
+      "native": "ヤニねこ"
+    },
+    "synonyms": [
+      "แมวสาวอมควัน",
+      "尼古喵喵"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207141-h5q5KJPd6vaX.jpg",
+      "color": "#50a1f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
+    "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n<BR><BR>\n(Source: Seven Seas Entertainment)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Slice of Life"
+    ],
+    "averageScore": 67,
+    "meanScore": 67,
+    "popularity": 75229,
+    "favourites": 1445,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790263800,
+      "timeUntilAiring": 146343
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Bibury Animation Studios"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://yanineko-anime.com"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/yanineko_anime"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/@yanineko_anime"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/82760630"
+      },
+      {
+        "site": "OceanVeil",
+        "url": "https://oceanveil.net/anime_titles/461"
+      },
+      {
+        "site": "OceanVeil",
+        "url": "https://oceanveil.net/anime_titles/462"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/1nub7zdw89t"
+      }
+    ],
+    "trailer": {
+      "id": "KYGgyQtSAdI",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Seinen",
+      "Slice of Life"
+    ],
+    "studios": [
+      "Bibury Animation Studio"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever?\r<br>\r<br>(Source: Seven Seas Entertainment)",
+    "streams": [
+      {
+        "platform": "netflix",
+        "url": "www.netflix.com/title/82760630",
+        "name": "Netflix"
+      },
+      {
+        "platform": "oceanveil",
+        "url": "oceanveil.net/anime_titles/461",
+        "name": "OceanVeil"
+      }
+    ],
+    "subTime": "2026-06-29T16:00:00Z",
+    "dubTime": "2026-07-02T16:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": "2026-09-17T00:00:00Z"
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-17T15:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-24T15:30:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 16:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 9,
+      "airedAt": "2026-09-03T15:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 10,
+      "at": "2026-09-24T16:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 16:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "ニャーがヤニねこにゃ",
+      "titles": {
+        "ja": "ニャーがヤニねこにゃ",
+        "en": null
+      },
+      "overview": "Catgirl Yani struggles to pay rent and spends what little she has on cigarettes — until an urgent text from her sister Imoko sparks a far greater crisis.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11588217/screencap/6a44f0382a39d.jpg",
+      "airDate": "2026-07-02T15:30:00Z",
+      "runtime": 24,
+      "rating": "7.53",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Meet My Juniors, Nya",
+      "titles": {
+        "ja": "ニャーの後輩たちにゃ",
+        "en": "Meet My Juniors, Nya",
+        "x-jat": "Nyaa no Kouhai-tachi Nya"
+      },
+      "overview": "Yani wants to continue her carefree life, but she receives a job offer as financial pressure builds. Will she commit to this opportunity or her freedom?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869967/screencap/6a4e1a132c43c.jpg",
+      "airDate": "2026-07-09T15:30:00Z",
+      "runtime": 24,
+      "rating": "8.18",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "I`m More Straight Than Funny, Nya",
+      "titles": {
+        "ja": "ニャーはボケよりツッコミ寄りにゃ",
+        "en": "I`m More Straight Than Funny, Nya",
+        "x-jat": "Nyaa wa Boke yori Tsukkomi yori Nya"
+      },
+      "overview": "After another clash with her landlord, Yani agrees to tend his garden to cover her rent. It seems like a perfect fix — until she faces his cabbage patch.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869968/screencap/6a575ebd56a22.jpg",
+      "airDate": "2026-07-16T15:30:00Z",
+      "runtime": 24,
+      "rating": "7.96",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Freaks All Around Me, Nya",
+      "titles": {
+        "ja": "ニャーのまわりは変人ばかりにゃ",
+        "en": "Freaks All Around Me, Nya",
+        "x-jat": "Nyaa no Mawari wa Henjin Bakari Nya"
+      },
+      "overview": "Yani lands a job assisting Saori Tatsuro, a risque manga artist. After Yani mistakenly burns her manuscript, an unexpected police visit follows.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869969/screencap/6a60a55847ded.jpg",
+      "airDate": "2026-07-23T15:30:00Z",
+      "runtime": 24,
+      "rating": "8.77",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "We`re Off to a Secret Place, Nya",
+      "titles": {
+        "ja": "ニャーたち秘境に行くにゃ",
+        "en": "We`re Off to a Secret Place, Nya",
+        "x-jat": "Nyaa-tachi Hikyou ni Iku Nya"
+      },
+      "overview": "Despite her sister's attempts to take away her cigarettes, Yani refuses to quit. At the same time, Imoko navigates a youthful romance.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891075/screencap/6a6a00b903b46.jpg",
+      "airDate": "2026-07-30T15:30:00Z",
+      "runtime": 24,
+      "rating": "9.02",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Summer Starts and Ends Here, Nya",
+      "titles": {
+        "ja": "ニャーの夏が始まって終わるにゃ",
+        "en": "Summer Starts and Ends Here, Nya",
+        "x-jat": "Nyaa no Natsu ga Hajimatte Owaru Nya"
+      },
+      "overview": "Yani's fellow tenant Aruko disappears during a drinking party while three new assistants arrive at Tatsuro's workplace as her deadline looms closer.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891076/screencap/6a7300e742800.jpg",
+      "airDate": "2026-08-06T15:30:00Z",
+      "runtime": 24,
+      "rating": "9.69",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "I Was Born to Parents Too, Nya",
+      "titles": {
+        "ja": "ニャーも親から生まれたにゃ",
+        "en": "I Was Born to Parents Too, Nya",
+        "x-jat": "Nyaa mo Oya kara Umareta Nya"
+      },
+      "overview": "Yani takes a cleaning job at a shady underground facility. Meanwhile, her landlord welcomes a new houseguest, quickly followed by an unexpected mishap.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891077/screencap/6a7c4477ca452.jpg",
+      "airDate": "2026-08-13T15:30:00Z",
+      "runtime": 24,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Nyaa-tachi mo Shiwasu wa Hashiru Nya",
+      "titles": {
+        "ja": "ニャーたちも師走は走るにゃ",
+        "en": null,
+        "x-jat": "Nyaa-tachi mo Shiwasu wa Hashiru Nya"
+      },
+      "overview": "Yani expects a lonely birthday, unaware that Imoko is planning a surprise party for her. Elsewhere, Yani's landlord becomes trapped in a foul time loop.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891078/screencap/6a857b8d77b42.jpg",
+      "airDate": "2026-08-20T15:30:00Z",
+      "runtime": 24,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Yani's peculiar toilet habits spark chaos around her while Imoko receives a gift from a secret admirer who turns out to be anything but ordinary.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891079/screencap/6a97e9ce222c6.jpg",
+      "airDate": "2026-09-03T15:30:00Z",
+      "runtime": 24,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Yani's neighbors Yakuneko and Hameneko head to a mystical waterfall — but Hameneko's selfishness drives Yakuneko to hatch a wild revenge plan.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891080/screencap/6aa122f9b6e5b.jpg",
+      "airDate": "2026-09-10T15:30:00Z",
+      "runtime": 24,
+      "rating": "9.84",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Yani and her flatmates set off on a Kyoto and Nara getaway — but her antics lead to an encounter with the \"King of Deer,\" a creature of ancient wisdom.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11891081/screencap/6aaa5f228acee.jpg",
+      "airDate": "2026-09-17T15:30:00Z",
+      "runtime": 24,
+      "rating": "8.80",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-24T15:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Yani Neko Mini Anime #01",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#01",
+        "en": "Yani Neko Mini Anime #01",
+        "x-jat": "Yani Neko Mini Anime #01"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-02-21",
+      "runtime": 1,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Yani Neko Mini Anime #02",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#02",
+        "en": "Yani Neko Mini Anime #02",
+        "x-jat": "Yani Neko Mini Anime #02"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-03-21",
+      "runtime": 1,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S3",
+      "title": "Yani Neko Mini Anime #03",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#03",
+        "en": "Yani Neko Mini Anime #03",
+        "x-jat": "Yani Neko Mini Anime #03"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-04-23",
+      "runtime": 2,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S4",
+      "title": "Yani Neko Mini Anime #04",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#04",
+        "en": "Yani Neko Mini Anime #04",
+        "x-jat": "Yani Neko Mini Anime #04"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-07",
+      "runtime": 1,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S5",
+      "title": "Yani Neko Mini Anime #05",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#05",
+        "en": "Yani Neko Mini Anime #05",
+        "x-jat": "Yani Neko Mini Anime #05"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-21",
+      "runtime": 1,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S6",
+      "title": "Yani Neko Mini Anime #06",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#06",
+        "en": "Yani Neko Mini Anime #06",
+        "x-jat": "Yani Neko Mini Anime #06"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-04",
+      "runtime": 1,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S7",
+      "title": "Yani Neko Mini Anime #07",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#07",
+        "en": "Yani Neko Mini Anime #07",
+        "x-jat": "Yani Neko Mini Anime #07"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-11",
+      "runtime": 1,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S8",
+      "title": "Yani Neko Mini Anime #08",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#08",
+        "en": "Yani Neko Mini Anime #08",
+        "x-jat": "Yani Neko Mini Anime #08"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-18",
+      "runtime": 1,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S9",
+      "title": "Yani Neko Mini Anime #09",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#09",
+        "en": "Yani Neko Mini Anime #09",
+        "x-jat": "Yani Neko Mini Anime #09"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-25",
+      "runtime": 1,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S10",
+      "title": "Yani Neko Mini Anime #10",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#10",
+        "en": "Yani Neko Mini Anime #10",
+        "x-jat": "Yani Neko Mini Anime #10"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-05",
+      "runtime": 2,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S11",
+      "title": "Yani Neko Mini Anime #11",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#11",
+        "en": "Yani Neko Mini Anime #11",
+        "x-jat": "Yani Neko Mini Anime #11"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-12",
+      "runtime": 1,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S12",
+      "title": "Yani Neko Mini Anime #12",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#12",
+        "en": "Yani Neko Mini Anime #12",
+        "x-jat": "Yani Neko Mini Anime #12"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-19",
+      "runtime": 2,
+      "rating": "5.45",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S13",
+      "title": "Yani Neko Mini Anime #13",
+      "titles": {
+        "ja": "ヤニねこ ミニアニメ#13",
+        "en": "Yani Neko Mini Anime #13",
+        "x-jat": "Yani Neko Mini Anime #13"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-07-26",
+      "runtime": 2,
+      "rating": "3.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S14",
+      "title": "Yani Neko Mini Anime #14",
+      "titles": {
+        "en": "Yani Neko Mini Anime #14"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-09",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S15",
+      "title": "Yani Neko Mini Anime #15",
+      "titles": {
+        "en": "Yani Neko Mini Anime #15"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-16",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S16",
+      "title": "Yani Neko Mini Anime #16",
+      "titles": {
+        "en": "Yani Neko Mini Anime #16"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-23",
+      "runtime": 2,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S17",
+      "title": "Yani Neko Mini Anime #17",
+      "titles": {
+        "en": "Yani Neko Mini Anime #17"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-08-30",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S18",
+      "title": "Yani Neko Mini Anime #18",
+      "titles": {
+        "en": "Yani Neko Mini Anime #18"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-06",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S19",
+      "title": "Yani Neko Mini Anime #19",
+      "titles": {
+        "en": "Yani Neko Mini Anime #19"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-13",
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S20",
+      "title": "Yani Neko Mini Anime #20",
+      "titles": {
+        "en": "Yani Neko Mini Anime #20"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-20",
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.641Z"
+}

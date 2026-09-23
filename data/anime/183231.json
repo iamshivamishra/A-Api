@@ -1,0 +1,568 @@
+{
+  "anilistId": 183231,
+  "malId": 60153,
+  "route": "rilakkuma",
+  "titles": {
+    "romaji": "Rilakkuma",
+    "english": "RILAKKUMA",
+    "native": "リラックマ"
+  },
+  "anilist": {
+    "id": 183231,
+    "idMal": 60153,
+    "title": {
+      "romaji": "Rilakkuma",
+      "english": "RILAKKUMA",
+      "native": "リラックマ"
+    },
+    "synonyms": [
+      "リラックマ アニメ",
+      "Rilakkuma Anime",
+      "RILAKKUMA: A Leisurely Dream Journey",
+      "Rilakkuma: Goyururi Yume no Tabi",
+      "リラックマ ～ごゆるり夢の旅～",
+      "リラックマ てくてく世界旅行",
+      "Rilakkuma: Tekuteku Sekai Ryokou"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+      "color": "#28c9e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
+    "description": "Everyday life gets a cozy twist with the laid-back Rilakkuma. Gentle moments of friendship, change, and small joys unfold, turning ordinary moments into something quietly magical—one soft, comforting day at a time.\n<br><br>\nIt's a moment that will make your heart feel lighter and lighter. No matter where you are or what you're doing, Rilakkuma will be by your side. An exciting new story begins! Experience the stress-free world of Rilakkuma, the relaxed bear who makes being lazy look effortless!<br><br>\n(Source: Crunchyroll, Rilakkuma Anime Site, translated)",
+    "format": "TV_SHORT",
+    "status": "RELEASING",
+    "episodes": null,
+    "duration": 1,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 4
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "averageScore": 62,
+    "meanScore": 68,
+    "popularity": 1694,
+    "favourites": 24,
+    "source": "OTHER",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 26,
+      "airingAt": 1790382360,
+      "timeUntilAiring": 264903
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Production I.G"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/rilakkuma_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://rilakkuma-anime.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00374493/rilakkuma"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://youtube.com/playlist?list=PLwLSw1_eDZl39KDdjidupfewWK2xookSn&si=KFtJ1_LN_fRNx4QX"
+      }
+    ],
+    "trailer": {
+      "id": "rV-fcFL5vtU",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "studios": [
+      "Production I.G"
+    ],
+    "mediaTypes": [
+      "TV Short"
+    ],
+    "lengthMin": 1,
+    "description": "Everyday life gets a cozy twist with the laid-back Rilakkuma. Gentle moments of friendship, change, and small joys unfold, turning ordinary moments into something quietly magical—one soft, comforting day at a time.<br><br>It&#39;s a moment that will make your heart feel lighter and lighter. No matter where you are or what you&#39;re doing, Rilakkuma will be by your side. An exciting new story begins! Experience the stress-free world of Rilakkuma, the relaxed bear who makes being lazy look effortless!<br><br>(Source: Crunchyroll, Rilakkuma Anime Site, translated)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4seR0Hk",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00374493/rilakkuma",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl39KDdjidupfewWK2xookSn",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-04-04T01:00:00Z",
+    "dubTime": "2026-04-04T01:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 25,
+    "latestEpisode": {
+      "number": 25,
+      "airedAt": "2026-09-19T00:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 26,
+      "at": "2026-09-26T00:26:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 01:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 25,
+    "latestEpisode": {
+      "number": 25,
+      "airedAt": "2026-09-19T00:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 26,
+      "at": "2026-09-26T01:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 01:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Oz"
+      },
+      "overview": "It’s late, and Rilakkuma is still awake when something happens.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11568065/screencap/69d0a4b53d033.jpg",
+      "airDate": "2026-04-04T00:30:00Z",
+      "runtime": 1,
+      "rating": "2.88",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Die Schatzinsel"
+      },
+      "overview": "Rilakkuma sets sail in search of adventure.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11718112/screencap/69d9d1b11b25e.jpg",
+      "airDate": "2026-04-11T00:30:00Z",
+      "runtime": 1,
+      "rating": "3.95",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Sindbad (Tori)"
+      },
+      "overview": "Rilakkuma ends up on a deserted island.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11718113/screencap/69e3152349600.jpg",
+      "airDate": "2026-04-18T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Rotkäppchen (Korira)"
+      },
+      "overview": "Rilakkuma meets a friend.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11758852/screencap/69ec4fad5bd9e.jpg",
+      "airDate": "2026-04-25T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Vampir (Koguma)"
+      },
+      "overview": "Rilakkuma and his friends venture into a spooky castle.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11770026/screencap/69f5cbaebd502.jpg",
+      "airDate": "2026-05-02T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Die Reise nach Westen"
+      },
+      "overview": "Cozy days with the laid-back Rilakkuma turn small moments into quiet magic.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11773292/screencap/69ff051f007a7.jpg",
+      "airDate": "2026-05-09T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Der gestiefelte Kater"
+      },
+      "overview": "A forest, a quest, and a princess.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11792393/screencap/6a0825daaebb8.jpg",
+      "airDate": "2026-05-16T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Indy"
+      },
+      "overview": "Today’s adventure takes the group into a cave.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11801928/screencap/6a1146d16058b.jpg",
+      "airDate": "2026-05-23T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "2D-RPG Momotarō"
+      },
+      "overview": "A sweet and relaxed journey to the Island of Ogres.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11810612/screencap/6a1a7abd5ab26.jpg",
+      "airDate": "2026-05-30T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Matatabimono"
+      },
+      "overview": "Along the way, Rilakkuma and his friends encounter people in trouble.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11818664/screencap/6a23b87a0b226.jpg",
+      "airDate": "2026-06-06T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Die Reise zum Mond"
+      },
+      "overview": "The whole gang embarks on a journey into space.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11836958/screencap/6a2cd8c553556.jpg",
+      "airDate": "2026-06-13T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Rückkehr in die Realität"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11848471/screencap/6a6437e2e21ec.jpg",
+      "airDate": "2026-06-20T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Der Aufbruch"
+      },
+      "overview": "Rilakkuma and his friends set off on a new journey.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11848472/screencap/6a3f54a2b2246.jpg",
+      "airDate": "2026-06-27T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 14,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Ostasien"
+      },
+      "overview": "There are some really delicious things!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868593/screencap/6a488d98a34c0.jpg",
+      "airDate": "2026-07-04T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 15,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Indien"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870921/screencap/6a51bb767050d.jpg",
+      "airDate": "2026-07-11T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 16,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Finnland"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870922/screencap/6a5af899d1e94.jpg",
+      "airDate": "2026-07-18T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 17,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Italien"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870923/screencap/6a6437c89b031.jpg",
+      "airDate": "2026-07-25T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 18,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Australien"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870924/screencap/6a6d7f2daa576.jpg",
+      "airDate": "2026-08-01T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 19,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Ägypten"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870925/screencap/6a76b38606277.jpg",
+      "airDate": "2026-08-08T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 20,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Neuguinea"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11870926/screencap/6a7fecddb3a09.jpg",
+      "airDate": "2026-08-15T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 21,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Die Vereinigten Staaten"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11932772/screencap/6a891a328ff36.jpg",
+      "airDate": "2026-08-22T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 22,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Südamerika"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11932773/screencap/6a9257aa4b908.jpg",
+      "airDate": "2026-08-29T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 23,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Die Arktis"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11932774/screencap/6a9b99e53cb6a.jpg",
+      "airDate": "2026-09-05T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 24,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Home Sweet Home.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11932775/screencap/6aa4d96ceaad5.jpg",
+      "airDate": "2026-09-12T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 25,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11974355/screencap/6aae71aecb985.jpg",
+      "airDate": "2026-09-19T00:30:00Z",
+      "runtime": 1,
+      "rating": null,
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": true
+    }
+  ],
+  "episodeCount": 25,
+  "updatedAt": "2026-09-23T10:33:05.664Z"
+}

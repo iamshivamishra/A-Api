@@ -1,0 +1,611 @@
+{
+  "anilistId": 197754,
+  "malId": 62331,
+  "route": "liar-game",
+  "titles": {
+    "romaji": "LIAR GAME",
+    "english": "LIAR GAME",
+    "native": "LIAR GAME"
+  },
+  "anilist": {
+    "id": 197754,
+    "idMal": 62331,
+    "title": {
+      "romaji": "LIAR GAME",
+      "english": "LIAR GAME",
+      "native": "LIAR GAME"
+    },
+    "synonyms": [
+      " ライアーゲーム",
+      "Игра лжецов"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197754-Q5KqcUhIdypp.png",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
+    "description": "Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of \"a foolishly honest girl\". This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 26,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 29
+    },
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "averageScore": 62,
+    "meanScore": 62,
+    "popularity": 43253,
+    "favourites": 501,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 26,
+      "airingAt": 1790607600,
+      "timeUntilAiring": 490143
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "MADHOUSE"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://www.liargame-anime.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/liargame_anime/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00371851/liar-game"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://www.liargame-anime.com/en/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/liargame_en"
+      }
+    ],
+    "trailer": {
+      "id": "FIPOXj00ysQ",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Seinen",
+      "Thriller"
+    ],
+    "studios": [
+      "MADHOUSE"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "When Nao Kanzaki receives a strange letter and a suitcase containing 100 million yen, she learns that she has been selected to participate in the LIAR GAME. In this high-stakes psychological battle, lies, deception, and betrayal reign supreme. Naïve and honest, Nao turns to Shinichi Akiyama, a brilliant former con artist, to survive the twisted game. In a game built on lies, can honesty prevail?<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4tBAKBq",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00371851/liar-game",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4wWjj0q",
+        "name": "Amazon"
+      }
+    ],
+    "subTime": "2026-04-06T16:00:00Z",
+    "dubTime": "2026-04-19T16:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": "2026-07-13T00:00:00Z"
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 26,
+    "latestEpisode": {
+      "number": 25,
+      "airedAt": "2026-09-21T16:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 26,
+      "at": "2026-09-28T15:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 16:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 26,
+    "latestEpisode": {
+      "number": 23,
+      "airedAt": "2026-09-21T16:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 24,
+      "at": "2026-09-28T16:00:00.000Z",
+      "estimated": true
+    },
+    "weeklySlot": "Sunday 16:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Legendary Con Artist",
+      "titles": {
+        "ja": "伝説の詐欺師",
+        "en": "The Legendary Con Artist",
+        "x-jat": "Densetsu no Sagishi"
+      },
+      "overview": "A naive young woman named Nao is dragged into the Liar Game and seeks the assistance of a notorious conman.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11300466/screencap/69d32495ec519.jpg",
+      "airDate": "2026-04-06T15:00:00Z",
+      "runtime": 24,
+      "rating": "4.21",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Shockwave",
+      "titles": {
+        "ja": "ゆさぶり",
+        "en": "Shockwave",
+        "x-jat": "Yusaburi"
+      },
+      "overview": "Nao and Akiyama crank up the pressure to try to retrieve Nao's millions.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11721094/screencap/69dc647f138e8.jpg",
+      "airDate": "2026-04-13T15:00:00Z",
+      "runtime": 24,
+      "rating": "4.44",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Resolution",
+      "titles": {
+        "ja": "決着",
+        "en": "Resolution",
+        "x-jat": "Kecchaku"
+      },
+      "overview": "The first round of the Liar Game reaches its end and a new round begins.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11721095/screencap/69e59157b41ce.jpg",
+      "airDate": "2026-04-20T15:00:00Z",
+      "runtime": 24,
+      "rating": "6.16",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Minority Rule",
+      "titles": {
+        "ja": "少数決",
+        "en": "Minority Rule",
+        "x-jat": "Shousuuketsu"
+      },
+      "overview": "Nao frets over her chance of survival as the rules of the Minority Rule game are explained.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11722741/screencap/69ef4bed09abb.jpg",
+      "airDate": "2026-04-27T15:00:00Z",
+      "runtime": 24,
+      "rating": "5.21",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Alliance",
+      "titles": {
+        "ja": "同盟",
+        "en": "Alliance",
+        "x-jat": "Doumei"
+      },
+      "overview": "Akiyama and Nao proceed further into the Minority Rule game with their alliance strategy.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11722742/screencap/69f87934351b5.jpg",
+      "airDate": "2026-05-04T15:00:00Z",
+      "runtime": 24,
+      "rating": "6.30",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Initiative",
+      "titles": {
+        "ja": "先手",
+        "en": "Initiative",
+        "x-jat": "Sente"
+      },
+      "overview": "With the player known as X revealed, the Minority Rule game enters a terrifying new stage.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11722743/screencap/6a01bb7579f75.jpg",
+      "airDate": "2026-05-11T15:00:00Z",
+      "runtime": 24,
+      "rating": "6.30",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "The Losers` Revival",
+      "titles": {
+        "ja": "敗者復活",
+        "en": "The Losers` Revival",
+        "x-jat": "Haisha Fukkatsu"
+      },
+      "overview": "The Minority Rule comes to its shocking conclusion, and Nao seeks a way to get back into the game.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11722744/screencap/6a0b0a7562b12.jpg",
+      "airDate": "2026-05-18T15:00:00Z",
+      "runtime": 24,
+      "rating": "6.30",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Downsizing Game",
+      "titles": {
+        "ja": "リストラゲーム",
+        "en": "Downsizing Game",
+        "x-jat": "Risutora Game"
+      },
+      "overview": "Leronira explains what this game will entail, and the players begin making their first plans.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11722745/screencap/6a1430b717941.jpg",
+      "airDate": "2026-05-25T15:00:00Z",
+      "runtime": 24,
+      "rating": "9.36",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Light and Darkness",
+      "titles": {
+        "ja": "光と闇",
+        "en": "Light and Darkness",
+        "x-jat": "Hikari to Yami"
+      },
+      "overview": "Nao makes a desperate ploy to climb out from the depths of despair.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11722746/screencap/6a1d63b22147e.jpg",
+      "airDate": "2026-06-01T15:00:00Z",
+      "runtime": 24,
+      "rating": "9.36",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Salvation",
+      "titles": {
+        "ja": "救済",
+        "en": "Salvation",
+        "x-jat": "Kyuusai"
+      },
+      "overview": "The other Revival Round players scramble for the votes to save themselves.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11722747/screencap/6a26c069a6aa6.jpg",
+      "airDate": "2026-06-08T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Contraband Game",
+      "titles": {
+        "ja": "密輸ゲーム",
+        "en": "Contraband Game",
+        "x-jat": "Mitsuyu Game"
+      },
+      "overview": "Leronira introduces the surviving players to the complex rules of the Contraband Game.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11722748/screencap/6a3004c24e512.jpg",
+      "airDate": "2026-06-15T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "Yokoya",
+      "titles": {
+        "ja": "ヨコヤ",
+        "en": "Yokoya",
+        "x-jat": "Yokoya"
+      },
+      "overview": "The game begins, and both teams lay out the strategies they will follow in the opening rounds.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11722749/screencap/6a3946ee4ced7.jpg",
+      "airDate": "2026-06-22T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": "Fissures",
+      "titles": {
+        "ja": "分裂",
+        "en": "Fissures",
+        "x-jat": "Bunretsu"
+      },
+      "overview": "Kikuzawa tests his surefire method for detecting contraband, while Akiyama and Nao try to figure out Yokoya.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856829/screencap/6a42c5cf5bde2.jpg",
+      "airDate": "2026-06-29T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 14,
+      "title": "Dictatorship",
+      "titles": {
+        "ja": "独裁",
+        "en": "Dictatorship",
+        "x-jat": "Dokusai"
+      },
+      "overview": "The Country of Day team corners Kikuzawa to make him reveal how he knew Yokoya before entering the game.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856830/screencap/6a4bb3bbe0428.jpg",
+      "airDate": "2026-07-06T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 15,
+      "title": "Secret Plan",
+      "titles": {
+        "ja": "秘策",
+        "en": "Secret Plan",
+        "x-jat": "Hisaku"
+      },
+      "overview": "Akiyama comes up with a plan to compensate for the Country of Day's weaknesses, but Yokoya also makes a move.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856831/screencap/6a54b58cf40d7.jpg",
+      "airDate": "2026-07-13T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 16,
+      "title": "Turbulence",
+      "titles": {
+        "ja": "攪乱",
+        "en": "Turbulence",
+        "x-jat": "Kakuran"
+      },
+      "overview": "Akiyama concocts a new plan to pull his team out of a hopeless situation.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856832/screencap/6a5e479f4cbd4.jpg",
+      "airDate": "2026-07-20T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 17,
+      "title": "Tip-off",
+      "titles": {
+        "ja": "密告",
+        "en": "Tip-off",
+        "x-jat": "Mikkoku"
+      },
+      "overview": "The curtain is pulled back on the Country of Night and the system of control used by Yokoya.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856833/screencap/6a674bac08ccd.jpg",
+      "airDate": "2026-07-27T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 18,
+      "title": "Caution",
+      "titles": {
+        "ja": "警戒",
+        "en": "Caution",
+        "x-jat": "Keikai"
+      },
+      "overview": "Yokoya learns of Akiyama's plot and begins his counter-strategy.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856834/screencap/6a70847f9a0ab.jpg",
+      "airDate": "2026-08-03T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 19,
+      "title": "Solidarity",
+      "titles": {
+        "ja": "連帯",
+        "en": "Solidarity",
+        "x-jat": "Rentai"
+      },
+      "overview": "The Contraband Game reaches its climax and the final standings are revealed.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856835/screencap/6a79baa1cfb31.jpg",
+      "airDate": "2026-08-10T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 20,
+      "title": "Provocation",
+      "titles": {
+        "ja": "挑発",
+        "en": "Provocation",
+        "x-jat": "Chouhatsu"
+      },
+      "overview": "After the smuggling game ends, it is time to see how much money each player has earned.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856836/screencap/6a82fa8e9d58f.jpg",
+      "airDate": "2026-08-17T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 21,
+      "title": "Spearhead Match",
+      "titles": {
+        "ja": "先鋒戦",
+        "en": "Spearhead Match",
+        "x-jat": "Senpou Sen"
+      },
+      "overview": "The rules for the Spearhead Match are explained and Fukunaga comes strong out of the gate.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856837/screencap/6a8c400fcb525.jpg",
+      "airDate": "2026-08-24T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 22,
+      "title": "Trap",
+      "titles": {
+        "ja": "罠",
+        "en": "Trap",
+        "x-jat": "Wana"
+      },
+      "overview": "Nao notices a contradiction in the Spearhead Match incentives.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856838/screencap/6a958a6f356a9.jpg",
+      "airDate": "2026-08-31T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 23,
+      "title": "Core Match",
+      "titles": {
+        "ja": "中堅戦",
+        "en": "Core Match",
+        "x-jat": "Chuuken Sen"
+      },
+      "overview": "The rules of Seventeen Poker are explained and appear to give Akiyama's opponent an advantage.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856839/screencap/6a9ed936a36cc.jpg",
+      "airDate": "2026-09-07T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 24,
+      "title": "Counterattack",
+      "titles": {
+        "ja": "逆襲",
+        "en": "Counterattack",
+        "x-jat": "Gyakushuu"
+      },
+      "overview": "Kikuchi uses his natural advantage to get the upper hand on Akiyama.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11856840/screencap/6aa815361c41b.jpg",
+      "airDate": "2026-09-14T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 25,
+      "title": "General Match",
+      "titles": {
+        "ja": "大将戦",
+        "en": "General Match",
+        "x-jat": "Taishou Sen"
+      },
+      "overview": "The result of the Core Match is revealed, and the final game's rules are explained.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11958258/screencap/6ab125440e2e2.jpg",
+      "airDate": "2026-09-21T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 25,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 26,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-28T15:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 26,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 26,
+  "updatedAt": "2026-09-23T10:33:05.606Z"
+}

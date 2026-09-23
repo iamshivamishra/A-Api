@@ -1,0 +1,560 @@
+{
+  "anilistId": 196187,
+  "malId": 62076,
+  "route": "super-no-ura-de-yani-suu-futari",
+  "titles": {
+    "romaji": "Super no Ura de Yani Suu Futari",
+    "english": "Smoking Behind the Supermarket with You",
+    "native": "スーパーの裏でヤニ吸うふたり"
+  },
+  "anilist": {
+    "id": 196187,
+    "idMal": 62076,
+    "title": {
+      "romaji": "Super no Ura de Yani Suu Futari",
+      "english": "Smoking Behind the Supermarket with You",
+      "native": "スーパーの裏でヤニ吸うふたり"
+    },
+    "synonyms": [
+      "Behind the supermarket, smoking with you.",
+      "ヤニすう",
+      "YaniSuu",
+      "Paląc z tobą na tyłach sklepu",
+      "สองสิงห์อมควันหลังซูเปอร์มาร์เก็ต"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196187-0dgFi2CPp3xn.jpg",
+      "color": "#f1c9bb"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
+    "description": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”\n<br><br>\n(Source: Crunchyroll)<br><br>\n\n<i>Note: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which started on July 10th, 2026.</i>",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 10
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 82,
+    "meanScore": 82,
+    "popularity": 122986,
+    "favourites": 3882,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790261760,
+      "timeUntilAiring": 144303
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Asahi Production"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/yanisuu_anime"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://yanisuu.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378116/smoking-behind-the-supermarket-with-you"
+      },
+      {
+        "site": "Netflix",
+        "url": "https://www.netflix.com/title/82757039"
+      }
+    ],
+    "trailer": {
+      "id": "aOOwNK6Ul6E",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Seinen",
+      "Slice of Life"
+    ],
+    "studios": [
+      "Asahi Production"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4uNgvSb",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378116/smoking-behind-the-supermarket-with-you",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4x6D4CG",
+        "name": "Amazon"
+      },
+      {
+        "platform": "netflix",
+        "url": "www.netflix.com/title/82757039",
+        "name": "Netflix"
+      }
+    ],
+    "subTime": "2026-08-06T15:30:00Z",
+    "dubTime": "2026-08-06T15:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-17T14:45:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-24T14:56:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 15:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-17T14:45:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-24T15:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 15:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Smoking Behind the Supermarket with You",
+      "titles": {
+        "ja": "スーパーの裏でヤニ吸うふたり",
+        "en": "Smoking Behind the Supermarket with You",
+        "x-jat": "Super no Ura de Yani Suu Futari"
+      },
+      "overview": "Sasaki has a cigarette and nowhere to smoke it—until a pierced stranger calls out to him in the night.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11249782/screencap/6a202b22c335b.jpg",
+      "airDate": "2026-07-09T14:45:00Z",
+      "runtime": 24,
+      "rating": "5.63",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Cheering Up Behind the Supermarket with You",
+      "titles": {
+        "ja": "スーパーの裏で添えるふたり",
+        "en": "Cheering Up Behind the Supermarket with You",
+        "x-jat": "Super no Ura de Soeru Futari"
+      },
+      "overview": "Between cigarettes, Tayama and Sasaki share the problems they've had at work.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824266/screencap/6a202b6b01813.jpg",
+      "airDate": "2026-07-16T14:45:00Z",
+      "runtime": 24,
+      "rating": "6.89",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Smoking Behind the Supermarket with You and More",
+      "titles": {
+        "ja": "スーパーの裏で贈るふたり",
+        "en": "Smoking Behind the Supermarket with You and More",
+        "x-jat": "Super no Ura de Okuru Futari"
+      },
+      "overview": "Between cigarettes, Tayama gives Sasaki a gift, and Sasaki decides to return the favor.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824267/screencap/6a202ba3f024c.jpg",
+      "airDate": "2026-07-23T14:45:00Z",
+      "runtime": 24,
+      "rating": "6.71",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Learning Behind the Supermarket with You",
+      "titles": {
+        "ja": "スーパーの裏で学ぶひとり",
+        "en": "Learning Behind the Supermarket with You",
+        "x-jat": "Super no Ura de Manabu Hitori"
+      },
+      "overview": "Between cigarettes, Sasaki learns to use a smartphone and gets to know Tayama better.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824268/screencap/6a202be3a55df.jpg",
+      "airDate": "2026-07-30T14:45:00Z",
+      "runtime": 24,
+      "rating": "6.01",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Hanging Behind the Supermarket with You",
+      "titles": {
+        "ja": "スーパーの裏でかけるふたり",
+        "en": "Hanging Behind the Supermarket with You",
+        "x-jat": "Super no Ura de Kakeru Futari"
+      },
+      "overview": "Poor Sasaki endures 15 grueling days at work and barely gets to see Tayama.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824269/screencap/6a202c1faf9a3.jpg",
+      "airDate": "2026-08-06T14:45:00Z",
+      "runtime": 24,
+      "rating": "7.01",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Lingering Scent Behind the Supermarket with You",
+      "titles": {
+        "ja": "スーパーの裏に残る匂い",
+        "en": "Lingering Scent Behind the Supermarket with You",
+        "x-jat": "Super no Ura ni Nokoru Nioi"
+      },
+      "overview": "Between cigarette and cigarette, Sasaki has a health check and is concerned about the results.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824270/screencap/6a202c6397fae.jpg",
+      "airDate": "2026-08-13T14:45:00Z",
+      "runtime": 24,
+      "rating": "7.30",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "The End of Summer Behind the Supermarket with You",
+      "titles": {
+        "ja": "スーパーの裏と夏の終わり",
+        "en": "The End of Summer Behind the Supermarket with You",
+        "x-jat": "Super no Ura to Natsu no Owari"
+      },
+      "overview": "Gotou tells Yamada to take an exam as summer bows out along with its associated shenanigans.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824850/screencap/6a2d48ff5eb73.jpg",
+      "airDate": "2026-08-20T14:45:00Z",
+      "runtime": 24,
+      "rating": "6.70",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Searching Behind the Supermarket with You",
+      "titles": {
+        "ja": "スーパーの裏から見つけるふたり",
+        "en": "Searching Behind the Supermarket with You",
+        "x-jat": "Super no Ura kara Mitsukeru Futari"
+      },
+      "overview": "Tayama has lost something dear to her, and it has to be found in secret!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824851/screencap/6a2d4931c5330.jpg",
+      "airDate": "2026-08-27T14:45:00Z",
+      "runtime": 24,
+      "rating": "5.67",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Asking Behind the Supermarket Alone",
+      "titles": {
+        "ja": "スーパーの裏で触れるひとり",
+        "en": "Asking Behind the Supermarket Alone",
+        "x-jat": "Super no Ura de Fureru Hitori"
+      },
+      "overview": "The supermarket employees discover a whole new fact about Sasaki. How will Tayama take it?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824852/screencap/6a2d49711c695.jpg",
+      "airDate": "2026-09-03T14:45:00Z",
+      "runtime": 24,
+      "rating": "4.82",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Shining Behind the Supermarket with You",
+      "titles": {
+        "ja": "スーパーの裏で光るふたり",
+        "en": "Shining Behind the Supermarket with You",
+        "x-jat": "Super no Ura de Hikaru Futari"
+      },
+      "overview": "As Christmas rolls around, Sasaki runs into an unfamiliar face in the smoking area.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824853/screencap/6a2d49a25b009.jpg",
+      "airDate": "2026-09-10T14:45:00Z",
+      "runtime": 24,
+      "rating": "2.61",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Hello from Behind the Supermarket",
+      "titles": {
+        "ja": "スーパーの裏で迎える声",
+        "en": "Hello from Behind the Supermarket",
+        "x-jat": "Super no Ura de Mukaeru Koe"
+      },
+      "overview": "Gotou wants an end-of-year favor from Sasaki, and it involves a phone.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824854/screencap/6a2d49c19d905.jpg",
+      "airDate": "2026-09-17T14:45:00Z",
+      "runtime": 24,
+      "rating": "3.70",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "Keeping It Going Behind the Supermarket with You",
+      "titles": {
+        "ja": "スーパーの裏で続くふたり",
+        "en": "Keeping It Going Behind the Supermarket with You",
+        "x-jat": "Super no Ura de Tsuzuku Futari"
+      },
+      "overview": null,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11824855/screencap/6a2d49daadfa9.jpg",
+      "airDate": "2026-09-24T14:45:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": "O1",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 15,
+      "rating": "6.20",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O2",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 15,
+      "rating": "7.16",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O3",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 15,
+      "rating": "8.25",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O4",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 15,
+      "rating": "9.16",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O5",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 15,
+      "rating": "8.25",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O6",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 15,
+      "rating": "9.16",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O7",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 15,
+      "rating": "9.16",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O8",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 15,
+      "rating": "8.25",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O9",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 9,
+      "rating": "7.65",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O10",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 20,
+      "rating": "9.49",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O11",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 15,
+      "rating": "7.65",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "O12",
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-06-03",
+      "runtime": 15,
+      "rating": "8.40",
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.638Z"
+}

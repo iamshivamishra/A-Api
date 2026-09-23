@@ -1,0 +1,365 @@
+{
+  "anilistId": 199748,
+  "malId": 62617,
+  "route": "koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita",
+  "titles": {
+    "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+    "english": "I Became a Legend After My 10 Year-Long Last Stand",
+    "native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。"
+  },
+  "anilist": {
+    "id": 199748,
+    "idMal": 62617,
+    "title": {
+      "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+      "english": "I Became a Legend After My 10 Year-Long Last Stand",
+      "native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。"
+    },
+    "synonyms": [
+      "KokoOre",
+      "ここ俺"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199748-PAFk9pGSUmFL.png",
+      "color": "#5dd6f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199748-H2JAicBqBq3b.jpg",
+    "description": "Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br>\n(Source: Crunchyroll)\n<br><br>\n\n<i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i>",
+    "format": "ONA",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 23,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 18
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": 62,
+    "meanScore": 63,
+    "popularity": 40979,
+    "favourites": 560,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Gekkou"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://kokoore-anime.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/kokoore_anime"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@gree_ent_anime"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00371671"
+      }
+    ],
+    "trailer": {
+      "id": "_9FRdFYJOdg",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Demons",
+      "Fantasy"
+    ],
+    "studios": [
+      "Gekkou"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4vJHBdr",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00371671",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4xJfwnh",
+        "name": "Amazon"
+      }
+    ],
+    "subTime": "2026-07-03T14:00:00Z",
+    "dubTime": "2026-06-16T13:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-21T13:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "When I Returned Home, I`d Become a Hero",
+      "titles": {
+        "ja": "帰ったら英雄になっていた",
+        "en": "When I Returned Home, I`d Become a Hero",
+        "de": "Ich kehrte heim und galt als Legende",
+        "x-jat": "Modottara Eiyuu ni Natteita"
+      },
+      "overview": "Luck stays behind to fight Demons so his friends can escape, but the battle lasts longer than he anticipates!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11373212/screencap/6a47325e15a30.jpg",
+      "airDate": "2026-07-06T13:00:00Z",
+      "runtime": 24,
+      "rating": "5.49",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "There Was a Formidable Foe Deep Inside the Den",
+      "titles": {
+        "ja": "巣穴の奥にとんでもない敵がいた",
+        "en": "There Was a Formidable Foe Deep Inside the Den",
+        "de": "Der fürchterliche Feind in der Tiefe des Nests",
+        "x-jat": "Suana no Oku ni Tondemonai Teki ga Ita"
+      },
+      "overview": "Lock and Sia uncover a vampire plot that suggests the kingdom isn't as safe and peaceful as everyone believes.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871124/screencap/6a5034a36b7dd.jpg",
+      "airDate": "2026-07-13T13:00:00Z",
+      "runtime": 24,
+      "rating": "5.54",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "She Suspects I`m Her Bastard Brother, and Now We`re Going on Her First Adventure",
+      "titles": {
+        "ja": "隠し子疑惑を向けられた上, 初冒険に付き合うことになった",
+        "en": "She Suspects I`m Her Bastard Brother, and Now We`re Going on Her First Adventure",
+        "de": "Ich begleite die auf ihr erstes Abenteuer, die mich als uneheliches Kind ihres Vaters sieht",
+        "x-jat": "Kakushigo Giwaku o Mukerareta Ue, Hatsu Bouken ni Tsukiau Koto ni Natta"
+      },
+      "overview": "Lock accompanies Celliss on her first adventure, during which they meet a boy with an unusual companion.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871125/screencap/6a5a06959fb87.jpg",
+      "airDate": "2026-07-20T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.71",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "After Ten Years, I`m Even in a Picture Book",
+      "titles": {
+        "ja": "10年たったら絵本にまでなっていた",
+        "en": "After Ten Years, I`m Even in a Picture Book",
+        "de": "Nach zehn Jahren bin ich sogar in Bilderbüchern zu finden",
+        "x-jat": "Juunen Tattara Ehon ni made Natteita"
+      },
+      "overview": "When they find out a vampire high lord is after Gerberga, Lock and friends start planning a counterattack.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871126/screencap/6a6355d0014fd.jpg",
+      "airDate": "2026-07-27T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.96",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "After Ten Years, I Was Told to Get Lost",
+      "titles": {
+        "ja": "10年たって先に行けと言われた",
+        "en": "After Ten Years, I Was Told to Get Lost",
+        "de": "Zehn Jahre später soll ich der sein, der jemanden zurücklässt",
+        "x-jat": "Juunen tatte Saki ni Ike to Iwareta"
+      },
+      "overview": "Once the royal palace comes under attack, Lock decides it's time to take the fight to the vampire high lord.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871127/screencap/6a6c8cf6b6c9c.jpg",
+      "airDate": "2026-08-03T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.24",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "After Ten Years, I Started a Family",
+      "titles": {
+        "ja": "10年たったら家族ができた",
+        "en": "After Ten Years, I Started a Family",
+        "de": "Zehn Jahre später eine Familie gründen",
+        "x-jat": "Juunen Tattara Kazoku ga Dekita"
+      },
+      "overview": "Lock's life takes some unexpected turns after the battle against the vampire high lord.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871128/screencap/6a75ccf929d59.jpg",
+      "airDate": "2026-08-10T13:00:00Z",
+      "runtime": 24,
+      "rating": "3.78",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "The Trespasser and the Secret Passageway",
+      "titles": {
+        "ja": "侵入者と秘密の通路",
+        "en": "The Trespasser and the Secret Passageway",
+        "de": "Der Eindringling und der Geheimgang",
+        "x-jat": "Shinnyuusha to Himitsu no Tsuuro"
+      },
+      "overview": "Lock's new house proves to be full of surprises. Meanwhile, trouble is brewing in the slums.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871129/screencap/6a7f06f1b9c9c.jpg",
+      "airDate": "2026-08-17T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.34",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "The Party Is Complete for the First Time in 10 Years",
+      "titles": {
+        "ja": "10年ぶりにパーティが揃った",
+        "en": "The Party Is Complete for the First Time in 10 Years",
+        "de": "Die Heldengruppe ist nach zehn Jahren wiedervereint",
+        "x-jat": "Juunenburi ni Party ga Sorotta"
+      },
+      "overview": "Lock goes to confront Cavino about Milca, and uncovers a much bigger conspiracy than expected.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871130/screencap/6a87906877e6a.jpg",
+      "airDate": "2026-08-24T13:00:00Z",
+      "runtime": 24,
+      "rating": "3.05",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Mythical Beasts That Lurk in the Darkness",
+      "titles": {
+        "ja": "闇に潜む魔獣たち",
+        "en": "Mythical Beasts That Lurk in the Darkness",
+        "x-jat": "Yami ni Hisomu Majuu-tachi"
+      },
+      "overview": "Lock and the gang investigate the sewers when Ario and Ginny take too long coming back from a quest.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871131/screencap/6a916ee39b5d7.jpg",
+      "airDate": "2026-08-31T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.08",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Storming the Enemy Position",
+      "titles": {
+        "ja": "敵陣突入",
+        "en": "Storming the Enemy Position",
+        "x-jat": "Tekijin Totsunyuu"
+      },
+      "overview": "Lock takes it personally when there's a vampire assault on his home. He and Eric launch a counterassault.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871132/screencap/6a9a180f18188.jpg",
+      "airDate": "2026-09-07T13:00:00Z",
+      "runtime": 24,
+      "rating": "3.52",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "I Fought for Ten Years, so I Can Easily Defeat Demons",
+      "titles": {
+        "ja": "10年戦ったから魔神は余裕で倒せる",
+        "en": "I Fought for Ten Years, so I Can Easily Defeat Demons",
+        "x-jat": "Juunen Tatakatta kara Majin wa Yoyuu de Taoseru"
+      },
+      "overview": "Lock goes to save Philly from the vampire high lord, and finds something even more sinister waiting.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871133/screencap/6aa34e32d802a.jpg",
+      "airDate": "2026-09-14T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.12",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Leave the Next Ten Years and Beyond to Me Too",
+      "titles": {
+        "ja": "これからの10年もその先も俺に任せろ",
+        "en": "Leave the Next Ten Years and Beyond to Me Too",
+        "x-jat": "Kore kara no Juunen mo Sono Saki mo Ore ni Makasero"
+      },
+      "overview": "Lock faces off against one of the dark gods, while his friends fight vampires and help however they can.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871134/screencap/6aad3a3397600.jpg",
+      "airDate": "2026-09-21T13:00:00Z",
+      "runtime": 24,
+      "rating": "2.85",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T06:30:28.997Z"
+}

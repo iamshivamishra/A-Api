@@ -1,0 +1,359 @@
+{
+  "anilistId": 191832,
+  "malId": 61607,
+  "route": "shi-guang-dai-li-ren-3",
+  "titles": {
+    "romaji": "Shiguang Dailiren III",
+    "english": "Link Click Season 3",
+    "native": "时光代理人 第三季"
+  },
+  "anilist": {
+    "id": 191832,
+    "idMal": 61607,
+    "title": {
+      "romaji": "Shiguang Dailiren III",
+      "english": "Link Click Season 3",
+      "native": "时光代理人 第三季"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191832-bsnCaLNVjzEw.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191832-bsnCaLNVjzEw.png",
+      "color": "#d66b1a"
+    },
+    "bannerImage": null,
+    "description": "The third season of <i>Shiguang Dailiren</i>.",
+    "format": "ONA",
+    "status": "RELEASING",
+    "episodes": null,
+    "duration": 21,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 8,
+      "day": 14
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Supernatural",
+      "Thriller"
+    ],
+    "averageScore": 84,
+    "meanScore": 86,
+    "popularity": 16942,
+    "favourites": 335,
+    "source": "ORIGINAL",
+    "countryOfOrigin": "CN",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 8,
+      "airingAt": 1790305200,
+      "timeUntilAiring": 187743
+    },
+    "studios": {
+      "nodes": []
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/sgdlr_offical/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GP5HJ8E81/link-click"
+      },
+      {
+        "site": "Bilibili",
+        "url": "https://www.bilibili.com/bangumi/media/md26949780"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://youtube.com/playlist?list=PLU90m5tcq7b0&si=pg_BN47xePVo7POD"
+      }
+    ],
+    "trailer": {
+      "id": "4HJNiZV0HJ4",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Supernatural",
+      "Superpower",
+      "Thriller"
+    ],
+    "studios": [
+      "CMC Media"
+    ],
+    "mediaTypes": [
+      "ONA (Chinese)"
+    ],
+    "lengthMin": 21,
+    "description": "The third season of <span class=\"italics\">Shiguang Dailiren</span>.\r<br>\r<br>After the Li Tianchen incident came to a close, Time Photo Studio returned to a superficial peace. However, the news of Xia Fei&#39;s disappearance once again drew everyone into a crossroads of fate. With Vein&#39;s return and Qiao Ling&#39;s awakening of her superpowers, Cheng Xiaoshi and Lu Guang gradually uncover the secrets of the Bahati fire case, and Cheng Xiaoshi&#39;s father, Cheng Weimin, and mother, Shao Yuanyuan, also seem to have intricate connections to it. As the investigation deepens, Liu Xiao from a mysterious organization begins his operation, and the intervention of Yingdu police officer Jae further complicates this pursuit of the truth...\r<br>\r<br>(Source: Bilibili, translated)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3S9HrNS",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GP5HJ8E81/link-click",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLU90m5tcq7b0",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2410703",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-08-28T03:01:00Z",
+    "dubTime": "2026-08-28T03:01:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 7,
+      "airedAt": "2026-09-18T03:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 8,
+      "at": "2026-09-25T03:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 03:01 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 4,
+      "airedAt": "2026-08-28T03:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 5,
+      "at": "2026-09-25T03:01:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 03:01 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Forgotten Past",
+      "titles": {
+        "en": "The Forgotten Past",
+        "de": "Vergessene Vergangenheit",
+        "zh-Hans": "遗忘的过去"
+      },
+      "overview": "An adoptive father, an old photo, and the day two powers first crossed paths.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11854073/screencap/6a8038472ac6c.jpg",
+      "airDate": "2026-08-14T03:00:00Z",
+      "runtime": 21,
+      "rating": null,
+      "absoluteEpisodeNumber": 31,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "The Caged Beast",
+      "titles": {
+        "en": "The Caged Beast",
+        "de": "Eingesperrt",
+        "zh-Hans": "困兽"
+      },
+      "overview": "Searching for Xia Fei means going where no one looks. That has never stopped Cheng Xiaoshi.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923562/screencap/6a8038e9a447d.jpg",
+      "airDate": "2026-08-14T03:00:00Z",
+      "runtime": 21,
+      "rating": null,
+      "absoluteEpisodeNumber": 32,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Bloodbath in Laos",
+      "titles": {
+        "en": "Bloodbath in Laos",
+        "de": "Blutbad in Myanlao",
+        "zh-Hans": "血洗缅挝"
+      },
+      "overview": "Faced with a crisis, can Cheng Xiaoshi save Xia Fei, or will help come from someone else?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923563/screencap/6a8a535e335ca.jpg",
+      "airDate": "2026-08-21T03:00:00Z",
+      "runtime": 20,
+      "rating": null,
+      "absoluteEpisodeNumber": 33,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Jae",
+      "titles": {
+        "en": "Jae",
+        "de": "Jae",
+        "zh-Hans": "JAE"
+      },
+      "overview": "A mysterious visitor from Bridon disrupts the photo studio's peace. What has he come for?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923564/screencap/6a910d4d82e77.jpg",
+      "airDate": "2026-08-28T03:00:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 34,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Welcome Banquet",
+      "titles": {
+        "en": "Welcome Banquet",
+        "zh-Hans": "接风宴"
+      },
+      "overview": "Over a steaming hot pot feast, rival factions quietly begin to clash.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923565/screencap/6aa66e2e81497.jpg",
+      "airDate": "2026-09-04T03:00:00Z",
+      "runtime": 22,
+      "rating": null,
+      "absoluteEpisodeNumber": 35,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "Testing the Waters",
+      "titles": {
+        "en": "Testing the Waters",
+        "zh-Hans": "试探"
+      },
+      "overview": "A forgotten childhood photo resurfaces in a test across time and space. But who is the real prey?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11923566/screencap/6aa66e818a093.jpg",
+      "airDate": "2026-09-11T03:00:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 36,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Chinatown Investigation",
+      "titles": {
+        "en": "Chinatown Investigation",
+        "zh-Hans": "唐人街探案"
+      },
+      "overview": "Cheng Xiaoshi possesses a young Vein and encounters Xia Fei's father in Chinatown, uncovering a cruel truth.",
+      "image": null,
+      "airDate": "2026-09-18T03:00:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 37,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-25T03:00:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 38,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-02T03:00:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 39,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-09T03:00:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 40,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-16T03:00:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 41,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-23T03:00:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 42,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.647Z"
+}

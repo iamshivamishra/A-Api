@@ -1,0 +1,377 @@
+{
+  "anilistId": 190569,
+  "malId": 61483,
+  "route": "tenmaku-no-jaadugar",
+  "titles": {
+    "romaji": "Tenmaku no Jaadugar",
+    "english": "Jaadugar: A Witch in Mongolia",
+    "native": "天幕のジャードゥーガル"
+  },
+  "anilist": {
+    "id": 190569,
+    "idMal": 61483,
+    "title": {
+      "romaji": "Tenmaku no Jaadugar",
+      "english": "Jaadugar: A Witch in Mongolia",
+      "native": "天幕のジャードゥーガル"
+    },
+    "synonyms": [
+      "A Witch's Life in Mongol",
+      "Jaadugar, la légende de Fatima"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190569-KnCQLI3Z8hPX.jpg",
+      "color": "#50a1e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
+    "description": "After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 23,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 12
+    },
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "averageScore": 84,
+    "meanScore": 84,
+    "popularity": 43993,
+    "favourites": 1207,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Science SARU"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/anime_jaadugar"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/Jaadugar_global"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://anime-jaadugar.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378078/jaadugar-a-witch-in-mongolia"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://anime-jaadugar.com/en/"
+      }
+    ],
+    "trailer": {
+      "id": "GBHYXPp1lt8",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Drama",
+      "Historical"
+    ],
+    "studios": [
+      "Science SARU"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4ayYgbb",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378078/jaadugar-a-witch-in-mongolia",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4qsKWMk",
+        "name": "Amazon"
+      }
+    ],
+    "subTime": "2026-07-04T16:00:00Z",
+    "dubTime": "2026-07-17T16:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-12T14:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Saturday 16:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-05T14:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-26T16:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 16:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "All That Is in the Heavens and All That Is in the Earth",
+      "titles": {
+        "ja": "天にあるもの 地にあるもの",
+        "en": "All That Is in the Heavens and All That Is in the Earth",
+        "fr": "Tout ce qui est dans les cieux et sur la terre",
+        "x-jat": "Ten ni Aru Mono Chi ni Aru Mono"
+      },
+      "overview": "Sitara, a young slave girl, is sold to a family of scholars, where she begins her journey of knowledge.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11083486/screencap/6a49207865493.jpg",
+      "airDate": "2026-07-04T14:00:00Z",
+      "runtime": 24,
+      "rating": "6.37",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "The Roses That Bloom in Safar",
+      "titles": {
+        "ja": "サファルに咲く薔薇",
+        "en": "The Roses That Bloom in Safar",
+        "fr": "Roses en fleurs au mois de Safar",
+        "x-jat": "Safar ni Saku Bara"
+      },
+      "overview": "As nomads sack the city of Tun, Fatima and Sitara hide in the basement and wait for the others to return.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11813139/screencap/6a4920625e4fc.jpg",
+      "airDate": "2026-07-04T14:00:00Z",
+      "runtime": 24,
+      "rating": "8.00",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "An Undying Flame",
+      "titles": {
+        "ja": "消しえぬ炎",
+        "en": "An Undying Flame",
+        "fr": "Des flammes inextinguibles",
+        "x-jat": "Keshienu Honoo"
+      },
+      "overview": "Sitara teams up with an unexpected ally in hopes of reclaiming Fatima's book that was stolen by the Mongols.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872301/screencap/6a4f654cb74e1.jpg",
+      "airDate": "2026-07-11T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.58",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "Otchigin",
+      "titles": {
+        "ja": "炉の主[オッチギン]",
+        "en": "Otchigin",
+        "fr": "Otchigin, le prince de feu",
+        "x-jat": "Otchigin"
+      },
+      "overview": "Sitara begins tutoring Sorghaghtani in Euclid's Elements, and learns more about Prince Tolui, the Otchigin.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872302/screencap/6a58afc2cc97f.jpg",
+      "airDate": "2026-07-18T14:00:00Z",
+      "runtime": 24,
+      "rating": "9.04",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "A Snake Shows Its Colors, Man Hides His Colors",
+      "titles": {
+        "ja": "蛇のまだらは外側に 人のまだらは内側に",
+        "en": "A Snake Shows Its Colors, Man Hides His Colors",
+        "fr": "Les taches du serpent sont visibles, celles de l`homme, invisibles",
+        "x-jat": "Hebi no Madara wa Sotogawa ni Hito no Madara wa Uchigawa ni"
+      },
+      "overview": "Sitara agrees to serve as Sorghaghtani's spy, but her plans to infiltrate Chagatai's court quickly go awry.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872303/screencap/6a61fce2efe37.jpg",
+      "airDate": "2026-07-25T14:00:00Z",
+      "runtime": 24,
+      "rating": "8.08",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "The Mergen People",
+      "titles": {
+        "ja": "メルゲンの民",
+        "en": "The Mergen People",
+        "fr": "Le peuple des mergen",
+        "x-jat": "Mergen no Tami"
+      },
+      "overview": "Töregene tells the tale of her life among the Merkits, a confederation of tribes renowned for their archery.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872304/screencap/6a6b4f9413fd8.jpg",
+      "airDate": "2026-08-01T14:00:00Z",
+      "runtime": 24,
+      "rating": "9.92",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Brothers",
+      "titles": {
+        "ja": "兄弟",
+        "en": "Brothers",
+        "fr": "Les frères",
+        "x-jat": "Kyoudai"
+      },
+      "overview": "As the Mongol Empire prepares to wage war to the east, Sitara begins to plant the seeds of political intrigue.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872305/screencap/6a74517edcd87.jpg",
+      "airDate": "2026-08-08T14:00:00Z",
+      "runtime": 24,
+      "rating": "8.73",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Great Khatun Boraqchin",
+      "titles": {
+        "ja": "大カトゥン ボラクチン",
+        "en": "Great Khatun Boraqchin",
+        "fr": "Boraqchin, la Grande khatun",
+        "x-jat": "Dai Khatun Boraqchin"
+      },
+      "overview": "After a misunderstanding, Sitara finds herself before the sickly Boraqchin, chief empress of the Mongols.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872306/screencap/6a7d8e231ad7a.jpg",
+      "airDate": "2026-08-15T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.35",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Tengri",
+      "titles": {
+        "ja": "天[テングリ]",
+        "en": "Tengri",
+        "fr": "Tengri, le ciel",
+        "x-jat": "Tengri"
+      },
+      "overview": "Ögedei and Tolui launch their offensive to take the Jin capital Kaifeng, but tragedy strikes soon after.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872307/screencap/6a86c31c0098f.jpg",
+      "airDate": "2026-08-22T14:00:00Z",
+      "runtime": 24,
+      "rating": "8.90",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Wisdom",
+      "titles": {
+        "ja": "知恵",
+        "en": "Wisdom",
+        "fr": "Le savoir",
+        "x-jat": "Chie"
+      },
+      "overview": "Tolui meets a shocking fate, and Sitara receives an unexpected item that shakes her to the core of her being.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872308/screencap/6a8ffee57e4c8.jpg",
+      "airDate": "2026-08-29T14:00:00Z",
+      "runtime": 24,
+      "rating": "7.87",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "An Ungraceful Stone",
+      "titles": {
+        "ja": "不器用な石",
+        "en": "An Ungraceful Stone",
+        "fr": "Une pierre bonne à rien",
+        "x-jat": "Bukiyou na Ishi"
+      },
+      "overview": "Six years in the past, Boraqchin encounters a stone with mysterious properties that would change her life.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872309/screencap/6a994b3e76a12.jpg",
+      "airDate": "2026-09-05T14:00:00Z",
+      "runtime": 24,
+      "rating": "8.51",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "The Steppe, Ever Unchanging",
+      "titles": {
+        "ja": "いつもと変わらない草原",
+        "en": "The Steppe, Ever Unchanging",
+        "fr": "Les steppes immuables",
+        "x-jat": "Itsumo to Kawaranai Sougen"
+      },
+      "overview": "After Sorghaghtani turns down a political marriage, Sitara continues her search for Töregene's whereabouts.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872310/screencap/6aa2732dd8a20.jpg",
+      "airDate": "2026-09-12T14:00:00Z",
+      "runtime": 24,
+      "rating": "9.49",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.769Z"
+}

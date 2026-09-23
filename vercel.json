@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/api" },
+    { "source": "/status", "destination": "/api/status" },
+    { "source": "/anime", "destination": "/api/anime" },
+    { "source": "/anime/:kind/episode/:id", "destination": "/api/anime/:kind/episode/:id" },
+    { "source": "/anime/:kind/:id", "destination": "/api/anime/:kind/:id" }
+  ],
+  "crons": [
+    { "path": "/api/sync", "schedule": "0 * * * *" }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "anilistId": 184492,
+  "malId": 60310,
+  "route": "mairimashita-iruma-kun-4",
+  "titles": {
+    "romaji": "Mairimashita! Iruma-kun 4",
+    "english": "Welcome to Demon School! Iruma-kun Season 4",
+    "native": "魔入りました！入間くん 第4シリーズ"
+  },
+  "anilist": {
+    "id": 184492,
+    "idMal": 60310,
+    "title": {
+      "romaji": "Mairimashita! Iruma-kun 4",
+      "english": "Welcome to Demon School! Iruma-kun Season 4",
+      "native": "魔入りました！入間くん 第4シリーズ"
+    },
+    "synonyms": [
+      "อิรุมะคุง ผจญในแดนปีศาจ ซีซั่น 4"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184492-KUVFGieuMaOx.jpg",
+      "color": "#f1bb28"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
+    "description": "Suzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.\n<br><br>\n(Source: Crunchyroll News)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 24,
+    "duration": 25,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 26
+    },
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "averageScore": 80,
+    "meanScore": 81,
+    "popularity": 41822,
+    "favourites": 944,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 24,
+      "airingAt": 1790414760,
+      "timeUntilAiring": 297303
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Bandai Namco Pictures"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/nep_irumakun"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/@animeofficial5506"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/iruma_kun"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://www.nhk-character.com/chara/iruma/"
+      },
+      {
+        "site": "Instagram",
+        "url": "https://www.instagram.com/nep_irumakun/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/G6NVG970Y/welcome-to-demon-school-iruma-kun"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/en/media/2342582"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1-aoCFQ-X1pmxfTVRvrRAt"
+      }
+    ],
+    "trailer": {
+      "id": "6Lo1DUCY9nY",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Spring 2026",
+      "year": "2026",
+      "season": "Spring",
+      "route": "spring-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Demons",
+      "Fantasy",
+      "Isekai",
+      "School",
+      "Shounen",
+      "Supernatural"
+    ],
+    "studios": [
+      "Bandai Namco Pictures"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 25,
+    "description": "The fourth season of <span class=\"italics\">Mairimashita! Iruma-kun</span>.<br><br>Suzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.<br><br>(Source: Crunchyroll News)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4meHpz1",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/welcome-to-demon-school-iruma-kun",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4g13ZJZ",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl1-aoCFQ-X1pmxfTVRvrRAt",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2342582",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-09-05T12:00:00Z",
+    "dubTime": "2026-09-05T12:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 23,
+      "airedAt": "2026-09-19T09:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 24,
+      "at": "2026-09-26T09:26:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 12:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 24,
+    "latestEpisode": {
+      "number": 23,
+      "airedAt": "2026-09-19T09:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 24,
+      "at": "2026-09-26T12:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 12:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "The Other Demon in the Misfit Class",
+      "titles": {
+        "en": "The Other Demon in the Misfit Class",
+        "de": "Ein neuer Dämon in der Abnormalen Klasse"
+      },
+      "overview": "The Misfit Class find out they need to compete in the Music Festival and find out they had another student.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11569767/screencap/69cbba63a5b78.jpg",
+      "airDate": "2026-04-04T09:30:00Z",
+      "runtime": 25,
+      "rating": "1.05",
+      "absoluteEpisodeNumber": 66,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "A Challenge to the Thirteen",
+      "titles": {
+        "en": "A Challenge to the Thirteen",
+        "de": "Die Herausforderung der 13"
+      },
+      "overview": "The Misfit Class try to figure out what kind of performance they're going to do for the Music Festival.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655491/screencap/69d6db70d1b69.jpg",
+      "airDate": "2026-04-11T09:30:00Z",
+      "runtime": 25,
+      "rating": "6.36",
+      "absoluteEpisodeNumber": 67,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "The Essence of a Dem-dol",
+      "titles": {
+        "en": "The Essence of a Dem-dol",
+        "de": "Die wahre Essenz einer Dem-dol"
+      },
+      "overview": "The Misfit Class decide to do the Hell Dance at the Music Festival and Kalego coaches Iruma and Purson.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655492/screencap/69e26cf152f24.jpg",
+      "airDate": "2026-04-18T09:30:00Z",
+      "runtime": 25,
+      "rating": "2.66",
+      "absoluteEpisodeNumber": 68,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "We Can`t See Him, But...",
+      "titles": {
+        "en": "We Can`t See Him, But..."
+      },
+      "overview": "Iruma wants to have a chat with Purson.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655494/screencap/69ebd7f8ee84d.jpg",
+      "airDate": "2026-04-25T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 69,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Let`s Have a Chat",
+      "titles": {
+        "en": "Let`s Have a Chat"
+      },
+      "overview": "Purson has disappeared, but Iruma doesn’t give up and decides to talk with him.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655496/screencap/69f4da9b80ad4.jpg",
+      "airDate": "2026-05-02T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 70,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "The Music Festival: Showtime!!",
+      "titles": {
+        "en": "The Music Festival: Showtime!!"
+      },
+      "overview": "The day has arrived. The Music Festival begins.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655498/screencap/69fc86bdbabea.jpg",
+      "airDate": "2026-05-09T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 71,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Lilith`s Carpet",
+      "titles": {
+        "en": "Lilith`s Carpet"
+      },
+      "overview": "Iruma and the rest of the Misfit Class perform their rendition of \"Lilith's Carpet.\"",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655500/screencap/6a045f2e7edb3.jpg",
+      "airDate": "2026-05-16T09:30:00Z",
+      "runtime": 25,
+      "rating": "9.68",
+      "absoluteEpisodeNumber": 72,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "Victory Salute",
+      "titles": {
+        "en": "Victory Salute"
+      },
+      "overview": "Iruma and the Misfit Class learn the results of the Music Festival and Purson has a chat with his father.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655502/screencap/6a0e23ee8fcb6.jpg",
+      "airDate": "2026-05-23T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 73,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Behind Those Eyes",
+      "titles": {
+        "en": "Behind Those Eyes"
+      },
+      "overview": "Asmodeus goes to fetch something from the club room and runs into someone unexpected.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655504/screencap/6a16d9b9363b7.jpg",
+      "airDate": "2026-05-30T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 74,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Triple Love Squad",
+      "titles": {
+        "en": "Triple Love Squad"
+      },
+      "overview": "Iruma and Asmodeus spend the day together having fun.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655506/screencap/6a22c1000a4df.jpg",
+      "airDate": "2026-06-06T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 75,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Best Friend Meeting / Lead`s Flirting Meeting",
+      "titles": {
+        "en": "Best Friend Meeting / Lead`s Flirting Meeting"
+      },
+      "overview": "Iruma explains friendship to the class, while Lead seeks advice on getting closer to Elizabetta.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655508/screencap/6a2c0249e8230.jpg",
+      "airDate": "2026-06-13T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 76,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "One-Year Distance and One-Centimeter Distance",
+      "titles": {
+        "en": "One-Year Distance and One-Centimeter Distance"
+      },
+      "overview": "Ameri goes to the Deviculum and contemplates her current distance with Iruma.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655511/screencap/6a360f785aef9.jpg",
+      "airDate": "2026-06-20T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 77,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 13,
+      "title": "Suzuki Iruma`s Exorcibration",
+      "titles": {
+        "en": "Suzuki Iruma`s Exorcibration"
+      },
+      "overview": "Iruma-kun celebrates his birthday for the first time in the netherworld.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655513/screencap/6a3efb670fece.jpg",
+      "airDate": "2026-06-27T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 78,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 14,
+      "title": "Infiltrate the Teacher Dorms! / A New Member Joins the Girls?!",
+      "titles": {
+        "en": "Infiltrate the Teacher Dorms! / A New Member Joins the Girls?!"
+      },
+      "overview": "Iruma visits the teacher dorms and Naphula joins the girl squad.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655515/screencap/6a45143801557.jpg",
+      "airDate": "2026-07-04T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 79,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 15,
+      "title": "The Laws of the Netherworld Dictate That One Takes After Their Master / Even Among Those Who Are Close",
+      "titles": {
+        "en": "The Laws of the Netherworld Dictate That One Takes After Their Master / Even Among Those Who Are Close"
+      },
+      "overview": "Jazz tries to deal with his familiar and Lead teaches Asmodeus how to play video games.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655516/screencap/6a51916b7885b.jpg",
+      "airDate": "2026-07-11T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 80,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 16,
+      "title": "A Misfit Casual Gathering / Netherworld Devotee",
+      "titles": {
+        "en": "A Misfit Casual Gathering / Netherworld Devotee"
+      },
+      "overview": "The Misfit Class has a party at Iruma's home and then Iruma helps Opera perform their daily duties.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655517/screencap/6a5990d35461c.jpg",
+      "airDate": "2026-07-18T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 81,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 17,
+      "title": "The Great Heroes Gather",
+      "titles": {
+        "en": "The Great Heroes Gather"
+      },
+      "overview": "The Thirteen Crowns discuss their future and nominate candidates for the next Demon King.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655518/screencap/6a6405770cb22.jpg",
+      "airDate": "2026-07-25T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 82,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 18,
+      "title": "Give the Youth All the Nutrients They Need / Crossing the Sunbeams Shining Through the Trees",
+      "titles": {
+        "en": "Give the Youth All the Nutrients They Need / Crossing the Sunbeams Shining Through the Trees"
+      },
+      "overview": "The Dinner of the Thirteen Crowns occurs and then Iruma, Asmodeus, and Clara contemplate being second-years.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655519/screencap/6a6d1c2514b5c.jpg",
+      "airDate": "2026-08-01T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 83,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 19,
+      "title": "The Dem-dol Games",
+      "titles": {
+        "en": "The Dem-dol Games"
+      },
+      "overview": "The Dem-dols Games begins.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655520/screencap/6a7de905c1cbf.jpg",
+      "airDate": "2026-08-22T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 84,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 20,
+      "title": "Team Devimuse",
+      "titles": {
+        "en": "Team Devimuse"
+      },
+      "overview": "Team Devimuse loses a member and gets an unlikely substitute.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655521/screencap/6a9215c272165.jpg",
+      "airDate": "2026-08-29T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 85,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 21,
+      "title": "The Tycoon and the Jewel",
+      "titles": {
+        "en": "The Tycoon and the Jewel"
+      },
+      "overview": "Both Gyari and Kuromu make shocking announcements at the Dem-dol Games.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655522/screencap/6a9b606f2a549.jpg",
+      "airDate": "2026-09-05T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 86,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 22,
+      "title": "The Proud Songstress",
+      "titles": {
+        "en": "The Proud Songstress"
+      },
+      "overview": "The Dem-Dol Games finally come to a close.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655523/screencap/6aa4b1f66bfcd.jpg",
+      "airDate": "2026-09-12T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 87,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 23,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Iruma goes to visit Sabro to find out more about Demon Kings.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11655524/screencap/6aad9eee21259.jpg",
+      "airDate": "2026-09-19T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 88,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 24,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-26T09:30:00Z",
+      "runtime": 25,
+      "rating": null,
+      "absoluteEpisodeNumber": 89,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 24,
+  "updatedAt": "2026-09-23T10:33:05.690Z"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "anime-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Complete anime database (sub + dub + next releases) built from AnimeSchedule, AniList and ani.zip, served over a small REST API. Zero dependencies.",
+  "scripts": {
+    "sync": "node scripts/sync.js",
+    "start": "node server.js",
+    "migrate-mongo": "node scripts/migrate-to-mongo.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "mongoose": "^9.10.2"
+  }
+}

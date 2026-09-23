@@ -1,0 +1,313 @@
+{
+  "anilistId": 202523,
+  "malId": 62983,
+  "route": "marika-chan-no-koukando-wa-bukkowareteiru",
+  "titles": {
+    "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
+    "english": "Marika's Love Meter Malfunction",
+    "native": "茉莉花ちゃんの好感度はぶっ壊れている"
+  },
+  "anilist": {
+    "id": 202523,
+    "idMal": 62983,
+    "title": {
+      "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
+      "english": "Marika's Love Meter Malfunction",
+      "native": "茉莉花ちゃんの好感度はぶっ壊れている"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202523-NHeyiypiPnGP.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202523-NHeyiypiPnGP.jpg",
+      "color": "#e44378"
+    },
+    "bannerImage": null,
+    "description": "Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!\n<br><br>\n(Source: Coolmic)\n<br><br>\n<i>Note: Episode 1 received an advanced distribution on AnimeFesta on March 13th, 2026. The start date reflects the start of the regular series broadcasting.</i>",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "episodes": 8,
+    "duration": 6,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 6,
+      "day": 8
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance",
+      "Supernatural"
+    ],
+    "averageScore": 47,
+    "meanScore": 47,
+    "popularity": 15059,
+    "favourites": 182,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "studio LEO"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/marikowa_off/"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://marikowa.af-original.com"
+      },
+      {
+        "site": "OceanVeil",
+        "url": "https://oceanveil.net/anime_titles/398"
+      },
+      {
+        "site": "OceanVeil",
+        "url": "https://oceanveil.net/anime_titles/399"
+      }
+    ],
+    "trailer": {
+      "id": "Ohd23eSaOaw",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Winter 2026",
+      "year": "2026",
+      "season": "Winter",
+      "route": "winter-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "studios": [
+      "studio LEO"
+    ],
+    "mediaTypes": [
+      "TV Short"
+    ],
+    "lengthMin": 6,
+    "description": "Confessing to my childhood friend Marika was impossible for someone as unpopular as me. So, I did what any desperate boy would do—I wished upon a shooting star! When I woke up, that dream had come true?! I could see a love meter for people, just like in a love simulation game. Once I realized this was real and not a dream I went straight to see Marika. Her love meter was so low it had broken and practically fallen all the way to hell! If she hated me so much why was she so nice?! Is this how she really felt or...?!<br><br>(Source: Coolmic)",
+    "streams": [
+      {
+        "platform": "oceanveil",
+        "url": "oceanveil.net/anime_titles/398",
+        "name": "OceanVeil"
+      }
+    ],
+    "subTime": "2026-04-09T16:01:00Z",
+    "dubTime": "2026-08-27T17:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 8,
+    "latestEpisode": {
+      "number": 8,
+      "airedAt": "2026-06-07T16:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Thursday 16:01 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 8,
+    "latestEpisode": {
+      "number": 3,
+      "airedAt": "2026-04-19T16:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 4,
+      "at": "2026-09-24T17:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 17:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Now I Can See the Lovemeter",
+      "titles": {
+        "ja": "好感度が見えるようになりました",
+        "en": "Now I Can See the Lovemeter",
+        "de": "Ich kann ihre Zuneigung sehen!"
+      },
+      "overview": "Lacking the courage to confess to my childhood friend, Marika, I make a strong wish upon a shooting star. And now, I can see the lovemeters over the girls in my class. Confused by this surreal sight, I look over at Marika, only to find that her meter's had a total meltdown to rotten depths...?! Marika, why is it that you were always so kind to me, then...? What is the real meaning behind the lovemeter...?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11632912/screencap/69b4ff44590ac.jpg",
+      "airDate": "2026-04-05T16:00:00Z",
+      "runtime": 6,
+      "rating": "2.47",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "The Highs and Lows of the Lovemeter",
+      "titles": {
+        "ja": "好感度が上がったり下がったり",
+        "en": "The Highs and Lows of the Lovemeter",
+        "de": "Ihre Zuneigung steigt und sinkt."
+      },
+      "overview": "I've got to do something about my crush, Marika's completely broken lovemeter. First, I figured I should get along with Toyotomi, whose lovemeter is low, but she treats me so harshly, I get discouraged quickly. However, after school, when I help a crying girl at the usual park and take her home, it was Toyotomi's house?! Apparently, the girl was Toyotomi's younger sister! As soon as she invites me to have dinner together as thanks, her lovemeter goes up...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703423/screencap/69dbc02921890.jpg",
+      "airDate": "2026-04-12T16:00:00Z",
+      "runtime": 6,
+      "rating": "3.97",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "The Awakening of the Lovemeter",
+      "titles": {
+        "ja": "好感度は覚醒する",
+        "en": "The Awakening of the Lovemeter",
+        "de": "Die Zuneigung erwacht."
+      },
+      "overview": "Racking my brains over what to do with Marika's lovemeter, I bump into my classmate, Mikasa, who was walking her dog at the usual park. Being fellow dog-lovers and sparking conversation over them, her lovemeter is high. I try to act uncool in order to lower Mikasa's lovemeter for the sake of my true love, Marika, but on the contrary...?! Unbeknownst to me, Marika, passing by, witnesses the whole thing...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703424/screencap/69e5015094e24.jpg",
+      "airDate": "2026-04-19T16:00:00Z",
+      "runtime": 6,
+      "rating": "2.47",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "The Unstoppable Lovemeter",
+      "titles": {
+        "ja": "好感度はナマモノですか?",
+        "en": "The Unstoppable Lovemeter",
+        "de": "Kann Zuneigung verderben?"
+      },
+      "overview": "On this day, Marika's lovemeter was completely possessed by a raged and jealous demoness, while she herself had a blank expression. I keep doing my best to approach Marika, not wanting to be disliked. No matter what I did though, she wouldn't smile. But I won't give up. Then, taking a chance, I successfully ask Marika out on a date during lunchtime! But Toyotomi appears before us, and the lovemeter undergoes a sudden change?! In response to that, Marika's lovemeter...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703425/screencap/69f772cb4abbd.jpg",
+      "airDate": "2026-05-03T16:00:00Z",
+      "runtime": 6,
+      "rating": "5.93",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "The Ever-Soaring Lovemeter",
+      "titles": {
+        "ja": "好感度は飛ぶよどこまでも",
+        "en": "The Ever-Soaring Lovemeter",
+        "de": "Zuneigung kennt keine Grenzen."
+      },
+      "overview": "I was up on cloud nine after finally landing a date with my beloved Marika at the aquarium. She loves seals, and seeing her carefree smile made it all worth it. But even though I wanted to take things further, I just couldn't muster the courage... Then, during the dolphin show, we end up getting soaked to the bone! Having prepared a change of clothes just in case, I head to our respective changing rooms... But then, the unthinkable happened?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703426/screencap/6a00b14d87c99.jpg",
+      "airDate": "2026-05-10T16:00:00Z",
+      "runtime": 6,
+      "rating": "3.97",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The Invisible Lovemeter",
+      "titles": {
+        "ja": "好感度が見えなくて",
+        "en": "The Invisible Lovemeter"
+      },
+      "overview": "Niino, a tomboyish returnee, transfers to our school, and the boys are buzzing with excitement. For some reason, I couldn't see Niino's lovemeter, but she felt strangely familiar. Why is it that Marika's smiling at me, while my heart's racing over Niino's beauty...? After school, Niino and I end up walking home together and we arrive at the usual park. This place holds so many childhood memories with Marika... Wait, could you be that girl from my memories of playing in the park...?!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703427/screencap/6a09e9cc314c6.jpg",
+      "airDate": "2026-05-17T16:00:00Z",
+      "runtime": 6,
+      "rating": "3.97",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "The Original-Exceeding Lovemeter",
+      "titles": {
+        "ja": "好感度が原作を超えた",
+        "en": "The Original-Exceeding Lovemeter"
+      },
+      "overview": "A demon was dwelling in Marika's lovemeter. During lunch break, while eating with a depressed Marika, Toyotomi comes over. Then, with a girlish expression unimaginable from her usually harsh demeanor, she asks if it's okay to eat lunch together...!? Marika's face darkens, and the demon dwelling in her lovemeter begins to rage! Then Mikasa and Niino join the fray, causing the lovemeters to undergo a climactic change!!!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703428/screencap/6a1c5c8324e4a.jpg",
+      "airDate": "2026-05-31T16:00:00Z",
+      "runtime": 6,
+      "rating": "3.97",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "The Completely Kaput Lovemeter",
+      "titles": {
+        "ja": "好感度はぶっ壊れている",
+        "en": "The Completely Kaput Lovemeter"
+      },
+      "overview": "Marika, Toyotomi, Mikasa, and Niino's lovemeters go on a rampage! I feel like I'm being suffocated by all these lovemeters... Just as I thought hard for everyone not to fight over me, I get baptized by the lovemeter only I can see, and I'm on the verge of death. Somehow I manage to confess to Marika, saying she's the one I truly love, but... With that, Marika's lovemeter goes even more completely haywire???!!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703429/screencap/6a2597e8f2dc8.jpg",
+      "airDate": "2026-06-07T16:00:00Z",
+      "runtime": 6,
+      "rating": "2.47",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": "S1",
+      "title": "Episode S1",
+      "titles": {
+        "ja": "#3.5 特番「第1話オーディオコメンタリー」",
+        "en": "Episode S1"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-04-27",
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    },
+    {
+      "number": "S2",
+      "title": "Episode S2",
+      "titles": {
+        "ja": "#6.5 特番「茉莉花ちゃんの好感度はぶっ壊れている。総集編」",
+        "en": "Episode S2"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-05-25",
+      "runtime": null,
+      "rating": null,
+      "absoluteEpisodeNumber": null,
+      "subbed": null,
+      "dubbed": null
+    }
+  ],
+  "episodeCount": 8,
+  "updatedAt": "2026-09-23T10:33:05.763Z"
+}

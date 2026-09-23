@@ -1,0 +1,157 @@
+{
+  "anilistId": 213666,
+  "malId": 63514,
+  "route": "perfect-addiction",
+  "titles": {
+    "romaji": "Perfect Addiction",
+    "english": "Perfect Addiction",
+    "native": "パーフェクトアディクション"
+  },
+  "anilist": {
+    "id": 213666,
+    "idMal": 63514,
+    "title": {
+      "romaji": "Perfect Addiction",
+      "english": "Perfect Addiction",
+      "native": "パーフェクトアディクション"
+    },
+    "synonyms": [
+      "อ้อนรักหนุ่มหน้าหวาน"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213666-nnKcumRblZi1.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213666-nnKcumRblZi1.jpg",
+      "color": "#e4bba1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213666-XoIwKhm3pXZR.jpg",
+    "description": "Akihito is a college student obsessed with looks and sex, but he can't stand the handsome-yet-aloof Sae. Things come to a head when Akihito is shot down at a singles mixer by a girl who's set her romantic sights on Sae. Furious, he follows Sae to the hotel district where he learns Sae's secret: he's gay, and a bottom. Sae confesses he's been having trouble feeling pleasure from sex. Breaking through Sae's mental barriers is exactly the lovemaking challenge Akihito needed. It awakens something in them both. Will they ever be able to control themselves again?<br><br>\n(Source: Seven Seas Entertainment)",
+    "format": "ONA",
+    "status": "RELEASING",
+    "episodes": null,
+    "duration": 5,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 8
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "averageScore": 54,
+    "meanScore": 58,
+    "popularity": 2893,
+    "favourites": 27,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790168400,
+      "timeUntilAiring": 50943
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Imagica Infos"
+        },
+        {
+          "name": "Imageworks Studio"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://animationid.com/perfectaddiction/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/BALOON_project"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@balloonpj"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/@BALLOON.project"
+      },
+      {
+        "site": "OceanVeil",
+        "url": "https://oceanveil.net/anime_titles/"
+      }
+    ],
+    "trailer": {
+      "id": "F087cECqMr8",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Romance"
+    ],
+    "studios": [
+      "Imagica Infos"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 6,
+    "description": "Akihito is a college student obsessed with good looks and carnal pleasure, but he can’t stand the handsome-yet-aloof Sae. Things come to a head when Akihito is shot down at a singles mixer by a girl who’s set her romantic sights on Sae. Furious, he follows Sae to the hotel district where he learns Sae’s secret: he’s gay, and he’s having trouble enjoying himself in the bedroom. Breaking through Sae’s mental barriers is exactly the sexy challenge Akihito needed. It awakens something in them both. Will they ever be able to control themselves again?\r<br>\r<br>(Source: Seven Seas Entertainment)",
+    "streams": [
+      {
+        "platform": "oceanveil",
+        "url": "oceanveil.net/anime_titles/470",
+        "name": "OceanVeil"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLMRG8SXjiYaE",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-07-08T13:01:00Z",
+    "dubTime": "2026-06-30T13:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": null,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": null
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-23T13:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Wednesday 13:01 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": null,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Tuesday 13:00 UTC"
+  },
+  "episodes": [],
+  "episodeCount": null,
+  "updatedAt": "2026-09-23T10:33:05.619Z"
+}

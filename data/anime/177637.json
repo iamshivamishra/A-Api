@@ -1,0 +1,357 @@
+{
+  "anilistId": 177637,
+  "malId": 58878,
+  "route": "sayonara-lara",
+  "titles": {
+    "romaji": "Sayonara Lara",
+    "english": "Goodbye, Lara",
+    "native": "さよならララ"
+  },
+  "anilist": {
+    "id": 177637,
+    "idMal": 58878,
+    "title": {
+      "romaji": "Sayonara Lara",
+      "english": "Goodbye, Lara",
+      "native": "さよならララ"
+    },
+    "synonyms": [
+      "さよララ",
+      "SayoLara"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177637-8onaQWqKW1C3.jpg",
+      "color": "#5daee4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
+    "description": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 21
+    },
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 77,
+    "meanScore": 77,
+    "popularity": 33995,
+    "favourites": 981,
+    "source": "ORIGINAL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Kinema Citrus"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://goodbyelara.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/Goodbye_Lara"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378059/goodbye-lara"
+      }
+    ],
+    "trailer": {
+      "id": "gjq7xyVdv5I",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Romance",
+      "Supernatural"
+    ],
+    "studios": [
+      "Kinema Citrus"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4gWNHTa",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378059/goodbye-lara",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4xAoPpi",
+        "name": "Amazon"
+      }
+    ],
+    "subTime": "2026-07-05T15:31:00Z",
+    "dubTime": "2026-07-05T15:31:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-20T15:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-20T15:31:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Sunday 15:31 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Mermaid Princess Lara",
+      "titles": {
+        "ja": "人魚姫ララ",
+        "en": "Mermaid Princess Lara",
+        "de": "Die kleine Meerjungfrau Lara",
+        "x-jat": "Ningyohime Lara"
+      },
+      "overview": "Grace, the banished witch, gives Lara, a mermaid princess, a potion that turns her into a human.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10502642/screencap/6a3f931063cb6.jpg",
+      "airDate": "2026-07-05T15:30:00Z",
+      "runtime": 24,
+      "rating": "7.84",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "Running Through Shiga",
+      "titles": {
+        "ja": "滋賀を走る",
+        "en": "Running Through Shiga",
+        "de": "Ein Lauf durch Shiga",
+        "x-jat": "Shiga o Hashiru"
+      },
+      "overview": "Lara wakes up in the human world in Shiga and encounters Grace in pet fish form, kept by Mari.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860505/screencap/6a4cc66b896b4.jpg",
+      "airDate": "2026-07-12T15:30:00Z",
+      "runtime": 24,
+      "rating": "8.20",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Look Away and You Lose",
+      "titles": {
+        "ja": "目, そらしたら負け",
+        "en": "Look Away and You Lose",
+        "de": "Wer sich abwendet, verliert",
+        "x-jat": "Me, Sorashitara Make"
+      },
+      "overview": "Lara is curious about \"school,\" and Mari fights her senior to participate in the next boxing tournament.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860506/screencap/6a561735e97e8.jpg",
+      "airDate": "2026-07-19T15:30:00Z",
+      "runtime": 24,
+      "rating": "7.65",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "The Princess and the Prince",
+      "titles": {
+        "ja": "姫と王子",
+        "en": "The Princess and the Prince",
+        "x-jat": "Hime to Ouji"
+      },
+      "overview": "Lara convinces Mari to take her to school and meets Himeka and asks her about her \"prince.\"",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860507/screencap/6a5f5993b7e8a.jpg",
+      "airDate": "2026-07-26T15:30:00Z",
+      "runtime": 24,
+      "rating": "8.74",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "I`m Willing to Die for Cake!",
+      "titles": {
+        "ja": "ケーキのためなら死ねます!",
+        "en": "I`m Willing to Die for Cake!",
+        "x-jat": "Cake no Tame Nara Shinemasu!"
+      },
+      "overview": "Lara and Mari get hired at a bakery. Lara struggles with the pressures of the job and finding her prince.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860508/screencap/6a68adffea2e3.jpg",
+      "airDate": "2026-08-02T15:30:00Z",
+      "runtime": 24,
+      "rating": "8.75",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The Light That Shines on Me",
+      "titles": {
+        "ja": "わたしを照らす光",
+        "en": "The Light That Shines on Me",
+        "x-jat": "Watashi o Terasu Hikari"
+      },
+      "overview": "Lisa's and Kota's past and how they became humans are revealed.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860509/screencap/6a71acb4b0d0a.jpg",
+      "airDate": "2026-08-09T15:30:00Z",
+      "runtime": 24,
+      "rating": "7.70",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "Meet Me at Biwako Terrace Saturday at 10",
+      "titles": {
+        "ja": "土曜の10時, びわ湖テラスで",
+        "en": "Meet Me at Biwako Terrace Saturday at 10",
+        "x-jat": "Doyou no 10-ji, Biwako Terrace de"
+      },
+      "overview": "Lara encounters Luca, a boy who looks exactly like the prince she once loved.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860510/screencap/6a7ae83993ef4.jpg",
+      "airDate": "2026-08-16T15:30:00Z",
+      "runtime": 24,
+      "rating": "9.08",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "The Night of the Final Match",
+      "titles": {
+        "ja": "決勝戦の夜",
+        "en": "The Night of the Final Match",
+        "x-jat": "Kesshousen no Yoru"
+      },
+      "overview": "With the finals of the boxing tournament looming, Mari realizes that she has little time left for Lara. While Mari meets Lisa, Lara begins to not feel well as her time is about to run out.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860511/screencap/6a842673036cd.jpg",
+      "airDate": "2026-08-23T15:30:00Z",
+      "runtime": 24,
+      "rating": "7.55",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "True Love",
+      "titles": {
+        "ja": "本当の愛",
+        "en": "True Love",
+        "x-jat": "Hontou no Ai"
+      },
+      "overview": "Lara feels the pressure to find true love as the witch's magic is running out. Is Luca the one?",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860512/screencap/6a8d5eb6c866d.jpg",
+      "airDate": "2026-08-30T15:30:00Z",
+      "runtime": 24,
+      "rating": "8.26",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "The Princess with a Blade",
+      "titles": {
+        "ja": "刃を持ったプリンセス",
+        "en": "The Princess with a Blade",
+        "x-jat": "Yaiba o Motta Princess"
+      },
+      "overview": "Lara's family starts to awaken as the witch's magic is lifted. They are desperate for Lara's light.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860513/screencap/6a96a124e593c.jpg",
+      "airDate": "2026-09-06T15:30:00Z",
+      "runtime": 24,
+      "rating": "7.80",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Grace the Witch",
+      "titles": {
+        "ja": "魔女グレイス",
+        "en": "Grace the Witch",
+        "x-jat": "Majo Grace"
+      },
+      "overview": "Grace and twin sister Rigmor once shared a dream. But that dream leads Rowan to create a strict law.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860514/screencap/6a9fd4e7330d8.jpg",
+      "airDate": "2026-09-13T15:30:00Z",
+      "runtime": 24,
+      "rating": "9.73",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "Goodbye, Lara",
+      "titles": {
+        "ja": "さよならララ",
+        "en": "Goodbye, Lara",
+        "x-jat": "Sayonara Lara"
+      },
+      "overview": "Lara must pierce the one she loves. The only one who comes to mind is Mari.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11860515/screencap/6aa910399a39c.jpg",
+      "airDate": "2026-09-20T15:30:00Z",
+      "runtime": 24,
+      "rating": "9.58",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T05:28:36.291Z"
+}

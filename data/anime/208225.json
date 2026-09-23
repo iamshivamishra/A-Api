@@ -1,0 +1,335 @@
+{
+  "anilistId": 208225,
+  "malId": 63537,
+  "route": "kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu",
+  "titles": {
+    "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
+    "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+    "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
+  },
+  "anilist": {
+    "id": 208225,
+    "idMal": 63537,
+    "title": {
+      "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
+      "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+      "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
+    },
+    "synonyms": [
+      "きみ愛",
+      "KimiAi"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208225-HJbCC0Z4xRp3.jpg",
+      "color": "#e4bb28"
+    },
+    "bannerImage": null,
+    "description": "Elsa, the daughter of a fallen aristocrat, receives news. It was a marriage proposal from Julius, a very elite nobleman. Elsa is wondering,\" Why would such a distinguished man marry me\"? But after the wedding, Julius, who had been kind and gentle up to that point, changed completely! In a cold voice, he tells her,\" I have no intention of loving you\".\n<br><br>\n(Source: MangaPlaza)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 23,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 20
+    },
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "averageScore": 67,
+    "meanScore": 68,
+    "popularity": 12700,
+    "favourites": 166,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Zero-G"
+        },
+        {
+          "name": "Grass"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@kimiai_official"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/kimiai_official"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://kimiai-anime.com/"
+      },
+      {
+        "site": "Instagram",
+        "url": "https://www.instagram.com/kimiai_official/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration"
+      }
+    ],
+    "trailer": {
+      "id": "MNzf8UswtzI",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "studios": [
+      "Glass",
+      "Zero-G"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "An arranged marriage. Two complete strangers. One adorable romance! When cheerful noblewoman Elsa is suddenly wed to the reserved duke-to-be Julius, neither expects their political marriage to spark something more. As awkward misunderstandings, sweet gestures, and growing feelings pile up, these newlyweds discover that falling in love might be the easiest—and hardest—part of married life.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4wqagUH",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378118/the-dukes-son-claims-he-wont-love-me-but-showers-me-with-adoration",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-07-04T17:00:00Z",
+    "dubTime": "2026-06-03T16:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-19T16:30:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": null
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "A Marriage Just for Show",
+      "titles": {
+        "en": "A Marriage Just for Show"
+      },
+      "overview": "Elsa, the daughter of an impoverished noble family, receives a letter of marriage proposal from Julius, the eldest son of the ducal house of Royas. Though she is bewildered by the offer, she accepts for the sake of her family. However, after meeting the handsome Julius for the first time on their wedding day, he coldly declares to her, \"I have absolutely no intention of ever loving you.\"",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11638214/screencap/6a51a84ee02ff.jpg",
+      "airDate": "2026-07-04T16:30:00Z",
+      "runtime": 23,
+      "rating": "7.13",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "...Thank You",
+      "titles": {
+        "en": "...Thank You"
+      },
+      "overview": "Even after hearing that her marriage is in name only, Elsa interacts cheerfully with Julius and the household staff, devoting herself to her vegetable patch and sewing. Julius, who has only known a cold home life, is baffled by her actions. One day, Julius's friend Rebeka invites Elsa to a tea party. There, she learns that Julius's birthday is near, and she starts to plan a surprise party.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871888/screencap/6a59977ad72e9.jpg",
+      "airDate": "2026-07-11T16:30:00Z",
+      "runtime": 23,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "Cufflinks and a Music Box",
+      "titles": {
+        "en": "Cufflinks and a Music Box"
+      },
+      "overview": "After the official Sun Festival ceremony, Elsa heads out to join in the festivities at the invitation of her younger brother, Hannes. Julius is unaware of this, so when Serafina tells him that Elsa has headed into town with a man, he instinctively chases after her. Though he thought that theirs was marriage in name only, he realizes that at some point, he has begun to want to trust Elsa.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871889/screencap/6a5996eb4c9ed.jpg",
+      "airDate": "2026-07-18T16:30:00Z",
+      "runtime": 23,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "Behind a Smile",
+      "titles": {
+        "en": "Behind a Smile"
+      },
+      "overview": "Elsa hosts a tea party where Serafina says, \"Julius forgot this,\" and hands her one of the cufflinks she’d gifted him. Julius is happy to have it back, but uneasy about the fact that Elsa didn't seem concerned about it. As Julius considers the idea that Elsa doesn't see him as a romantic interest, she's visiting the castle, where Serafina's older brother Jarmo tosses some suggestive words her way.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871890/screencap/6a641a330b5f7.jpg",
+      "airDate": "2026-07-25T16:30:00Z",
+      "runtime": 23,
+      "rating": "10.00",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "The Sound of Distant Rain",
+      "titles": {
+        "en": "The Sound of Distant Rain"
+      },
+      "overview": "Julius and Elsa visit a botanical garden. Julius considers himself adept with women, but for some reason, he struggles to find his footing with Elsa. Though their outing is filled with unfortunate events such as an encounter with Jarmo and getting rained on, Julius feels saved by Elsa's words: \"I like listening to the sound of rain.\" But getting pelted by the rain leaves Julius with a high fever.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871891/screencap/6a6e27e3c7168.jpg",
+      "airDate": "2026-08-01T16:30:00Z",
+      "runtime": 23,
+      "rating": "7.38",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The Trap Hidden at the Soiree",
+      "titles": {
+        "en": "The Trap Hidden at the Soiree"
+      },
+      "overview": "Julius is ordered to infiltrate a soirée hosted by Count Parnilla's family. He asks Elsa to accompany him as his wife. Elsa is nervous about attending her first soirée, but with Rebeka and Hannes's help, she fulfills her role as the wife of a ducal house. Then a very drunk man approaches her, seemingly targeting her the moment she's alone. The truth is that all it's part of Jarmo's scheme.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871892/screencap/6a7768666a568.jpg",
+      "airDate": "2026-08-08T16:30:00Z",
+      "runtime": 23,
+      "rating": "5.66",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "An Unexpected Gift",
+      "titles": {
+        "en": "An Unexpected Gift"
+      },
+      "overview": "By chance, Julius learns about Elsa' birthday. He says, \"I hope you'll let me celebrate it for you,\" and works desperately to clear his work so he can take Elsa to the opera. The splendid production and Julius's kindness combine to make Elsa's day a very special one. On a different day, while in town, Elsa comes across a rundown church with a children's home that is struggling to make ends meet.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871893/screencap/6a80a2bda2672.jpg",
+      "airDate": "2026-08-15T16:30:00Z",
+      "runtime": 23,
+      "rating": "7.38",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Misunderstandings and Falsehoods",
+      "titles": {
+        "en": "Misunderstandings and Falsehoods"
+      },
+      "overview": "Elsa has begun teaching at the children's home, but she hasn't been able to tell Julius because he's been busy. Julius manages to finish work early, and when he learns that Elsa is in town, he goes out looking for her, but what he finds is Jarmo chatting happily with Elsa. It is a mere chance meeting between the two, but when Julius sees them, he misunderstands the nature of their relationship.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871894/screencap/6a89dcaf6a984.jpg",
+      "airDate": "2026-08-22T16:30:00Z",
+      "runtime": 23,
+      "rating": "5.66",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Jarmo`s Vow",
+      "titles": {
+        "en": "Jarmo`s Vow"
+      },
+      "overview": "Jarmo dreams of the past, of his wretched life in a children's home, and of his desperate, diligent hard work after being taken in by his adoptive father. However, in spite of that, Julius was always ahead of him. Before long, Jarmo's sense of admiration for Julius began to change... Meanwhile, Elsa hosts a fund-raising bazaar at the children's home.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871895/screencap/6a9310459d5d9.jpg",
+      "airDate": "2026-08-29T16:30:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "Julius`s Wish",
+      "titles": {
+        "en": "Julius`s Wish"
+      },
+      "overview": "Elsa accompanies Julius on his business trip. She enjoys her time at the local lord’s estate, but at the same time, she's troubled by Julius's words—\"I have no intention of loving you.\" That night, only a single room is prepared for the two of them. Julius spends a sleepless night. While they are both considerate of each other, their feelings fail to connect. The next day, Jarmo arrives.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871896/screencap/6a9c4abba58e6.jpg",
+      "airDate": "2026-09-05T16:30:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "Trapped...",
+      "titles": {
+        "en": "Trapped..."
+      },
+      "overview": "Julius and Elsa go to inspect a spinning mill. For some reason, Jarmo joins them. While Julius speaks with the mill chief, Elsa goes to the storehouse to pick out threads for decorative cords with Jarmo. Suddenly, they find themselves locked inside—a scheme orchestrated by Jarmo. Jarmo's cunning question, \"Isn't Julius just using you?\" strikes Elsa's heart and...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871897/screencap/6aa58526aca03.jpg",
+      "airDate": "2026-09-12T16:30:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": "A Promise on the Night of Falling Stars",
+      "titles": {
+        "ja": "星降る夜の約束",
+        "en": "A Promise on the Night of Falling Stars",
+        "x-jat": "Hoshi Furu Yoru no Yakusoku"
+      },
+      "overview": "Elsa has realized that she's in love with Julius and now she's unable to smile at him the way she did before. Seeing Elsa behave this way makes Julius uneasy. Amidst their awkward, strained interactions, Rebeka comes to visit and she tells Elsa just how much Julius has changed. Meanwhile, Julius confronts Jarmo, saying, \"Don't involve Elsa.\"",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11871898/screencap/6aaebfb644127.jpg",
+      "airDate": "2026-09-19T16:30:00Z",
+      "runtime": 23,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T06:30:53.190Z"
+}

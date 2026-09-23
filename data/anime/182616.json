@@ -1,0 +1,379 @@
+{
+  "anilistId": 182616,
+  "malId": 60059,
+  "route": "nige-jouzu-no-wakagimi-2nd-season",
+  "titles": {
+    "romaji": "Nige Jouzu no Wakagimi 2nd Season",
+    "english": "The Elusive Samurai Season 2",
+    "native": "逃げ上手の若君 第二期"
+  },
+  "anilist": {
+    "id": 182616,
+    "idMal": 60059,
+    "title": {
+      "romaji": "Nige Jouzu no Wakagimi 2nd Season",
+      "english": "The Elusive Samurai Season 2",
+      "native": "逃げ上手の若君 第二期"
+    },
+    "synonyms": [
+      "Nigewaka 2",
+      "นายน้อยจอมโกยก้าวสู่เส้นทางแห่งวีรบุรุษ",
+      "Héroe fugitivo",
+      "Беглый самурай",
+      "Tuan Muda yang Jago Kabur Musim 2",
+      "擅长逃跑的殿下S2"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-DymJCBpkR4qs.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182616-DymJCBpkR4qs.jpg",
+      "color": "#e45050"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
+    "description": "The second season of <i>Nige Jouzu no Wakagimi</i>.",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 17
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 10,
+      "day": 2
+    },
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "averageScore": 76,
+    "meanScore": 77,
+    "popularity": 27400,
+    "favourites": 262,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 11,
+      "airingAt": 1790346600,
+      "timeUntilAiring": 229143
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "CloverWorks"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://twitter.com/nigewaka_anime"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/_elusivesamurai"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://nigewaka.run/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GQWH0M19X/the-elusive-samurai"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/1huky7henvh"
+      }
+    ],
+    "trailer": {
+      "id": "5xV6uMwR-Xo",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Historical",
+      "Shounen"
+    ],
+    "studios": [
+      "CloverWorks"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": null,
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3TMizMx",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GQWH0M19X/the-elusive-samurai",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4xGdXGx",
+        "name": "Amazon"
+      }
+    ],
+    "subTime": "2026-07-17T16:00:00Z",
+    "dubTime": "2026-08-20T16:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 10,
+      "airedAt": "2026-09-18T14:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 11,
+      "at": "2026-09-25T14:30:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Friday 16:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 5,
+      "airedAt": "2026-08-14T14:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 6,
+      "at": "2026-09-25T16:00:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 16:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Longing for Sea Bream!",
+      "titles": {
+        "ja": "もう一度, 食べタイ!",
+        "en": "Longing for Sea Bream!",
+        "x-jat": "Mou Ichido, Tabetai!"
+      },
+      "overview": "It is the first year of the Kenmu era (1334), in Suwa, Shinano province. Tokiyuki, now fully accustomed to life in Suwa, is reminded of meals from his days in Kamakura during a casual conversation. He recalls how much he loved eating freshly caught sea bream from Yuigahama, seasoned with wasabi and soy sauce from Izu.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10733192/screencap/6a5989d4c1af3.jpg",
+      "airDate": "2026-07-17T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.12",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Ayako`s Heart-Pounding Operation!",
+      "titles": {
+        "ja": "亜也子のドキドキ❤︎大作戦!",
+        "en": "Ayako`s Heart-Pounding Operation!",
+        "x-jat": "Ayako no Dokidoki Daisakusen!"
+      },
+      "overview": "The Ashikaga forces keep a vigilant watch across the country, searching for remnants of the Hojo clan scattered throughout Japan. Sadamune, the governor of Shinano, has grown suspicious of “Chojumaru,” a young warrior who has repeatedly distinguished himself in battle—first during the dog-shooting competition, and later on the battlefield.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881792/screencap/6a62c35189990.jpg",
+      "airDate": "2026-07-24T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.40",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "Tokiyuki and Three Great Generals",
+      "titles": {
+        "ja": "時行と三大将",
+        "en": "Tokiyuki and Three Great Generals",
+        "x-jat": "Tokiyuki to San Taishou"
+      },
+      "overview": "Provincial official Kiyohara returns to Shinano after fleeing back to Kyo following the previous battle. Having grown even more ruthless, Kiyohara launches a large-scale invasion against pro-Hojo factions in northern Shinano. To oppose the combined forces of Kiyohara and Sadamune, the three great generals of the Suwa faith—Nezu, Mochizuki, and Unno, retainers directly serving Yorishige.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881793/screencap/6a6bb117153c2.jpg",
+      "airDate": "2026-07-31T14:30:00Z",
+      "runtime": 24,
+      "rating": "7.28",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "The Warrior of Love: Shinano Mask!",
+      "titles": {
+        "ja": "愛の戦士! 信濃仮面",
+        "en": "The Warrior of Love: Shinano Mask!",
+        "x-jat": "Ai no Senshi! Shinano Kamen"
+      },
+      "overview": "Tokiyuki and his companions race across the battlefield, sparing even the slightest moments of rest in order to relay information to their allies. However, when they arrive at the northern front where Mochizuki and Tokoiwa are fighting, what they witness is a fortress engulfed in flames, falliing into ruin... Ayako collapses in grief as she thinks of her father, Shigenobu Mochizuki.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881794/screencap/6a75b9f97a755.jpg",
+      "airDate": "2026-08-07T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.50",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "The Unyielding",
+      "titles": {
+        "ja": "負けざる者たち",
+        "en": "The Unyielding",
+        "x-jat": "Makezaru Mono-tachi",
+        "hi": "अडिग"
+      },
+      "overview": "The central battlefield descends into total chaos. Just as victory seems within reach for the Hoshina–Shinomiya forces, a new obstacle suddenly appears before them: Kiyohara’s newly devised battle mikoshi. Originally intended as a palanquin for issuing commands from the rear, it is now reinforced with heavy armor.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881795/screencap/6a7de4cd7333a.jpg",
+      "airDate": "2026-08-14T14:30:00Z",
+      "runtime": 24,
+      "rating": "5.71",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "The Boy Who Became a God",
+      "titles": {
+        "ja": "神になった少年",
+        "en": "The Boy Who Became a God",
+        "x-jat": "Kami ni Natta Shounen"
+      },
+      "overview": "The battle ends in defeat for the Suwa Sect. Although they manage to keep casualties to a minimum, the losses they suffer are significant. As they look toward the next great conflict, everyone in the Suwa Sect comes to share an even stronger resolve. The battle becomes another valuable lesson for Tokiyuki as well—one that helps him grow even further.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881796/screencap/6a877f343856e.jpg",
+      "airDate": "2026-08-21T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.75",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "My Uncle",
+      "titles": {
+        "ja": "ぼくのおじさん",
+        "en": "My Uncle",
+        "x-jat": "Boku no Ojisan"
+      },
+      "overview": "Tokiyuki’s uncle, Yasuie Hojo, is still alive! Once a key figure at the heart of the Kamakura Shogunate, Yasuie survives the fall of Kamakura. Afterward, he travels throughout the Tohoku region, continuing to fight alongside the remaining Hojo loyalists. But after suffering defeat after defeat, he eventually finds his way to Suwa.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881797/screencap/6a917ce61f575.jpg",
+      "airDate": "2026-08-28T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.06",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "Irreplaceable",
+      "titles": {
+        "ja": "かけがえがないもの",
+        "en": "Irreplaceable",
+        "x-jat": "Kakegae ga Nai Mono"
+      },
+      "overview": "At the suggestion of Yorishige and Yasuie, Tokiyuki sets out for the capital, Kyo, together with the Elusive Warriors. Major Counselor Kinmune Saionji, an ally of Yasuie, awaits their arrival in Kyo. While Yasuie and Kinmune conduct a secret discussion, Tokiyuki and his companions venture out into the city.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881798/screencap/6a9a1e83d24b6.jpg",
+      "airDate": "2026-09-04T14:30:00Z",
+      "runtime": 24,
+      "rating": "8.12",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "The Man Called Masashige Kusunoki",
+      "titles": {
+        "ja": "その男, 楠木正成",
+        "en": "The Man Called Masashige Kusunoki",
+        "x-jat": "Sono Otoko, Kusunoki Masashige"
+      },
+      "overview": "Having grown closer over a game of dice, Mima invites Tokiyuki and his companions on a tour of Kyo. Even though they know she is the daughter of their enemy, the Elusive Warriors accept her kindness and spend a brief, youthful moment enjoying themselves as ordinary boys and girls. However, upon returning to the Saionji's residence, Tokiyuki and the others are informed of a plan for an uprising.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881799/screencap/6aa356fc7ed4e.jpg",
+      "airDate": "2026-09-11T14:30:00Z",
+      "runtime": 24,
+      "rating": "6.12",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "The Night of the Assassination",
+      "titles": {
+        "ja": "暗殺の夜",
+        "en": "The Night of the Assassination",
+        "x-jat": "Ansatsu no Yoru"
+      },
+      "overview": "Through his dialogue with the warrior Masashige Kusunoki, known as a “god of war,” Tokiyuki is moved by Kusunoki's unwavering convictions and develops an even deeper sense of confidence in the possibilities of “fleeing.” Just as he is smiling over this fortunate encounter, everything suddenly changes when he hears news of his sworn enemy Takauji’s movements.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11881800/screencap/6aad437259d23.jpg",
+      "airDate": "2026-09-18T14:30:00Z",
+      "runtime": 24,
+      "rating": "4.99",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "My Buddha, Part Two",
+      "titles": {
+        "ja": "続・わたしの仏様",
+        "en": "My Buddha, Part Two",
+        "x-jat": "Zoku Watashi no Hotokesama"
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-25T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 23,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-02T14:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.656Z"
+}

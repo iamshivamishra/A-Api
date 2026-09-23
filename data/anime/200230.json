@@ -1,0 +1,336 @@
+{
+  "anilistId": 200230,
+  "malId": 62683,
+  "route": "lets-go-kaikigumi",
+  "titles": {
+    "romaji": "Let's Go Kaikigumi",
+    "english": "Let's go KAIKIGUMI",
+    "native": "レッツゴー怪奇組"
+  },
+  "anilist": {
+    "id": 200230,
+    "idMal": 62683,
+    "title": {
+      "romaji": "Let's Go Kaikigumi",
+      "english": "Let's go KAIKIGUMI",
+      "native": "レッツゴー怪奇組"
+    },
+    "synonyms": [
+      "ไปกันเถอะ ไคคิกุมิ"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200230-YuzdgbXSgi38.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200230-YuzdgbXSgi38.png",
+      "color": "#e45d43"
+    },
+    "bannerImage": null,
+    "description": "The horror comedy manga begins one fateful day when the cowardly (unnamed) protagonist meets Mechako, the leader of the \"Kaikigumi\" organization which is in charge of the ghosts and supernatural creatures scaring humans. The protagonist somehow takes part in the revival of the Kaikigumi, after which one bizarre (yet not scary) phenomenon after another crops up around him.\n<br><br>\n(Source: ANN)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 27
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Supernatural"
+    ],
+    "averageScore": 56,
+    "meanScore": 58,
+    "popularity": 5856,
+    "favourites": 60,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790494200,
+      "timeUntilAiring": 340827
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "C-Station"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://kaikigumi.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/kaikigumi"
+      },
+      {
+        "site": "TikTok",
+        "url": "https://www.tiktok.com/@kaikigumi"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00378084/"
+      }
+    ],
+    "trailer": {
+      "id": "3DKfmW2aDhY",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "School",
+      "Supernatural"
+    ],
+    "studios": [
+      "C-Station"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The story of <span class=\"italics\">Let&#39;s Go Kaikigumi</span> follows a nameless protagonist who is six times more vulnerable to spiritual phenomena than the average human being. One day, the protagonist encounters Mechako, a mysterious girl who runs the Kaiki-gumi, an organization that polices the behavior of the ghosts and monsters that threaten human beings, and he somehow gets roped into helping the Kaiki-gumi re-establish itself, resulting in all sorts of strange events and spooky shenanigans.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4p7aON9",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00378084",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-07-05T08:30:00Z",
+    "dubTime": "2026-03-29T07:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-13T07:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-27T07:30:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Sunday 08:30 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 12,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Sunday 07:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": null,
+      "titles": {
+        "en": null,
+        "de": "Spuk #1"
+      },
+      "overview": "A high school boy terrified of ghosts meets a girl in a sailor uniform—the boss of the Kaiki-gumi!",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11391545/screencap/6a488e87a3a0b.jpg",
+      "airDate": "2026-07-05T07:30:00Z",
+      "runtime": 24,
+      "rating": "4.01",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Mechako brought an ominous-looking Japanese doll that was left behind by the previous boss of Kaikigumi.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868678/screencap/6a52e12e0cd9f.jpg",
+      "airDate": "2026-07-12T07:30:00Z",
+      "runtime": 24,
+      "rating": "4.01",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Mechako is feeling off, and that is because of the talismans of a sketchy medium.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868679/screencap/6a5c34cf6006b.jpg",
+      "airDate": "2026-07-19T07:30:00Z",
+      "runtime": 24,
+      "rating": "4.01",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Doppelgänger uses impersonation to get Mechako's attention, but...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868680/screencap/6a656163de1a8.jpg",
+      "airDate": "2026-07-26T07:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "As the curse regresses Shurako into a child, she goes after Mechako's doll.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868681/screencap/6a6ea0d8da29a.jpg",
+      "airDate": "2026-08-02T07:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "A face lump possesses a high school girl's leg and refuses to leave her alone.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868682/screencap/6a77f7a81c590.jpg",
+      "airDate": "2026-08-09T07:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "As bizarre events continued to unfold, people began vanishing across town in alarming numbers.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868683/screencap/6a80f7416eddd.jpg",
+      "airDate": "2026-08-16T07:30:00Z",
+      "runtime": 24,
+      "rating": "2.95",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Winter arrives. As Doppel plots revenge against Shurako, a Snow Woman in a swimsuit appears before him.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868684/screencap/6a8a19d3c534c.jpg",
+      "airDate": "2026-08-23T07:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Fearless Mechako grows curious about nightmares and decides to experience one for herself, and...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868685/screencap/6a93813906fbc.jpg",
+      "airDate": "2026-08-30T07:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "Mechako sets out to create the ultimate ghost using what she learned about people's fears, but...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868686/screencap/6a9c9b7db2efb.jpg",
+      "airDate": "2026-09-06T07:30:00Z",
+      "runtime": 24,
+      "rating": "6.68",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "With Mechako no longer around, a mysterious girl appears before Shurako, Doppel, and others...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11868687/screencap/6aa60155421a5.jpg",
+      "airDate": "2026-09-13T07:30:00Z",
+      "runtime": 24,
+      "rating": "2.95",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-27T07:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 12,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.706Z"
+}

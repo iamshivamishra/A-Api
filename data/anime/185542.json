@@ -1,0 +1,391 @@
+{
+  "anilistId": 185542,
+  "malId": 60522,
+  "route": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-ii",
+  "titles": {
+    "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+    "english": "Skeleton Knight in Another World Season 2",
+    "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ"
+  },
+  "anilist": {
+    "id": 185542,
+    "idMal": 60522,
+    "title": {
+      "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+      "english": "Skeleton Knight in Another World Season 2",
+      "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ"
+    },
+    "synonyms": [
+      "Kesatria Tengkorak Berkelana di Dunia Lain S2",
+      "บันทึกการเดินทางต่างโลกของท่านอัศวินกระดูก II"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185542-6a9LCWlLHa0T.jpg",
+      "color": "#286bbb"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185542-v15vqOvUWSF5.jpg",
+    "description": "Arc returns! After waking to find he's become a Skeleton Knight in his favorite fantasy video game, Arc, Ariane, Chiyome, and Ponta band together to take on evil. Before Arc's search for a cure to his skeletal condition continues, he must face a dogmatic leader, Count Hilk, to free oppressed elves and beasts. A new chapter begins as the Skeleton Knight fights to make his new world a better place.\n<br><br>\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 21
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "averageScore": 65,
+    "meanScore": 65,
+    "popularity": 49475,
+    "favourites": 730,
+    "source": "LIGHT_NOVEL",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": null,
+    "studios": {
+      "nodes": [
+        {
+          "name": "Aura Studio"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Twitter",
+        "url": "https://x.com/gaikotsukishi02/"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://skeleton-knight.com/"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/G8DHV7WJP/skeleton-knight-in-another-world"
+      },
+      {
+        "site": "iQ",
+        "url": "https://www.iq.com/album/1mqs8x0pgbt"
+      },
+      {
+        "site": "Bilibili TV",
+        "url": "https://www.bilibili.tv/media/2411543"
+      },
+      {
+        "site": "YouTube",
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl10pbg4dlS9ZUOYMzXWFK-W"
+      }
+    ],
+    "trailer": {
+      "id": "Enu3fyOdkoM",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Finished",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Isekai"
+    ],
+    "studios": [
+      "Aura Studio"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "The second season of <span class=\"italics\">Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu</span>.<br><br>Arc returns! After waking to find he&#39;s become a Skeleton Knight in his favorite fantasy video game, Arc, Ariane, Chiyome, and Ponta band together to take on evil. Before Arc&#39;s search for a cure to his skeletal condition continues, he must face a dogmatic leader, Count Hilk, to free oppressed elves and beasts. A new chapter begins as the Skeleton Knight fights to make his new world a better place.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4y1yCFY",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/G8DHV7WJP/skeleton-knight-in-another-world",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4bO7GAm",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLwLSw1_eDZl10pbg4dlS9ZUOYMzXWFK-W",
+        "name": "YouTube"
+      },
+      {
+        "platform": "bilibili",
+        "url": "www.bilibili.tv/en/media/2411543",
+        "name": "BiliBili TV"
+      }
+    ],
+    "subTime": "2026-07-06T13:00:00Z",
+    "dubTime": "2026-07-06T13:00:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-21T13:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Monday 13:00 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 12,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-21T13:00:00Z"
+    },
+    "nextRelease": null,
+    "weeklySlot": "Monday 13:00 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Duel to the Death? Silver Knight vs Silver Knight!",
+      "titles": {
+        "ja": "死闘? 白銀の騎士対白銀の騎士!",
+        "en": "Duel to the Death? Silver Knight vs Silver Knight!",
+        "de": "Kampf auf Leben und Tod? Silberner Ritter vs. Silberner Ritter!",
+        "x-jat": "Shitou? Hakugin no Kishi tai Hakugin no Kishi!"
+      },
+      "overview": "Arc continues his journey with his new friends, when they run into a human trafficking ring.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10854068/screencap/6a48f1022274d.jpg",
+      "airDate": "2026-07-04T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.55",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "The Toxic Fangs of Assassination Target the Elvish Bride",
+      "titles": {
+        "ja": "エルフの花嫁に迫りし, 暗殺の毒牙",
+        "en": "The Toxic Fangs of Assassination Target the Elvish Bride",
+        "de": "Der Giftzahn des Attentäters bedroht die Elfenbraut",
+        "x-jat": "Elf no Hanayome ni Semarishi, Ansatsu no Dokuga"
+      },
+      "overview": "Arc and Ariane visit a human and elf pair of newlyweds, who are attracting animosity for their marriage.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11836295/screencap/6a525ab26350b.jpg",
+      "airDate": "2026-07-13T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.30",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "The Fall of Villains and the Dance of Sibling Love",
+      "titles": {
+        "ja": "悪党散華と兄妹絆の舞",
+        "en": "The Fall of Villains and the Dance of Sibling Love",
+        "de": "Der Untergang der Schurken und der Reigen der Geschwister",
+        "x-jat": "Akutou Sange to Kyoudai Kizuna no Mai"
+      },
+      "overview": "Arc and Ariane head to a city where a young performer is being manipulated into aiding a kidnapping ring.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11836296/screencap/6a5e1a367cace.jpg",
+      "airDate": "2026-07-20T13:00:00Z",
+      "runtime": 24,
+      "rating": "4.29",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "The Saint`s Spirit Wanders the Cursed Sanctuary",
+      "titles": {
+        "ja": "呪いの里に聖女の霊が彷徨う",
+        "en": "The Saint`s Spirit Wanders the Cursed Sanctuary",
+        "de": "Der Geist der Heiligen Maid wandert durch das verfluchte Heim",
+        "x-jat": "Noroi no Sato ni Seijo no Tamashii ga Samayou"
+      },
+      "overview": "Ariane's sister, Eevin, calls on Ariane and Arc to help her investigate a sanctuary for elves.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11836297/screencap/6a674a1e52d20.jpg",
+      "airDate": "2026-07-27T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.02",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Terror! Shadows of Undeath Lurking Down Below",
+      "titles": {
+        "ja": "恐怖! 地底に蠢く死霊の影",
+        "en": "Terror! Shadows of Undeath Lurking Down Below",
+        "de": "Schrecken! Der Schatten der Untoten, die unter der Erde wimmeln",
+        "x-jat": "Kyoufu! Chitei ni Ugomeku Shiryou no Kage"
+      },
+      "overview": "After discovering a lurking undead threat, Arc, Ariane, and Eevin fight to free the captives of the plot.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876802/screencap/6a6fefd82122a.jpg",
+      "airDate": "2026-08-03T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.02",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "The Nature of This World Floats Upon the Dragon Lord`s Spring",
+      "titles": {
+        "ja": "龍王の泉に浮かぶは異世界[このよ]の理",
+        "en": "The Nature of This World Floats Upon the Dragon Lord`s Spring",
+        "de": "Das Gesetz der anderen Welt, das in der Quelle des Drachenkönigs schwebt",
+        "x-jat": "Ryuuou no Izumi ni Ukabu wa Kono Yo no Kotowari"
+      },
+      "overview": "Arc reaches the spring that could cure his skeletal nature, but first he'll have to get past its guardian.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876803/screencap/6a792a524e3d1.jpg",
+      "airDate": "2026-08-10T13:00:00Z",
+      "runtime": 24,
+      "rating": "7.25",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "The Spirit of Chivalry Blooms at the Shinobi Village!",
+      "titles": {
+        "ja": "忍び里に咲くは, 漢魂!",
+        "en": "The Spirit of Chivalry Blooms at the Shinobi Village!",
+        "de": "Was im Ninja-Dorf aufblüht, ist die Seele eines wahren Mannes!",
+        "x-jat": "Shinobizato ni Saku wa, Otokodamashi!"
+      },
+      "overview": "With a new beastmen village built near the Lord Crown, Chiyome's clan celebrates, and Arc joins in.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876804/screencap/6a82e73f48197.jpg",
+      "airDate": "2026-08-17T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.49",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "The Sea Hears the Tale of the Tragic Kunoichi`s Past",
+      "titles": {
+        "ja": "潮騒よ聞け, 哀しきくノ一の想い",
+        "en": "The Sea Hears the Tale of the Tragic Kunoichi`s Past",
+        "de": "Hör das Rauschen der Gezeiten, die traurigen Gefühle einer Kunoichi",
+        "x-jat": "Shiosai yo Kike, Kanashiki Kunoichi no Omoi"
+      },
+      "overview": "As Arc and the group travel to the southern continent, Chiyome shares her past with Sasuke.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876805/screencap/6a8b81a4608d3.jpg",
+      "airDate": "2026-08-24T13:00:00Z",
+      "runtime": 24,
+      "rating": "6.49",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Reunited to the Sound of a Dark Beast`s Howl",
+      "titles": {
+        "ja": "再会は黒き獣の咆哮と共に",
+        "en": "Reunited to the Sound of a Dark Beast`s Howl",
+        "de": "Das Brüllen der schwarzen Bestie läutet das Wiedersehen ein",
+        "x-jat": "Saikai wa Kuroki Kemono no Houkou to Tomo ni"
+      },
+      "overview": "Arc and his party are reunited with Danka, who tells them about his mission and the threat to it.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876806/screencap/6a94de9a9f3aa.jpg",
+      "airDate": "2026-08-31T13:00:00Z",
+      "runtime": 24,
+      "rating": "5.11",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "The Cold-Blooded Code! Hunting a Brother with Tears in Her Eyes",
+      "titles": {
+        "ja": "非常の掟! 涙を抱きて義兄[あに]を追う",
+        "en": "The Cold-Blooded Code! Hunting a Brother with Tears in Her Eyes",
+        "de": "Das unbarmherzige Gesetz! Tränenüberströmt auf der Jagd nach dem Bruder",
+        "x-jat": "Hijou no Okite! Namida o Idakite Ani o Ou"
+      },
+      "overview": "While trying to prevent attacks on beastman villages, the group is confronted with a familiar face.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876807/screencap/6a9e118545d28.jpg",
+      "airDate": "2026-09-07T13:00:00Z",
+      "runtime": 24,
+      "rating": "8.12",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Blood Duel! Death Amidst the Collapsing City",
+      "titles": {
+        "ja": "血闘! 崩壊の街に死す",
+        "en": "Blood Duel! Death Amidst the Collapsing City",
+        "de": "Blutige Schlacht! Tod in der zerstörten Stadt",
+        "x-jat": "Kettou! Houkai no Machi ni Shisu"
+      },
+      "overview": "The masterminds behind the kidnappings and undead experiments are revealed.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876808/screencap/6aa73e9eb8ce6.jpg",
+      "airDate": "2026-09-14T13:00:00Z",
+      "runtime": 24,
+      "rating": "9.29",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 12,
+      "title": "Divine Punishment! The Skeleton Metes Out Justice That Obliterates Evil!",
+      "titles": {
+        "ja": "天晴! 悪を蹴散らす骸骨裁き!",
+        "en": "Divine Punishment! The Skeleton Metes Out Justice That Obliterates Evil!",
+        "de": "Hervorragend! Das Urteil des Skeletts, das das Böse vertreibt!",
+        "x-jat": "Appare! Aku o Kechirasu Gaikotsu Sabaki!"
+      },
+      "overview": "Arc finds himself in a battle against one of the seven cardinals of the Hilk Church.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11876809/screencap/6ab11c8ca0378.jpg",
+      "airDate": "2026-09-21T13:00:00Z",
+      "runtime": 24,
+      "rating": "8.12",
+      "absoluteEpisodeNumber": 24,
+      "subbed": true,
+      "dubbed": true
+    }
+  ],
+  "episodeCount": 12,
+  "updatedAt": "2026-09-23T10:33:05.593Z"
+}

@@ -1,0 +1,393 @@
+{
+  "anilistId": 210031,
+  "malId": 63832,
+  "route": "seihantai-na-kimi-to-boku-2nd-season",
+  "titles": {
+    "romaji": "Seihantai na Kimi to Boku 2nd Season",
+    "english": "You and I Are Polar Opposites Season 2",
+    "native": "正反対な君と僕 第2期"
+  },
+  "anilist": {
+    "id": 210031,
+    "idMal": 63832,
+    "title": {
+      "romaji": "Seihantai na Kimi to Boku 2nd Season",
+      "english": "You and I Are Polar Opposites Season 2",
+      "native": "正反対な君と僕 第2期"
+    },
+    "synonyms": [
+      "ลุ้นรักฉบับคู่ต่างขั้ว ซีซัน 2"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210031-TppgcHZh46LY.jpg",
+      "color": "#fe5093"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
+    "description": "Six months have passed since the polar opposite classmates Miyu Suzuki and Yuusuke Tani started dating. Through spending time together along with their friends from school, the two have been happier than ever. As the year nears its end, the new couple plans to celebrate Christmas and the New Year together, making memories for years to come.<br>\n<br>\nMeanwhile, Miyu and Yuusuke's friends Shuuji Taira and Kentarou Yamada are puzzled by their own situations. Due to his bad experiences in middle school, Taira still overthinks everything around him, especially after his classmate Shino Azuma began giving him more attention. Simultaneously, the usually energetic and outspoken Yamada finds it difficult to find the perfect time to confess his feelings to his shy schoolmate Natsumi Nishi. Despite everyone's differences, they continue enjoying their adolescence together and find their own ways to turn the winter break into a cherished memory.<br>\n<br>\n(Source: MAL Rewrite)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 10,
+      "day": 4
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": 82,
+    "meanScore": 83,
+    "popularity": 60903,
+    "favourites": 1380,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 12,
+      "airingAt": 1790496000,
+      "timeUntilAiring": 342627
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Lapin Track"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/seihantai_x"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites"
+      },
+      {
+        "site": "Official Site",
+        "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/en/"
+      }
+    ],
+    "trailer": {
+      "id": "HW7enBbU_hk",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "School",
+      "Slice of Life"
+    ],
+    "studios": [
+      "Lapin Track"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 24,
+    "description": "The second season of <span class=\"italics\">Seihantai na Kimi to Boku</span>.<br><br>Six months have passed since the polar opposite classmates Miyu Suzuki and Yuusuke Tani started dating. Through spending time together along with their friends from school, the two have been happier than ever. As the year nears its end, the new couple plans to celebrate Christmas and the New Year together, making memories for years to come.<br><br>Meanwhile, Miyu and Yuusuke&#39;s friends Shuuji Taira and Kentarou Yamada are puzzled by their own situations. Due to his bad experiences in middle school, Taira still overthinks everything around him, especially after his classmate Shino Azuma began giving him more attention. Simultaneously, the usually energetic and outspoken Yamada finds it difficult to find the perfect time to confess his feelings to his shy schoolmate Natsumi Nishi. Despite everyone&#39;s differences, they continue enjoying their adolescence together and find their own ways to turn the winter break into a cherished memory.<br><br>(Source: MAL Rewrite)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/4eUISXR",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00365624/you-and-i-are-polar-opposites",
+        "name": "Crunchyroll"
+      },
+      {
+        "platform": "amazon",
+        "url": "amzn.to/4bN8k0Y",
+        "name": "Amazon"
+      },
+      {
+        "platform": "youtube",
+        "url": "www.youtube.com/playlist?list=PLHr3g0ivIWN4",
+        "name": "YouTube"
+      }
+    ],
+    "subTime": "2026-06-29T08:30:00Z",
+    "dubTime": "2026-07-18T08:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 11,
+      "airedAt": "2026-09-13T08:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 12,
+      "at": "2026-09-27T08:00:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Monday 08:30 UTC"
+  },
+  "dub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 10,
+      "airedAt": "2026-09-06T08:00:00Z"
+    },
+    "nextRelease": {
+      "episode": 11,
+      "at": "2026-09-27T08:30:00Z",
+      "estimated": false
+    },
+    "weeklySlot": "Saturday 08:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Christmas Eve",
+      "titles": {
+        "ja": "クリスマスイヴ",
+        "en": "Christmas Eve",
+        "de": "Heiligabend",
+        "x-jat": "Christmas Eve"
+      },
+      "overview": "As their first Christmas Eve together approaches, Suzuki and Tani plan their date. They decide to challenge themselves to make a cake, and Suzuki's heart flutters as she watches how seriously Tani takes everything, and then...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11703573/screencap/6a4a2417ae484.jpg",
+      "airDate": "2026-07-05T08:00:00Z",
+      "runtime": 24,
+      "rating": "8.54",
+      "absoluteEpisodeNumber": 13,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 2,
+      "title": "Dilemma of a Winter`s Night",
+      "titles": {
+        "ja": "冬の夜のジレンマ",
+        "en": "Dilemma of a Winter`s Night",
+        "de": "Winternachtsdilemma",
+        "x-jat": "Fuyu no Yoru no Dilemma"
+      },
+      "overview": "In the middle of winter break, Yamada grows anxious about the fact that his relationship with Nishi just hasn't made much progress. He uses homework as a pretext to see her, but he can't find the right timing to confess his feelings.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11708173/screencap/6a53604b762e3.jpg",
+      "airDate": "2026-07-12T08:00:00Z",
+      "runtime": 24,
+      "rating": "9.29",
+      "absoluteEpisodeNumber": 14,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 3,
+      "title": "The Year That`s Passed, and the Year to Come",
+      "titles": {
+        "ja": "行く年来る年",
+        "en": "The Year That`s Passed, and the Year to Come",
+        "x-jat": "Yukutoshi Kurutoshi"
+      },
+      "overview": "Tani tells his family that he's dating someone, and asks Suzuki over on New Year's Day. Flustered by the invitation, Suzuki makes one gaffe after another in front of his family. On the last day of winter break, the usual group of friends enjoy visiting a shrine together. Moved by Tani's words about living with no regrets, each of them step into the new year with hopes and feelings in their hearts.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872935/screencap/6a5c8cf387caf.jpg",
+      "airDate": "2026-07-19T08:00:00Z",
+      "runtime": 24,
+      "rating": "9.00",
+      "absoluteEpisodeNumber": 15,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 4,
+      "title": "New School Term",
+      "titles": {
+        "ja": "新学期",
+        "en": "New School Term",
+        "x-jat": "Shingakki"
+      },
+      "overview": "The new term begins. Taira realizes that he has been under a misconception for years. Suzuki takes Yamada to the school library, with an ulterior motive in mind. Nishi is happy that Yamada came, but anxious that others might find out about their relationship. When Honda asks what that relationship is, Nishi feels absolutely overwhelmed, but with a little nudge, Nishi realizes her true feelings.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872936/screencap/6a65c97d2875d.jpg",
+      "airDate": "2026-07-26T08:00:00Z",
+      "runtime": 24,
+      "rating": "8.15",
+      "absoluteEpisodeNumber": 16,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 5,
+      "title": "Valentine`s Day",
+      "titles": {
+        "ja": "バレンタイン",
+        "en": "Valentine`s Day",
+        "x-jat": "Valentine"
+      },
+      "overview": "Though Yamada wants to confess his feelings to Nishi, he can't find the right timing. The two of them go on a date, and as Nishi turns things over in her mind, her feelings for Yamada swell. She blurts out, \"I love you!\" Yamada is taken aback by the sudden turn of events, but... Valentine's Day arrives and Suzuki gives Tani homemade cookies, but his too-honest reaction sends her into a sulk.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872937/screencap/6a6f02e7ac30f.jpg",
+      "airDate": "2026-08-02T08:00:00Z",
+      "runtime": 24,
+      "rating": "9.37",
+      "absoluteEpisodeNumber": 17,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 6,
+      "title": "Threshold of Spring",
+      "titles": {
+        "ja": "春の手前",
+        "en": "Threshold of Spring",
+        "x-jat": "Haru no Temae"
+      },
+      "overview": "When Taira hears that Yamada has a girlfriend, he’s able to offer his honest congratulations. Later, in the middle of a conversation, Taira is assailed by his past trauma. After the last day of the school year, Taira and Azuma head to a local restaurant together. Azuma realizes that she doesn’t want to lose her connection to Taira as she, along with everyone else, prepares to face the new season.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872938/screencap/6a784f4b434d9.jpg",
+      "airDate": "2026-08-09T08:00:00Z",
+      "runtime": 24,
+      "rating": "9.29",
+      "absoluteEpisodeNumber": 18,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 7,
+      "title": "Gradation",
+      "titles": {
+        "ja": "グラデーション",
+        "en": "Gradation",
+        "x-jat": "Gradation"
+      },
+      "overview": "During spring break, Yamada and Nishi spend some quality time together at the aquarium that brings them even closer. Suzuki’s birthday arrives, and on a date with Tani, she expresses her anxiety about things to come. Tani's words set her at ease, but in truth, he also feels anxious. For the new term, Azuma and Taira end up in different classes. Azuma tells herself that they’re just friends, but…",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872939/screencap/6a817a729d7a0.jpg",
+      "airDate": "2026-08-16T08:00:00Z",
+      "runtime": 24,
+      "rating": "8.97",
+      "absoluteEpisodeNumber": 19,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 8,
+      "title": "The Future",
+      "titles": {
+        "ja": "この先",
+        "en": "The Future",
+        "x-jat": "Kono Saki"
+      },
+      "overview": "Nishi and Yamada spend some time at Yamada's house.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872940/screencap/6a8ab0120bb3a.jpg",
+      "airDate": "2026-08-23T08:00:00Z",
+      "runtime": 24,
+      "rating": "8.68",
+      "absoluteEpisodeNumber": 20,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 9,
+      "title": "Past and Present",
+      "titles": {
+        "ja": "過去と今",
+        "en": "Past and Present",
+        "x-jat": "Kako to Ima"
+      },
+      "overview": "Azuma realizes she has feelings for Taira, and Tani seems down about graduating.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872941/screencap/6a93eaae3691f.jpg",
+      "airDate": "2026-08-30T08:00:00Z",
+      "runtime": 24,
+      "rating": "9.08",
+      "absoluteEpisodeNumber": 21,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 10,
+      "title": "Feelings and Choices",
+      "titles": {
+        "ja": "想いと選択",
+        "en": "Feelings and Choices",
+        "x-jat": "Omoi to Sentaku"
+      },
+      "overview": "Suzuki and Tani study together to prepare for their upcoming exams.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872942/screencap/6a9d252e2fe94.jpg",
+      "airDate": "2026-09-06T08:00:00Z",
+      "runtime": 24,
+      "rating": "9.68",
+      "absoluteEpisodeNumber": 22,
+      "subbed": true,
+      "dubbed": true
+    },
+    {
+      "number": 11,
+      "title": "Somewhere to Belong",
+      "titles": {
+        "ja": "居場所",
+        "en": "Somewhere to Belong",
+        "x-jat": "Ibasho"
+      },
+      "overview": "Azuma realizes she has feelings for Taira but keeps her distance to avoid ruining their relationship.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11872943/screencap/6aa65fb14c2b7.jpg",
+      "airDate": "2026-09-13T08:00:00Z",
+      "runtime": 24,
+      "rating": "8.73",
+      "absoluteEpisodeNumber": 23,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-27T08:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 24,
+      "subbed": false,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-10-04T08:00:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 25,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 13,
+  "updatedAt": "2026-09-23T10:33:05.707Z"
+}

@@ -1,0 +1,355 @@
+{
+  "anilistId": 203880,
+  "malId": 63082,
+  "route": "reiwa-no-dara-san",
+  "titles": {
+    "romaji": "Reiwa no Dara-san",
+    "english": "Dara-san of the Reiwa Era",
+    "native": "令和のダラさん"
+  },
+  "anilist": {
+    "id": 203880,
+    "idMal": 63082,
+    "title": {
+      "romaji": "Reiwa no Dara-san",
+      "english": "Dara-san of the Reiwa Era",
+      "native": "令和のダラさん"
+    },
+    "synonyms": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203880-lnruKftb27Nr.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203880-lnruKftb27Nr.png",
+      "color": null
+    },
+    "bannerImage": null,
+    "description": "After venturing into a restricted, treacherous mountain forest, siblings Hinata and Kaoru meet a terrifying serpent god and become besties! Despite her initially scary appearance, the self-named “god of misfortune” is awkward, lonely, and surprisingly easy to talk to. This is the tale of an unexpected friendship, and the many comedic, heartfelt adventures that ensue.<br><br>\n\n(Source: Crunchyroll)",
+    "format": "TV",
+    "status": "RELEASING",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 2
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 24
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Supernatural"
+    ],
+    "averageScore": 66,
+    "meanScore": 67,
+    "popularity": 14496,
+    "favourites": 217,
+    "source": "MANGA",
+    "countryOfOrigin": "JP",
+    "isAdult": false,
+    "nextAiringEpisode": {
+      "episode": 13,
+      "airingAt": 1790253000,
+      "timeUntilAiring": 135543
+    },
+    "studios": {
+      "nodes": [
+        {
+          "name": "Asahi Production"
+        }
+      ]
+    },
+    "externalLinks": [
+      {
+        "site": "Official Site",
+        "url": "https://darasan-anime.com/"
+      },
+      {
+        "site": "Twitter",
+        "url": "https://x.com/darasan_anime"
+      },
+      {
+        "site": "Crunchyroll",
+        "url": "https://www.crunchyroll.com/series/GT00377933/dara-san-of-the-reiwa-era"
+      }
+    ],
+    "trailer": {
+      "id": "AZKlUSu5tQ0",
+      "site": "youtube"
+    }
+  },
+  "schedule": {
+    "status": "Ongoing",
+    "season": {
+      "title": "Summer 2026",
+      "year": "2026",
+      "season": "Summer",
+      "route": "summer-2026"
+    },
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Supernatural"
+    ],
+    "studios": [
+      "Asahi Production"
+    ],
+    "mediaTypes": [
+      "TV"
+    ],
+    "lengthMin": 23,
+    "description": "After venturing into a restricted, treacherous mountain forest, siblings Hinata and Kaoru meet a terrifying serpent god and become besties! Despite her initially scary appearance, the self-named “god of misfortune” is awkward, lonely, and surprisingly easy to talk to. This is the tale of an unexpected friendship, and the many comedic, heartfelt adventures that ensue.<br><br>(Source: Crunchyroll)",
+    "streams": [
+      {
+        "platform": "apple",
+        "url": "apple.co/3QzCwVZ",
+        "name": "Apple TV"
+      },
+      {
+        "platform": "crunchyroll",
+        "url": "www.crunchyroll.com/series/GT00377933/dara-san-of-the-reiwa-era",
+        "name": "Crunchyroll"
+      }
+    ],
+    "subTime": "2026-07-02T12:31:00Z",
+    "dubTime": "2026-06-07T12:30:00Z",
+    "subDelayedUntil": null,
+    "dubDelayedUntil": null
+  },
+  "sub": {
+    "available": true,
+    "totalEpisodes": 13,
+    "latestEpisode": {
+      "number": 12,
+      "airedAt": "2026-09-17T12:30:00Z"
+    },
+    "nextRelease": {
+      "episode": 13,
+      "at": "2026-09-24T12:30:00.000Z",
+      "estimated": false
+    },
+    "weeklySlot": "Thursday 12:31 UTC"
+  },
+  "dub": {
+    "available": false,
+    "totalEpisodes": 13,
+    "latestEpisode": null,
+    "nextRelease": null,
+    "weeklySlot": "Sunday 12:30 UTC"
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Yamatagi-Madara of the Accursed Land",
+      "titles": {
+        "ja": "忌み地の屋跨斑",
+        "en": "Yamatagi-Madara of the Accursed Land",
+        "de": "Mataragi Madara aus dem verbotenen Gebiet"
+      },
+      "overview": "On a secluded mountain, a mysterious entity exists that the locals are warned to go nowhere near...",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11504126/screencap/6a3e83ce86d07.jpg",
+      "airDate": "2026-07-02T12:30:00Z",
+      "runtime": 24,
+      "rating": "4.59",
+      "absoluteEpisodeNumber": 1,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 2,
+      "title": "Visiting the School for the First Time",
+      "titles": {
+        "ja": "初めての学校訪問",
+        "en": "Visiting the School for the First Time",
+        "de": "Der erste Schulbesuch"
+      },
+      "overview": "Dara-san, curious about Kaoru and Hinata's lives, decides to stealthily slither around to see what's going on.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869824/screencap/6a4f95e866b3f.jpg",
+      "airDate": "2026-07-09T12:30:00Z",
+      "runtime": 24,
+      "rating": "6.99",
+      "absoluteEpisodeNumber": 2,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 3,
+      "title": "The Laws of Forbidden Ground",
+      "titles": {
+        "ja": "禁足地の掟",
+        "en": "The Laws of Forbidden Ground"
+      },
+      "overview": "Dara-san's wardrobe expands as she teaches Kaoru and Hinata about treading into supernatural territory.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869825/screencap/6a58431cd316b.jpg",
+      "airDate": "2026-07-16T12:30:00Z",
+      "runtime": 24,
+      "rating": "6.05",
+      "absoluteEpisodeNumber": 3,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 4,
+      "title": "The Return of Yamatagi-Madara",
+      "titles": {
+        "ja": "復活の谷跨斑",
+        "en": "The Return of Yamatagi-Madara"
+      },
+      "overview": "An unexpected new student arrives in Hinata's class.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869826/screencap/6a696b01f1c3d.jpg",
+      "airDate": "2026-07-23T12:30:00Z",
+      "runtime": 24,
+      "rating": "5.48",
+      "absoluteEpisodeNumber": 4,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 5,
+      "title": "Genealogy of Mountain Stewards",
+      "titles": {
+        "ja": "山守の系譜",
+        "en": "Genealogy of Mountain Stewards"
+      },
+      "overview": "Hinata has a birthday, and her mom, Chiyo, reminiscences about her encounters with the mountain's guardian.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869827/screencap/6a696adba02e2.jpg",
+      "airDate": "2026-07-30T12:30:00Z",
+      "runtime": 24,
+      "rating": "5.76",
+      "absoluteEpisodeNumber": 5,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 6,
+      "title": "The Phantom Water God",
+      "titles": {
+        "ja": "幻影の水神様",
+        "en": "The Phantom Water God"
+      },
+      "overview": "Hinata and Kaoru head out of town where they have an encounter with a different supernatural entity.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869828/screencap/6a73b910b1d5a.jpg",
+      "airDate": "2026-08-06T12:30:00Z",
+      "runtime": 24,
+      "rating": "7.60",
+      "absoluteEpisodeNumber": 6,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 7,
+      "title": "A Picture Show of Bygone Days",
+      "titles": {
+        "ja": "在りし日の紙芝居",
+        "en": "A Picture Show of Bygone Days"
+      },
+      "overview": "Dara-san wonders about the circumstances on the mountain after she lost her mind as a cursed spirit.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869829/screencap/6a7d2571892e8.jpg",
+      "airDate": "2026-08-13T12:30:00Z",
+      "runtime": 24,
+      "rating": "6.77",
+      "absoluteEpisodeNumber": 7,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 8,
+      "title": "A Serpent`s Struggles",
+      "titles": {
+        "ja": "奮闘のおろち",
+        "en": "A Serpent`s Struggles"
+      },
+      "overview": "Yamatagi-Madara plots his revenge on Dara-san with questionable results.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869830/screencap/6a834dccab3c5.jpg",
+      "airDate": "2026-08-20T12:30:00Z",
+      "runtime": 24,
+      "rating": "6.00",
+      "absoluteEpisodeNumber": 8,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 9,
+      "title": "Seven Wonders of the School",
+      "titles": {
+        "ja": "学校の七不思議",
+        "en": "Seven Wonders of the School"
+      },
+      "overview": "Hinata is staying late at her middle school to prep for the culture festival.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869831/screencap/6a9025e50344a.jpg",
+      "airDate": "2026-08-27T12:30:00Z",
+      "runtime": 24,
+      "rating": "5.71",
+      "absoluteEpisodeNumber": 9,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 10,
+      "title": "A Culture Festival for Two",
+      "titles": {
+        "ja": "二人だけの文化祭",
+        "en": "A Culture Festival for Two"
+      },
+      "overview": "While Hinata works her school's culture festival, Kaoru sets up a private cafe for Dara-san.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869832/screencap/6a995eae7170e.jpg",
+      "airDate": "2026-09-03T12:30:00Z",
+      "runtime": 24,
+      "rating": "6.77",
+      "absoluteEpisodeNumber": 10,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 11,
+      "title": "The Taboo Test of Courage",
+      "titles": {
+        "en": "The Taboo Test of Courage"
+      },
+      "overview": "Hinata's classmates venture up the mountain.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869833/screencap/6aa2a0cb29942.jpg",
+      "airDate": "2026-09-10T12:30:00Z",
+      "runtime": 24,
+      "rating": "5.71",
+      "absoluteEpisodeNumber": 11,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 12,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": "At the end of the winter holiday, Dara-san and the siblings arrange for a movie viewing party.",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/11869834/screencap/6aabdd3452cd5.jpg",
+      "airDate": "2026-09-17T12:30:00Z",
+      "runtime": 24,
+      "rating": "7.43",
+      "absoluteEpisodeNumber": 12,
+      "subbed": true,
+      "dubbed": false
+    },
+    {
+      "number": 13,
+      "title": null,
+      "titles": {
+        "en": null
+      },
+      "overview": null,
+      "image": null,
+      "airDate": "2026-09-24T12:30:00Z",
+      "runtime": 24,
+      "rating": null,
+      "absoluteEpisodeNumber": 13,
+      "subbed": false,
+      "dubbed": false
+    }
+  ],
+  "episodeCount": 13,
+  "updatedAt": "2026-09-23T10:33:05.631Z"
+}
